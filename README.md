@@ -1,17 +1,22 @@
-# Veterinaria Terranova
+# Veterinaria Terranova — versión actualizada
 
-1. Extraé el ZIP.
-2. Abrí `index.html` para verla.
-3. Subí `index.html`, `styles.css`, `script.js` y `README.md` a un repositorio nuevo de GitHub.
-4. Importá ese repositorio en Vercel.
+Actualizaciones realizadas:
+- Logo oficial incorporado.
+- Tres sucursales.
+- WhatsApp independiente por sede.
+- Instagram @terranova.vet y @terranova.pet.
+- Formulario con selector de sucursal.
+- Sección preparada para futura tienda online.
+- Diseño responsive conservado y mejorado.
 
-Datos incluidos:
-- Granadero Juan Mateo Gelves 1069, Pilar
-- 011 6834-7358
-- Lun–Vie 9:00–19:00
-- Sáb 9:30–15:00
-- Domingo cerrado
-- Radiología veterinaria
-- 4,8 estrellas y 133 opiniones
+Datos pendientes:
+- Dirección exacta de la sucursal San Miguel.
+- Horarios de La Lonja y San Miguel.
+- Productos, precios y fotos para la tienda.
+- Confirmación final de todos los servicios.
 
-Es una demo. Confirmá servicios, fotos, logo e Instagram antes de publicarla como web oficial.
+## Cómo actualizar GitHub y Vercel
+1. Descomprimí el ZIP.
+2. En el repositorio actual de Terranova, subí/reemplazá todos estos archivos.
+3. Confirmá los cambios con Commit changes.
+4. Vercel publicará automáticamente la nueva versión.
