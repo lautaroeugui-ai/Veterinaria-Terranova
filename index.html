@@ -3,28 +3,81 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Veterinaria Terranova | Clínica veterinaria y sucursales</title>
-  <meta name="description" content="Veterinaria Terranova. Atención para perros y gatos, radiología veterinaria y tres sucursales en Pilar, La Lonja y San Miguel.">
-  <meta name="theme-color" content="#0f6f5c">
+  <title>Veterinaria Terranova | Clínica Veterinaria, Radiología y Tienda</title>
+  <meta name="description" content="Veterinaria Terranova: atención veterinaria, radiología, diagnóstico por imágenes y tres sucursales en Km 56, La Lonja y San Miguel.">
+  <meta name="theme-color" content="#102e28">
   <meta property="og:title" content="Veterinaria Terranova">
-  <meta property="og:description" content="Salud, diagnóstico y cuidado para tu mascota en nuestras sucursales.">
+  <meta property="og:description" content="Salud, diagnóstico y cuidado para tu mascota en nuestras tres sucursales.">
   <meta property="og:image" content="terranova-logo.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&family=Playfair+Display:ital,wght@0,600;1,600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "VeterinaryCare",
+    "name": "Veterinaria Terranova",
+    "url": "https://veterinariaterranova.com.ar",
+    "logo": "https://veterinariaterranova.com.ar/terranova-logo.png",
+    "sameAs": [
+      "https://www.instagram.com/terranova.vet/",
+      "https://www.instagram.com/terranova.pet/"
+    ],
+    "department": [
+      {
+        "@type": "VeterinaryCare",
+        "name": "Veterinaria Terranova Km 56",
+        "telephone": "+54 9 11 6834-7358",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Granadero M. Gelves 1069",
+          "addressLocality": "Pilar",
+          "addressRegion": "Buenos Aires",
+          "addressCountry": "AR"
+        }
+      },
+      {
+        "@type": "VeterinaryCare",
+        "name": "Veterinaria Terranova La Lonja",
+        "telephone": "+54 9 11 6982-1001",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Saraví 2134",
+          "addressLocality": "La Lonja",
+          "addressRegion": "Buenos Aires",
+          "addressCountry": "AR"
+        }
+      },
+      {
+        "@type": "VeterinaryCare",
+        "name": "Veterinaria Terranova San Miguel",
+        "telephone": "+54 9 11 6673-9934",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Av. Dr. Ricardo Balbín 5456",
+          "postalCode": "1663",
+          "addressLocality": "San Miguel",
+          "addressRegion": "Buenos Aires",
+          "addressCountry": "AR"
+        }
+      }
+    ]
+  }
+  </script>
 </head>
 <body>
-<header>
+<header class="site-header">
   <div class="container nav">
-    <a class="brand" href="#inicio">
+    <a class="brand" href="#inicio" aria-label="Veterinaria Terranova">
       <img src="terranova-logo.png" alt="Logo de Veterinaria Terranova">
-      <span><b>Veterinaria Terranova</b><small>Tres sucursales</small></span>
+      <span><b>Veterinaria Terranova</b><small>Clínica · Radiología · Tienda</small></span>
     </a>
     <button id="menuBtn" aria-label="Abrir menú">☰</button>
     <nav id="menu">
       <a href="#servicios">Servicios</a>
       <a href="#sucursales">Sucursales</a>
+      <a href="#tienda">Tienda</a>
       <a href="#redes">Instagram</a>
       <a href="#contacto">Contacto</a>
       <a class="btn small" href="#sucursales">Elegir sucursal</a>
@@ -35,23 +88,24 @@
 <main>
 <section class="hero" id="inicio">
   <div class="container hero-grid">
-    <div>
+    <div class="hero-copy-wrap reveal">
       <span class="tag">Clínica veterinaria integral</span>
       <h1>Salud, diagnóstico y cuidado para tu mascota</h1>
       <p>Atención cercana para perros y gatos, radiología veterinaria y contacto directo con la sucursal más conveniente.</p>
       <div class="actions">
         <a class="btn" href="#sucursales">Elegir sucursal</a>
-        <a class="btn secondary" href="#servicios">Ver servicios</a>
+        <a class="btn secondary" href="#servicios">Conocer servicios</a>
       </div>
       <div class="facts">
-        <span>⭐ 4,8 en Google</span>
-        <span>🏥 3 sucursales</span>
-        <span>🩻 Radiología</span>
+        <span>3 sucursales</span>
+        <span>Radiología veterinaria</span>
+        <span>WhatsApp por sede</span>
       </div>
     </div>
 
-    <div class="visual logo-visual">
-      <img src="terranova-logo.png" alt="Clínica Veterinaria Terranova">
+    <div class="visual reveal">
+      <div class="hero-photo" role="img" aria-label="Perro y gato en una clínica veterinaria"></div>
+      <div class="hero-logo-card"><img src="terranova-logo.png" alt="Veterinaria Terranova"></div>
       <div class="float one"><b>Radiología</b><small>Diagnóstico por imágenes</small></div>
       <div class="float two"><b>Tres sucursales</b><small>Más cerca de tu mascota</small></div>
     </div>
@@ -60,92 +114,131 @@
 
 <section class="stats">
   <div class="container stat-grid">
-    <div><b>4,8/5</b><span>Valoración pública</span></div>
     <div><b>3</b><span>Sucursales</span></div>
     <div><b>WhatsApp</b><span>Contacto directo por sede</span></div>
     <div><b>Radiología</b><span>Diagnóstico por imágenes</span></div>
+    <div><b>Tienda</b><span>Catálogo en preparación</span></div>
+  </div>
+</section>
+
+<section class="section intro-block">
+  <div class="container intro-grid">
+    <span class="tag">Nuestra forma de cuidar</span>
+    <h2>Cuidamos a cada paciente con dedicación, experiencia y tecnología.</h2>
   </div>
 </section>
 
 <section class="section" id="servicios">
   <div class="container">
-    <div class="heading">
+    <div class="heading reveal">
       <span class="tag">Servicios</span>
       <h2>Atención veterinaria completa</h2>
       <p>Consultá la disponibilidad de cada servicio directamente con la sucursal.</p>
     </div>
     <div class="cards">
-      <article class="featured"><span>🩻</span><h3>Radiología veterinaria</h3><p>Diagnóstico por imágenes para acompañar la evaluación clínica.</p><a href="#sucursales">Consultar en una sede</a></article>
-      <article><span>🩺</span><h3>Consulta clínica</h3><p>Evaluación general y orientación profesional para perros y gatos.</p><a href="#sucursales">Consultar en una sede</a></article>
-      <article><span>💉</span><h3>Controles preventivos</h3><p>Seguimiento y prevención para acompañar la salud de tu mascota.</p><a href="#sucursales">Consultar en una sede</a></article>
-      <article><span>🐈</span><h3>Atención felina</h3><p>Cuidado clínico adaptado a las necesidades de los gatos.</p><a href="#sucursales">Consultar en una sede</a></article>
-      <article><span>🐕</span><h3>Atención canina</h3><p>Consultas y seguimiento para perros de todas las edades.</p><a href="#sucursales">Consultar en una sede</a></article>
-      <article><span>🛍️</span><h3>Tienda para mascotas</h3><p>La tienda online se incorporará con los productos y precios confirmados por Terranova.</p><a href="#contacto">Consultar</a></article>
+      <article class="featured reveal"><span>🩻</span><h3>Radiología veterinaria</h3><p>Diagnóstico por imágenes para acompañar la evaluación clínica.</p><a href="#sucursales">Consultar en una sede</a></article>
+      <article class="reveal"><span>🩺</span><h3>Consulta clínica</h3><p>Evaluación general y orientación profesional para perros y gatos.</p><a href="#sucursales">Consultar en una sede</a></article>
+      <article class="reveal"><span>💉</span><h3>Controles preventivos</h3><p>Seguimiento y prevención para acompañar la salud de tu mascota.</p><a href="#sucursales">Consultar en una sede</a></article>
+      <article class="reveal"><span>🐈</span><h3>Atención felina</h3><p>Cuidado clínico adaptado a las necesidades de los gatos.</p><a href="#sucursales">Consultar en una sede</a></article>
+      <article class="reveal"><span>🐕</span><h3>Atención canina</h3><p>Consultas y seguimiento para perros de todas las edades.</p><a href="#sucursales">Consultar en una sede</a></article>
+      <article class="reveal"><span>🛍️</span><h3>Tienda para mascotas</h3><p>La tienda online se incorporará con productos, fotos y precios confirmados.</p><a href="#tienda">Ver preparación</a></article>
+    </div>
+  </div>
+</section>
+
+<section class="diagnostic-band">
+  <div class="container diagnostic-grid">
+    <div class="diagnostic-copy reveal">
+      <span class="tag dark-tag">Radiología veterinaria</span>
+      <h2>Diagnóstico preciso para tomar mejores decisiones.</h2>
+      <p>Consultá disponibilidad y turnos en la sucursal correspondiente.</p>
+      <a class="btn light-button" href="#sucursales">Consultar por sede</a>
+    </div>
+    <div class="diagnostic-art reveal" aria-hidden="true">
+      <div class="xray-card">RX</div>
+      <div class="pulse"></div>
     </div>
   </div>
 </section>
 
 <section class="section soft" id="sucursales">
   <div class="container">
-    <div class="heading">
+    <div class="heading reveal">
       <span class="tag">Sucursales</span>
       <h2>Elegí dónde querés comunicarte</h2>
       <p>Cada sede tiene su propio número de WhatsApp.</p>
     </div>
 
     <div class="branch-grid">
-      <article class="branch-card featured-branch">
-        <div class="branch-top"><span>📍</span><div><small>Sucursal</small><h3>Km 56</h3></div></div>
+      <article class="branch-card featured-branch reveal">
+        <div class="branch-top"><span>01</span><div><small>Sucursal</small><h3>Km 56</h3></div></div>
         <p>Granadero M. Gelves 1069, Km 56.</p>
         <a class="branch-phone" href="tel:+541168347358">11 6834-7358</a>
         <div class="branch-actions">
           <a class="btn" target="_blank" rel="noopener" href="https://wa.me/5491168347358?text=Hola%20Terranova%2C%20quisiera%20consultar%20con%20la%20sucursal%20Km%2056.">WhatsApp</a>
-          <a class="btn secondary" target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&query=Granadero%20Juan%20Mateo%20Gelves%201069%2C%20Pilar%2C%20Buenos%20Aires">Mapa</a>
+          <a class="btn secondary" target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&query=Granadero%20M.%20Gelves%201069%2C%20Pilar%2C%20Buenos%20Aires">Cómo llegar</a>
         </div>
       </article>
 
-      <article class="branch-card">
-        <div class="branch-top"><span>📍</span><div><small>Sucursal</small><h3>La Lonja</h3></div></div>
+      <article class="branch-card reveal">
+        <div class="branch-top"><span>02</span><div><small>Sucursal</small><h3>La Lonja</h3></div></div>
         <p>Saraví 2134, La Lonja.</p>
         <a class="branch-phone" href="tel:+541169821001">11 6982-1001</a>
         <div class="branch-actions">
           <a class="btn" target="_blank" rel="noopener" href="https://wa.me/5491169821001?text=Hola%20Terranova%2C%20quisiera%20consultar%20con%20la%20sucursal%20La%20Lonja.">WhatsApp</a>
-          <a class="btn secondary" target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&query=Sarav%C3%AD%202134%2C%20La%20Lonja%2C%20Buenos%20Aires">Mapa</a>
+          <a class="btn secondary" target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&query=Sarav%C3%AD%202134%2C%20La%20Lonja%2C%20Buenos%20Aires">Cómo llegar</a>
         </div>
       </article>
 
-      <article class="branch-card">
-        <div class="branch-top"><span>📍</span><div><small>Sucursal</small><h3>San Miguel</h3></div></div>
-        <p>Dirección pendiente de confirmación.</p>
+      <article class="branch-card reveal">
+        <div class="branch-top"><span>03</span><div><small>Sucursal</small><h3>San Miguel</h3></div></div>
+        <p>Av. Dr. Ricardo Balbín 5456, CP 1663, San Miguel.</p>
         <a class="branch-phone" href="tel:+541166739934">11 6673-9934</a>
         <div class="branch-actions">
           <a class="btn" target="_blank" rel="noopener" href="https://wa.me/5491166739934?text=Hola%20Terranova%2C%20quisiera%20consultar%20con%20la%20sucursal%20San%20Miguel.">WhatsApp</a>
-          <span class="map-pending">Mapa disponible al confirmar la dirección</span>
+          <a class="btn secondary" target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&query=Av.%20Dr.%20Ricardo%20Balb%C3%ADn%205456%2C%20San%20Miguel%2C%20Buenos%20Aires">Cómo llegar</a>
         </div>
       </article>
     </div>
 
-    <div class="hours-note">
+    <div class="hours-note reveal">
       <b>Horarios publicados de la sede Km 56:</b>
       <span>Lunes a viernes de 9:00 a 19:00 · Sábado de 9:30 a 15:00 · Domingo cerrado.</span>
     </div>
   </div>
 </section>
 
+<section class="section store-section" id="tienda">
+  <div class="container store-grid">
+    <div class="store-copy reveal">
+      <span class="tag">Tienda online</span>
+      <h2>Todo lo que tu mascota necesita, en un mismo lugar.</h2>
+      <p>La tienda está preparada para incorporar el catálogo real de Terranova cuando estén confirmados los productos, precios y fotos.</p>
+      <div class="store-status">Catálogo en preparación</div>
+      <a class="btn" href="#contacto">Consultar disponibilidad</a>
+    </div>
+    <div class="product-preview reveal" aria-label="Vista previa de la futura tienda">
+      <article><div class="product-shape"></div><small>Alimentos</small><b>Producto de muestra</b><span>Precio a confirmar</span></article>
+      <article><div class="product-shape alt"></div><small>Accesorios</small><b>Producto de muestra</b><span>Precio a confirmar</span></article>
+      <article><div class="product-shape third"></div><small>Cuidado</small><b>Producto de muestra</b><span>Precio a confirmar</span></article>
+    </div>
+  </div>
+</section>
+
 <section class="section" id="redes">
   <div class="container social-grid">
-    <div>
+    <div class="reveal">
       <span class="tag">Instagram</span>
       <h2>Seguinos en redes</h2>
       <p>Noticias, información y novedades de las distintas sucursales.</p>
     </div>
-    <div class="social-cards">
+    <div class="social-cards reveal">
       <a target="_blank" rel="noopener" href="https://www.instagram.com/terranova.vet/">
-        <span>📷</span>
+        <span>↗</span>
         <div><b>@terranova.vet</b><small>Cuenta para las dos sucursales</small></div>
       </a>
       <a target="_blank" rel="noopener" href="https://www.instagram.com/terranova.pet/">
-        <span>📷</span>
+        <span>↗</span>
         <div><b>@terranova.pet</b><small>Sucursal San Miguel</small></div>
       </a>
     </div>
@@ -154,12 +247,12 @@
 
 <section class="section contact" id="contacto">
   <div class="container contact-grid">
-    <div>
+    <div class="reveal">
       <span class="tag light">Contacto</span>
       <h2>Elegí la sucursal y escribinos</h2>
       <p>Completá el formulario, seleccioná una sede y se abrirá el WhatsApp correspondiente.</p>
     </div>
-    <form id="form">
+    <form id="form" class="reveal">
       <label>Nombre<input id="name" required placeholder="Tu nombre"></label>
       <label>Teléfono<input id="phone" required placeholder="Ej: 11 1234-5678"></label>
       <label>Sucursal
@@ -195,7 +288,7 @@
       <a target="_blank" rel="noopener" href="https://www.instagram.com/terranova.pet/">@terranova.pet</a>
     </div>
   </div>
-  <div class="container bottom">© <span id="year"></span> Veterinaria Terranova · Sitio en desarrollo</div>
+  <div class="container bottom">© <span id="year"></span> Veterinaria Terranova</div>
 </footer>
 
 <a class="whatsapp" href="#sucursales" aria-label="Elegir sucursal de WhatsApp">💬</a>

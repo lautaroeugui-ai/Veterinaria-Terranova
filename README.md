@@ -1,22 +1,20 @@
-# Veterinaria Terranova — versión actualizada
+# Veterinaria Terranova — versión lista para revisión
 
-Actualizaciones realizadas:
-- Logo oficial incorporado.
-- Tres sucursales.
-- WhatsApp independiente por sede.
-- Instagram @terranova.vet y @terranova.pet.
-- Formulario con selector de sucursal.
-- Sección preparada para futura tienda online.
-- Diseño responsive conservado y mejorado.
+## Actualizaciones realizadas
+- Dirección definitiva de San Miguel: Av. Dr. Ricardo Balbín 5456, CP 1663.
+- Enlace de Google Maps para San Miguel.
+- Diseño visual más premium y editorial.
+- Hero renovado.
+- Sección destacada de radiología.
+- Sección de tienda online preparada con productos de muestra claramente identificados.
+- Animaciones suaves con soporte para `prefers-reduced-motion`.
+- SEO local y datos estructurados `VeterinaryCare`.
+- Formulario de contacto por WhatsApp según la sucursal elegida.
 
-Datos pendientes:
-- Dirección exacta de la sucursal San Miguel.
-- Horarios de La Lonja y San Miguel.
-- Productos, precios y fotos para la tienda.
-- Confirmación final de todos los servicios.
+## Pendientes reales
+- Productos, precios y fotos definitivas para la tienda.
+- Horarios confirmados de La Lonja y San Miguel.
+- Fotos reales de las sucursales, equipo y servicios.
 
-## Cómo actualizar GitHub y Vercel
-1. Descomprimí el ZIP.
-2. En el repositorio actual de Terranova, subí/reemplazá todos estos archivos.
-3. Confirmá los cambios con Commit changes.
-4. Vercel publicará automáticamente la nueva versión.
+## Publicación
+Subí estos archivos al repositorio conectado a Vercel. Al hacer push a `main`, Vercel debe generar un nuevo deployment automáticamente.

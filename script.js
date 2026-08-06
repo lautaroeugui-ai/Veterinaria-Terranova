@@ -1,6 +1,16 @@
-const b=document.getElementById('menuBtn'),m=document.getElementById('menu');
-b?.addEventListener('click',()=>{m.classList.toggle('open');b.textContent=m.classList.contains('open')?'✕':'☰'});
-m?.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{m.classList.remove('open');b.textContent='☰'}));
+const b=document.getElementById('menuBtn');
+const m=document.getElementById('menu');
+
+b?.addEventListener('click',()=>{
+  m.classList.toggle('open');
+  b.textContent=m.classList.contains('open')?'✕':'☰';
+});
+
+m?.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{
+  m.classList.remove('open');
+  b.textContent='☰';
+}));
+
 document.getElementById('year').textContent=new Date().getFullYear();
 
 document.getElementById('form')?.addEventListener('submit',e=>{
@@ -29,3 +39,18 @@ document.getElementById('form')?.addEventListener('submit',e=>{
 
   window.open(`https://wa.me/${number}?text=${encodeURIComponent(text)}`,'_blank','noopener,noreferrer');
 });
+
+const revealItems=document.querySelectorAll('.reveal');
+if('IntersectionObserver' in window){
+  const observer=new IntersectionObserver(entries=>{
+    entries.forEach(entry=>{
+      if(entry.isIntersecting){
+        entry.target.classList.add('visible');
+        observer.unobserve(entry.target);
+      }
+    });
+  },{threshold:.12});
+  revealItems.forEach(item=>observer.observe(item));
+}else{
+  revealItems.forEach(item=>item.classList.add('visible'));
+}
