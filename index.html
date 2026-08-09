@@ -9,6 +9,7 @@
   <meta property="og:title" content="Veterinaria Terranova">
   <meta property="og:description" content="Salud, diagnóstico y cuidado para tu mascota en nuestras tres sucursales.">
   <meta property="og:image" content="terranova-logo.png">
+  <link rel="icon" href="data:,">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&family=Playfair+Display:ital,wght@0,600;1,600&display=swap" rel="stylesheet">
@@ -73,7 +74,7 @@
       <img src="terranova-logo.png" alt="Logo de Veterinaria Terranova">
       <span><b>Veterinaria Terranova</b><small>Clínica · Radiología · Tienda</small></span>
     </a>
-    <button id="menuBtn" aria-label="Abrir menú">☰</button>
+    <button id="menuBtn" aria-label="Abrir menú" aria-controls="menu" aria-expanded="false">☰</button>
     <nav id="menu">
       <a href="#servicios">Servicios</a>
       <a href="#sucursales">Sucursales</a>
@@ -209,19 +210,21 @@
 </section>
 
 <section class="section store-section" id="tienda">
-  <div class="container store-grid">
-    <div class="store-copy reveal">
+  <div class="container">
+    <div class="store-heading reveal">
       <span class="tag">Tienda online</span>
       <h2>Todo lo que tu mascota necesita, en un mismo lugar.</h2>
-      <p>La tienda está preparada para incorporar el catálogo real de Terranova cuando estén confirmados los productos, precios y fotos.</p>
-      <div class="store-status">Catálogo en preparación</div>
-      <a class="btn" href="#contacto">Consultar disponibilidad</a>
+      <p>Explorá nuestro catálogo y consultá disponibilidad directamente con la sucursal que prefieras.</p>
     </div>
-    <div class="product-preview reveal" aria-label="Vista previa de la futura tienda">
-      <article><div class="product-shape"></div><small>Alimentos</small><b>Producto de muestra</b><span>Precio a confirmar</span></article>
-      <article><div class="product-shape alt"></div><small>Accesorios</small><b>Producto de muestra</b><span>Precio a confirmar</span></article>
-      <article><div class="product-shape third"></div><small>Cuidado</small><b>Producto de muestra</b><span>Precio a confirmar</span></article>
+    <div class="catalog-toolbar reveal" aria-label="Filtros del catálogo">
+      <label class="catalog-search" for="productSearch"><span>Buscar producto</span><input id="productSearch" type="search" placeholder="Ej: cachorro, urinary o cordero" autocomplete="off"></label>
+      <label for="speciesFilter"><span>Especie</span><select id="speciesFilter"><option value="">Todas</option><option value="perro">Perros</option><option value="gato">Gatos</option></select></label>
+      <label for="brandFilter"><span>Marca</span><select id="brandFilter"><option value="">Todas</option></select></label>
     </div>
+    <div class="catalog-meta reveal"><p id="catalogCount" aria-live="polite">Cargando productos…</p><button id="clearFilters" class="clear-filters" type="button" hidden>Limpiar filtros</button></div>
+    <div id="catalogGrid" class="catalog-grid" aria-live="polite" aria-busy="true"></div>
+    <div id="catalogEmpty" class="catalog-empty" hidden><b>No encontramos productos con esos filtros.</b><span>Probá con otra búsqueda o limpiá la selección.</span></div>
+    <div id="catalogError" class="catalog-empty catalog-error" hidden><b>No pudimos cargar el catálogo.</b><span>Podés consultarnos por WhatsApp mientras lo resolvemos.</span></div>
   </div>
 </section>
 
