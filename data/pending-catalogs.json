@@ -1,0 +1,13 @@
+{
+  "catalogs": [
+    {
+      "brand": "CALI",
+      "status": "pending-terranova-price",
+      "publicCatalog": false,
+      "source": "source-data/terranova_source_data_nuevo.zip::CALI LISTA DE PRECIOS N°72.pdf",
+      "estimatedSupplierRecords": 299,
+      "supplierPricePolicy": "reference-only; prices exclude VAT",
+      "reason": "Falta precio Terranova/Rocío."
+    }
+  ]
+}

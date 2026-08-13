@@ -1,0 +1,41 @@
+{
+  "conflicts": [
+    {
+      "id": "trixie-bozal-precio-atipico",
+      "brand": "TRIXIE",
+      "sku": null,
+      "sourceName": "BOZAL TRIXIE",
+      "value": 1042.0,
+      "status": "pending-review",
+      "reason": "Precio atípico; la captura no muestra código. Se conserva el valor original."
+    },
+    {
+      "id": "cali-codigos-reutilizados",
+      "brand": "CALI",
+      "codes": [
+        "202",
+        "388"
+      ],
+      "status": "pending-review",
+      "reason": "La lista reutiliza códigos para productos distintos; no usar código como clave única."
+    },
+    {
+      "id": "beepaw-imagenes-sin-sku",
+      "brand": "Beepaw",
+      "status": "pending-review",
+      "reason": "Las imágenes se identifican por ruta de Drive, sin SKU verificado."
+    },
+    {
+      "id": "can-cat-catit-creamy-no-corresponde",
+      "brand": "CAN CAT",
+      "status": "resolved-excluded",
+      "reason": "La referencia Catit Creamy no corresponde a los nueve productos CAN CAT y no se asocia."
+    },
+    {
+      "id": "cali-precios-sin-iva",
+      "brand": "CALI",
+      "status": "pending-retail-price",
+      "reason": "Precios de proveedor sin IVA; no publicar como precio Terranova."
+    }
+  ]
+}

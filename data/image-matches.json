@@ -1,0 +1,484 @@
+{
+  "matches": [
+    {
+      "productId": "purina-excellent-gato-adult",
+      "mainImage": "img/purina/excellent/Excellent_Gatos_Adult.png",
+      "confidence": "confirmed",
+      "source": "existing-catalog"
+    },
+    {
+      "productId": "purina-excellent-gato-kitten",
+      "mainImage": "img/purina/excellent/Excellent_Gatos_Kitten.png",
+      "confidence": "confirmed",
+      "source": "existing-catalog"
+    },
+    {
+      "productId": "purina-excellent-gato-skin-care",
+      "mainImage": "img/purina/excellent/Excellent_Gatos_SkinCare.png",
+      "confidence": "confirmed",
+      "source": "existing-catalog"
+    },
+    {
+      "productId": "purina-excellent-gato-sterilized",
+      "mainImage": "img/purina/excellent/Excellent_Gatos_Sterilized.png",
+      "confidence": "confirmed",
+      "source": "existing-catalog"
+    },
+    {
+      "productId": "purina-excellent-gato-urinary",
+      "mainImage": "img/purina/excellent/Excellent_Gatos_Urinary.png",
+      "confidence": "confirmed",
+      "source": "existing-catalog"
+    },
+    {
+      "productId": "purina-excellent-perro-adult-mantenimiento",
+      "mainImage": "img/purina/excellent/Excellent_Perros_AdultMantenimiento.png",
+      "confidence": "confirmed",
+      "source": "existing-catalog"
+    },
+    {
+      "productId": "purina-excellent-perro-adult-medianos-grandes",
+      "mainImage": "img/purina/excellent/Excellent_Perros_AdultMedyGran.png",
+      "confidence": "confirmed",
+      "source": "existing-catalog"
+    },
+    {
+      "productId": "purina-excellent-perro-adult-pequenos",
+      "mainImage": "img/purina/excellent/Excellent_Perros_AdultPequenos.png",
+      "confidence": "confirmed",
+      "source": "existing-catalog"
+    },
+    {
+      "productId": "purina-excellent-perro-puppy-medianos-grandes",
+      "mainImage": "img/purina/excellent/Excellent_Perros_PuppyMedyGran.png",
+      "confidence": "confirmed",
+      "source": "existing-catalog"
+    },
+    {
+      "productId": "purina-excellent-perro-puppy-pequenos",
+      "mainImage": "img/purina/excellent/Excellent_Perros_PuppyPequenos.png",
+      "confidence": "confirmed",
+      "source": "existing-catalog"
+    },
+    {
+      "productId": "purina-excellent-perro-reduced-calorie",
+      "mainImage": "img/purina/excellent/Excellent_Perros_ReducedCalorie.png",
+      "confidence": "confirmed",
+      "source": "existing-catalog"
+    },
+    {
+      "productId": "purina-excellent-perro-senior",
+      "mainImage": "img/purina/excellent/Excellent_Perros_Senior.png",
+      "confidence": "confirmed",
+      "source": "existing-catalog"
+    },
+    {
+      "productId": "purina-excellent-perro-skin-care-cordero",
+      "mainImage": "img/purina/excellent/Excellent_Perros_SkinCare_Cordero.png",
+      "confidence": "confirmed",
+      "source": "existing-catalog"
+    },
+    {
+      "productId": "mon-ami-alimento-natural-cordero",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "mon-ami-mon-ami-meat-bites-75g",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "mon-ami-meat-stick",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "mon-ami-alimento-natural-pollo",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "mon-ami-snack-dental",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "mon-ami-mon-ami-snack-gato-bites-50g",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "mon-ami-mon-ami-snack-grilled-75g",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "mon-ami-superfood-cachorros",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "mon-ami-superfood-gato",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "mon-ami-superfood-razas-medianas-y-grandes",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "mon-ami-superfood-razas-pequenas-y-medianas",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "mkr-pets-cama-piel-de-mono-artic-mkr-60-cm",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::CATALOGO MAYORISTA MKR PETS ACTUALIZADO JULIO 2026 A.pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "mkr-pets-moises-soft-teddy",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::CATALOGO MAYORISTA MKR PETS ACTUALIZADO JULIO 2026 A.pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "mkr-pets-colchon-ortopedico-6090",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::CATALOGO MAYORISTA MKR PETS ACTUALIZADO JULIO 2026 A.pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "mkr-pets-colchoneta-antidesgarro-n-o-4-10060",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::CATALOGO MAYORISTA MKR PETS ACTUALIZADO JULIO 2026 A.pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "mkr-pets-mantitas",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::CATALOGO MAYORISTA MKR PETS ACTUALIZADO JULIO 2026 A.pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "mkr-pets-cama-piel-de-mono-mkr-x80-cm",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::CATALOGO MAYORISTA MKR PETS ACTUALIZADO JULIO 2026 A.pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "rosovi-pets-moises-corderito",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::_Catálogo Rosoví AGO.26.pdf (1).pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "rosovi-pets-puff-peludo",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::_Catálogo Rosoví AGO.26.pdf (1).pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "rosovi-pets-maxi-puff-tussor-y-vellon",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::_Catálogo Rosoví AGO.26.pdf (1).pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "rosovi-pets-mini-puff-tussor-y-vellon",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::_Catálogo Rosoví AGO.26.pdf (1).pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "rosovi-pets-colchoneta-doble-cordura",
+      "mainImage": null,
+      "confidence": "source-visual-confirmed",
+      "source": {
+        "file": "source-data/terranova_source_data_nuevo.zip::_Catálogo Rosoví AGO.26.pdf (1).pdf",
+        "sourceType": "supplier-catalog"
+      },
+      "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    }
+  ],
+  "pending": [
+    {
+      "productId": "beepaw-arbol-para-gatos-amarillo",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-arbol-para-gatos-terciopelo-gris-claro",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-bebedero-interactivo-beepaw",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-bebedero-interactivo-perros-beepaw",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-bolso-de-diseno",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-bolso-tranportador-rallado-small",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-bolso-transportadora-gris-rosa",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-bolso-traportador-rallado-medium",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-botella-bebedero7comedero-portatil-350ml",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-botella-dispensadora-con-orejas",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-cama-cuadrada",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-cama-dona-terciopelo",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-cepillo-con-vapor",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-cepillo-con-vapor-mango-orca",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-cepillo-con-vapor-y-mango-panda",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-comedero-interactivo-b-y-n",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-cortador-de-unas-shap-e",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-cortador-de-unas-shap-e-chico",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-juguete-lechuza-inteligente",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-juguete-pato-inteligente",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-juguete-pato-peluche-25x22",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-juguete-peluche-pato-34x38",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-juguete-tucan-inteligente",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-mochila-transportadora-bigotes",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-panos-56x60-50uni",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-pelota-inteligente-ball-e",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-pelota-inteligente-jump-e",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "beepaw-pelota-inteligente-speed-e",
+      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
+    },
+    {
+      "productId": "flexi-correa-flexi-classic",
+      "reason": "No hay archivo de imagen correspondiente."
+    },
+    {
+      "productId": "can-cat-soga",
+      "reason": "No hay archivo de imagen correspondiente."
+    },
+    {
+      "productId": "can-cat-pescado-ice-mordillo-can-cat",
+      "reason": "No hay archivo de imagen correspondiente."
+    },
+    {
+      "productId": "can-cat-bolsa-recolectora",
+      "reason": "No hay archivo de imagen correspondiente."
+    },
+    {
+      "productId": "can-cat-helado-ice-mordillo-can-cat",
+      "reason": "No hay archivo de imagen correspondiente."
+    },
+    {
+      "productId": "trixie-monstruos-latex-trixie",
+      "reason": "No hay archivo de imagen correspondiente."
+    },
+    {
+      "productId": "trixie-arnes-confort-soft-s-trixie",
+      "reason": "No hay archivo de imagen correspondiente."
+    },
+    {
+      "productId": "trixie-bozal-trixie",
+      "reason": "No hay archivo de imagen correspondiente."
+    },
+    {
+      "productId": "trixie-comedero-come-despacio-trixie",
+      "reason": "No hay archivo de imagen correspondiente."
+    },
+    {
+      "productId": "trixie-collar-premium",
+      "reason": "No hay archivo de imagen correspondiente."
+    },
+    {
+      "productId": "trixie-correa-premium",
+      "reason": "No hay archivo de imagen correspondiente."
+    },
+    {
+      "productId": "trixie-cepillo-recoge-pelos-trixie",
+      "reason": "No hay archivo de imagen correspondiente."
+    },
+    {
+      "productId": "trixie-comedero-dibujo",
+      "reason": "No hay archivo de imagen correspondiente."
+    },
+    {
+      "productId": "trixie-collar-nylon-gatos-trixie",
+      "reason": "No hay archivo de imagen correspondiente."
+    },
+    {
+      "productId": "trixie-collar-gato-trixie",
+      "reason": "No hay archivo de imagen correspondiente."
+    },
+    {
+      "productId": "trixie-correa-larga-trixie-5m",
+      "reason": "No hay archivo de imagen correspondiente."
+    },
+    {
+      "productId": "trixie-comedero-silicona-trixie-medio",
+      "reason": "No hay archivo de imagen correspondiente."
+    }
+  ]
+}
