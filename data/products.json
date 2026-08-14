@@ -55,7 +55,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/fawna/cachorro-pequeno.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -137,7 +137,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/fawna/cachorro-mediano-grande.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -237,7 +237,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/fawna/adulto-pequeno.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -317,7 +317,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/fawna/adulto-mediano-grande.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -397,7 +397,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/fawna/adulto-light.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -477,7 +477,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/fawna/adulto-senior.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -557,7 +557,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/fawna/gatito.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -637,7 +637,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/fawna/gato-adulto.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -717,7 +717,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/fawna/gato-esterilizado.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -797,7 +797,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/fawna/gato-urinario.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -877,7 +877,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/equilibrium-gatitos-optimo-crecimiento.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -957,7 +957,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/equilibrium-adultos-cuidado-completo.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -1037,7 +1037,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/equilibrium-adultos-urinario.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -1117,7 +1117,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/equilibrium-adultos-esterilizado.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -1197,7 +1197,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/equilibrium-cachorros-razas-pequenas.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -1277,7 +1277,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/equilibrium-adultos-razas-pequenas.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -1359,7 +1359,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/equilibrium-cachorros-medianos-grandes.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -1463,7 +1463,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/equilibrium-adultos-medianos-grandes.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -1583,7 +1583,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/equilibrium-control-peso.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -1663,7 +1663,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/premium-gato-cordero.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -1743,7 +1743,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/premium-gatitos.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -1823,7 +1823,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/premium-gato-adulto-urinario.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -1901,7 +1901,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/premium-cachorros-pollo-carne.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -1961,7 +1961,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/premium-adultos-pollo-carne.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -2041,7 +2041,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/premium-adultos-cordero.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -2123,7 +2123,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/proteinas-noveles-lamb-meal-puppy-all-breeds.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -2225,7 +2225,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/proteinas-noveles-lamb-meal-adult-small-breeds.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -2327,7 +2327,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/proteinas-noveles-lamb-meal-adult-medium-large-breeds.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -2427,7 +2427,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/proteinas-noveles-swine-meal-adult-all-breeds.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -2507,7 +2507,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/proteinas-noveles-lamb-meal-senior-all-breeds.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -2587,7 +2587,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/proteinas-noveles-lamb-meal-light-all-breeds.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -2667,7 +2667,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/proteinas-noveles-kitten.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -2747,7 +2747,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/proteinas-noveles-adult-cat.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
@@ -2829,7 +2829,7 @@
       "description": null,
       "features": [],
       "materials": [],
-      "mainImage": null,
+      "mainImage": "img/old-prince/proteinas-noveles-sterilized-cat.webp",
       "images": [],
       "reviewStatus": "confirmed",
       "sources": [
