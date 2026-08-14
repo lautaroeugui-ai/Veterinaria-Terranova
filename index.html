@@ -212,19 +212,28 @@
 <section class="section store-section" id="tienda">
   <div class="container">
     <div class="store-heading reveal">
-      <span class="tag">Tienda online</span>
-      <h2>Todo lo que tu mascota necesita, en un mismo lugar.</h2>
-      <p>Explorá nuestro catálogo y consultá disponibilidad directamente con la sucursal que prefieras.</p>
+      <div>
+        <span class="tag">Tienda Terranova</span>
+        <h2>Productos seleccionados para su bienestar.</h2>
+        <p>Alimentos, descanso y accesorios con consulta directa a nuestras sucursales.</p>
+      </div>
+      <div class="store-assurance" aria-label="Información del catálogo">
+        <span>Precios Terranova</span>
+        <span>Consulta personalizada</span>
+      </div>
     </div>
-    <div class="catalog-toolbar reveal" aria-label="Filtros del catálogo">
-      <label class="catalog-search" for="productSearch"><span>Buscar producto</span><input id="productSearch" type="search" placeholder="Ej: cachorro, urinary o cordero" autocomplete="off"></label>
-      <label for="speciesFilter"><span>Especie</span><select id="speciesFilter"><option value="">Todas</option><option value="perro">Perros</option><option value="gato">Gatos</option></select></label>
-      <label for="brandFilter"><span>Marca</span><select id="brandFilter"><option value="">Todas</option></select></label>
+    <div class="catalog-panel reveal">
+      <div class="catalog-toolbar" aria-label="Filtros del catálogo">
+        <label class="catalog-search" for="productSearch"><span>Buscar en el catálogo</span><input id="productSearch" type="search" placeholder="Nombre, marca, línea o necesidad" autocomplete="off"></label>
+        <label for="categoryFilter"><span>Categoría</span><select id="categoryFilter" disabled><option value="">Todas las categorías</option></select></label>
+        <label for="brandFilter"><span>Marca</span><select id="brandFilter" disabled><option value="">Todas las marcas</option></select></label>
+        <label for="speciesFilter"><span>Especie</span><select id="speciesFilter" disabled><option value="">Todas las especies</option></select></label>
+      </div>
+      <div class="catalog-meta"><p id="catalogCount" aria-live="polite">Cargando catálogo…</p><button id="clearFilters" class="clear-filters" type="button" hidden>Limpiar filtros</button></div>
     </div>
-    <div class="catalog-meta reveal"><p id="catalogCount" aria-live="polite">Cargando productos…</p><button id="clearFilters" class="clear-filters" type="button" hidden>Limpiar filtros</button></div>
     <div id="catalogGrid" class="catalog-grid" aria-live="polite" aria-busy="true"></div>
-    <div id="catalogEmpty" class="catalog-empty" hidden><b>No encontramos productos con esos filtros.</b><span>Probá con otra búsqueda o limpiá la selección.</span></div>
-    <div id="catalogError" class="catalog-empty catalog-error" hidden><b>No pudimos cargar el catálogo.</b><span>Podés consultarnos por WhatsApp mientras lo resolvemos.</span></div>
+    <div id="catalogEmpty" class="catalog-empty" hidden><b>No encontramos coincidencias.</b><span>Probá otro término o limpiá los filtros para ver el catálogo completo.</span><button class="btn secondary" type="button" data-clear-catalog>Ver todos los productos</button></div>
+    <div id="catalogError" class="catalog-empty catalog-error" hidden><b>El catálogo no está disponible en este momento.</b><span>Podés reintentar o consultarnos directamente.</span><button id="retryCatalog" class="btn secondary" type="button">Reintentar</button></div>
   </div>
 </section>
 
