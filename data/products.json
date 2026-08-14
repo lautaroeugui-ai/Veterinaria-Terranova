@@ -5610,7 +5610,7 @@
         "MON AMI CORDERO 3KG": 17230.4
       },
       "image": null,
-      "mainImage": null,
+      "mainImage": "img/mon-ami/alimento-natural-cordero.webp",
       "images": [],
       "variants": [
         {
@@ -5846,7 +5846,7 @@
         "MON AMI POLLO 3KG": 17434.8
       },
       "image": null,
-      "mainImage": null,
+      "mainImage": "img/mon-ami/alimento-natural-pollo.webp",
       "images": [],
       "variants": [
         {
@@ -6146,7 +6146,7 @@
         "MON AMI SUPERFOOD CACHORROS 8KG": 93648.15
       },
       "image": null,
-      "mainImage": null,
+      "mainImage": "img/mon-ami/superfood-cachorros.webp",
       "images": [],
       "variants": [
         {
@@ -6232,7 +6232,7 @@
         "MON AMI SUPERFOOD GATO 6KG": 95953.0
       },
       "image": null,
-      "mainImage": null,
+      "mainImage": "img/mon-ami/superfood-gato.webp",
       "images": [],
       "variants": [
         {
@@ -6318,7 +6318,7 @@
         "MON AMI SUPERFOOD RAZAS MYG 5KG": 72029.25
       },
       "image": null,
-      "mainImage": null,
+      "mainImage": "img/mon-ami/superfood-razas-medianas-grandes.webp",
       "images": [],
       "variants": [
         {
@@ -6404,7 +6404,7 @@
         "MON AMI SUPERFOOD RAZAS PYM 6KG": 80850.15
       },
       "image": null,
-      "mainImage": null,
+      "mainImage": "img/mon-ami/superfood-razas-pequenas-medianas.webp",
       "images": [],
       "variants": [
         {
@@ -6488,7 +6488,7 @@
         "Cama Piel de Mono Artic MKR 60 cm": 49498.5
       },
       "image": null,
-      "mainImage": null,
+      "mainImage": "img/mkr-pets/cama-piel-de-mono-artic-60.webp",
       "images": [],
       "variants": [
         {
@@ -6559,7 +6559,7 @@
         "Moisés Soft Teddy 50×70": 98998.5
       },
       "image": null,
-      "mainImage": null,
+      "mainImage": "img/mkr-pets/moises-soft-teddy.webp",
       "images": [],
       "variants": [
         {
@@ -6653,7 +6653,7 @@
         "Colchón Ortopédico 60×90": 67500.0
       },
       "image": null,
-      "mainImage": null,
+      "mainImage": "img/mkr-pets/colchon-ortopedico-60x90.webp",
       "images": [],
       "variants": [
         {
@@ -6791,7 +6791,7 @@
         "Mantitas": 20798.4
       },
       "image": null,
-      "mainImage": null,
+      "mainImage": "img/mkr-pets/mantitas.webp",
       "images": [],
       "variants": [
         {
@@ -6860,7 +6860,7 @@
         "Cama Piel de Mono MKR x80 cm": 55498.5
       },
       "image": null,
-      "mainImage": null,
+      "mainImage": "img/mkr-pets/cama-piel-de-mono-artic-80.webp",
       "images": [],
       "variants": [
         {
@@ -6929,7 +6929,7 @@
         "Moisés Corderito": 33300.0
       },
       "image": null,
-      "mainImage": null,
+      "mainImage": "img/rosovi-pets/moises-corderito.webp",
       "images": [],
       "variants": [
         {
@@ -7000,7 +7000,7 @@
         "Puff Peludo 70 cm": 51298.2
       },
       "image": null,
-      "mainImage": null,
+      "mainImage": "img/rosovi-pets/puff-peludo.webp",
       "images": [],
       "variants": [
         {
@@ -7158,7 +7158,7 @@
         "Mini Puff Tussor y Vellón": 32400.0
       },
       "image": null,
-      "mainImage": null,
+      "mainImage": "img/rosovi-pets/mini-puff-tussor-vellon.webp",
       "images": [],
       "variants": [
         {
@@ -7227,7 +7227,7 @@
         "Colchoneta Doble Cordura": 30528.0
       },
       "image": null,
-      "mainImage": null,
+      "mainImage": "img/rosovi-pets/colchoneta-doble-cordura.webp",
       "images": [],
       "variants": [
         {
