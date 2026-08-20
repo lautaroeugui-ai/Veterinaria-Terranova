@@ -297,6 +297,105 @@
         "sourceType": "supplier-catalog"
       },
       "note": "Producto inequívoco en catálogo; extracción de archivo web pendiente."
+    },
+    {
+      "productId": "can-cat-pescado-ice-mordillo-can-cat",
+      "mainImage": "img/can-cat/pescado-ice-mordillo.webp",
+      "confidence": "confirmed-external",
+      "source": {
+        "sourceType": "retailer-product-page",
+        "publisher": "PlusPet",
+        "url": "https://cordoba.pluspet.com.ar/products/accesorios-juguetes-cancat-pescado-mordillo-ice"
+      },
+      "note": "Marca y modelo Pescado Mordillo ICE confirmados; color no publicado como variante de Terranova."
+    },
+    {
+      "productId": "can-cat-helado-ice-mordillo-can-cat",
+      "mainImage": "img/can-cat/helado-ice-mordillo.webp",
+      "confidence": "confirmed-external",
+      "source": {
+        "sourceType": "retailer-product-page",
+        "publisher": "Musa Pets",
+        "url": "https://www.musapets.com.ar/productos/helado-mordillo-congelable-ice/"
+      },
+      "note": "Marca y modelo Helado Mordillo Congelable ICE confirmados."
+    },
+    {
+      "productId": "trixie-monstruos-latex-trixie",
+      "mainImage": "img/trixie/monstruos-latex.webp",
+      "confidence": "confirmed-external",
+      "source": {
+        "sourceType": "official-distributor-product-page",
+        "publisher": "Bestia Peluda Pets",
+        "url": "https://bppets.com/producto/monstruos/"
+      },
+      "note": "Producto Trixie Monstruos de Látex, 10–12 cm y modelos surtidos confirmado."
+    },
+    {
+      "productId": "trixie-arnes-confort-soft-s-trixie",
+      "mainImage": "img/trixie/arnes-confort-soft-s.webp",
+      "confidence": "confirmed-external",
+      "source": {
+        "sourceType": "manufacturer-product-page",
+        "publisher": "TRIXIE",
+        "url": "https://www.trixie.de/es/mundo-de-productos/perro/correas-collares-arneses/arneses-para-perros/arnes-confort-comfort-soft-1001435551-1001437920?itemNo=16271"
+      },
+      "note": "Imagen oficial negra, talla S; color usado como referencia visual y no como variante de venta."
+    },
+    {
+      "productId": "trixie-comedero-come-despacio-trixie",
+      "mainImage": "img/trixie/comedero-come-despacio.webp",
+      "confidence": "confirmed-external",
+      "source": {
+        "sourceType": "retailer-product-page",
+        "publisher": "Mendoza Pets",
+        "url": "https://www.mendozapets.com.ar/productos/comedero-come-despacio-09-l/"
+      },
+      "note": "Trixie Comedero Come Despacio 0,9 L confirmado."
+    },
+    {
+      "productId": "trixie-collar-premium",
+      "mainImage": "img/trixie/collar-premium.webp",
+      "confidence": "confirmed-external",
+      "source": {
+        "sourceType": "manufacturer-product-page",
+        "publisher": "TRIXIE",
+        "url": "https://www.trixie.de/es/mundo-de-productos/perro/correas-collares-arneses/collares-para-perros/collar-premium-1001435549-1001437682?itemNo=202101"
+      },
+      "note": "Línea y talles de Terranova confirmados; imagen oficial negra de referencia."
+    },
+    {
+      "productId": "trixie-correa-premium",
+      "mainImage": "img/trixie/correa-premium.webp",
+      "confidence": "confirmed-external",
+      "source": {
+        "sourceType": "manufacturer-product-page",
+        "publisher": "TRIXIE",
+        "url": "https://www.trixie.de/es/mundo-de-productos/perro/correas-collares-arneses/correas-para-perros/correa-premium-1001435547-1001437246?itemNo=200201"
+      },
+      "note": "Línea y talles de Terranova confirmados; imagen oficial negra de referencia."
+    },
+    {
+      "productId": "trixie-cepillo-recoge-pelos-trixie",
+      "mainImage": "img/trixie/cepillo-recoge-pelos.webp",
+      "confidence": "confirmed-external",
+      "source": {
+        "sourceType": "retailer-product-page",
+        "publisher": "Animal Park",
+        "url": "https://animalpark.es/shop/23235-trixie-cepillo-recoge-pelos-con-base-2763"
+      },
+      "note": "Cepillo recoge pelos Trixie con base, 33 cm, confirmado."
+    },
+    {
+      "productId": "trixie-correa-larga-trixie-5m",
+      "mainImage": "img/trixie/correa-larga-5m.webp",
+      "confidence": "confirmed-external",
+      "source": {
+        "sourceType": "official-distributor-product-page",
+        "publisher": "Bestia Peluda Pets",
+        "url": "https://bppets.com/producto/correa-larga-con-manija-acolchada/"
+      },
+      "note": "Correa larga Trixie de 5 metros con manija acolchada confirmada."
     }
   ],
   "pending": [
@@ -421,43 +520,11 @@
       "reason": "No hay archivo de imagen correspondiente."
     },
     {
-      "productId": "can-cat-pescado-ice-mordillo-can-cat",
-      "reason": "No hay archivo de imagen correspondiente."
-    },
-    {
       "productId": "can-cat-bolsa-recolectora",
       "reason": "No hay archivo de imagen correspondiente."
     },
     {
-      "productId": "can-cat-helado-ice-mordillo-can-cat",
-      "reason": "No hay archivo de imagen correspondiente."
-    },
-    {
-      "productId": "trixie-monstruos-latex-trixie",
-      "reason": "No hay archivo de imagen correspondiente."
-    },
-    {
-      "productId": "trixie-arnes-confort-soft-s-trixie",
-      "reason": "No hay archivo de imagen correspondiente."
-    },
-    {
       "productId": "trixie-bozal-trixie",
-      "reason": "No hay archivo de imagen correspondiente."
-    },
-    {
-      "productId": "trixie-comedero-come-despacio-trixie",
-      "reason": "No hay archivo de imagen correspondiente."
-    },
-    {
-      "productId": "trixie-collar-premium",
-      "reason": "No hay archivo de imagen correspondiente."
-    },
-    {
-      "productId": "trixie-correa-premium",
-      "reason": "No hay archivo de imagen correspondiente."
-    },
-    {
-      "productId": "trixie-cepillo-recoge-pelos-trixie",
       "reason": "No hay archivo de imagen correspondiente."
     },
     {
@@ -470,10 +537,6 @@
     },
     {
       "productId": "trixie-collar-gato-trixie",
-      "reason": "No hay archivo de imagen correspondiente."
-    },
-    {
-      "productId": "trixie-correa-larga-trixie-5m",
       "reason": "No hay archivo de imagen correspondiente."
     },
     {
