@@ -3,13 +3,15 @@ const menu=document.getElementById('menu');
 
 menuButton?.addEventListener('click',()=>{
   const isOpen=menu.classList.toggle('open');
-  menuButton.textContent=isOpen?'Cerrar':'Menú';
+  menuButton.classList.toggle('is-open',isOpen);
+  menuButton.setAttribute('aria-label',isOpen?'Cerrar menú':'Abrir menú');
   menuButton.setAttribute('aria-expanded',String(isOpen));
 });
 
 menu?.querySelectorAll('a').forEach(link=>link.addEventListener('click',()=>{
   menu.classList.remove('open');
-  menuButton.textContent='Menú';
+  menuButton.classList.remove('is-open');
+  menuButton.setAttribute('aria-label','Abrir menú');
   menuButton.setAttribute('aria-expanded','false');
 }));
 
@@ -107,6 +109,9 @@ function createProductCard(product){
 
   const media=document.createElement('div');
   media.className='product-media';
+  if(normalize(product.brand)==='purina'&&normalize(product.line)==='excellent'){
+    media.classList.add('product-media--excellent');
+  }
   const imagePath=product.mainImage||product.image||selectedVariant?.image;
   if(imagePath){
     const image=document.createElement('img');
@@ -114,6 +119,7 @@ function createProductCard(product){
     image.alt=`${product.brand} ${product.name}`;
     image.loading='lazy';
     image.decoding='async';
+    image.addEventListener('load',()=>media.classList.add('is-loaded'),{once:true});
     media.append(image);
   }else{
     const placeholder=document.createElement('div');
@@ -132,7 +138,12 @@ function createProductCard(product){
   body.className='product-body';
   const eyebrow=document.createElement('p');
   eyebrow.className='product-eyebrow';
-  eyebrow.textContent=product.brand;
+  if(normalize(product.brand)==='purina'&&normalize(product.line)==='excellent'){
+    eyebrow.textContent='Purina Excellent';
+    eyebrow.classList.add('product-eyebrow--excellent');
+  }else{
+    eyebrow.textContent=product.brand;
+  }
   const title=document.createElement('h3');
   title.textContent=product.name;
   const details=document.createElement('div');
@@ -141,6 +152,8 @@ function createProductCard(product){
   asArray(product.species).forEach(species=>details.append(createChip(speciesLabels[species]||humanize(species))));
   body.append(eyebrow,title,details);
 
+  const choice=document.createElement('div');
+  choice.className='product-choice';
   let variantSelect=null;
   let presentation=null;
   if(variants.length>1){
@@ -152,12 +165,18 @@ function createProductCard(product){
     variantSelect.setAttribute('aria-label',`Presentación de ${product.brand} ${product.name}`);
     variants.forEach((variant,index)=>variantSelect.add(new Option(variantLabel(variant),String(index))));
     control.append(caption,variantSelect);
-    body.append(control);
+    choice.append(control);
   }else if(selectedVariant){
     presentation=document.createElement('p');
     presentation.className='variant-summary';
-    body.append(presentation);
+    choice.append(presentation);
+  }else{
+    const noVariant=document.createElement('p');
+    noVariant.className='variant-summary is-empty';
+    noVariant.setAttribute('aria-hidden','true');
+    choice.append(noVariant);
   }
+  body.append(choice);
 
   const price=document.createElement('p');
   price.className='product-price';
@@ -169,7 +188,10 @@ function createProductCard(product){
   button.className='btn product-whatsapp';
   button.type='button';
   button.textContent='Consultar por WhatsApp';
-  body.append(price,review,button);
+  const purchase=document.createElement('div');
+  purchase.className='product-purchase';
+  purchase.append(price,review,button);
+  body.append(purchase);
 
   function updateVariant(){
     const retail=selectedVariant?.retailPrice;
