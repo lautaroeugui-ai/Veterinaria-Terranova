@@ -66,6 +66,7 @@ const categoryLabels={
   'paseo':'Paseo'
 };
 const speciesLabels={perro:'Perros',gato:'Gatos'};
+const lifeStageLabels={cachorro:'cachorros',gatito:'gatitos',adulto:'adultos',senior:'adultos senior'};
 const normalize=value=>String(value??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLocaleLowerCase('es').trim();
 const asArray=value=>Array.isArray(value)?value:value?[value]:[];
 const uniqueSorted=values=>[...new Set(values.filter(Boolean))].sort((a,b)=>a.localeCompare(b,'es'));
@@ -100,6 +101,23 @@ function createChip(value){
   return chip;
 }
 
+function productDescription(product){
+  if(product.description)return product.description;
+  const species=asArray(product.species).map(value=>speciesLabels[value]||humanize(value).toLocaleLowerCase('es'));
+  const parts=[
+    `${categoryLabels[product.category]||humanize(product.category)} de ${product.brand}${product.line?`, línea ${product.line}`:''}`,
+    species.length?`para ${species.join(' y ').toLocaleLowerCase('es')}`:null,
+    product.lifeStage?`etapa ${lifeStageLabels[product.lifeStage]||product.lifeStage}`:null,
+    product.need?`orientado a ${product.need}`:null,
+    product.flavor?`sabor ${product.flavor}`:null
+  ].filter(Boolean);
+  return `${parts.join(', ')}.`;
+}
+
+function productImagePath(product,variant){
+  return product.mainImage||product.image||variant?.image||null;
+}
+
 function createProductCard(product){
   const variants=asArray(product.variants);
   let selectedVariant=variants[0]||null;
@@ -112,7 +130,7 @@ function createProductCard(product){
   if(normalize(product.brand)==='purina'&&normalize(product.line)==='excellent'){
     media.classList.add('product-media--excellent');
   }
-  const imagePath=product.mainImage||product.image||selectedVariant?.image;
+  const imagePath=productImagePath(product,selectedVariant);
   if(imagePath){
     const image=document.createElement('img');
     image.src=imagePath;
@@ -151,6 +169,11 @@ function createProductCard(product){
   details.append(createChip(categoryLabels[product.category]||humanize(product.category)));
   asArray(product.species).forEach(species=>details.append(createChip(speciesLabels[species]||humanize(species))));
   body.append(eyebrow,title,details);
+
+  const description=document.createElement('p');
+  description.className='product-description';
+  description.textContent=productDescription(product);
+  body.append(description);
 
   const choice=document.createElement('div');
   choice.className='product-choice';
@@ -216,11 +239,89 @@ function createProductCard(product){
     document.getElementById('contacto').scrollIntoView({behavior:'smooth'});
     window.setTimeout(()=>document.getElementById('name').focus(),450);
   });
+  card.addEventListener('click',event=>{
+    if(event.target.closest('button, select, label, input, a'))return;
+    openProductModal(product,selectedVariant);
+  });
+  card.addEventListener('keydown',event=>{
+    if((event.key==='Enter'||event.key===' ')&&!event.target.closest('button, select, label, input, a')){
+      event.preventDefault();
+      openProductModal(product,selectedVariant);
+    }
+  });
+  card.tabIndex=0;
+  card.setAttribute('role','group');
+  card.setAttribute('aria-label',`Ver detalle de ${product.brand} ${product.name}`);
 
   updateVariant();
   card.append(media,body);
   return card;
 }
+
+const productModal={
+  dialog:document.getElementById('productModal'),
+  content:document.getElementById('productModalContent'),
+  close:document.getElementById('closeProductModal')
+};
+
+function openProductModal(product,variant){
+  if(!productModal.dialog||!productModal.content)return;
+  const imagePath=productImagePath(product,variant);
+  const retail=variant?.retailPrice;
+  const hasPrice=Number.isFinite(retail?.amount);
+  const wrapper=document.createElement('div');
+  wrapper.className='product-modal__content';
+  const media=document.createElement('div');
+  media.className='product-modal__media';
+  if(imagePath){
+    const image=document.createElement('img');
+    image.src=imagePath;
+    image.alt=`${product.brand} ${product.name}`;
+    media.append(image);
+  }else{
+    const placeholder=document.createElement('div');
+    placeholder.className='product-placeholder';
+    const monogram=document.createElement('span');
+    monogram.className='placeholder-mark';
+    monogram.textContent=product.brand.slice(0,2).toUpperCase();
+    const caption=document.createElement('span');
+    caption.className='placeholder-brand';
+    caption.textContent='Imagen pendiente';
+    placeholder.append(monogram,caption);
+    media.append(placeholder);
+  }
+  const copy=document.createElement('div');
+  copy.className='product-modal__copy';
+  const brand=document.createElement('p');
+  brand.className='product-eyebrow';
+  brand.textContent=product.line?`${product.brand} · ${product.line}`:product.brand;
+  const title=document.createElement('h2');
+  title.id='productModalTitle';
+  title.textContent=product.name;
+  const description=document.createElement('p');
+  description.className='product-modal__description';
+  description.textContent=productDescription(product);
+  const details=document.createElement('div');
+  details.className='product-details';
+  details.append(createChip(categoryLabels[product.category]||humanize(product.category)));
+  asArray(product.species).forEach(species=>details.append(createChip(speciesLabels[species]||humanize(species))));
+  const variantText=document.createElement('p');
+  variantText.className='product-modal__variant';
+  variantText.textContent=variant?variantLabel(variant):'Consultá las presentaciones disponibles.';
+  const price=document.createElement('p');
+  price.className='product-price';
+  price.textContent=hasPrice?formatPrice(retail.amount,retail.currency||'ARS'):'Consultar precio';
+  price.classList.toggle('is-query',!hasPrice);
+  copy.append(brand,title,description,details,variantText,price);
+  wrapper.append(media,copy);
+  productModal.content.replaceChildren(wrapper);
+  productModal.dialog.showModal();
+}
+
+productModal.close?.addEventListener('click',()=>productModal.dialog.close());
+productModal.dialog?.addEventListener('click',event=>{
+  if(event.target===productModal.dialog)productModal.dialog.close();
+});
 
 function activeFilters(){
   return {
