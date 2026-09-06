@@ -4017,8 +4017,8 @@
       "brand": "Beepaw",
       "supplier": "Beepaw",
       "line": null,
-      "name": "Botella Bebedero7Comedero Portatil 350Ml",
-      "sourceName": "BOTELLA BEBEDERO7COMEDERO PORTATIL 350ml",
+      "name": "Botella Bebedero/Comedero Portátil 350Ml",
+      "sourceName": "BOTELLA BEBEDERO/COMEDERO PORTATIL 350ml",
       "category": "accesorios",
       "subcategory": "varios",
       "species": [],
@@ -4029,10 +4029,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "BOTELLA BEBEDERO7COMEDERO PORTATIL 350ml"
+        "BOTELLA BEBEDERO/COMEDERO PORTATIL 350ml"
       ],
       "price": {
-        "BOTELLA BEBEDERO7COMEDERO PORTATIL 350ml": 11700.0
+        "BOTELLA BEBEDERO/COMEDERO PORTATIL 350ml": 11700.0
       },
       "image": null,
       "mainImage": "img/beepaw/botella-bebedero-comedero-350ml.webp",
@@ -4042,7 +4042,7 @@
           "id": "beepaw-botella-bebedero7comedero-portatil-350ml-00991",
           "sku": "00991",
           "ean": null,
-          "presentation": "BOTELLA BEBEDERO7COMEDERO PORTATIL 350ml",
+          "presentation": "BOTELLA BEBEDERO/COMEDERO PORTATIL 350ml",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -5109,7 +5109,7 @@
         "Juguete pato peluche 25x22": 7432.25
       },
       "image": null,
-      "mainImage": null,
+      "mainImage": "img/beepaw/pato-peluche-25x22.webp",
       "images": [],
       "variants": [
         {
@@ -6506,12 +6506,7 @@
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
           },
-          "supplierPrice": {
-            "amount": 33000.0,
-            "currency": "ARS",
-            "source": "CATALOGO MAYORISTA MKR PETS ACTUALIZADO JULIO 2026 A.pdf",
-            "priceType": "supplier"
-          },
+          "supplierPrice": null,
           "image": null,
           "availability": null,
           "reviewStatus": "confirmed"
@@ -6577,12 +6572,7 @@
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
           },
-          "supplierPrice": {
-            "amount": 51000.0,
-            "currency": "ARS",
-            "source": "CATALOGO MAYORISTA MKR PETS ACTUALIZADO JULIO 2026 A.pdf",
-            "priceType": "supplier"
-          },
+          "supplierPrice": null,
           "image": null,
           "availability": null,
           "reviewStatus": "confirmed"
@@ -6602,12 +6592,7 @@
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
           },
-          "supplierPrice": {
-            "amount": 66000.0,
-            "currency": "ARS",
-            "source": "CATALOGO MAYORISTA MKR PETS ACTUALIZADO JULIO 2026 A.pdf",
-            "priceType": "supplier"
-          },
+          "supplierPrice": null,
           "image": null,
           "availability": null,
           "reviewStatus": "confirmed"
@@ -6671,12 +6656,7 @@
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
           },
-          "supplierPrice": {
-            "amount": 45000.0,
-            "currency": "ARS",
-            "source": "CATALOGO MAYORISTA MKR PETS ACTUALIZADO JULIO 2026 A.pdf",
-            "priceType": "supplier"
-          },
+          "supplierPrice": null,
           "image": null,
           "availability": null,
           "reviewStatus": "confirmed"
@@ -6740,12 +6720,7 @@
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
           },
-          "supplierPrice": {
-            "amount": 24000.0,
-            "currency": "ARS",
-            "source": "CATALOGO MAYORISTA MKR PETS ACTUALIZADO JULIO 2026 A.pdf",
-            "priceType": "supplier"
-          },
+          "supplierPrice": null,
           "image": null,
           "availability": null,
           "reviewStatus": "confirmed"
@@ -6809,12 +6784,7 @@
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
           },
-          "supplierPrice": {
-            "amount": 13000.0,
-            "currency": "ARS",
-            "source": "CATALOGO MAYORISTA MKR PETS ACTUALIZADO JULIO 2026 A.pdf",
-            "priceType": "supplier"
-          },
+          "supplierPrice": null,
           "image": null,
           "availability": null,
           "reviewStatus": "confirmed"
@@ -6878,12 +6848,7 @@
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
           },
-          "supplierPrice": {
-            "amount": 37000.0,
-            "currency": "ARS",
-            "source": "CATALOGO MAYORISTA MKR PETS ACTUALIZADO JULIO 2026 A.pdf",
-            "priceType": "supplier"
-          },
+          "supplierPrice": null,
           "image": null,
           "availability": null,
           "reviewStatus": "confirmed"
@@ -6947,12 +6912,7 @@
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
           },
-          "supplierPrice": {
-            "amount": 18500.0,
-            "currency": "ARS",
-            "source": "_Catálogo Rosoví AGO.26.pdf (1).pdf",
-            "priceType": "supplier"
-          },
+          "supplierPrice": null,
           "image": null,
           "availability": null,
           "reviewStatus": "confirmed"
@@ -7018,12 +6978,7 @@
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
           },
-          "supplierPrice": {
-            "amount": 19500.0,
-            "currency": "ARS",
-            "source": "_Catálogo Rosoví AGO.26.pdf (1).pdf",
-            "priceType": "supplier"
-          },
+          "supplierPrice": null,
           "image": null,
           "availability": null,
           "reviewStatus": "confirmed"
@@ -7043,12 +6998,7 @@
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
           },
-          "supplierPrice": {
-            "amount": 28500.0,
-            "currency": "ARS",
-            "source": "_Catálogo Rosoví AGO.26.pdf (1).pdf",
-            "priceType": "supplier"
-          },
+          "supplierPrice": null,
           "image": null,
           "availability": null,
           "reviewStatus": "confirmed"
@@ -7176,12 +7126,7 @@
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
           },
-          "supplierPrice": {
-            "amount": 18000.0,
-            "currency": "ARS",
-            "source": "_Catálogo Rosoví AGO.26.pdf (1).pdf",
-            "priceType": "supplier"
-          },
+          "supplierPrice": null,
           "image": null,
           "availability": null,
           "reviewStatus": "confirmed"
@@ -7245,12 +7190,7 @@
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
           },
-          "supplierPrice": {
-            "amount": 20400.0,
-            "currency": "ARS",
-            "source": "_Catálogo Rosoví AGO.26.pdf (1).pdf",
-            "priceType": "supplier"
-          },
+          "supplierPrice": null,
           "image": null,
           "availability": null,
           "reviewStatus": "confirmed"

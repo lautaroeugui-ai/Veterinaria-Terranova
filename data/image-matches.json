@@ -396,6 +396,17 @@
         "url": "https://bppets.com/producto/correa-larga-con-manija-acolchada/"
       },
       "note": "Correa larga Trixie de 5 metros con manija acolchada confirmada."
+    },
+    {
+      "productId": "beepaw-juguete-pato-peluche-25x22",
+      "mainImage": "img/beepaw/pato-peluche-25x22.webp",
+      "confidence": "confirmed-external",
+      "source": {
+        "sourceType": "retailer-product-page",
+        "publisher": "Corpet",
+        "url": "https://www.corpet.com.ar/ofertas-y-novedades/novedades"
+      },
+      "note": "Marca Beepaw, producto Pato Peluche Vocalizador y medida 25×22 cm confirmados en la ficha fuente."
     }
   ],
   "pending": [
@@ -477,10 +488,6 @@
     },
     {
       "productId": "beepaw-juguete-pato-inteligente",
-      "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
-    },
-    {
-      "productId": "beepaw-juguete-pato-peluche-25x22",
       "reason": "Validar SKU/nombre contra el inventario de Drive antes de elegir imagen principal."
     },
     {

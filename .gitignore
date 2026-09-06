@@ -1,0 +1,6 @@
+# Material de origen: listas de proveedor, PDFs, ZIPs y envíos de Rocío/José.
+# Nunca se sube: pesa cientos de MB y contiene precios de proveedor
+# y documentación de clientes.
+source-data/
+
+tmp/

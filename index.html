@@ -97,6 +97,11 @@
         <a class="btn" href="#sucursales">Elegir sucursal</a>
         <a class="btn secondary" href="#servicios">Conocer servicios</a>
       </div>
+      <div class="mobile-quick-links" aria-label="Accesos principales">
+        <a href="#servicios"><span class="service-emoji" aria-hidden="true"><svg class="icon" viewBox="0 0 24 24"><path d="M6 3v5a4 4 0 0 0 8 0V3M4 3h4M12 3h4M10 12v2a5 5 0 0 0 10 0v-2"/><circle cx="20" cy="10" r="2"/></svg></span><span>Clínica</span></a>
+        <a href="#radiologia"><span class="service-emoji" aria-hidden="true"><svg class="icon" viewBox="0 0 24 24"><rect x="4" y="3" width="16" height="18" rx="3"/><path d="M9 7.5h6M12 7.5v9M8.5 12h7M9.5 16.5h5"/></svg></span><span>Radiología</span></a>
+        <a href="#tienda" data-open-catalog><span class="service-emoji" aria-hidden="true"><svg class="icon" viewBox="0 0 24 24"><path d="M4 8h16l-1 13H5zM8 8a4 4 0 0 1 8 0"/><path d="M9 12v1M15 12v1"/></svg></span><span>Tienda</span></a>
+      </div>
       <div class="facts">
         <span>3 sucursales</span>
         <span>Radiología veterinaria</span>
@@ -118,7 +123,7 @@
     <div><b>3</b><span>Sucursales</span></div>
     <div><b>WhatsApp</b><span>Contacto directo por sede</span></div>
     <div><b>Radiología</b><span>Diagnóstico por imágenes</span></div>
-    <div><b>Tienda</b><span>Catálogo en preparación</span></div>
+    <div><b id="storeStatCount">Tienda</b><span>Catálogo online con precios</span></div>
   </div>
 </section>
 
@@ -137,17 +142,17 @@
       <p>Consultá la disponibilidad de cada servicio directamente con la sucursal.</p>
     </div>
     <div class="cards">
-      <article class="featured reveal"><span class="service-icon"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="3" width="16" height="18" rx="3"/><path d="M9 7.5h6M12 7.5v9M8.5 12h7M9.5 16.5h5"/></svg></span><h3>Radiología veterinaria</h3><p>Diagnóstico por imágenes para acompañar la evaluación clínica.</p><a href="#sucursales">Consultar en una sede</a></article>
-      <article class="reveal"><span class="service-icon"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3v5a4 4 0 0 0 8 0V3M4 3h4M12 3h4M10 12v2a5 5 0 0 0 10 0v-2"/><circle cx="20" cy="10" r="2"/></svg></span><h3>Consulta clínica</h3><p>Evaluación general y orientación profesional para perros y gatos.</p><a href="#sucursales">Consultar en una sede</a></article>
-      <article class="reveal"><span class="service-icon"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m14 4 6 6M13 5l2-2 6 6-2 2M5 13l6 6M7 11l6 6M4 14l6 6M9 9l6 6-6 6-6-6z"/></svg></span><h3>Controles preventivos</h3><p>Seguimiento y prevención para acompañar la salud de tu mascota.</p><a href="#sucursales">Consultar en una sede</a></article>
-      <article class="reveal"><span class="service-icon"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9 4 4l5 2a8 8 0 0 1 6 0l5-2-2 5v5a6 6 0 0 1-12 0z"/><path d="M9 13h.01M15 13h.01M10 17h4"/></svg></span><h3>Atención felina</h3><p>Cuidado clínico adaptado a las necesidades de los gatos.</p><a href="#sucursales">Consultar en una sede</a></article>
-      <article class="reveal"><span class="service-icon"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 9 4 6v6l2 2v2a6 6 0 0 0 12 0v-2l2-2V6l-3 3a8 8 0 0 0-10 0Z"/><path d="M9 14h.01M15 14h.01M10 18h4"/></svg></span><h3>Atención canina</h3><p>Consultas y seguimiento para perros de todas las edades.</p><a href="#sucursales">Consultar en una sede</a></article>
-      <article class="reveal"><span class="service-icon"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 8h16l-1 13H5zM8 8a4 4 0 0 1 8 0"/><path d="M9 12v1M15 12v1"/></svg></span><h3>Tienda para mascotas</h3><p>La tienda online se incorporará con productos, fotos y precios confirmados.</p><a href="#tienda">Ver preparación</a></article>
+      <article class="featured reveal"><span class="service-icon" role="img" aria-label="Radiología"><svg class="icon" viewBox="0 0 24 24"><rect x="4" y="3" width="16" height="18" rx="3"/><path d="M9 7.5h6M12 7.5v9M8.5 12h7M9.5 16.5h5"/></svg></span><h3>Radiología veterinaria</h3><p>Diagnóstico por imágenes para acompañar la evaluación clínica.</p><a href="#sucursales">Consultar en una sede</a></article>
+      <article class="reveal"><span class="service-icon" role="img" aria-label="Consulta clínica"><svg class="icon" viewBox="0 0 24 24"><path d="M6 3v5a4 4 0 0 0 8 0V3M4 3h4M12 3h4M10 12v2a5 5 0 0 0 10 0v-2"/><circle cx="20" cy="10" r="2"/></svg></span><h3>Consulta clínica</h3><p>Evaluación general y orientación profesional para perros y gatos.</p><a href="#sucursales">Consultar en una sede</a></article>
+      <article class="reveal"><span class="service-icon" role="img" aria-label="Cuidados preventivos"><svg class="icon" viewBox="0 0 24 24"><path d="m14 4 6 6M13 5l2-2 6 6-2 2M5 13l6 6M7 11l6 6M4 14l6 6M9 9l6 6-6 6-6-6z"/></svg></span><h3>Controles preventivos</h3><p>Seguimiento y prevención para acompañar la salud de tu mascota.</p><a href="#sucursales">Consultar en una sede</a></article>
+      <article class="reveal"><span class="service-icon" role="img" aria-label="Atención felina"><svg class="icon" viewBox="0 0 24 24"><path d="M6 9 4 4l5 2a8 8 0 0 1 6 0l5-2-2 5v5a6 6 0 0 1-12 0z"/><path d="M9 13h.01M15 13h.01M10 17h4"/></svg></span><h3>Atención felina</h3><p>Cuidado clínico adaptado a las necesidades de los gatos.</p><a href="#sucursales">Consultar en una sede</a></article>
+      <article class="reveal"><span class="service-icon" role="img" aria-label="Atención canina"><svg class="icon" viewBox="0 0 24 24"><path d="M7 9 4 6v6l2 2v2a6 6 0 0 0 12 0v-2l2-2V6l-3 3a8 8 0 0 0-10 0Z"/><path d="M9 14h.01M15 14h.01M10 18h4"/></svg></span><h3>Atención canina</h3><p>Consultas y seguimiento para perros de todas las edades.</p><a href="#sucursales">Consultar en una sede</a></article>
+      <article class="reveal"><span class="service-icon" role="img" aria-label="Tienda para mascotas"><svg class="icon" viewBox="0 0 24 24"><path d="M4 8h16l-1 13H5zM8 8a4 4 0 0 1 8 0"/><path d="M9 12v1M15 12v1"/></svg></span><h3>Tienda para mascotas</h3><p>Catálogo online con precios, variantes y consulta directa por WhatsApp.</p><a href="#tienda">Ver catálogo</a></article>
     </div>
   </div>
 </section>
 
-<section class="diagnostic-band">
+<section class="diagnostic-band" id="radiologia">
   <div class="container diagnostic-grid">
     <div class="diagnostic-copy reveal">
       <span class="tag dark-tag">Radiología veterinaria</span>
@@ -228,10 +233,21 @@
         <label for="categoryFilter"><span>Categoría</span><select id="categoryFilter" disabled><option value="">Todas las categorías</option></select></label>
         <label for="brandFilter"><span>Marca</span><select id="brandFilter" disabled><option value="">Todas las marcas</option></select></label>
         <label for="speciesFilter"><span>Especie</span><select id="speciesFilter" disabled><option value="">Todas las especies</option></select></label>
+        <label for="sortFilter"><span>Ordenar por</span><select id="sortFilter">
+          <option value="relevance">Relevancia</option>
+          <option value="name-asc">Nombre A-Z</option>
+          <option value="price-asc">Precio: menor a mayor</option>
+          <option value="price-desc">Precio: mayor a menor</option>
+        </select></label>
       </div>
+      <div id="activeFilterChips" class="active-filter-chips" hidden></div>
       <div class="catalog-meta"><p id="catalogCount" aria-live="polite">Cargando catálogo…</p><button id="clearFilters" class="clear-filters" type="button" hidden>Limpiar filtros</button></div>
     </div>
     <div id="catalogGrid" class="catalog-grid" aria-live="polite" aria-busy="true"></div>
+    <div class="mobile-store-cta">
+      <p>Explorá el catálogo completo con filtros, variantes y precios.</p>
+      <button class="btn" type="button" id="openCatalog">Ver tienda completa</button>
+    </div>
     <div id="catalogEmpty" class="catalog-empty" hidden><b>No encontramos coincidencias.</b><span>Probá otro término o limpiá los filtros para ver el catálogo completo.</span><button class="btn secondary" type="button" data-clear-catalog>Ver todos los productos</button></div>
     <div id="catalogError" class="catalog-empty catalog-error" hidden><b>El catálogo no está disponible en este momento.</b><span>Podés reintentar o consultarnos directamente.</span><button id="retryCatalog" class="btn secondary" type="button">Reintentar</button></div>
   </div>
@@ -291,8 +307,9 @@
 
 <footer>
   <div class="container footer-grid">
-    <div>
+    <div class="footer-brand">
       <img class="footer-logo" src="terranova-logo.png" alt="Veterinaria Terranova">
+      <div><b>Veterinaria Terranova</b><span>Clínica · Radiología · Tienda</span></div>
       <p>Clínica veterinaria con tres sucursales y atención directa por WhatsApp.</p>
     </div>
     <div>
