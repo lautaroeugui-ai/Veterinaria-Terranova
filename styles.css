@@ -91,6 +91,13 @@
 
 /* Home mobile: acceso rápido y lectura breve antes del catálogo completo. */
 .mobile-quick-links,.mobile-store-cta{display:none}
+/* Credito del estudio en el pie */
+.bottom{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px}
+.bottom .credit{color:#7f9b94;font-size:.76rem;letter-spacing:.02em}
+.bottom .credit a{color:#a9c4bd;border-bottom:1px solid #ffffff26}
+.bottom .credit a:hover{color:#fff;border-bottom-color:#ffffff66}
+@media(max-width:660px){.bottom{flex-direction:column;align-items:flex-start;gap:6px}.bottom .credit{font-size:.72rem}}
+
 /* Horarios por sucursal */
 .branch-hours{display:grid;gap:6px;margin:0 0 18px;padding:14px 16px;border:1px solid var(--line);border-radius:14px;background:#fbfdfc}
 .branch-hours>div{display:flex;align-items:baseline;justify-content:space-between;gap:12px}

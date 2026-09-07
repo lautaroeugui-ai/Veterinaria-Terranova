@@ -556,7 +556,8 @@ function renderCart(){
 
   const priced=lines.filter(line=>line.lineTotal!==null);
   const total=priced.reduce((sum,line)=>sum+line.lineTotal,0);
-  cart.total.textContent=formatPrice(total,priced[0]?.currency||'ARS');
+  // Sin ningún ítem con precio, un "$ 0,00" haría pensar que el pedido no cuesta nada.
+  cart.total.textContent=priced.length?formatPrice(total,priced[0].currency||'ARS'):'A confirmar';
 
   const sinPrecio=lines.filter(line=>line.unitPrice===null).length;
   cart.pending.hidden=sinPrecio===0;
@@ -583,11 +584,14 @@ function buildOrderMessage(){
   const priced=lines.filter(line=>line.lineTotal!==null);
   const total=priced.reduce((sum,line)=>sum+line.lineTotal,0);
   const hayPendientes=lines.length!==priced.length;
+  const totalTexto=priced.length
+    ?`Total${hayPendientes?' (sin los productos a confirmar)':''}: ${formatPrice(total,priced[0].currency||'ARS')}`
+    :'Total: a confirmar';
   return [
     'PEDIDO',
     ...detail,
     '',
-    `Total${hayPendientes?' (sin los productos a confirmar)':''}: ${formatPrice(total,priced[0]?.currency||'ARS')}`,
+    totalTexto,
     `Entrega: ${selectedOption('delivery')}`,
     `Pago: ${selectedOption('payment')}`
   ].join('\n');

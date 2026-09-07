@@ -124,7 +124,7 @@
         "15 kg"
       ],
       "price": {
-        "3 kg": 30485.0,
+        "3 kg": 30485,
         "7,5 kg": 60239.7,
         "15 kg": 104714.1
       },
@@ -157,7 +157,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 30485.0,
+            "amount": 30485,
             "currency": "ARS",
             "source": "source-data/baires (1).pdf",
             "priceType": "terranova"
@@ -225,7 +225,7 @@
         "7,5 kg"
       ],
       "price": {
-        "3 kg": 29141.0,
+        "3 kg": 29141,
         "7,5 kg": 57987.9
       },
       "image": null,
@@ -257,7 +257,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 29141.0,
+            "amount": 29141,
             "currency": "ARS",
             "source": "source-data/baires (1).pdf",
             "priceType": "terranova"
@@ -3660,7 +3660,7 @@
         "BEBEDERO INTERACTIVO BEEPAW"
       ],
       "price": {
-        "BEBEDERO INTERACTIVO BEEPAW": 35000.0
+        "BEBEDERO INTERACTIVO BEEPAW": 35000
       },
       "image": null,
       "mainImage": null,
@@ -3676,7 +3676,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 35000.0,
+            "amount": 35000,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -3846,7 +3846,7 @@
         "BOLSO TRANPORTADOR RALLADO SMALL"
       ],
       "price": {
-        "BOLSO TRANPORTADOR RALLADO SMALL": 31467.0
+        "BOLSO TRANPORTADOR RALLADO SMALL": 31467
       },
       "image": null,
       "mainImage": null,
@@ -3862,7 +3862,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 31467.0,
+            "amount": 31467,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -4032,7 +4032,7 @@
         "BOTELLA BEBEDERO/COMEDERO PORTATIL 350ml"
       ],
       "price": {
-        "BOTELLA BEBEDERO/COMEDERO PORTATIL 350ml": 11700.0
+        "BOTELLA BEBEDERO/COMEDERO PORTATIL 350ml": 11700
       },
       "image": null,
       "mainImage": "img/beepaw/botella-bebedero-comedero-350ml.webp",
@@ -4048,7 +4048,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 11700.0,
+            "amount": 11700,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -4610,7 +4610,7 @@
         "CEPILLO CON VAPOR"
       ],
       "price": {
-        "CEPILLO CON VAPOR": 6200.0
+        "CEPILLO CON VAPOR": 6200
       },
       "image": null,
       "mainImage": "img/beepaw/cepillo-con-vapor.webp",
@@ -4626,7 +4626,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 6200.0,
+            "amount": 6200,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -4734,7 +4734,7 @@
         "CEPILLO CON VAPOR Y MANGO PANDA"
       ],
       "price": {
-        "CEPILLO CON VAPOR Y MANGO PANDA": 9486.0
+        "CEPILLO CON VAPOR Y MANGO PANDA": 9486
       },
       "image": null,
       "mainImage": "img/beepaw/cepillo-vapor-panda.webp",
@@ -4750,7 +4750,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 9486.0,
+            "amount": 9486,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -4796,7 +4796,7 @@
         "COMEDERO INTERACTIVO B Y N"
       ],
       "price": {
-        "COMEDERO INTERACTIVO B Y N": 160000.0
+        "COMEDERO INTERACTIVO B Y N": 160000
       },
       "image": null,
       "mainImage": null,
@@ -4812,7 +4812,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 160000.0,
+            "amount": 160000,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -5044,7 +5044,7 @@
         "JUGUETE PATO INTELIGENTE"
       ],
       "price": {
-        "JUGUETE PATO INTELIGENTE": 26000.0
+        "JUGUETE PATO INTELIGENTE": 26000
       },
       "image": null,
       "mainImage": "img/beepaw/juguete-pato-duck-e.webp",
@@ -5060,7 +5060,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 26000.0,
+            "amount": 26000,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -5292,7 +5292,7 @@
         "MOCHILA TRANSPORTADORA BIGOTES"
       ],
       "price": {
-        "MOCHILA TRANSPORTADORA BIGOTES": 32600.0
+        "MOCHILA TRANSPORTADORA BIGOTES": 32600
       },
       "image": null,
       "mainImage": "img/beepaw/mochila-bigotes.webp",
@@ -5308,7 +5308,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 32600.0,
+            "amount": 32600,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -5354,7 +5354,7 @@
         "PAÑOS 56X60 - 50UNI"
       ],
       "price": {
-        "PAÑOS 56X60 - 50UNI": 17302.0
+        "PAÑOS 56X60 - 50UNI": 17302
       },
       "image": null,
       "mainImage": null,
@@ -5370,7 +5370,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 17302.0,
+            "amount": 17302,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -5416,7 +5416,7 @@
         "PELOTA INTELIGENTE BALL-E"
       ],
       "price": {
-        "PELOTA INTELIGENTE BALL-E": 16300.0
+        "PELOTA INTELIGENTE BALL-E": 16300
       },
       "image": null,
       "mainImage": "img/beepaw/pelota-ball-e.webp",
@@ -5432,7 +5432,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 16300.0,
+            "amount": 16300,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -5540,7 +5540,7 @@
         "PELOTA INTELIGENTE SPEED-E"
       ],
       "price": {
-        "PELOTA INTELIGENTE SPEED-E": 19900.0
+        "PELOTA INTELIGENTE SPEED-E": 19900
       },
       "image": null,
       "mainImage": "img/beepaw/pelota-speed-e.webp",
@@ -5556,7 +5556,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 19900.0,
+            "amount": 19900,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -5606,7 +5606,7 @@
         "MON AMI CORDERO 3KG"
       ],
       "price": {
-        "MON AMI CORDERO 12KG": 84213.0,
+        "MON AMI CORDERO 12KG": 84213,
         "MON AMI CORDERO 3KG": 17230.4
       },
       "image": null,
@@ -5623,7 +5623,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 84213.0,
+            "amount": 84213,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -5691,7 +5691,7 @@
         "MON AMI MEAT BITES 75G"
       ],
       "price": {
-        "MON AMI MEAT BITES 75G": 3267.0
+        "MON AMI MEAT BITES 75G": 3267
       },
       "image": null,
       "mainImage": null,
@@ -5707,7 +5707,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 3267.0,
+            "amount": 3267,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -5757,7 +5757,7 @@
       ],
       "price": {
         "MON AMI MEAT STICK 12G": 601.2,
-        "MON AMI MEAT STICK 150G": 6120.0
+        "MON AMI MEAT STICK 150G": 6120
       },
       "image": null,
       "mainImage": null,
@@ -5793,7 +5793,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 6120.0,
+            "amount": 6120,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -5928,7 +5928,7 @@
         "MON AMI SNACK DENTAL 75G"
       ],
       "price": {
-        "MON AMI SNACK DENTAL 400G": 12012.0,
+        "MON AMI SNACK DENTAL 400G": 12012,
         "MON AMI SNACK DENTAL 75G": 3049.2
       },
       "image": null,
@@ -5945,7 +5945,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 12012.0,
+            "amount": 12012,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -6228,8 +6228,8 @@
         "MON AMI SUPERFOOD GATO 6KG"
       ],
       "price": {
-        "MON AMI SUPERFOOD GATO 1.4KG": 26600.0,
-        "MON AMI SUPERFOOD GATO 6KG": 95953.0
+        "MON AMI SUPERFOOD GATO 1.4KG": 26600,
+        "MON AMI SUPERFOOD GATO 6KG": 95953
       },
       "image": null,
       "mainImage": "img/mon-ami/superfood-gato.webp",
@@ -6245,7 +6245,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 26600.0,
+            "amount": 26600,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -6265,7 +6265,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 95953.0,
+            "amount": 95953,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -6635,7 +6635,7 @@
         "Colchón Ortopédico 60×90"
       ],
       "price": {
-        "Colchón Ortopédico 60×90": 67500.0
+        "Colchón Ortopédico 60×90": 67500
       },
       "image": null,
       "mainImage": "img/mkr-pets/colchon-ortopedico-60x90.webp",
@@ -6651,7 +6651,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 67500.0,
+            "amount": 67500,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -6891,7 +6891,7 @@
         "Moisés Corderito"
       ],
       "price": {
-        "Moisés Corderito": 33300.0
+        "Moisés Corderito": 33300
       },
       "image": null,
       "mainImage": "img/rosovi-pets/moises-corderito.webp",
@@ -6907,7 +6907,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 33300.0,
+            "amount": 33300,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -7041,7 +7041,7 @@
         "Maxi Puff Tussor y Vellón"
       ],
       "price": {
-        "Maxi Puff Tussor y Vellón": 41400.0
+        "Maxi Puff Tussor y Vellón": 41400
       },
       "image": null,
       "mainImage": null,
@@ -7057,7 +7057,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 41400.0,
+            "amount": 41400,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -7105,7 +7105,7 @@
         "Mini Puff Tussor y Vellón"
       ],
       "price": {
-        "Mini Puff Tussor y Vellón": 32400.0
+        "Mini Puff Tussor y Vellón": 32400
       },
       "image": null,
       "mainImage": "img/rosovi-pets/mini-puff-tussor-vellon.webp",
@@ -7121,7 +7121,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 32400.0,
+            "amount": 32400,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -7169,7 +7169,7 @@
         "Colchoneta Doble Cordura"
       ],
       "price": {
-        "Colchoneta Doble Cordura": 30528.0
+        "Colchoneta Doble Cordura": 30528
       },
       "image": null,
       "mainImage": "img/rosovi-pets/colchoneta-doble-cordura.webp",
@@ -7185,7 +7185,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 30528.0,
+            "amount": 30528,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -7231,8 +7231,8 @@
         "CORREA FLEXI CLASSIC 3M"
       ],
       "price": {
-        "CORREA FLEXI CLASSIC 5M": 40000.0,
-        "CORREA FLEXI CLASSIC 3M": 29970.0
+        "CORREA FLEXI CLASSIC 5M": 40000,
+        "CORREA FLEXI CLASSIC 3M": 29970
       },
       "image": null,
       "mainImage": null,
@@ -7248,7 +7248,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 40000.0,
+            "amount": 40000,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -7268,7 +7268,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 29970.0,
+            "amount": 29970,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -7317,7 +7317,7 @@
         "Soga 13\" 2 nudos Can cat"
       ],
       "price": {
-        "SOGA 6 NUDOS CAN CAT": 20332.0,
+        "SOGA 6 NUDOS CAN CAT": 20332,
         "SOGA 5 NUDOS CAN CAT": 16916.7,
         "SOGA 3 NUDOS CAN CAT": 10315.6,
         "SOGA 4 NUDOS CAN CAT": 12879.2,
@@ -7337,7 +7337,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 20332.0,
+            "amount": 20332,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -7524,7 +7524,7 @@
         "BOLSA RECOLECTORA CAN CAT X3"
       ],
       "price": {
-        "BOLSA RECOLECTORA CAN CAT X5": 11268.0,
+        "BOLSA RECOLECTORA CAN CAT X5": 11268,
         "BOLSA RECOLECTORA CAN CAT X3": 3516.79
       },
       "image": null,
@@ -7541,7 +7541,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 11268.0,
+            "amount": 11268,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -7789,7 +7789,7 @@
         "BOZAL TRIXIE"
       ],
       "price": {
-        "BOZAL TRIXIE": 1042.0
+        "BOZAL TRIXIE": 1042
       },
       "image": null,
       "mainImage": null,
@@ -7805,7 +7805,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 1042.0,
+            "amount": 1042,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -7917,7 +7917,7 @@
         "COLLAR PREMIUM XS/S TRIXIE": 5819.2,
         "COLLAR PREMIUM M/L TRIXIE": 8838.4,
         "COLLAR PREMIUM S/M TRIXIE": 7036.8,
-        "COLLAR PREMIUM L/XL TRIXIE": 12608.0
+        "COLLAR PREMIUM L/XL TRIXIE": 12608
       },
       "image": null,
       "mainImage": "img/trixie/collar-premium.webp",
@@ -7993,7 +7993,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 12608.0,
+            "amount": 12608,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -8143,7 +8143,7 @@
         "CEPILLO RECOGE PELOS TRIXIE"
       ],
       "price": {
-        "CEPILLO RECOGE PELOS TRIXIE": 6603.0
+        "CEPILLO RECOGE PELOS TRIXIE": 6603
       },
       "image": null,
       "mainImage": "img/trixie/cepillo-recoge-pelos.webp",
@@ -8159,7 +8159,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 6603.0,
+            "amount": 6603,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -8205,8 +8205,8 @@
         "COMEDERO DIBUJO TRIXIE CHICO"
       ],
       "price": {
-        "COMEDERO DIBUJO TRIXIE MEDIANO": 9000.0,
-        "COMEDERO DIBUJO TRIXIE CHICO": 6000.0
+        "COMEDERO DIBUJO TRIXIE MEDIANO": 9000,
+        "COMEDERO DIBUJO TRIXIE CHICO": 6000
       },
       "image": null,
       "mainImage": null,
@@ -8222,7 +8222,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 9000.0,
+            "amount": 9000,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -8242,7 +8242,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 6000.0,
+            "amount": 6000,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -8409,7 +8409,7 @@
         "CORREA LARGA TRIXIE 5M"
       ],
       "price": {
-        "CORREA LARGA TRIXIE 5M": 16800.0
+        "CORREA LARGA TRIXIE 5M": 16800
       },
       "image": null,
       "mainImage": "img/trixie/correa-larga-5m.webp",
@@ -8425,7 +8425,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 16800.0,
+            "amount": 16800,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -8470,7 +8470,7 @@
         "Comedero Silicona Trixie Medio"
       ],
       "price": {
-        "Comedero Silicona Trixie Medio": 24820.0
+        "Comedero Silicona Trixie Medio": 24820
       },
       "image": null,
       "mainImage": null,
@@ -8486,7 +8486,7 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 24820.0,
+            "amount": 24820,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -8508,6 +8508,6190 @@
         {
           "file": "source-data/terranova_source_data_nuevo.zip::TRIXIE_lista_precios.jpg",
           "sourceType": "terranova-price-capture"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-satiety-support-weight-management-feline",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Satiety Support Weight Management Feline",
+      "sourceName": "Satiety Support Weight Management Feline",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-satiety-support-weight-management-feline.jpg",
+      "images": [],
+      "eans": [
+        "7790187340404"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-calm-canine",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Calm Canine",
+      "sourceName": "Calm Canine",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-calm-canine.jpg",
+      "images": [],
+      "eans": [
+        "7790187342064"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-club-performance-dog-weight-control",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Club Performance Dog Weight Control",
+      "sourceName": "Club Performance Dog Weight Control",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-club-performance-dog-weight-control.jpg",
+      "images": [],
+      "eans": [
+        "7790187340954"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-mini-indoor-adulto",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Mini Indoor Adulto",
+      "sourceName": "Mini Indoor Adulto",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-mini-indoor-adulto.jpg",
+      "images": [],
+      "eans": [
+        "7790187340626",
+        "7790187370333",
+        "7790187340558"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-maxi-ageing-8-plus",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Maxi Ageing 8+",
+      "sourceName": "Maxi Ageing 8+",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-maxi-ageing-8-plus.jpg",
+      "images": [],
+      "eans": [
+        "7790187340503"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-yorkshire-terrier",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Yorkshire Terrier",
+      "sourceName": "Yorkshire Terrier",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-yorkshire-terrier.jpg",
+      "images": [],
+      "eans": [
+        "9003579001431",
+        "9003579001448"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-calm-feline",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Calm Feline",
+      "sourceName": "Calm Feline",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-calm-feline.jpg",
+      "images": [],
+      "eans": [
+        "7790187342071"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-hairball-care",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Hairball Care",
+      "sourceName": "Hairball Care",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-hairball-care.jpg",
+      "images": [],
+      "eans": [
+        "7790187342743"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-giant-puppy",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Giant Puppy",
+      "sourceName": "Giant Puppy",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-giant-puppy.jpg",
+      "images": [],
+      "eans": [
+        "7790187339804",
+        "7790187339811"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-golden-retriever-junior",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Golden Retriever Junior",
+      "sourceName": "Golden Retriever Junior",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-golden-retriever-junior.jpg",
+      "images": [],
+      "eans": [
+        "7790187341814"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-mother-y-babycat",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Mother & Babycat",
+      "sourceName": "Mother & Babycat",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-mother-y-babycat.jpg",
+      "images": [],
+      "eans": [
+        "9003579311462",
+        "7790187340299"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-gatos-castrados-young-female",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Gatos Castrados Young Female",
+      "sourceName": "Gatos Castrados Young Female",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-gatos-castrados-young-female.jpg",
+      "images": [],
+      "eans": [
+        "7790187003095",
+        "7790187003101"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-poodle",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Poodle",
+      "sourceName": "Poodle",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-poodle.jpg",
+      "images": [],
+      "eans": [
+        "9003579001646",
+        "9003579001653"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-relax-care-mini",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Relax Care Mini",
+      "sourceName": "Relax Care Mini",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-relax-care-mini.jpg",
+      "images": [],
+      "eans": [
+        "7908248300759"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-satiety-support-weight-management-canine",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Satiety Support Weight Management Canine",
+      "sourceName": "Satiety Support Weight Management Canine",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-satiety-support-weight-management-canine.jpg",
+      "images": [],
+      "eans": [
+        "7790187339101",
+        "7790187339118",
+        "7790187339125"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-mini-ageing",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Mini ageing",
+      "sourceName": "Mini ageing",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-mini-ageing.jpg",
+      "images": [],
+      "eans": [
+        "9003579008287"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-ageing-11-plus-wet",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Ageing 11+ wet",
+      "sourceName": "Ageing 11+ wet",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-ageing-11-plus-wet.jpg",
+      "images": [],
+      "eans": [
+        "9003579050088"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-mini-adulto-plus-8",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Mini Adulto +8",
+      "sourceName": "Mini Adulto +8",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-mini-adulto-plus-8.jpg",
+      "images": [],
+      "eans": [
+        "7790187370395"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-gastrointestinal-fibre-response-wet",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "GASTROINTESTINAL FIBRE RESPONSE WET",
+      "sourceName": "GASTROINTESTINAL FIBRE RESPONSE WET",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-gastrointestinal-fibre-response-wet.jpg",
+      "images": [],
+      "eans": [
+        "9003579027776"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-medium-adult-7-plus",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Medium Adult 7+",
+      "sourceName": "Medium Adult 7+",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-medium-adult-7-plus.jpg",
+      "images": [],
+      "eans": [
+        "7790187370555"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-diabetic-canine",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Diabetic Canine",
+      "sourceName": "Diabetic Canine",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-diabetic-canine.jpg",
+      "images": [],
+      "eans": [
+        "7790187005013",
+        "7790187005020",
+        "7790187341425"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-premium-dog-junior",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Premium Dog Junior",
+      "sourceName": "Premium Dog Junior",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-premium-dog-junior.jpg",
+      "images": [],
+      "eans": [
+        "7790187340961"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-gastrointestinal-feline",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Gastrointestinal Feline",
+      "sourceName": "Gastrointestinal Feline",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-gastrointestinal-feline.jpg",
+      "images": [],
+      "eans": [
+        "7790187341555"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-glycobalance",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Glycobalance",
+      "sourceName": "Glycobalance",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-glycobalance.jpg",
+      "images": [],
+      "eans": [
+        "9003579051061"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-labrador-retriever-junior",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Labrador Retriever Junior",
+      "sourceName": "Labrador Retriever Junior",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-labrador-retriever-junior.jpg",
+      "images": [],
+      "eans": [
+        "7790187341821"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-dachshund-adult",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Dachshund Adult",
+      "sourceName": "Dachshund Adult",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-dachshund-adult.jpg",
+      "images": [],
+      "eans": [
+        "7790187341234"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-mini-starter-mother-y-babydog",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Mini Starter Mother & Babydog",
+      "sourceName": "Mini Starter Mother & Babydog",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-mini-starter-mother-y-babydog.jpg",
+      "images": [],
+      "eans": [
+        "7790187339576",
+        "7790187339583"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-gastro-intestinal-canine",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Gastro intestinal canine",
+      "sourceName": "Gastro intestinal canine",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-gastro-intestinal-canine.jpg",
+      "images": [],
+      "eans": [
+        "7790187339156"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-digestive-care",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Digestive care",
+      "sourceName": "Digestive care",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-digestive-care.jpg",
+      "images": [],
+      "eans": [
+        "7790187340329",
+        "7790187342828",
+        "7896181218388"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-hypoallergenic-canine",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Hypoallergenic Canine",
+      "sourceName": "Hypoallergenic Canine",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-hypoallergenic-canine.jpg",
+      "images": [],
+      "eans": [
+        "7790187338586",
+        "7790187339286",
+        "7896181213543",
+        "9003579311615"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-mini-castrados",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Mini Castrados",
+      "sourceName": "Mini Castrados",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-mini-castrados.jpg",
+      "images": [],
+      "eans": [
+        "7790187340879"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-mobility-canine",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Mobility Canine",
+      "sourceName": "Mobility Canine",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-mobility-canine.jpg",
+      "images": [],
+      "eans": [
+        "7790187339217",
+        "7790187342576"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-satiety-weight-management-canine",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Satiety Weight Management Canine",
+      "sourceName": "Satiety Weight Management Canine",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-satiety-weight-management-canine.jpg",
+      "images": [],
+      "eans": [
+        "7790187340190",
+        "9003579311875"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-appetite-control",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Appetite Control",
+      "sourceName": "Appetite Control",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-appetite-control.jpg",
+      "images": [],
+      "eans": [
+        "7790187341937",
+        "7790187341944",
+        "9003579015025"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-medium-weight-care",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Medium Weight Care",
+      "sourceName": "Medium Weight Care",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-medium-weight-care.jpg",
+      "images": [],
+      "eans": [
+        "7790187340831",
+        "7790187340848"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-hypoallergenic-small-dog",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Hypoallergenic Small Dog",
+      "sourceName": "Hypoallergenic Small Dog",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-hypoallergenic-small-dog.jpg",
+      "images": [],
+      "eans": [
+        "7896181216452"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-hypoallergenic-canine-br",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Hypoallergenic Canine BR",
+      "sourceName": "Hypoallergenic Canine BR",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-hypoallergenic-canine-br.jpg",
+      "images": [],
+      "eans": [
+        "7908248301398"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-gastrointestinal-low-fat-canine",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Gastrointestinal Low Fat Canine",
+      "sourceName": "Gastrointestinal Low Fat Canine",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-gastrointestinal-low-fat-canine.jpg",
+      "images": [],
+      "eans": [
+        "7790187338562",
+        "9003579308448"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-urinary-care",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Urinary Care",
+      "sourceName": "Urinary Care",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-urinary-care.jpg",
+      "images": [],
+      "eans": [
+        "7790187340350",
+        "7790187340367",
+        "7790187342767",
+        "7790187342774",
+        "9003579000359"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-mini-puppy",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "MINI PUPPY",
+      "sourceName": "MINI PUPPY",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-mini-puppy.jpg",
+      "images": [],
+      "eans": [
+        "7790187342231",
+        "7790187342255",
+        "7790187339613",
+        "7790187342262",
+        "9003579008218",
+        "7790187339620",
+        "7790187339637",
+        "7790187339644"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-urinary-s-o-ageing-7-plus",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Urinary S-O Ageing 7+",
+      "sourceName": "Urinary S-O Ageing 7+",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-urinary-s-o-ageing-7-plus.jpg",
+      "images": [],
+      "eans": [
+        "7790187342606",
+        "7790187342613"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-yorkshire-terrier-adult",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Yorkshire Terrier Adult",
+      "sourceName": "Yorkshire Terrier Adult",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-yorkshire-terrier-adult.jpg",
+      "images": [],
+      "eans": [
+        "7790187341760",
+        "7790187341777"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-mother-y-baby-cat",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Mother & Baby Cat",
+      "sourceName": "Mother & Baby Cat",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-mother-y-baby-cat.jpg",
+      "images": [],
+      "eans": [
+        "7790187342446"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-gi-kitten-mousse-wet",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "GI Kitten Mousse Wet",
+      "sourceName": "GI Kitten Mousse Wet",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-gi-kitten-mousse-wet.jpg",
+      "images": [],
+      "eans": [
+        "9003579013410"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-club-performance-feline-adult",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Club Performance Feline Adult",
+      "sourceName": "Club Performance Feline Adult",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-club-performance-feline-adult.jpg",
+      "images": [],
+      "eans": [
+        "7790187341111",
+        "7790187341128"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-exigent-pouch",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Exigent pouch",
+      "sourceName": "Exigent pouch",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-exigent-pouch.jpg",
+      "images": [],
+      "eans": [
+        "9003579009451"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-club-performance-dog-adult",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Club Performance Dog Adult",
+      "sourceName": "Club Performance Dog Adult",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-club-performance-dog-adult.jpg",
+      "images": [],
+      "eans": [
+        "7790187340930",
+        "7790187340947"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-satiety-feline-wet",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "SATIETY FELINE WET",
+      "sourceName": "SATIETY FELINE WET",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-satiety-feline-wet.jpg",
+      "images": [],
+      "eans": [
+        "9003579006146"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-medium-puppy",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Medium Puppy",
+      "sourceName": "Medium Puppy",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-medium-puppy.jpg",
+      "images": [],
+      "eans": [
+        "7790187342286",
+        "7790187342293",
+        "7790187342309",
+        "7790187339682",
+        "7790187339699",
+        "7790187339705"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-hypoallergenic-moderate-calorie-canine",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "HYPOALLERGENIC MODERATE CALORIE CANINE",
+      "sourceName": "HYPOALLERGENIC MODERATE CALORIE CANINE",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-hypoallergenic-moderate-calorie-canine.jpg",
+      "images": [],
+      "eans": [
+        "7908248301145"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-digest-sensitive",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Digest Sensitive",
+      "sourceName": "Digest Sensitive",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-digest-sensitive.jpg",
+      "images": [],
+      "eans": [
+        "9003579309537",
+        "9003579309568"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-ovejero-alem-n-junior",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Ovejero Alemán Junior",
+      "sourceName": "Ovejero Alemán Junior",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-ovejero-alem-n-junior.jpg",
+      "images": [],
+      "eans": [
+        "7790187341807"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-ageing-11-plus",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Ageing 11+",
+      "sourceName": "Ageing 11+",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-ageing-11-plus.jpg",
+      "images": [],
+      "eans": [
+        "3182551066005"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-sensory-taste",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Sensory Taste",
+      "sourceName": "Sensory Taste",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-sensory-taste.jpg",
+      "images": [],
+      "eans": [
+        "9003579018866"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-puppy-pro-tech",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "PUPPY PRO TECH",
+      "sourceName": "PUPPY PRO TECH",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-puppy-pro-tech.jpg",
+      "images": [],
+      "eans": [
+        "3182550861366",
+        "3182550861366"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-renal-canine",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Renal Canine",
+      "sourceName": "Renal Canine",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-renal-canine.jpg",
+      "images": [],
+      "eans": [
+        "7790187338883",
+        "7790187341982",
+        "7790187342019"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-maxi-ageing-plus-8",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Maxi Ageing +8",
+      "sourceName": "Maxi Ageing +8",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-maxi-ageing-plus-8.jpg",
+      "images": [],
+      "eans": [
+        "7790187370692"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-urinary-s-o-canine",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Urinary S-O Canine",
+      "sourceName": "Urinary S-O Canine",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-urinary-s-o-canine.jpg",
+      "images": [],
+      "eans": [
+        "7790187340268",
+        "7790187340275",
+        "9003579308462"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-pug-adulto",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Pug Adulto",
+      "sourceName": "Pug Adulto",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-pug-adulto.jpg",
+      "images": [],
+      "eans": [
+        "7790187341296",
+        "7790187341302"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-renal-feline",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Renal Feline",
+      "sourceName": "Renal Feline",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-renal-feline.jpg",
+      "images": [],
+      "eans": [
+        "7790187338906",
+        "7790187341975",
+        "9003579000458"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-hypoallergenic-puppy",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "HYPOALLERGENIC PUPPY",
+      "sourceName": "HYPOALLERGENIC PUPPY",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-hypoallergenic-puppy.jpg",
+      "images": [],
+      "eans": [
+        "7790187345096",
+        "7790187345102"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-sensory-feel",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Sensory Feel",
+      "sourceName": "Sensory Feel",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-sensory-feel.jpg",
+      "images": [],
+      "eans": [
+        "9003579018941"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-hepatic-feline",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "HEPATIC FELINE",
+      "sourceName": "HEPATIC FELINE",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-hepatic-feline.jpg",
+      "images": [],
+      "eans": [
+        "7790187341586"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-bulldog-ingl-s-adult",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Bulldog Inglés Adult",
+      "sourceName": "Bulldog Inglés Adult",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-bulldog-ingl-s-adult.jpg",
+      "images": [],
+      "eans": [
+        "7790187341241"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-medium-ageing-10-plus",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Medium Ageing 10+",
+      "sourceName": "Medium Ageing 10+",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-medium-ageing-10-plus.jpg",
+      "images": [],
+      "eans": [
+        "7790187370609",
+        "7790187340565"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-dachshund",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Dachshund",
+      "sourceName": "Dachshund",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-dachshund.jpg",
+      "images": [],
+      "eans": [
+        "9003579001578",
+        "9003579001585"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-anallergenic-canine",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "ANALLERGENIC CANINE",
+      "sourceName": "ANALLERGENIC CANINE",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-anallergenic-canine.jpg",
+      "images": [],
+      "eans": [
+        "3182550940528",
+        "3182550940566"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-gatos-castrados-young-male",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Gatos Castrados Young Male",
+      "sourceName": "Gatos Castrados Young Male",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-gatos-castrados-young-male.jpg",
+      "images": [],
+      "eans": [
+        "7790187003057",
+        "7790187003064"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-hair-y-skin-care",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Hair & Skin Care",
+      "sourceName": "Hair & Skin Care",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-hair-y-skin-care.jpg",
+      "images": [],
+      "eans": [
+        "7790187342750",
+        "7790187340343"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-maxi-dermacomfort",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Maxi Dermacomfort",
+      "sourceName": "Maxi Dermacomfort",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-maxi-dermacomfort.jpg",
+      "images": [],
+      "eans": [
+        "7790187340800"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-medium-starter-mother-y-babydog",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Medium Starter Mother & Babydog",
+      "sourceName": "Medium Starter Mother & Babydog",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-medium-starter-mother-y-babydog.jpg",
+      "images": [],
+      "eans": [
+        "7790187339668"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-cardiac-canine",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Cardiac Canine",
+      "sourceName": "Cardiac Canine",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-cardiac-canine.jpg",
+      "images": [],
+      "eans": [
+        "7790187339248",
+        "7790187341951"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-club-performance-dog-junior",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Club Performance Dog Junior",
+      "sourceName": "Club Performance Dog Junior",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-club-performance-dog-junior.jpg",
+      "images": [],
+      "eans": [
+        "7790187340909"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-anallergenic-feline",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "ANALLERGENIC FELINE",
+      "sourceName": "ANALLERGENIC FELINE",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-anallergenic-feline.jpg",
+      "images": [],
+      "eans": [
+        "3182550939218"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-active-7-plus",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Active 7+",
+      "sourceName": "Active 7+",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-active-7-plus.jpg",
+      "images": [],
+      "eans": [
+        "7790187339415"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-dachshund-puppy",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Dachshund Puppy",
+      "sourceName": "Dachshund Puppy",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-dachshund-puppy.jpg",
+      "images": [],
+      "eans": [
+        "7790187341333",
+        "7790187341340"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-ageing-12-plus",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Ageing 12+",
+      "sourceName": "Ageing 12+",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-ageing-12-plus.jpg",
+      "images": [],
+      "eans": [
+        "3182550786218",
+        "9003579310151",
+        "9003579310175"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-light-weight-care",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Light Weight Care",
+      "sourceName": "Light Weight Care",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-light-weight-care.jpg",
+      "images": [],
+      "eans": [
+        "7790187342712",
+        "9003579008850",
+        "9003579308769"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-recovery-feline-y-canine",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Recovery Feline & Canine",
+      "sourceName": "Recovery Feline & Canine",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-recovery-feline-y-canine.jpg",
+      "images": [],
+      "eans": [
+        "7896181213970"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-boxer-adulto",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Boxer Adulto",
+      "sourceName": "Boxer Adulto",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-boxer-adulto.jpg",
+      "images": [],
+      "eans": [
+        "7790187341647"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-gastrointestinal-canine",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Gastrointestinal Canine",
+      "sourceName": "Gastrointestinal Canine",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-gastrointestinal-canine.jpg",
+      "images": [],
+      "eans": [
+        "7790187341494",
+        "7790187345898",
+        "9003579311998",
+        "7790187341500"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-gatos-castrados-weight-control",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Gatos Castrados Weight Control",
+      "sourceName": "Gatos Castrados Weight Control",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-gatos-castrados-weight-control.jpg",
+      "images": [],
+      "eans": [
+        "7790187003125",
+        "7790187342125",
+        "7790187342132",
+        "7790187342149",
+        "7790187342156",
+        "7790187003132",
+        "7790187003149",
+        "7790187003156",
+        "7790187003163",
+        "7790187342118"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-maxi-adulto-h-medo",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Maxi Adulto Húmedo",
+      "sourceName": "Maxi Adulto Húmedo",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-maxi-adulto-h-medo.jpg",
+      "images": [],
+      "eans": [
+        "9003579008485"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-persian",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Persian",
+      "sourceName": "Persian",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-persian.jpg",
+      "images": [],
+      "eans": [
+        "9003579001165",
+        "9003579001172"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-kitten",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "KITTEN",
+      "sourceName": "KITTEN",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-kitten.jpg",
+      "images": [],
+      "eans": [
+        "7790187342415",
+        "7790187342422",
+        "7790187342439",
+        "9003579308943",
+        "7790187338678",
+        "7790187338692",
+        "7790187339514",
+        "9003579308745"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-gastrointestinal-low-fat-seco",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "GASTROINTESTINAL LOW FAT SECO",
+      "sourceName": "GASTROINTESTINAL LOW FAT SECO",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-gastrointestinal-low-fat-seco.jpg",
+      "images": [],
+      "eans": [
+        "7896181213703"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-maxi-starter-mother-y-babydog",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Maxi Starter Mother & Babydog",
+      "sourceName": "Maxi Starter Mother & Babydog",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-maxi-starter-mother-y-babydog.jpg",
+      "images": [],
+      "eans": [
+        "7790187339729"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-hepatic-canine",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Hepatic Canine",
+      "sourceName": "Hepatic Canine",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-hepatic-canine.jpg",
+      "images": [],
+      "eans": [
+        "7790187338555",
+        "7790187341524",
+        "7790187341531"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-persian-adult",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Persian Adult",
+      "sourceName": "Persian Adult",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-persian-adult.jpg",
+      "images": [],
+      "eans": [
+        "7790187339422",
+        "7790187339439"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-mini-adulto-8-plus",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Mini Adulto 8+",
+      "sourceName": "Mini Adulto 8+",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-mini-adulto-8-plus.jpg",
+      "images": [],
+      "eans": [
+        "7790187340510",
+        "7790187340572"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-mini-pupy",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "MINI PUPY",
+      "sourceName": "MINI PUPY",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-mini-pupy.jpg",
+      "images": [],
+      "eans": [
+        "7790187342248"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-medium-castrados",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Medium Castrados",
+      "sourceName": "Medium Castrados",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-medium-castrados.jpg",
+      "images": [],
+      "eans": [
+        "7790187340862"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-ovejero-alem-n-adult",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Ovejero Alemán Adult",
+      "sourceName": "Ovejero Alemán Adult",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-ovejero-alem-n-adult.jpg",
+      "images": [],
+      "eans": [
+        "7790187341692"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-maxi-castrados",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Maxi Castrados",
+      "sourceName": "Maxi Castrados",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-maxi-castrados.jpg",
+      "images": [],
+      "eans": [
+        "7790187340756"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-sensible",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Sensible",
+      "sourceName": "Sensible",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-sensible.jpg",
+      "images": [],
+      "eans": [
+        "7790187339477",
+        "7790187339484",
+        "7790187339491"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-maxi-adulto",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Maxi Adulto",
+      "sourceName": "Maxi Adulto",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-maxi-adulto.jpg",
+      "images": [],
+      "eans": [
+        "7790187370623",
+        "7790187370654"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-indoor-long-hair",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Indoor Long Hair",
+      "sourceName": "Indoor Long Hair",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-indoor-long-hair.jpg",
+      "images": [],
+      "eans": [
+        "7790187339460"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-mini-dermacomfort",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Mini Dermacomfort",
+      "sourceName": "Mini Dermacomfort",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-mini-dermacomfort.jpg",
+      "images": [],
+      "eans": [
+        "7790187340763",
+        "7790187340770"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-caniche-junior",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Caniche Junior",
+      "sourceName": "Caniche Junior",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-caniche-junior.jpg",
+      "images": [],
+      "eans": [
+        "7790187341838",
+        "7790187341845"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-maxi-adulto-5-plus",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Maxi Adulto 5+",
+      "sourceName": "Maxi Adulto 5+",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-maxi-adulto-5-plus.jpg",
+      "images": [],
+      "eans": [
+        "7790187345928"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-x-small-adulto",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "X-Small Adulto",
+      "sourceName": "X-Small Adulto",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-x-small-adulto.jpg",
+      "images": [],
+      "eans": [
+        "7896181215622"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-chihuahua-adult",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Chihuahua Adult",
+      "sourceName": "Chihuahua Adult",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-chihuahua-adult.jpg",
+      "images": [],
+      "eans": [
+        "7790187341661"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-maxi-weight-care",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Maxi Weight Care",
+      "sourceName": "Maxi Weight Care",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-maxi-weight-care.jpg",
+      "images": [],
+      "eans": [
+        "7790187340855"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-mobility-larger-dogs",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Mobility Larger Dogs",
+      "sourceName": "Mobility Larger Dogs",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-mobility-larger-dogs.jpg",
+      "images": [],
+      "eans": [
+        "7790187342590"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-medium-adulto-plus-7",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Medium adulto+7",
+      "sourceName": "Medium adulto+7",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-medium-adulto-plus-7.jpg",
+      "images": [],
+      "eans": [
+        "7790187370586"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-gastrointestinal-moderate-calorie-canine",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Gastrointestinal Moderate Calorie Canine",
+      "sourceName": "Gastrointestinal Moderate Calorie Canine",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-gastrointestinal-moderate-calorie-canine.jpg",
+      "images": [],
+      "eans": [
+        "7790187345904"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-mature-consult-stage",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Mature Consult Stage",
+      "sourceName": "Mature Consult Stage",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-mature-consult-stage.jpg",
+      "images": [],
+      "eans": [
+        "7790187003170",
+        "7790187003187"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-maxi-adulto-pouch",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "maxi adulto pouch",
+      "sourceName": "maxi adulto pouch",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-maxi-adulto-pouch.jpg",
+      "images": [],
+      "eans": [
+        "9003579008492"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-urinary-s-o-feline",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Urinary S-O Feline",
+      "sourceName": "Urinary S-O Feline",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-urinary-s-o-feline.jpg",
+      "images": [],
+      "eans": [
+        "7790187340237",
+        "7790187340244",
+        "7790187340251",
+        "7790187340749",
+        "9003579305461"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-sensory-smell",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Sensory Smell",
+      "sourceName": "Sensory Smell",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-sensory-smell.jpg",
+      "images": [],
+      "eans": [
+        "9003579018514"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-yorkshire-terrier-junior",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Yorkshire Terrier Junior",
+      "sourceName": "Yorkshire Terrier Junior",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-yorkshire-terrier-junior.jpg",
+      "images": [],
+      "eans": [
+        "7790187341852",
+        "7790187341869"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-diabetic-feline",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Diabetic Feline",
+      "sourceName": "Diabetic Feline",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-diabetic-feline.jpg",
+      "images": [],
+      "eans": [
+        "7790187005006"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-hair-y-skin",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Hair & Skin",
+      "sourceName": "Hair & Skin",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-hair-y-skin.jpg",
+      "images": [],
+      "eans": [
+        "7790187342750"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-mini-ageing-12-plus",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Mini Ageing 12+",
+      "sourceName": "Mini Ageing 12+",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-mini-ageing-12-plus.jpg",
+      "images": [],
+      "eans": [
+        "7790187340480",
+        "7790187370425",
+        "7790187370456",
+        "9003579008294"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-exigent",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Exigent",
+      "sourceName": "Exigent",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-exigent.jpg",
+      "images": [],
+      "eans": [
+        "7790187339392",
+        "7896181213154"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-maxi-puppy",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Maxi Puppy",
+      "sourceName": "Maxi Puppy",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-maxi-puppy.jpg",
+      "images": [],
+      "eans": [
+        "7790187339743",
+        "7790187339750",
+        "7790187339767"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-fit",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Fit",
+      "sourceName": "Fit",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-fit.jpg",
+      "images": [],
+      "eans": [
+        "7790187339323",
+        "7790187339330",
+        "7790187339347",
+        "7790187339354",
+        "7790187370784"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-mini-weight-care",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Mini Weight Care",
+      "sourceName": "Mini Weight Care",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-mini-weight-care.jpg",
+      "images": [],
+      "eans": [
+        "7790187340824"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-urinary-s-o-small-dog",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "URINARY  S-O SMALL DOG",
+      "sourceName": "URINARY  S-O SMALL DOG",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-urinary-s-o-small-dog.jpg",
+      "images": [],
+      "eans": [
+        "7896181298083"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-indoor-7-plus",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Indoor 7+",
+      "sourceName": "Indoor 7+",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-indoor-7-plus.jpg",
+      "images": [],
+      "eans": [
+        "7790187338739",
+        "7790187338746",
+        "7790187338753"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-satiety-weight-management-feline",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Satiety Weight Management Feline",
+      "sourceName": "Satiety Weight Management Feline",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-satiety-weight-management-feline.jpg",
+      "images": [],
+      "eans": [
+        "7790187340411"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-boxer-junior",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Boxer Junior",
+      "sourceName": "Boxer Junior",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-boxer-junior.jpg",
+      "images": [],
+      "eans": [
+        "7790187341654"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-gastrointestinal-junior-canine",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Gastrointestinal Junior Canine",
+      "sourceName": "Gastrointestinal Junior Canine",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-gastrointestinal-junior-canine.jpg",
+      "images": [],
+      "eans": [
+        "7790187341517"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-caniche-adult",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Caniche Adult",
+      "sourceName": "Caniche Adult",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-caniche-adult.jpg",
+      "images": [],
+      "eans": [
+        "7790187341722",
+        "7790187341739",
+        "7790187341746"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-medium-adulto",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Medium Adulto",
+      "sourceName": "Medium Adulto",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-medium-adulto.jpg",
+      "images": [],
+      "eans": [
+        "7790187340596",
+        "7790187370487",
+        "7790187370517",
+        "7790187370531",
+        "9003579008362",
+        "7790187340619",
+        "7790187340640"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-jack-russel-puppy",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Jack Russel Puppy",
+      "sourceName": "Jack Russel Puppy",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-jack-russel-puppy.jpg",
+      "images": [],
+      "eans": [
+        "7790187341272",
+        "7790187341289"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-mature-consult",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Mature Consult",
+      "sourceName": "Mature Consult",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-mature-consult.jpg",
+      "images": [],
+      "eans": [
+        "7790187342095",
+        "7790187342101",
+        "7790187342170"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-hypoallergenic-feline",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Hypoallergenic Feline",
+      "sourceName": "Hypoallergenic Feline",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-hypoallergenic-feline.jpg",
+      "images": [],
+      "eans": [
+        "7896181215370"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-gastrointestinal-moderate-calorie-feline",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Gastrointestinal Moderate Calorie Feline",
+      "sourceName": "Gastrointestinal Moderate Calorie Feline",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-gastrointestinal-moderate-calorie-feline.jpg",
+      "images": [],
+      "eans": [
+        "7790187346109"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-babycat-milk",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "BabyCat Milk",
+      "sourceName": "BabyCat Milk",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-babycat-milk.jpg",
+      "images": [],
+      "eans": [
+        "3182550710862"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-gastrointestinal-hydrolyzed-protein-feline",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "GASTROINTESTINAL HYDROLYZED PROTEIN FELINE",
+      "sourceName": "GASTROINTESTINAL HYDROLYZED PROTEIN FELINE",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-gastrointestinal-hydrolyzed-protein-feline.jpg",
+      "images": [],
+      "eans": [
+        "7908248302197"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-diabetic-special-canine",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Diabetic Special Canine",
+      "sourceName": "Diabetic Special Canine",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-diabetic-special-canine.jpg",
+      "images": [],
+      "eans": [
+        "7790187339385"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-instinctive",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Instinctive",
+      "sourceName": "Instinctive",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-instinctive.jpg",
+      "images": [],
+      "eans": [
+        "9003579308738",
+        "9003579308936"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-medium-adult-pouch",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "medium adult pouch",
+      "sourceName": "medium adult pouch",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-medium-adult-pouch.jpg",
+      "images": [],
+      "eans": [
+        "9003579008379"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-indoor",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Indoor",
+      "sourceName": "Indoor",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-indoor.jpg",
+      "images": [],
+      "eans": [
+        "7790187338708",
+        "7790187338715",
+        "7790187338722"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-giant-junior",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Giant Junior",
+      "sourceName": "Giant Junior",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-giant-junior.jpg",
+      "images": [],
+      "eans": [
+        "7790187339835"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-club-performance-feline-kitten",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Club Performance Feline Kitten",
+      "sourceName": "Club Performance Feline Kitten",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-club-performance-feline-kitten.jpg",
+      "images": [],
+      "eans": [
+        "7790187003903",
+        "7790187003910"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-premium-dog-adulto",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Premium Dog Adulto",
+      "sourceName": "Premium Dog Adulto",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-premium-dog-adulto.jpg",
+      "images": [],
+      "eans": [
+        "7790187341593"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-pug-puppy",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Pug Puppy",
+      "sourceName": "Pug Puppy",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-pug-puppy.jpg",
+      "images": [],
+      "eans": [
+        "7790187341319",
+        "7790187341326"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-appetite-control-care",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "APPETITE CONTROL CARE",
+      "sourceName": "APPETITE CONTROL CARE",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-appetite-control-care.jpg",
+      "images": [],
+      "eans": [
+        "7790187342729",
+        "7790187342736"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-gastro-intestinal-feline",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Gastro intestinal feline",
+      "sourceName": "Gastro intestinal feline",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-gastro-intestinal-feline.jpg",
+      "images": [],
+      "eans": [
+        "9003579013557"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-satiety-small-dog",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Satiety small Dog",
+      "sourceName": "Satiety small Dog",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-satiety-small-dog.jpg",
+      "images": [],
+      "eans": [
+        "7896181218364"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-neutered-balance",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Neutered Balance",
+      "sourceName": "Neutered Balance",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-neutered-balance.jpg",
+      "images": [],
+      "eans": [
+        "7790187342163"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-hairballcare",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "HairBallCare",
+      "sourceName": "HairBallCare",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-hairballcare.jpg",
+      "images": [],
+      "eans": [
+        "9003579000403"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-giant-starter-mother-y-babydog",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Giant Starter Mother & Babydog",
+      "sourceName": "Giant Starter Mother & Babydog",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-giant-starter-mother-y-babydog.jpg",
+      "images": [],
+      "eans": [
+        "7790187339781"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-mini-adulto",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Mini Adulto",
+      "sourceName": "Mini Adulto",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-mini-adulto.jpg",
+      "images": [],
+      "eans": [
+        "7790187370227",
+        "7790187370258",
+        "7790187370289",
+        "7896181297857",
+        "9003579008249",
+        "7790187340428",
+        "7790187340435",
+        "9003579008256"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-renal-canine-special",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Renal Canine Special",
+      "sourceName": "Renal Canine Special",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-renal-canine-special.jpg",
+      "images": [],
+      "eans": [
+        "7790187340206",
+        "9003579000762"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-mother-y-babycat-7790187342392",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Mother&babycat",
+      "sourceName": "Mother&babycat",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-mother-y-babycat-7790187342392.jpg",
+      "images": [],
+      "eans": [
+        "7790187342392",
+        "7790187342408"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-maxi-adulto-bonus-bag",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Maxi adulto Bonus Bag",
+      "sourceName": "Maxi adulto Bonus Bag",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-maxi-adulto-bonus-bag.jpg",
+      "images": [],
+      "eans": [
+        "7790187340602"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-medium-puppy-pouch",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "medium puppy pouch",
+      "sourceName": "medium puppy pouch",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-medium-puppy-pouch.jpg",
+      "images": [],
+      "eans": [
+        "9003579008331"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-mobility-c2p-plus-canine",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Mobility C2P+ Canine",
+      "sourceName": "Mobility C2P+ Canine",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-mobility-c2p-plus-canine.jpg",
+      "images": [],
+      "eans": [
+        "7790187340213",
+        "9003579001691"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-weight-care",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Weight Care",
+      "sourceName": "Weight Care",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-weight-care.jpg",
+      "images": [],
+      "eans": [
+        "7790187340527",
+        "7790187340534"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-giant-adulto",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Giant Adulto",
+      "sourceName": "Giant Adulto",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-giant-adulto.jpg",
+      "images": [],
+      "eans": [
+        "7790187340466"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-medium-adulto-7-plus",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Medium Adulto 7+",
+      "sourceName": "Medium Adulto 7+",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-medium-adulto-7-plus.jpg",
+      "images": [],
+      "eans": [
+        "7790187370555",
+        "7790187340497"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-bulldog-franc-s-adult",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Bulldog Francés Adult",
+      "sourceName": "Bulldog Francés Adult",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-bulldog-franc-s-adult.jpg",
+      "images": [],
+      "eans": [
+        "7790187341678",
+        "7790187341685"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-bulldog-ingl-s-puppy",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Bulldog Inglés Puppy",
+      "sourceName": "Bulldog Inglés Puppy",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-bulldog-ingl-s-puppy.jpg",
+      "images": [],
+      "eans": [
+        "7790187341357",
+        "7790187341364"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-labrador-retriever-adult",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Labrador Retriever Adult",
+      "sourceName": "Labrador Retriever Adult",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-labrador-retriever-adult.jpg",
+      "images": [],
+      "eans": [
+        "7790187341715"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-exigent-mini",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Exigent Mini",
+      "sourceName": "Exigent Mini",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-exigent-mini.jpg",
+      "images": [],
+      "eans": [
+        "7790187340893"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-early-renal",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Early Renal",
+      "sourceName": "Early Renal",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-early-renal.jpg",
+      "images": [],
+      "eans": [
+        "7790187341487",
+        "7790187341968",
+        "7790187342002"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-golden-retriever-adult",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Golden Retriever Adult",
+      "sourceName": "Golden Retriever Adult",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-golden-retriever-adult.jpg",
+      "images": [],
+      "eans": [
+        "7790187341708"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-dietas-senior-consult-stage",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": "Dietas veterinarias",
+      "name": "Senior Consult Stage",
+      "sourceName": "Senior Consult Stage",
+      "category": "alimentos",
+      "subcategory": "dieta-veterinaria",
+      "species": [],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/dietas-senior-consult-stage.jpg",
+      "images": [],
+      "eans": [
+        "7790187003200",
+        "9003579310960",
+        "9003579310977",
+        "9003579311240"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-instinctive-7-plus",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Instinctive 7+",
+      "sourceName": "Instinctive 7+",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-instinctive-7-plus.jpg",
+      "images": [],
+      "eans": [
+        "9003579310168",
+        "9003579310182"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-jack-russel-adulto",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Jack Russel Adulto",
+      "sourceName": "Jack Russel Adulto",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-jack-russel-adulto.jpg",
+      "images": [],
+      "eans": [
+        "7790187341258",
+        "7790187341265"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-bulldog-franc-s-junior",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Bulldog Francés Junior",
+      "sourceName": "Bulldog Francés Junior",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-bulldog-franc-s-junior.jpg",
+      "images": [],
+      "eans": [
+        "7790187341784",
+        "7790187341791"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-medium-dermacomfort",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Medium Dermacomfort",
+      "sourceName": "Medium Dermacomfort",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-medium-dermacomfort.jpg",
+      "images": [],
+      "eans": [
+        "7790187340787",
+        "7790187340794"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-schnauzer-miniature-adult",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Schnauzer Miniature Adult",
+      "sourceName": "Schnauzer Miniature Adult",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-schnauzer-miniature-adult.jpg",
+      "images": [],
+      "eans": [
+        "7790187341753"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-perro-maxi-puppy-pouch",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "maxi puppy pouch",
+      "sourceName": "maxi puppy pouch",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/perro-maxi-puppy-pouch.jpg",
+      "images": [],
+      "eans": [
+        "9003579008454"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        }
+      ]
+    },
+    {
+      "id": "royal-canin-gato-siamese-adult",
+      "brand": "Royal Canin",
+      "supplier": "Royal Canin",
+      "line": null,
+      "name": "Siamese Adult",
+      "sourceName": "Siamese Adult",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [],
+      "price": {},
+      "image": null,
+      "mainImage": "img/royal-canin/gato-siamese-adult.jpg",
+      "images": [],
+      "eans": [
+        "7790187339446",
+        "7790187339453"
+      ],
+      "variants": [],
+      "availability": null,
+      "reviewStatus": "pending-price",
+      "sources": [
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
         }
       ]
     }
