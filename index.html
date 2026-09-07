@@ -177,8 +177,13 @@
 
     <div class="branch-grid">
       <article class="branch-card featured-branch reveal">
-        <div class="branch-top"><span>01</span><div><small>Sucursal</small><h3>Km 56</h3></div></div>
+        <div class="branch-top"><span>01</span><div><small>Veterinaria Terranova</small><h3>Km 56</h3></div></div>
         <p>Granadero M. Gelves 1069, Km 56.</p>
+        <dl class="branch-hours">
+          <div><dt>Lun a vie</dt><dd>9:00 – 19:00</dd></div>
+          <div><dt>Sábado</dt><dd>10:00 – 14:00</dd></div>
+          <div><dt>Domingo</dt><dd>Cerrado</dd></div>
+        </dl>
         <a class="branch-phone" href="tel:+541168347358">11 6834-7358</a>
         <div class="branch-actions">
           <a class="btn" target="_blank" rel="noopener" href="https://wa.me/5491168347358?text=Hola%20Terranova%2C%20quisiera%20consultar%20con%20la%20sucursal%20Km%2056.">WhatsApp</a>
@@ -187,8 +192,13 @@
       </article>
 
       <article class="branch-card reveal">
-        <div class="branch-top"><span>02</span><div><small>Sucursal</small><h3>La Lonja</h3></div></div>
+        <div class="branch-top"><span>02</span><div><small>Veterinaria Terranova</small><h3>La Lonja</h3></div></div>
         <p>Saraví 2134, La Lonja.</p>
+        <dl class="branch-hours">
+          <div><dt>Lun a vie</dt><dd>9:00 – 19:00</dd></div>
+          <div><dt>Sábado</dt><dd>9:00 – 13:00</dd></div>
+          <div><dt>Domingo</dt><dd>Cerrado</dd></div>
+        </dl>
         <a class="branch-phone" href="tel:+541169821001">11 6982-1001</a>
         <div class="branch-actions">
           <a class="btn" target="_blank" rel="noopener" href="https://wa.me/5491169821001?text=Hola%20Terranova%2C%20quisiera%20consultar%20con%20la%20sucursal%20La%20Lonja.">WhatsApp</a>
@@ -197,8 +207,13 @@
       </article>
 
       <article class="branch-card reveal">
-        <div class="branch-top"><span>03</span><div><small>Sucursal</small><h3>San Miguel</h3></div></div>
+        <div class="branch-top"><span>03</span><div><small>Veterinaria Terranova</small><h3>San Miguel</h3></div></div>
         <p>Av. Dr. Ricardo Balbín 5456, CP 1663, San Miguel.</p>
+        <dl class="branch-hours">
+          <div><dt>Lun a vie</dt><dd>9:00 – 15:00 y 16:00 – 20:00</dd></div>
+          <div><dt>Sábado</dt><dd>9:00 – 20:00</dd></div>
+          <div><dt>Domingo</dt><dd>Cerrado</dd></div>
+        </dl>
         <a class="branch-phone" href="tel:+541166739934">11 6673-9934</a>
         <div class="branch-actions">
           <a class="btn" target="_blank" rel="noopener" href="https://wa.me/5491166739934?text=Hola%20Terranova%2C%20quisiera%20consultar%20con%20la%20sucursal%20San%20Miguel.">WhatsApp</a>
@@ -208,8 +223,8 @@
     </div>
 
     <div class="hours-note reveal">
-      <b>Horarios publicados de la sede Km 56:</b>
-      <span>Lunes a viernes de 9:00 a 19:00 · Sábado de 9:30 a 15:00 · Domingo cerrado.</span>
+      <b>Los horarios pueden variar por feriados o urgencias.</b>
+      <span>Escribinos por WhatsApp antes de acercarte y te confirmamos la disponibilidad del día.</span>
     </div>
   </div>
 </section>
@@ -257,6 +272,45 @@
   <div class="product-modal__panel">
     <button id="closeProductModal" class="product-modal__close" type="button" aria-label="Cerrar detalle del producto"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg></button>
     <div id="productModalContent"></div>
+  </div>
+</dialog>
+
+<dialog id="cartModal" class="cart-modal" aria-labelledby="cartModalTitle">
+  <div class="cart-panel">
+    <div class="cart-head">
+      <h2 id="cartModalTitle">Tu pedido</h2>
+      <button id="closeCart" class="product-modal__close" type="button" aria-label="Cerrar pedido"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg></button>
+    </div>
+
+    <div id="cartEmpty" class="cart-empty">
+      <b>Todavía no agregaste productos.</b>
+      <span>Explorá el catálogo y sumá lo que necesites.</span>
+      <button class="btn secondary" type="button" data-close-cart>Ver catálogo</button>
+    </div>
+
+    <div id="cartBody" class="cart-body" hidden>
+      <ul id="cartItems" class="cart-items"></ul>
+
+      <div class="cart-options">
+        <fieldset class="cart-field">
+          <legend>¿Cómo lo retirás?</legend>
+          <label class="cart-radio"><input type="radio" name="delivery" value="Retiro en el local" checked><span>Retiro en el local</span></label>
+          <label class="cart-radio"><input type="radio" name="delivery" value="Pedido online / envío"><span>Pedido online / envío</span></label>
+        </fieldset>
+        <fieldset class="cart-field">
+          <legend>¿Cómo pagás?</legend>
+          <label class="cart-radio"><input type="radio" name="payment" value="Efectivo" checked><span>Efectivo</span></label>
+          <label class="cart-radio"><input type="radio" name="payment" value="Mercado Pago"><span>Mercado Pago</span></label>
+        </fieldset>
+        <p class="cart-note">El pago y el envío se coordinan por WhatsApp con la sucursal. Todavía no se cobra nada online.</p>
+      </div>
+    </div>
+
+    <div id="cartFooter" class="cart-foot" hidden>
+      <div class="cart-total"><span>Total</span><b id="cartTotal">$ 0</b></div>
+      <p id="cartPending" class="cart-pending" hidden></p>
+      <button id="confirmOrder" class="btn full" type="button">Confirmar pedido</button>
+    </div>
   </div>
 </dialog>
 
@@ -327,6 +381,10 @@
   <div class="container bottom">© <span id="year"></span> Veterinaria Terranova</div>
 </footer>
 
+<button id="cartButton" class="cart-fab" type="button" aria-label="Ver tu pedido" hidden>
+  <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 8h16l-1 13H5zM8 8a4 4 0 0 1 8 0"/></svg>
+  <span id="cartBadge" class="cart-badge">0</span>
+</button>
 <a class="whatsapp" href="#sucursales" aria-label="Elegir sucursal de WhatsApp"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 11.5a8 8 0 0 1-11.8 7L4 20l1.5-4A8 8 0 1 1 20 11.5Z"/><path d="M9 8.5c.4 2.6 1.9 4.1 4.5 4.8l1.2-1.1 2 .7c.2 1.3-.8 2.4-2.1 2.4-4.2-.2-7.7-3.7-7.9-7.9 0-1.3 1.1-2.3 2.4-2.1l.7 2z"/></svg></a>
 <script src="script.js"></script>
 </body>

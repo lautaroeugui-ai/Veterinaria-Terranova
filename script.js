@@ -30,14 +30,19 @@ document.getElementById('form')?.addEventListener('submit',event=>{
     return;
   }
 
+  const sucursal=branch.options[branch.selectedIndex].text;
+  const esPedido=orderPending&&message.startsWith('PEDIDO');
   const text=[
-    `Hola Terranova, quisiera hacer una consulta con la sucursal ${branch.options[branch.selectedIndex].text}.`,
+    esPedido
+      ?`Hola Terranova, quisiera hacer un pedido en la sucursal ${sucursal}.`
+      :`Hola Terranova, quisiera hacer una consulta con la sucursal ${sucursal}.`,
     '',
     `Nombre: ${name}`,
     `Teléfono: ${phone}`,
     pet?`Mascota: ${pet}`:null,
-    `Mensaje: ${message}`
-  ].filter(Boolean).join('\n');
+    '',
+    message.includes('\n')?message:`Mensaje: ${message}`
+  ].filter(value=>value!==null).join('\n');
   window.open(`https://wa.me/${branch.value}?text=${encodeURIComponent(text)}`,'_blank','noopener,noreferrer');
 });
 
@@ -101,13 +106,79 @@ function tidyLabel(value){
   }).join(' ');
 }
 
-function displayName(product){
+// Los nombres del catálogo son fragmentos de la lista de precios ("Gato Urinario",
+// "Urinary"), que sueltos no dicen qué es el producto. Para alimentos se arma un
+// título con los campos ya cargados; el resto conserva su nombre original.
+const needTitleLabels={
+  'urinario':'Cuidado urinario',
+  'cuidado urinario':'Cuidado urinario',
+  'esterilizado':'Esterilizados',
+  'esterilizado/castrado':'Esterilizados',
+  'light':'Light',
+  'control de peso':'Control de peso',
+  'sobrepeso':'Control de peso',
+  'piel sensible':'Piel sensible',
+  'crecimiento':'Crecimiento',
+  'optimo crecimiento':'Óptimo crecimiento',
+  'mantenimiento':'Mantenimiento',
+  'cuidado completo':'Cuidado completo',
+  'razas pequenas':'Razas pequeñas',
+  'razas medianas y grandes':'Razas medianas y grandes',
+  'razas pequenas y medianas':'Razas pequeñas y medianas',
+  'todas las razas':'Todas las razas'
+};
+const stageTitleLabels={cachorro:'Cachorro',gatito:'Gatito',adulto:'Adulto',senior:'Senior'};
+
+function composedTitle(product){
+  if(!normalize(product.category).startsWith('alimento'))return null;
+  const species=asArray(product.species);
+  if(species.length!==1)return null;
+  const stageRaw=normalize(product.lifeStage).split(/[;,]/)[0].split(' ')[0];
+  const stage=stageTitleLabels[stageRaw]||null;
+  const needRaw=normalize(product.need).split(';')[0].trim();
+  const need=needTitleLabels[needRaw]||null;
+  const flavor=product.flavor?tidyLabel(product.flavor):null;
+  if(!stage&&!need&&!flavor)return null;
+  const subject=(stage==='Gatito'||stage==='Cachorro')
+    ?stage
+    :`${species[0]==='gato'?'Gato':'Perro'}${stage?` ${stage.toLocaleLowerCase('es')}`:''}`;
+  const parts=[subject];
+  if(need)parts.push(need);
+  if(flavor)parts.push(flavor.charAt(0).toLocaleUpperCase('es')+flavor.slice(1));
+  return parts.join(' · ');
+}
+
+function baseName(product){
   const name=tidyLabel(product?.name);
   const brand=String(product?.brand||'').trim();
   if(!brand)return name;
   const escaped=brand.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
   const stripped=name.replace(new RegExp(`(^|\\s)${escaped}(?=\\s|$)`,'gi'),'$1').replace(/\s{2,}/g,' ').trim();
   return stripped||name;
+}
+
+function displayName(product){
+  return product?.displayTitle||baseName(product);
+}
+
+// Dos productos distintos no pueden terminar con el mismo título: si el compuesto
+// choca con otro, ese producto se queda con su nombre original.
+function assignDisplayTitles(products){
+  const usados=new Map();
+  products.forEach(product=>{
+    const candidato=composedTitle(product);
+    const clave=candidato?`${product.brand}|${product.line||''}|${candidato}`:null;
+    if(candidato&&!usados.has(clave)){
+      usados.set(clave,product);
+      product.displayTitle=candidato;
+    }else{
+      product.displayTitle=baseName(product);
+      if(candidato&&usados.has(clave)){
+        const previo=usados.get(clave);
+        previo.displayTitle=baseName(previo);
+      }
+    }
+  });
 }
 
 function cheapestVariant(variants){
@@ -154,7 +225,7 @@ function productDescription(product){
   const extras=[
     species.length?`para ${species.join(' y ').toLocaleLowerCase('es')}`:null,
     product.lifeStage?`etapa ${lifeStageLabels[product.lifeStage]||product.lifeStage}`:null,
-    product.need?`orientado a ${product.need}`:null,
+    product.need?`orientado a ${(needTitleLabels[normalize(product.need).split(';')[0].trim()]||product.need).toLocaleLowerCase('es')}`:null,
     product.flavor?`sabor ${product.flavor}`:null
   ].filter(Boolean);
   if(!extras.length)return null;
@@ -208,12 +279,9 @@ function createProductCard(product){
   body.className='product-body';
   const eyebrow=document.createElement('p');
   eyebrow.className='product-eyebrow';
-  if(normalize(product.brand)==='purina'&&normalize(product.line)==='excellent'){
-    eyebrow.textContent='Purina Excellent';
-    eyebrow.classList.add('product-eyebrow--excellent');
-  }else{
-    eyebrow.textContent=product.brand;
-  }
+  // La línea distingue productos que, ya compuesto el título, se llamarían igual
+  // (Old Prince Equilibrium y Premium comparten varias fórmulas).
+  eyebrow.textContent=product.line?`${product.brand} · ${product.line}`:product.brand;
   const title=document.createElement('h3');
   title.textContent=displayName(product);
   const details=document.createElement('div');
@@ -264,9 +332,9 @@ function createProductCard(product){
   review.className='review-note';
   review.textContent='Precio pendiente de revisión';
   const button=document.createElement('button');
-  button.className='btn product-whatsapp';
+  button.className='btn product-add';
   button.type='button';
-  button.textContent='Consultar por WhatsApp';
+  button.textContent='Agregar al pedido';
   const purchase=document.createElement('div');
   purchase.className='product-purchase';
   purchase.append(price,review,button);
@@ -279,11 +347,6 @@ function createProductCard(product){
     price.classList.toggle('is-query',!hasPrice);
     if(presentation)presentation.textContent=variantLabel(selectedVariant);
     review.hidden=product.reviewStatus!=='price-review'&&selectedVariant?.reviewStatus!=='price-review';
-    button.dataset.message=[
-      `Quisiera consultar por ${product.brand} ${displayName(product)}`,
-      selectedVariant?variantLabel(selectedVariant):null,
-      hasPrice?formatPrice(retail.amount,retail.currency||'ARS'):null
-    ].filter(Boolean).join(' · ')+'.';
   }
 
   variantSelect?.addEventListener('change',()=>{
@@ -291,9 +354,13 @@ function createProductCard(product){
     updateVariant();
   });
   button.addEventListener('click',()=>{
-    document.getElementById('message').value=button.dataset.message;
-    document.getElementById('contacto').scrollIntoView({behavior:'smooth'});
-    window.setTimeout(()=>document.getElementById('name').focus(),450);
+    cartAdd(product,selectedVariant);
+    button.classList.add('is-added');
+    button.textContent='Agregado';
+    window.setTimeout(()=>{
+      button.classList.remove('is-added');
+      button.textContent='Agregar al pedido';
+    },1400);
   });
   card.addEventListener('click',event=>{
     if(event.target.closest('button, select, label, input, a'))return;
@@ -313,6 +380,253 @@ function createProductCard(product){
   card.append(media,body);
   return card;
 }
+
+const CART_STORAGE_KEY='terranova-pedido';
+const cart={
+  dialog:document.getElementById('cartModal'),
+  list:document.getElementById('cartItems'),
+  body:document.getElementById('cartBody'),
+  empty:document.getElementById('cartEmpty'),
+  foot:document.getElementById('cartFooter'),
+  total:document.getElementById('cartTotal'),
+  pending:document.getElementById('cartPending'),
+  button:document.getElementById('cartButton'),
+  badge:document.getElementById('cartBadge'),
+  confirm:document.getElementById('confirmOrder'),
+  close:document.getElementById('closeCart'),
+  items:[]
+};
+
+function cartRead(){
+  try{
+    const raw=window.localStorage.getItem(CART_STORAGE_KEY);
+    const parsed=raw?JSON.parse(raw):[];
+    return Array.isArray(parsed)?parsed.filter(item=>item&&item.productId&&Number.isFinite(item.qty)&&item.qty>0):[];
+  }catch(error){
+    return [];
+  }
+}
+
+function cartWrite(){
+  try{
+    window.localStorage.setItem(CART_STORAGE_KEY,JSON.stringify(cart.items));
+  }catch(error){
+    /* almacenamiento no disponible: el pedido vive solo en esta pestaña */
+  }
+}
+
+// El carrito guarda referencias, nunca precios: el importe se relee del catálogo
+// en cada render para que no quede congelado un valor viejo.
+function cartResolve(){
+  return cart.items.map(item=>{
+    const product=catalog.products.find(entry=>entry.id===item.productId);
+    if(!product)return null;
+    const variants=asArray(product.variants);
+    const variant=item.variantId?variants.find(entry=>entry.id===item.variantId)||null:null;
+    if(item.variantId&&!variant)return null;
+    const amount=variant?.retailPrice?.amount;
+    const unitPrice=Number.isFinite(amount)?amount:null;
+    return {
+      key:item.variantId||item.productId,
+      product,
+      variant,
+      qty:item.qty,
+      unitPrice,
+      currency:variant?.retailPrice?.currency||'ARS',
+      lineTotal:unitPrice===null?null:unitPrice*item.qty
+    };
+  }).filter(Boolean);
+}
+
+function cartCount(){
+  return cart.items.reduce((sum,item)=>sum+item.qty,0);
+}
+
+function cartAdd(product,variant){
+  const productId=product.id;
+  const variantId=variant?.id||null;
+  const existing=cart.items.find(item=>item.productId===productId&&(item.variantId||null)===variantId);
+  if(existing)existing.qty+=1;
+  else cart.items.push({productId,variantId,qty:1});
+  cartWrite();
+  renderCart();
+}
+
+function cartSetQty(key,qty){
+  const item=cart.items.find(entry=>(entry.variantId||entry.productId)===key);
+  if(!item)return;
+  if(qty<1)cart.items=cart.items.filter(entry=>entry!==item);
+  else item.qty=Math.min(qty,99);
+  cartWrite();
+  renderCart();
+}
+
+function cartLineElement(line){
+  const row=document.createElement('li');
+  row.className='cart-item';
+  row.dataset.key=line.key;
+
+  const media=document.createElement('div');
+  media.className='cart-item__media';
+  const imagePath=productImagePath(line.product,line.variant);
+  if(imagePath){
+    const image=document.createElement('img');
+    image.src=imagePath;
+    image.alt='';
+    image.loading='lazy';
+    media.append(image);
+  }else{
+    media.classList.add('is-empty');
+  }
+
+  const info=document.createElement('div');
+  info.className='cart-item__info';
+  const brand=document.createElement('p');
+  brand.className='cart-item__brand';
+  brand.textContent=line.product.brand;
+  const name=document.createElement('h3');
+  name.textContent=displayName(line.product);
+  info.append(brand,name);
+  if(line.variant){
+    const variantText=document.createElement('p');
+    variantText.className='cart-item__variant';
+    variantText.textContent=variantLabel(line.variant);
+    info.append(variantText);
+  }
+
+  const price=document.createElement('p');
+  price.className='cart-item__price';
+  if(line.unitPrice===null){
+    price.textContent='A confirmar';
+    price.classList.add('is-query');
+  }else{
+    price.textContent=formatPrice(line.lineTotal,line.currency);
+    if(line.qty>1){
+      const unit=document.createElement('span');
+      unit.textContent=` (${formatPrice(line.unitPrice,line.currency)} c/u)`;
+      price.append(unit);
+    }
+  }
+  info.append(price);
+
+  const controls=document.createElement('div');
+  controls.className='cart-item__controls';
+  const stepper=document.createElement('div');
+  stepper.className='cart-stepper';
+  const minus=document.createElement('button');
+  minus.type='button';
+  minus.dataset.step='-1';
+  minus.textContent='−';
+  minus.setAttribute('aria-label',`Quitar una unidad de ${displayName(line.product)}`);
+  const qty=document.createElement('span');
+  qty.textContent=String(line.qty);
+  const plus=document.createElement('button');
+  plus.type='button';
+  plus.dataset.step='1';
+  plus.textContent='+';
+  plus.setAttribute('aria-label',`Agregar una unidad de ${displayName(line.product)}`);
+  stepper.append(minus,qty,plus);
+  const remove=document.createElement('button');
+  remove.type='button';
+  remove.className='cart-remove';
+  remove.dataset.remove='true';
+  remove.textContent='Quitar';
+  controls.append(stepper,remove);
+
+  row.append(media,info,controls);
+  return row;
+}
+
+function renderCart(){
+  if(!cart.list)return;
+  const lines=cartResolve();
+  const count=cartCount();
+
+  if(cart.button){
+    cart.button.hidden=count===0;
+    cart.badge.textContent=String(count);
+    cart.button.setAttribute('aria-label',count===1?'Ver tu pedido, 1 producto':`Ver tu pedido, ${count} productos`);
+  }
+
+  cart.list.replaceChildren(...lines.map(cartLineElement));
+  const hasItems=lines.length>0;
+  cart.empty.hidden=hasItems;
+  cart.body.hidden=!hasItems;
+  cart.foot.hidden=!hasItems;
+
+  const priced=lines.filter(line=>line.lineTotal!==null);
+  const total=priced.reduce((sum,line)=>sum+line.lineTotal,0);
+  cart.total.textContent=formatPrice(total,priced[0]?.currency||'ARS');
+
+  const sinPrecio=lines.filter(line=>line.unitPrice===null).length;
+  cart.pending.hidden=sinPrecio===0;
+  if(sinPrecio>0){
+    cart.pending.textContent=sinPrecio===1
+      ?'1 producto queda a confirmar: te pasamos el precio por WhatsApp.'
+      :`${sinPrecio} productos quedan a confirmar: te pasamos los precios por WhatsApp.`;
+  }
+}
+
+function selectedOption(name){
+  return document.querySelector(`input[name="${name}"]:checked`)?.value||'';
+}
+
+function buildOrderMessage(){
+  const lines=cartResolve();
+  if(!lines.length)return '';
+  const detail=lines.map(line=>{
+    const parts=[`${line.qty}x ${line.product.brand} ${displayName(line.product)}`];
+    if(line.variant)parts.push(variantLabel(line.variant));
+    parts.push(line.lineTotal===null?'a confirmar':formatPrice(line.lineTotal,line.currency));
+    return `• ${parts.join(' · ')}`;
+  });
+  const priced=lines.filter(line=>line.lineTotal!==null);
+  const total=priced.reduce((sum,line)=>sum+line.lineTotal,0);
+  const hayPendientes=lines.length!==priced.length;
+  return [
+    'PEDIDO',
+    ...detail,
+    '',
+    `Total${hayPendientes?' (sin los productos a confirmar)':''}: ${formatPrice(total,priced[0]?.currency||'ARS')}`,
+    `Entrega: ${selectedOption('delivery')}`,
+    `Pago: ${selectedOption('payment')}`
+  ].join('\n');
+}
+
+let orderPending=false;
+
+cart.list?.addEventListener('click',event=>{
+  const row=event.target.closest('.cart-item');
+  if(!row)return;
+  const key=row.dataset.key;
+  const line=cartResolve().find(entry=>entry.key===key);
+  if(!line)return;
+  if(event.target.closest('[data-remove]'))cartSetQty(key,0);
+  else{
+    const step=event.target.closest('[data-step]');
+    if(step)cartSetQty(key,line.qty+Number(step.dataset.step));
+  }
+});
+
+cart.button?.addEventListener('click',()=>{
+  renderCart();
+  cart.dialog.showModal();
+});
+cart.close?.addEventListener('click',()=>cart.dialog.close());
+cart.dialog?.addEventListener('click',event=>{
+  if(event.target===cart.dialog)cart.dialog.close();
+});
+document.querySelector('[data-close-cart]')?.addEventListener('click',()=>cart.dialog.close());
+
+cart.confirm?.addEventListener('click',()=>{
+  const message=buildOrderMessage();
+  if(!message)return;
+  orderPending=true;
+  cart.dialog.close();
+  document.getElementById('message').value=message;
+  document.getElementById('contacto').scrollIntoView({behavior:'smooth'});
+  window.setTimeout(()=>document.getElementById('name').focus(),450);
+});
 
 const productModal={
   dialog:document.getElementById('productModal'),
@@ -366,11 +680,28 @@ function openProductModal(product,initialVariant){
 
   const price=document.createElement('p');
   price.className='product-price';
+  const addButton=document.createElement('button');
+  addButton.className='btn product-add';
+  addButton.type='button';
+  addButton.textContent='Agregar al pedido';
   const button=document.createElement('button');
-  button.className='btn product-whatsapp';
+  button.className='btn secondary product-whatsapp';
   button.type='button';
   button.textContent='Consultar por WhatsApp';
-  copy.append(price,button);
+  const actions=document.createElement('div');
+  actions.className='product-modal__actions';
+  actions.append(addButton,button);
+  copy.append(price,actions);
+
+  addButton.addEventListener('click',()=>{
+    cartAdd(product,variant);
+    addButton.classList.add('is-added');
+    addButton.textContent='Agregado';
+    window.setTimeout(()=>{
+      addButton.classList.remove('is-added');
+      addButton.textContent='Agregar al pedido';
+    },1400);
+  });
 
   function renderVariant(){
     const imagePath=productImagePath(product,variant);
@@ -525,12 +856,19 @@ async function loadCatalog(){
     catalog.products=data.products
       .filter(product=>normalize(product.brand)!=='cali')
       .map(product=>({...product,searchIndex:searchableText(product)}));
+    assignDisplayTitles(catalog.products);
     setFilterOptions(catalog.category,uniqueSorted(catalog.products.map(product=>product.category)),value=>categoryLabels[value]||humanize(value));
     setFilterOptions(catalog.brand,uniqueSorted(catalog.products.map(product=>product.brand)),value=>value);
     setFilterOptions(catalog.species,uniqueSorted(catalog.products.flatMap(product=>asArray(product.species))),value=>speciesLabels[value]||humanize(value));
     const storeStatCount=document.getElementById('storeStatCount');
     if(storeStatCount)storeStatCount.textContent=`${catalog.products.length}+ productos`;
     renderCatalog();
+    // El pedido guardado se restaura recién acá: sus líneas se resuelven contra
+    // el catálogo, así se descarta lo que ya no exista y los precios son los vigentes.
+    cart.items=cartRead();
+    cart.items=cartResolve().map(line=>({productId:line.product.id,variantId:line.variant?.id||null,qty:line.qty}));
+    cartWrite();
+    renderCart();
   }catch(error){
     if(error.name==='AbortError')return;
     console.error('No se pudo cargar el catálogo de Terranova.',error);
