@@ -3529,7 +3529,7 @@
       "lifeStage": null,
       "need": null,
       "flavor": null,
-      "description": null,
+      "description": "Medidas: 49 x 65 x 40 cm. Peso: 6 kg.",
       "features": [],
       "materials": [],
       "presentations": [
@@ -3575,6 +3575,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -3591,7 +3595,7 @@
       "lifeStage": null,
       "need": null,
       "flavor": null,
-      "description": null,
+      "description": "Medidas: 45,6 x 30 x 84 cm. Camita superior 40x28, box 30x30, ingreso 20x25, espacio libre 15x30. Juguete resorte de 20 cm. Soporta hasta 11 kg; para pesos mayores, controlar el juego del animal.",
       "features": [],
       "materials": [],
       "presentations": [
@@ -3637,6 +3641,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -3645,7 +3653,7 @@
       "brand": "Beepaw",
       "supplier": "Beepaw",
       "line": null,
-      "name": "Bebedero Interactivo Beepaw",
+      "name": "Bebedero interactivo gatos",
       "sourceName": "BEBEDERO INTERACTIVO BEEPAW",
       "category": "accesorios",
       "subcategory": "varios",
@@ -3699,6 +3707,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -3707,7 +3719,7 @@
       "brand": "Beepaw",
       "supplier": "Beepaw",
       "line": null,
-      "name": "Bebedero Interactivo Perros Beepaw",
+      "name": "Bebedero interactivo perros",
       "sourceName": "BEBEDERO INTERACTIVO PERROS BEEPAW",
       "category": "accesorios",
       "subcategory": "varios",
@@ -3761,6 +3773,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -3831,7 +3847,7 @@
       "brand": "Beepaw",
       "supplier": "Beepaw",
       "line": null,
-      "name": "Bolso Tranportador Rallado Small",
+      "name": "Bolso transportador rayado small",
       "sourceName": "BOLSO TRANPORTADOR RALLADO SMALL",
       "category": "accesorios",
       "subcategory": "varios",
@@ -3846,7 +3862,7 @@
         "BOLSO TRANPORTADOR RALLADO SMALL"
       ],
       "price": {
-        "BOLSO TRANPORTADOR RALLADO SMALL": 31467
+        "BOLSO TRANPORTADOR RALLADO SMALL": 31500
       },
       "image": null,
       "mainImage": null,
@@ -3862,9 +3878,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 31467,
+            "amount": 31500,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -3885,6 +3901,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -3893,7 +3913,7 @@
       "brand": "Beepaw",
       "supplier": "Beepaw",
       "line": null,
-      "name": "Bolso Transportadora Gris/Rosa",
+      "name": "Bolso transportadora gris/rosa",
       "sourceName": "BOLSO TRANSPORTADORA GRIS/ROSA",
       "category": "accesorios",
       "subcategory": "varios",
@@ -3901,14 +3921,14 @@
       "lifeStage": null,
       "need": null,
       "flavor": null,
-      "description": null,
+      "description": "Bolso transportador de mano para el traslado de mascotas pequeñas. Medidas: 40 x 25 x 24 cm. Malla lateral y frontal para ventilación, visor transparente y correa incluida. Material resistente con refuerzos. Peso recomendado: hasta 6 kg.",
       "features": [],
       "materials": [],
       "presentations": [
         "BOLSO TRANSPORTADORA GRIS/ROSA"
       ],
       "price": {
-        "BOLSO TRANSPORTADORA GRIS/ROSA": 24000.07
+        "BOLSO TRANSPORTADORA GRIS/ROSA": 25000
       },
       "image": null,
       "mainImage": null,
@@ -3924,9 +3944,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 24000.07,
+            "amount": 25000,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -3947,6 +3967,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -3955,7 +3979,7 @@
       "brand": "Beepaw",
       "supplier": "Beepaw",
       "line": null,
-      "name": "Bolso Traportador Rallado Medium",
+      "name": "Bolso transportador rayado medium",
       "sourceName": "BOLSO TRAPORTADOR RALLADO MEDIUM",
       "category": "accesorios",
       "subcategory": "varios",
@@ -3970,7 +3994,7 @@
         "BOLSO TRAPORTADOR RALLADO MEDIUM"
       ],
       "price": {
-        "BOLSO TRAPORTADOR RALLADO MEDIUM": 35001.29
+        "BOLSO TRAPORTADOR RALLADO MEDIUM": 35000
       },
       "image": null,
       "mainImage": null,
@@ -3986,9 +4010,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 35001.29,
+            "amount": 35000,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -4009,6 +4033,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -4079,7 +4107,7 @@
       "brand": "Beepaw",
       "supplier": "Beepaw",
       "line": null,
-      "name": "Botella Dispensadora Con Orejas",
+      "name": "Botella dispensadora con orejas",
       "sourceName": "BOTELLA DISPENSADORA CON OREJAS",
       "category": "accesorios",
       "subcategory": "varios",
@@ -4087,14 +4115,14 @@
       "lifeStage": null,
       "need": null,
       "flavor": null,
-      "description": null,
+      "description": "Sujeto a disponibilidad de colores.",
       "features": [],
       "materials": [],
       "presentations": [
         "BOTELLA DISPENSADORA CON OREJAS"
       ],
       "price": {
-        "BOTELLA DISPENSADORA CON OREJAS": 14480.6
+        "BOTELLA DISPENSADORA CON OREJAS": 15000
       },
       "image": null,
       "mainImage": null,
@@ -4110,9 +4138,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 14480.6,
+            "amount": 15000,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -4133,6 +4161,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -4595,7 +4627,7 @@
       "brand": "Beepaw",
       "supplier": "Beepaw",
       "line": null,
-      "name": "Cepillo Con Vapor",
+      "name": "Peine masajeador con vapor",
       "sourceName": "CEPILLO CON VAPOR",
       "category": "accesorios",
       "subcategory": "varios",
@@ -4603,7 +4635,7 @@
       "lifeStage": null,
       "need": null,
       "flavor": null,
-      "description": null,
+      "description": "Incluye cargador USB.",
       "features": [],
       "materials": [],
       "presentations": [
@@ -4649,6 +4681,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -4665,14 +4701,14 @@
       "lifeStage": null,
       "need": null,
       "flavor": null,
-      "description": null,
+      "description": "Incluye cargador USB.",
       "features": [],
       "materials": [],
       "presentations": [
         "CEPILLO CON VAPOR MANGO ORCA"
       ],
       "price": {
-        "CEPILLO CON VAPOR MANGO ORCA": 12414.6
+        "CEPILLO CON VAPOR MANGO ORCA": 12400
       },
       "image": null,
       "mainImage": "img/beepaw/cepillo-vapor-orca.webp",
@@ -4688,9 +4724,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 12414.6,
+            "amount": 12400,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -4711,6 +4747,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -4719,7 +4759,7 @@
       "brand": "Beepaw",
       "supplier": "Beepaw",
       "line": null,
-      "name": "Cepillo Con Vapor Y Mango Panda",
+      "name": "Cepillo con vapor mango Panda",
       "sourceName": "CEPILLO CON VAPOR Y MANGO PANDA",
       "category": "accesorios",
       "subcategory": "varios",
@@ -4727,14 +4767,14 @@
       "lifeStage": null,
       "need": null,
       "flavor": null,
-      "description": null,
+      "description": "Incluye cargador USB.",
       "features": [],
       "materials": [],
       "presentations": [
         "CEPILLO CON VAPOR Y MANGO PANDA"
       ],
       "price": {
-        "CEPILLO CON VAPOR Y MANGO PANDA": 9486
+        "CEPILLO CON VAPOR Y MANGO PANDA": 9500
       },
       "image": null,
       "mainImage": "img/beepaw/cepillo-vapor-panda.webp",
@@ -4750,9 +4790,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 9486,
+            "amount": 9500,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -4773,6 +4813,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -4781,7 +4825,7 @@
       "brand": "Beepaw",
       "supplier": "Beepaw",
       "line": null,
-      "name": "Comedero Interactivo B Y N",
+      "name": "Comedero interactivo blanco y negro",
       "sourceName": "COMEDERO INTERACTIVO B Y N",
       "category": "accesorios",
       "subcategory": "varios",
@@ -4796,7 +4840,7 @@
         "COMEDERO INTERACTIVO B Y N"
       ],
       "price": {
-        "COMEDERO INTERACTIVO B Y N": 160000
+        "COMEDERO INTERACTIVO B Y N": 16000
       },
       "image": null,
       "mainImage": null,
@@ -4812,9 +4856,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 160000,
+            "amount": 16000,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -4835,6 +4879,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -4843,7 +4891,7 @@
       "brand": "Beepaw",
       "supplier": "Beepaw",
       "line": null,
-      "name": "Cortador De Uñas Shap-E",
+      "name": "Cortador de uñas Sharp-E grande",
       "sourceName": "CORTADOR DE UÑAS SHAP-E",
       "category": "accesorios",
       "subcategory": "varios",
@@ -4851,14 +4899,14 @@
       "lifeStage": null,
       "need": null,
       "flavor": null,
-      "description": null,
+      "description": "Cortaúñas para perros grandes, Maine Coon y mascotas de gran tamaño. Acero inoxidable y ABS, pensado para uñas gruesas. Forma de media luna y luz LED para ver dónde cortar. Deflector transparente para que no salten las uñas y lima incorporada. Mide 150 x 43 mm, 2 cm más que el Nail-E. Funciona con 3 pilas LR44 incluidas.",
       "features": [],
       "materials": [],
       "presentations": [
         "CORTADOR DE UÑAS SHAP-E"
       ],
       "price": {
-        "CORTADOR DE UÑAS SHAP-E": 16177.7
+        "CORTADOR DE UÑAS SHAP-E": 14500
       },
       "image": null,
       "mainImage": "img/beepaw/cortador-unas-sharp-e.webp",
@@ -4874,9 +4922,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 16177.7,
+            "amount": 14500,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -4897,6 +4945,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -4905,7 +4957,7 @@
       "brand": "Beepaw",
       "supplier": "Beepaw",
       "line": null,
-      "name": "Cortador De Uñas Shap-E Chico",
+      "name": "Cortador de uñas Nail-E chico",
       "sourceName": "CORTADOR DE UÑAS SHAP-E CHICO",
       "category": "accesorios",
       "subcategory": "varios",
@@ -4920,7 +4972,7 @@
         "CORTADOR DE UÑAS SHAP-E CHICO"
       ],
       "price": {
-        "CORTADOR DE UÑAS SHAP-E CHICO": 13294.8
+        "CORTADOR DE UÑAS SHAP-E CHICO": 16900
       },
       "image": null,
       "mainImage": null,
@@ -4936,9 +4988,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 13294.8,
+            "amount": 16900,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -4959,6 +5011,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -4975,14 +5031,14 @@
       "lifeStage": null,
       "need": null,
       "flavor": null,
-      "description": null,
+      "description": "Incluye cargador USB.",
       "features": [],
       "materials": [],
       "presentations": [
         "JUGUETE LECHUZA INTELIGENTE"
       ],
       "price": {
-        "JUGUETE LECHUZA INTELIGENTE": 21392.8
+        "JUGUETE LECHUZA INTELIGENTE": 26000
       },
       "image": null,
       "mainImage": "img/beepaw/juguete-lechuza-owl-e.webp",
@@ -4998,9 +5054,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 21392.8,
+            "amount": 26000,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -5021,6 +5077,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -5037,7 +5097,7 @@
       "lifeStage": null,
       "need": null,
       "flavor": null,
-      "description": null,
+      "description": "Incluye cargador USB.",
       "features": [],
       "materials": [],
       "presentations": [
@@ -5083,6 +5143,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -5153,7 +5217,7 @@
       "brand": "Beepaw",
       "supplier": "Beepaw",
       "line": null,
-      "name": "Juguete Peluche Pato 34X38",
+      "name": "Juguete peluche pato 34x38",
       "sourceName": "Juguete peluche pato 34x38",
       "category": "accesorios",
       "subcategory": "varios",
@@ -5161,14 +5225,14 @@
       "lifeStage": null,
       "need": null,
       "flavor": null,
-      "description": null,
+      "description": "Medidas: 34 x 38 cm.",
       "features": [],
       "materials": [],
       "presentations": [
         "Juguete peluche pato 34x38"
       ],
       "price": {
-        "Juguete peluche pato 34x38": 15747.1
+        "Juguete peluche pato 34x38": 16100
       },
       "image": null,
       "mainImage": null,
@@ -5184,9 +5248,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 15747.1,
+            "amount": 16100,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -5207,6 +5271,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -5223,14 +5291,14 @@
       "lifeStage": null,
       "need": null,
       "flavor": null,
-      "description": null,
+      "description": "Incluye cargador USB.",
       "features": [],
       "materials": [],
       "presentations": [
         "JUGUETE TUCAN INTELIGENTE"
       ],
       "price": {
-        "JUGUETE TUCAN INTELIGENTE": 21392.8
+        "JUGUETE TUCAN INTELIGENTE": 26000
       },
       "image": null,
       "mainImage": "img/beepaw/juguete-tucan-tuk-e.webp",
@@ -5246,9 +5314,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 21392.8,
+            "amount": 26000,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -5269,6 +5337,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -5339,7 +5411,7 @@
       "brand": "Beepaw",
       "supplier": "Beepaw",
       "line": null,
-      "name": "Paños 56X60 - 50Uni",
+      "name": "Paños 56x60 (x50)",
       "sourceName": "PAÑOS 56X60 - 50UNI",
       "category": "accesorios",
       "subcategory": "varios",
@@ -5347,14 +5419,14 @@
       "lifeStage": null,
       "need": null,
       "flavor": null,
-      "description": null,
+      "description": "Paños de entrenamiento Beepaw Train-e Small, de 45 x 60 cm, en paquete de 50 unidades. Superficie de secado rápido y núcleo con tecnología SAP de alta densidad, que retiene más líquido que un paño estándar del mismo tamaño. Capa impermeable y base antideslizante para que no se mueva, con sticker de fijación al piso. Neutraliza olores por más tiempo que un paño convencional. Ideal para cachorros y perros pequeños, en entrenamiento o uso diario en departamentos.",
       "features": [],
       "materials": [],
       "presentations": [
         "PAÑOS 56X60 - 50UNI"
       ],
       "price": {
-        "PAÑOS 56X60 - 50UNI": 17302
+        "PAÑOS 56X60 - 50UNI": 15800
       },
       "image": null,
       "mainImage": null,
@@ -5370,9 +5442,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 17302,
+            "amount": 15800,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -5393,6 +5465,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -5409,7 +5485,7 @@
       "lifeStage": null,
       "need": null,
       "flavor": null,
-      "description": null,
+      "description": "Incluye cargador USB.",
       "features": [],
       "materials": [],
       "presentations": [
@@ -5455,6 +5531,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -5471,14 +5551,14 @@
       "lifeStage": null,
       "need": null,
       "flavor": null,
-      "description": null,
+      "description": "Incluye cargador USB.",
       "features": [],
       "materials": [],
       "presentations": [
         "PELOTA INTELIGENTE JUMP-E"
       ],
       "price": {
-        "PELOTA INTELIGENTE JUMP-E": 26832.6
+        "PELOTA INTELIGENTE JUMP-E": 29000
       },
       "image": null,
       "mainImage": "img/beepaw/pelota-inteligente-jump-e.webp",
@@ -5494,9 +5574,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 26832.6,
+            "amount": 29000,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -5517,6 +5597,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -5533,7 +5617,7 @@
       "lifeStage": null,
       "need": null,
       "flavor": null,
-      "description": null,
+      "description": "Incluye cargador USB.",
       "features": [],
       "materials": [],
       "presentations": [
@@ -5579,6 +5663,10 @@
           "file": "source-data/catalogo_fuente_imagenes_veterinaria_terranova.pdf",
           "sourceType": "visual-catalog",
           "note": "Cruce de imagen pendiente de validación por SKU"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB, hoja Beepaw (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -9293,7 +9381,9 @@
       "sourceName": "GASTROINTESTINAL FIBRE RESPONSE WET",
       "category": "alimentos",
       "subcategory": "dieta-veterinaria",
-      "species": [],
+      "species": [
+        "gato"
+      ],
       "lifeStage": null,
       "need": null,
       "flavor": null,
@@ -10574,7 +10664,9 @@
       "sourceName": "Urinary S-O Ageing 7+",
       "category": "alimentos",
       "subcategory": "dieta-veterinaria",
-      "species": [],
+      "species": [
+        "perro"
+      ],
       "lifeStage": null,
       "need": null,
       "flavor": null,
@@ -11829,8 +11921,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1,5 kg",
+        "8 kg"
+      ],
+      "price": {
+        "1,5 kg": 33700,
+        "8 kg": 144500
+      },
       "image": null,
       "mainImage": "img/royal-canin/dietas-anallergenic-canine.jpg",
       "images": [],
@@ -11838,13 +11936,58 @@
         "3182550940528",
         "3182550940566"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-dietas-anallergenic-canine-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 33700,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-dietas-anallergenic-canine-8-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "8 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 144500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -12795,7 +12938,9 @@
       "sourceName": "GASTROINTESTINAL LOW FAT SECO",
       "category": "alimentos",
       "subcategory": "dieta-veterinaria",
-      "species": [],
+      "species": [
+        "perro"
+      ],
       "lifeStage": null,
       "need": null,
       "flavor": null,
@@ -13667,7 +13812,9 @@
       "sourceName": "Mature Consult Stage",
       "category": "alimentos",
       "subcategory": "dieta-veterinaria",
-      "species": [],
+      "species": [
+        "gato"
+      ],
       "lifeStage": null,
       "need": null,
       "flavor": null,
@@ -14842,7 +14989,9 @@
       "sourceName": "Mature Consult",
       "category": "alimentos",
       "subcategory": "dieta-veterinaria",
-      "species": [],
+      "species": [
+        "gato"
+      ],
       "lifeStage": null,
       "need": null,
       "flavor": null,
@@ -15555,7 +15704,9 @@
       "sourceName": "Neutered Balance",
       "category": "alimentos",
       "subcategory": "dieta-veterinaria",
-      "species": [],
+      "species": [
+        "gato"
+      ],
       "lifeStage": null,
       "need": null,
       "flavor": null,
@@ -16340,7 +16491,9 @@
       "sourceName": "Early Renal",
       "category": "alimentos",
       "subcategory": "dieta-veterinaria",
-      "species": [],
+      "species": [
+        "gato"
+      ],
       "lifeStage": null,
       "need": null,
       "flavor": null,
@@ -16412,7 +16565,9 @@
       "sourceName": "Senior Consult Stage",
       "category": "alimentos",
       "subcategory": "dieta-veterinaria",
-      "species": [],
+      "species": [
+        "gato"
+      ],
       "lifeStage": null,
       "need": null,
       "flavor": null,
