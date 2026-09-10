@@ -8798,7 +8798,8 @@
       "mainImage": "img/royal-canin/perro-maxi-ageing-8-plus.jpg",
       "images": [],
       "eans": [
-        "7790187340503"
+        "7790187340503",
+        "7790187370692"
       ],
       "variants": [],
       "availability": null,
@@ -8940,7 +8941,8 @@
       "mainImage": "img/royal-canin/gato-hairball-care.jpg",
       "images": [],
       "eans": [
-        "7790187342743"
+        "7790187342743",
+        "9003579000403"
       ],
       "variants": [
         {
@@ -9104,7 +9106,10 @@
       "images": [],
       "eans": [
         "9003579311462",
-        "7790187340299"
+        "7790187340299",
+        "7790187342392",
+        "7790187342408",
+        "7790187342446"
       ],
       "variants": [],
       "availability": null,
@@ -9325,42 +9330,6 @@
       "images": [],
       "eans": [
         "9003579050088"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
-      "id": "royal-canin-perro-mini-adulto-plus-8",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Mini Adulto +8",
-      "sourceName": "Mini Adulto +8",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/perro-mini-adulto-plus-8.jpg",
-      "images": [],
-      "eans": [
-        "7790187370395"
       ],
       "variants": [],
       "availability": null,
@@ -9644,7 +9613,8 @@
       "mainImage": "img/royal-canin/dietas-gastrointestinal-feline.jpg",
       "images": [],
       "eans": [
-        "7790187341555"
+        "7790187341555",
+        "9003579013557"
       ],
       "variants": [],
       "availability": null,
@@ -9819,42 +9789,6 @@
       "eans": [
         "7790187339576",
         "7790187339583"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
-      "id": "royal-canin-dietas-gastro-intestinal-canine",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": "Dietas veterinarias",
-      "name": "Gastro intestinal canine",
-      "sourceName": "Gastro intestinal canine",
-      "category": "alimentos",
-      "subcategory": "dieta-veterinaria",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/dietas-gastro-intestinal-canine.jpg",
-      "images": [],
-      "eans": [
-        "7790187339156"
       ],
       "variants": [],
       "availability": null,
@@ -10730,42 +10664,6 @@
       ]
     },
     {
-      "id": "royal-canin-gato-mother-y-baby-cat",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Mother & Baby Cat",
-      "sourceName": "Mother & Baby Cat",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/gato-mother-y-baby-cat.jpg",
-      "images": [],
-      "eans": [
-        "7790187342446"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
       "id": "royal-canin-dietas-gi-kitten-mousse-wet",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -11343,42 +11241,6 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
           "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
-      "id": "royal-canin-perro-maxi-ageing-plus-8",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Maxi Ageing +8",
-      "sourceName": "Maxi Ageing +8",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/perro-maxi-ageing-plus-8.jpg",
-      "images": [],
-      "eans": [
-        "7790187370692"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
         }
       ]
     },
@@ -12660,7 +12522,8 @@
         "7790187341494",
         "7790187345898",
         "9003579311998",
-        "7790187341500"
+        "7790187341500",
+        "7790187339156"
       ],
       "variants": [
         {
@@ -13152,7 +13015,8 @@
       "images": [],
       "eans": [
         "7790187340510",
-        "7790187340572"
+        "7790187340572",
+        "7790187370395"
       ],
       "variants": [],
       "availability": null,
@@ -13720,42 +13584,6 @@
       "images": [],
       "eans": [
         "7790187342590"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
-      "id": "royal-canin-perro-medium-adulto-plus-7",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Medium adulto+7",
-      "sourceName": "Medium adulto+7",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/perro-medium-adulto-plus-7.jpg",
-      "images": [],
-      "eans": [
-        "7790187370586"
       ],
       "variants": [],
       "availability": null,
@@ -15624,42 +15452,6 @@
       ]
     },
     {
-      "id": "royal-canin-dietas-gastro-intestinal-feline",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": "Dietas veterinarias",
-      "name": "Gastro intestinal feline",
-      "sourceName": "Gastro intestinal feline",
-      "category": "alimentos",
-      "subcategory": "dieta-veterinaria",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/dietas-gastro-intestinal-feline.jpg",
-      "images": [],
-      "eans": [
-        "9003579013557"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
       "id": "royal-canin-dietas-satiety-small-dog",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -15720,42 +15512,6 @@
       "images": [],
       "eans": [
         "7790187342163"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
-      "id": "royal-canin-gato-hairballcare",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "HairBallCare",
-      "sourceName": "HairBallCare",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/gato-hairballcare.jpg",
-      "images": [],
-      "eans": [
-        "9003579000403"
       ],
       "variants": [],
       "availability": null,
@@ -15979,43 +15735,6 @@
       ]
     },
     {
-      "id": "royal-canin-gato-mother-y-babycat-7790187342392",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Mother&babycat",
-      "sourceName": "Mother&babycat",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/gato-mother-y-babycat-7790187342392.jpg",
-      "images": [],
-      "eans": [
-        "7790187342392",
-        "7790187342408"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
       "id": "royal-canin-perro-maxi-adulto-bonus-bag",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -16222,7 +15941,8 @@
       "images": [],
       "eans": [
         "7790187370555",
-        "7790187340497"
+        "7790187340497",
+        "7790187370586"
       ],
       "variants": [],
       "availability": null,
