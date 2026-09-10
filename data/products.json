@@ -8754,8 +8754,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1 kg",
+        "3 kg"
+      ],
+      "price": {
+        "1 kg": 13600,
+        "3 kg": 36600
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-mini-indoor-adulto.jpg",
       "images": [],
@@ -8764,13 +8770,58 @@
         "7790187370333",
         "7790187340558"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-mini-indoor-adulto-1-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 13600,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-perro-mini-indoor-adulto-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 36600,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -8792,8 +8843,12 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "15 kg"
+      ],
+      "price": {
+        "15 kg": 152500
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-maxi-ageing-8-plus.jpg",
       "images": [],
@@ -8801,13 +8856,38 @@
         "7790187340503",
         "7790187370692"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-maxi-ageing-8-plus-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 152500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -9063,21 +9143,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "12 kg"
+      ],
+      "price": {
+        "12 kg": 139700
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-golden-retriever-junior.jpg",
       "images": [],
       "eans": [
         "7790187341814"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-golden-retriever-junior-12-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "12 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 139700,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -9099,8 +9208,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "0,4 kg",
+        "1,5 kg"
+      ],
+      "price": {
+        "0,4 kg": 11200,
+        "1,5 kg": 33600
+      },
       "image": null,
       "mainImage": "img/royal-canin/gato-mother-y-babycat.jpg",
       "images": [],
@@ -9111,13 +9226,58 @@
         "7790187342408",
         "7790187342446"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-gato-mother-y-babycat-0-4-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "0,4 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 11200,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-gato-mother-y-babycat-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 33600,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -9213,21 +9373,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "2,5 kg"
+      ],
+      "price": {
+        "2,5 kg": 32500
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-relax-care-mini.jpg",
       "images": [],
       "eans": [
         "7908248300759"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-relax-care-mini-2-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "2,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 32500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -9607,8 +9796,12 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "2 kg"
+      ],
+      "price": {
+        "2 kg": 43500
+      },
       "image": null,
       "mainImage": "img/royal-canin/dietas-gastrointestinal-feline.jpg",
       "images": [],
@@ -9616,13 +9809,38 @@
         "7790187341555",
         "9003579013557"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-dietas-gastrointestinal-feline-2-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "2 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 43500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -9680,21 +9898,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "12 kg"
+      ],
+      "price": {
+        "12 kg": 139900
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-labrador-retriever-junior.jpg",
       "images": [],
       "eans": [
         "7790187341821"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-labrador-retriever-junior-12-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "12 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 139900,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -9781,8 +10028,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1 kg",
+        "3 kg"
+      ],
+      "price": {
+        "1 kg": 14500,
+        "3 kg": 40999
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-mini-starter-mother-y-babydog.jpg",
       "images": [],
@@ -9790,13 +10043,58 @@
         "7790187339576",
         "7790187339583"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-mini-starter-mother-y-babydog-1-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 14500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-perro-mini-starter-mother-y-babydog-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 40999,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -10320,21 +10618,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "2 kg"
+      ],
+      "price": {
+        "2 kg": 34700
+      },
       "image": null,
       "mainImage": "img/royal-canin/dietas-hypoallergenic-small-dog.jpg",
       "images": [],
       "eans": [
         "7896181216452"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-dietas-hypoallergenic-small-dog-2-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "2 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 34700,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -10392,8 +10719,12 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1,5 kg"
+      ],
+      "price": {
+        "1,5 kg": 21800
+      },
       "image": null,
       "mainImage": "img/royal-canin/dietas-gastrointestinal-low-fat-canine.jpg",
       "images": [],
@@ -10401,13 +10732,38 @@
         "7790187338562",
         "9003579308448"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-dietas-gastrointestinal-low-fat-canine-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 21800,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -10429,8 +10785,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1,5 kg",
+        "7,5 kg"
+      ],
+      "price": {
+        "1,5 kg": 32000,
+        "7,5 kg": 130500
+      },
       "image": null,
       "mainImage": "img/royal-canin/gato-urinary-care.jpg",
       "images": [],
@@ -10441,13 +10803,58 @@
         "7790187342774",
         "9003579000359"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-gato-urinary-care-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 32000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-gato-urinary-care-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 130500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -10607,8 +11014,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1,5 kg",
+        "10 kg"
+      ],
+      "price": {
+        "1,5 kg": 21000,
+        "10 kg": 110200
+      },
       "image": null,
       "mainImage": "img/royal-canin/dietas-urinary-s-o-ageing-7-plus.jpg",
       "images": [],
@@ -10616,13 +11029,58 @@
         "7790187342606",
         "7790187342613"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-dietas-urinary-s-o-ageing-7-plus-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 21000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-dietas-urinary-s-o-ageing-7-plus-10-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "10 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 110200,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -10644,8 +11102,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1 kg",
+        "3 kg"
+      ],
+      "price": {
+        "1 kg": 15100,
+        "3 kg": 42900
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-yorkshire-terrier-adult.jpg",
       "images": [],
@@ -10653,13 +11117,58 @@
         "7790187341760",
         "7790187341777"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-yorkshire-terrier-adult-1-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 15100,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-perro-yorkshire-terrier-adult-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 42900,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -11028,21 +11537,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "12 kg"
+      ],
+      "price": {
+        "12 kg": 139700
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-ovejero-alem-n-junior.jpg",
       "images": [],
       "eans": [
         "7790187341807"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-ovejero-alem-n-junior-12-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "12 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 139700,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -11351,8 +11889,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "3 kg",
+        "7,5 kg"
+      ],
+      "price": {
+        "3 kg": 42900,
+        "7,5 kg": 91500
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-pug-adulto.jpg",
       "images": [],
@@ -11360,13 +11904,58 @@
         "7790187341296",
         "7790187341302"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-pug-adulto-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 42900,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-perro-pug-adulto-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 91500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -11709,8 +12298,12 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "15 kg"
+      ],
+      "price": {
+        "15 kg": 145600
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-medium-ageing-10-plus.jpg",
       "images": [],
@@ -11718,13 +12311,38 @@
         "7790187370609",
         "7790187340565"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-medium-ageing-10-plus-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 145600,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -11908,8 +12526,12 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "2 kg"
+      ],
+      "price": {
+        "2 kg": 42100
+      },
       "image": null,
       "mainImage": "img/royal-canin/gato-hair-y-skin-care.jpg",
       "images": [],
@@ -11917,13 +12539,38 @@
         "7790187342750",
         "7790187340343"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-gato-hair-y-skin-care-2-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "2 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 42100,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -12010,21 +12657,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "3 kg"
+      ],
+      "price": {
+        "3 kg": 40999
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-medium-starter-mother-y-babydog.jpg",
       "images": [],
       "eans": [
         "7790187339668"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-medium-starter-mother-y-babydog-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 40999,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -12471,21 +13147,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "12 kg"
+      ],
+      "price": {
+        "12 kg": 120200
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-boxer-adulto.jpg",
       "images": [],
       "eans": [
         "7790187341647"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-boxer-adulto-12-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "12 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 120200,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -12846,21 +13551,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "10 kg"
+      ],
+      "price": {
+        "10 kg": 97000
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-maxi-starter-mother-y-babydog.jpg",
       "images": [],
       "eans": [
         "7790187339729"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-maxi-starter-mother-y-babydog-10-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "10 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 97000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -13008,8 +13742,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1 kg",
+        "3 kg"
+      ],
+      "price": {
+        "1 kg": 14500,
+        "3 kg": 40000
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-mini-adulto-8-plus.jpg",
       "images": [],
@@ -13018,13 +13758,58 @@
         "7790187340572",
         "7790187370395"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-mini-adulto-8-plus-1-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 14500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-perro-mini-adulto-8-plus-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 40000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -13046,21 +13831,116 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1 kg",
+        "3 kg",
+        "7,5 kg",
+        "15 kg"
+      ],
+      "price": {
+        "1 kg": 14000,
+        "3 kg": 38500,
+        "7,5 kg": 77500,
+        "15 kg": 144500
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-mini-pupy.jpg",
       "images": [],
       "eans": [
         "7790187342248"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-mini-pupy-1-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 14000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-perro-mini-pupy-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 38500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-perro-mini-pupy-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 77500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-perro-mini-pupy-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 144500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -13257,8 +14137,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "3 kg",
+        "15 kg"
+      ],
+      "price": {
+        "3 kg": 36500,
+        "15 kg": 138700
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-maxi-adulto.jpg",
       "images": [],
@@ -13266,13 +14152,58 @@
         "7790187370623",
         "7790187370654"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-maxi-adulto-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 36500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-perro-maxi-adulto-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 138700,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -13330,8 +14261,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1 kg",
+        "3 kg"
+      ],
+      "price": {
+        "1 kg": 15000,
+        "3 kg": 38900
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-mini-dermacomfort.jpg",
       "images": [],
@@ -13339,13 +14276,58 @@
         "7790187340763",
         "7790187340770"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-mini-dermacomfort-1-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 15000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-perro-mini-dermacomfort-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 38900,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -13367,8 +14349,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1 kg",
+        "3 kg"
+      ],
+      "price": {
+        "1 kg": 15800,
+        "3 kg": 46600
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-caniche-junior.jpg",
       "images": [],
@@ -13376,13 +14364,58 @@
         "7790187341838",
         "7790187341845"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-caniche-junior-1-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 15800,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-perro-caniche-junior-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 46600,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -13404,21 +14437,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "15 kg"
+      ],
+      "price": {
+        "15 kg": 152500
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-maxi-adulto-5-plus.jpg",
       "images": [],
       "eans": [
         "7790187345928"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-maxi-adulto-5-plus-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 152500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -13440,21 +14502,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1 kg"
+      ],
+      "price": {
+        "1 kg": 13500
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-x-small-adulto.jpg",
       "images": [],
       "eans": [
         "7896181215622"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-x-small-adulto-1-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 13500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -13476,21 +14567,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1 kg"
+      ],
+      "price": {
+        "1 kg": 15100
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-chihuahua-adult.jpg",
       "images": [],
       "eans": [
         "7790187341661"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-chihuahua-adult-1-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 15100,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -13613,21 +14733,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "10 kg"
+      ],
+      "price": {
+        "10 kg": 111500
+      },
       "image": null,
       "mainImage": "img/royal-canin/dietas-gastrointestinal-moderate-calorie-canine.jpg",
       "images": [],
       "eans": [
         "7790187345904"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-dietas-gastrointestinal-moderate-calorie-canine-10-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "10 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 111500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -13849,8 +14998,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1 kg",
+        "3 kg"
+      ],
+      "price": {
+        "1 kg": 15800,
+        "3 kg": 46600
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-yorkshire-terrier-junior.jpg",
       "images": [],
@@ -13858,13 +15013,58 @@
         "7790187341852",
         "7790187341869"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-yorkshire-terrier-junior-1-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 15800,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-perro-yorkshire-terrier-junior-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 46600,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -14403,21 +15603,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1,5 kg"
+      ],
+      "price": {
+        "1,5 kg": 28000
+      },
       "image": null,
       "mainImage": "img/royal-canin/dietas-urinary-s-o-small-dog.jpg",
       "images": [],
       "eans": [
         "7896181298083"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-dietas-urinary-s-o-small-dog-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 28000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -14600,21 +15829,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "2 kg"
+      ],
+      "price": {
+        "2 kg": 26700
+      },
       "image": null,
       "mainImage": "img/royal-canin/dietas-gastrointestinal-junior-canine.jpg",
       "images": [],
       "eans": [
         "7790187341517"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-dietas-gastrointestinal-junior-canine-2-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "2 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 26700,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -14747,8 +16005,16 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "3 kg",
+        "7,5 kg",
+        "15 kg"
+      ],
+      "price": {
+        "3 kg": 35000,
+        "7,5 kg": 80900,
+        "15 kg": 133000
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-medium-adulto.jpg",
       "images": [],
@@ -14761,13 +16027,78 @@
         "7790187340619",
         "7790187340640"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-medium-adulto-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 35000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-perro-medium-adulto-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 80900,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-perro-medium-adulto-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 133000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -14789,8 +16120,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1 kg",
+        "3 kg"
+      ],
+      "price": {
+        "1 kg": 15800,
+        "3 kg": 46600
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-jack-russel-puppy.jpg",
       "images": [],
@@ -14798,13 +16135,58 @@
         "7790187341272",
         "7790187341289"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-jack-russel-puppy-1-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 15800,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-perro-jack-russel-puppy-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 46600,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -14826,8 +16208,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1,5 kg",
+        "3,5 kg"
+      ],
+      "price": {
+        "1,5 kg": 31800,
+        "3,5 kg": 68800
+      },
       "image": null,
       "mainImage": "img/royal-canin/dietas-mature-consult.jpg",
       "images": [],
@@ -14836,13 +16224,58 @@
         "7790187342101",
         "7790187342170"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-dietas-mature-consult-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 31800,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-dietas-mature-consult-3-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 68800,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -14864,21 +16297,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "2 kg"
+      ],
+      "price": {
+        "2 kg": 51800
+      },
       "image": null,
       "mainImage": "img/royal-canin/dietas-hypoallergenic-feline.jpg",
       "images": [],
       "eans": [
         "7896181215370"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-dietas-hypoallergenic-feline-2-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "2 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 51800,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -14900,21 +16362,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "2 kg"
+      ],
+      "price": {
+        "2 kg": 44300
+      },
       "image": null,
       "mainImage": "img/royal-canin/dietas-gastrointestinal-moderate-calorie-feline.jpg",
       "images": [],
       "eans": [
         "7790187346109"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-dietas-gastrointestinal-moderate-calorie-feline-2-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "2 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 44300,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -14972,21 +16463,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1,5 kg"
+      ],
+      "price": {
+        "1,5 kg": 34500
+      },
       "image": null,
       "mainImage": "img/royal-canin/dietas-gastrointestinal-hydrolyzed-protein-feline.jpg",
       "images": [],
       "eans": [
         "7908248302197"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-dietas-gastrointestinal-hydrolyzed-protein-feline-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 34500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -15469,21 +16989,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1,5 kg"
+      ],
+      "price": {
+        "1,5 kg": 21000
+      },
       "image": null,
       "mainImage": "img/royal-canin/dietas-satiety-small-dog.jpg",
       "images": [],
       "eans": [
         "7896181218364"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-dietas-satiety-small-dog-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 21000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -15541,21 +17090,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "10 kg"
+      ],
+      "price": {
+        "10 kg": 97000
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-giant-starter-mother-y-babydog.jpg",
       "images": [],
       "eans": [
         "7790187339781"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-giant-starter-mother-y-babydog-10-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "10 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 97000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -15715,8 +17293,12 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "2 kg"
+      ],
+      "price": {
+        "2 kg": 26500
+      },
       "image": null,
       "mainImage": "img/royal-canin/dietas-renal-canine-special.jpg",
       "images": [],
@@ -15724,13 +17306,38 @@
         "7790187340206",
         "9003579000762"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-dietas-renal-canine-special-2-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "2 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 26500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -15861,8 +17468,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1,5 kg",
+        "7,5 kg"
+      ],
+      "price": {
+        "1,5 kg": 31800,
+        "7,5 kg": 120800
+      },
       "image": null,
       "mainImage": "img/royal-canin/gato-weight-care.jpg",
       "images": [],
@@ -15870,13 +17483,58 @@
         "7790187340527",
         "7790187340534"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-gato-weight-care-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 31800,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-gato-weight-care-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 120800,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -15898,21 +17556,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "15 kg"
+      ],
+      "price": {
+        "15 kg": 125500
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-giant-adulto.jpg",
       "images": [],
       "eans": [
         "7790187340466"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-giant-adulto-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 125500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -15934,8 +17621,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "3 kg",
+        "15 kg"
+      ],
+      "price": {
+        "3 kg": 38100,
+        "15 kg": 145500
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-medium-adulto-7-plus.jpg",
       "images": [],
@@ -15944,13 +17637,58 @@
         "7790187340497",
         "7790187370586"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-medium-adulto-7-plus-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 38100,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-perro-medium-adulto-7-plus-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 145500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -16148,21 +17886,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "12 kg"
+      ],
+      "price": {
+        "12 kg": 120200
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-labrador-retriever-adult.jpg",
       "images": [],
       "eans": [
         "7790187341715"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-labrador-retriever-adult-12-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "12 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 120200,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -16184,21 +17951,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "3 kg"
+      ],
+      "price": {
+        "3 kg": 41500
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-exigent-mini.jpg",
       "images": [],
       "eans": [
         "7790187340893"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-exigent-mini-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 41500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -16220,8 +18016,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1,5 kg",
+        "3 kg"
+      ],
+      "price": {
+        "1,5 kg": 30500,
+        "3 kg": 57200
+      },
       "image": null,
       "mainImage": "img/royal-canin/dietas-early-renal.jpg",
       "images": [],
@@ -16230,13 +18032,58 @@
         "7790187341968",
         "7790187342002"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-dietas-early-renal-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 30500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-dietas-early-renal-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 57200,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -16258,21 +18105,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "12 kg"
+      ],
+      "price": {
+        "12 kg": 120200
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-golden-retriever-adult.jpg",
       "images": [],
       "eans": [
         "7790187341708"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-golden-retriever-adult-12-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "12 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 120200,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -16370,8 +18246,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1 kg",
+        "3 kg"
+      ],
+      "price": {
+        "1 kg": 15100,
+        "3 kg": 42900
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-jack-russel-adulto.jpg",
       "images": [],
@@ -16379,13 +18261,58 @@
         "7790187341258",
         "7790187341265"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-jack-russel-adulto-1-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 15100,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-perro-jack-russel-adulto-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 42900,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -16407,8 +18334,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1 kg",
+        "3 kg"
+      ],
+      "price": {
+        "1 kg": 15800,
+        "3 kg": 46600
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-bulldog-franc-s-junior.jpg",
       "images": [],
@@ -16416,13 +18349,58 @@
         "7790187341784",
         "7790187341791"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-bulldog-franc-s-junior-1-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 15800,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-perro-bulldog-franc-s-junior-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 46600,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -16532,21 +18510,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "3 kg"
+      ],
+      "price": {
+        "3 kg": 42900
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-schnauzer-miniature-adult.jpg",
       "images": [],
       "eans": [
         "7790187341753"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-schnauzer-miniature-adult-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 42900,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -16604,8 +18611,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1,5 kg",
+        "7,5 kg"
+      ],
+      "price": {
+        "1,5 kg": 34500,
+        "7,5 kg": 118500
+      },
       "image": null,
       "mainImage": "img/royal-canin/gato-siamese-adult.jpg",
       "images": [],
@@ -16613,13 +18626,58 @@
         "7790187339446",
         "7790187339453"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-gato-siamese-adult-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 34500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-gato-siamese-adult-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 118500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
