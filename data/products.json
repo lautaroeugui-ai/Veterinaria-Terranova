@@ -5694,8 +5694,8 @@
         "MON AMI CORDERO 3KG"
       ],
       "price": {
-        "MON AMI CORDERO 12KG": 84213,
-        "MON AMI CORDERO 3KG": 17230.4
+        "MON AMI CORDERO 12KG": 95736.6,
+        "MON AMI CORDERO 3KG": 39200
       },
       "image": null,
       "mainImage": "img/mon-ami/alimento-natural-cordero.webp",
@@ -5711,9 +5711,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 84213,
+            "amount": 95736.6,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -5731,9 +5731,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 17230.4,
+            "amount": 39200,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -5753,6 +5753,10 @@
         {
           "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
           "sourceType": "supplier-catalog"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -5761,7 +5765,7 @@
       "brand": "Mon Ami",
       "supplier": "Mon Ami",
       "line": null,
-      "name": "Mon Ami Meat Bites 75G",
+      "name": "Meat Bites",
       "sourceName": "MON AMI MEAT BITES 75G",
       "category": "alimentos-y-snacks",
       "subcategory": "alimento-o-snack",
@@ -5772,14 +5776,16 @@
       "lifeStage": null,
       "need": null,
       "flavor": null,
-      "description": null,
+      "description": "Sabores: carne vacuna y cordero (consultar disponibilidad).",
       "features": [],
       "materials": [],
       "presentations": [
-        "MON AMI MEAT BITES 75G"
+        "MON AMI MEAT BITES 75G",
+        "MON AMI MEAT BITES 200G"
       ],
       "price": {
-        "MON AMI MEAT BITES 75G": 3267
+        "MON AMI MEAT BITES 75G": 3942,
+        "MON AMI MEAT BITES 200G": 9018
       },
       "image": null,
       "mainImage": null,
@@ -5795,9 +5801,29 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 3267,
+            "amount": 3942,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "mon-ami-mon-ami-meat-bites-75g-mon-ami-meat-bites-200g",
+          "sku": null,
+          "ean": null,
+          "presentation": "MON AMI MEAT BITES 200G",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 9018,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -5817,6 +5843,10 @@
         {
           "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
           "sourceType": "supplier-catalog"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -5836,16 +5866,18 @@
       "lifeStage": null,
       "need": null,
       "flavor": null,
-      "description": null,
+      "description": "Sabores: carne vacuna, pollo y cordero (consultar disponibilidad).",
       "features": [],
       "materials": [],
       "presentations": [
         "MON AMI MEAT STICK 12G",
-        "MON AMI MEAT STICK 150G"
+        "MON AMI MEAT STICK 150G",
+        "MON AMI MEAT STICK 250G"
       ],
       "price": {
-        "MON AMI MEAT STICK 12G": 601.2,
-        "MON AMI MEAT STICK 150G": 6120
+        "MON AMI MEAT STICK 12G": 740,
+        "MON AMI MEAT STICK 150G": 7437.6,
+        "MON AMI MEAT STICK 250G": 11880
       },
       "image": null,
       "mainImage": null,
@@ -5861,9 +5893,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 601.2,
+            "amount": 740,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -5881,9 +5913,29 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 6120,
+            "amount": 7437.6,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "mon-ami-meat-stick-mon-ami-meat-stick-250g",
+          "sku": null,
+          "ean": null,
+          "presentation": "MON AMI MEAT STICK 250G",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 11880,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -5903,6 +5955,10 @@
         {
           "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
           "sourceType": "supplier-catalog"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -5930,8 +5986,8 @@
         "MON AMI POLLO 3KG"
       ],
       "price": {
-        "MON AMI POLLO 12KG": 75794.4,
-        "MON AMI POLLO 3KG": 17434.8
+        "MON AMI POLLO 12KG": 86163.75,
+        "MON AMI POLLO 3KG": 35232
       },
       "image": null,
       "mainImage": "img/mon-ami/alimento-natural-pollo.webp",
@@ -5947,9 +6003,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 75794.4,
+            "amount": 86163.75,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -5967,9 +6023,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 17434.8,
+            "amount": 35232,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -5989,6 +6045,10 @@
         {
           "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
           "sourceType": "supplier-catalog"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -6016,8 +6076,8 @@
         "MON AMI SNACK DENTAL 75G"
       ],
       "price": {
-        "MON AMI SNACK DENTAL 400G": 12012,
-        "MON AMI SNACK DENTAL 75G": 3049.2
+        "MON AMI SNACK DENTAL 400G": 13255.06,
+        "MON AMI SNACK DENTAL 75G": 3330
       },
       "image": null,
       "mainImage": null,
@@ -6033,9 +6093,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 12012,
+            "amount": 13255.06,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -6053,9 +6113,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 3049.2,
+            "amount": 3330,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -6075,6 +6135,10 @@
         {
           "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
           "sourceType": "supplier-catalog"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -6094,14 +6158,14 @@
       "lifeStage": null,
       "need": null,
       "flavor": null,
-      "description": null,
+      "description": "Sabores: carne vacuna y pollo (consultar disponibilidad).",
       "features": [],
       "materials": [],
       "presentations": [
         "MON AMI SNACK GATO BITES 50G"
       ],
       "price": {
-        "MON AMI SNACK GATO BITES 50G": 3232.8
+        "MON AMI SNACK GATO BITES 50G": 3573
       },
       "image": null,
       "mainImage": null,
@@ -6117,9 +6181,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 3232.8,
+            "amount": 3573,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -6139,6 +6203,10 @@
         {
           "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
           "sourceType": "supplier-catalog"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -6165,7 +6233,7 @@
         "MON AMI SNACK GRILLED 75G"
       ],
       "price": {
-        "MON AMI SNACK GRILLED 75G": 3234.6
+        "MON AMI SNACK GRILLED 75G": 3573
       },
       "image": null,
       "mainImage": null,
@@ -6181,9 +6249,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 3234.6,
+            "amount": 3573,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -6203,6 +6271,10 @@
         {
           "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
           "sourceType": "supplier-catalog"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -6230,8 +6302,8 @@
         "MON AMI SUPERFOOD CACHORROS 8KG"
       ],
       "price": {
-        "MON AMI SUPERFOOD CACHORROS 1.4KG": 21524.4,
-        "MON AMI SUPERFOOD CACHORROS 8KG": 93648.15
+        "MON AMI SUPERFOOD CACHORROS 1.4KG": 24977.7,
+        "MON AMI SUPERFOOD CACHORROS 8KG": 108652.05
       },
       "image": null,
       "mainImage": "img/mon-ami/superfood-cachorros.webp",
@@ -6247,9 +6319,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 21524.4,
+            "amount": 24977.7,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -6267,9 +6339,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 93648.15,
+            "amount": 108652.05,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -6289,6 +6361,10 @@
         {
           "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
           "sourceType": "supplier-catalog"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -6316,8 +6392,8 @@
         "MON AMI SUPERFOOD GATO 6KG"
       ],
       "price": {
-        "MON AMI SUPERFOOD GATO 1.4KG": 26600,
-        "MON AMI SUPERFOOD GATO 6KG": 95953
+        "MON AMI SUPERFOOD GATO 1.4KG": 32057.1,
+        "MON AMI SUPERFOOD GATO 6KG": 115682.85
       },
       "image": null,
       "mainImage": "img/mon-ami/superfood-gato.webp",
@@ -6333,9 +6409,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 26600,
+            "amount": 32057.1,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -6353,9 +6429,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 95953,
+            "amount": 115682.85,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -6375,6 +6451,10 @@
         {
           "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
           "sourceType": "supplier-catalog"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -6403,7 +6483,7 @@
       ],
       "price": {
         "MON AMI SUPERFOOD RAZAS MYG 12KG": 141766.2,
-        "MON AMI SUPERFOOD RAZAS MYG 5KG": 72029.25
+        "MON AMI SUPERFOOD RAZAS MYG 5KG": 79610.85
       },
       "image": null,
       "mainImage": "img/mon-ami/superfood-razas-medianas-grandes.webp",
@@ -6439,9 +6519,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 72029.25,
+            "amount": 79610.85,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -6461,6 +6541,10 @@
         {
           "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
           "sourceType": "supplier-catalog"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -6488,8 +6572,8 @@
         "MON AMI SUPERFOOD RAZAS PYM 6KG"
       ],
       "price": {
-        "MON AMI SUPERFOOD RAZAS PYM 3KG": 41083.2,
-        "MON AMI SUPERFOOD RAZAS PYM 6KG": 80850.15
+        "MON AMI SUPERFOOD RAZAS PYM 3KG": 45411.3,
+        "MON AMI SUPERFOOD RAZAS PYM 6KG": 89360.55
       },
       "image": null,
       "mainImage": "img/mon-ami/superfood-razas-pequenas-medianas.webp",
@@ -6505,9 +6589,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 41083.2,
+            "amount": 45411.3,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -6525,9 +6609,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 80850.15,
+            "amount": 89360.55,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -6547,6 +6631,10 @@
         {
           "file": "source-data/terranova_source_data_nuevo.zip::Lista de productos - Mayoristas AGOSTO.pdf",
           "sourceType": "supplier-catalog"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -20067,6 +20155,876 @@
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "filan-baston-de-vinza-vacuna-fina",
+      "brand": "Filan",
+      "supplier": "Filan",
+      "line": null,
+      "name": "Bastón de Vinza Vacuna Fina",
+      "sourceName": "Bastón de Vinza Vacuna Fina",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "Mordedor natural de dureza alta, pensado para perros medianos y grandes, o chicos con mucha fuerza al masticar. Tiene un solo ingrediente, vinza vacuna, sin harinas, cereales, conservantes ni colorantes. Aporta 87,3% de proteína con apenas 0,7% de grasa y ayuda a la higiene dental. Se ofrece entero y siempre con supervisión; no se recomienda para perros con problemas dentales graves o digestivos crónicos.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "1 unidad"
+      ],
+      "price": {
+        "1 unidad": 13500
+      },
+      "image": null,
+      "mainImage": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "filan-baston-de-vinza-vacuna-fina-1-unidad",
+          "sku": null,
+          "ean": null,
+          "presentation": "1 unidad",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 13500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "pending-image-match",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "filan-bucle-de-esofago-vacuno",
+      "brand": "Filan",
+      "supplier": "Filan",
+      "line": null,
+      "name": "Bucle de Esófago Vacuno",
+      "sourceName": "Bucle de Esófago Vacuno",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "Mordedor 100% natural de dureza media, apto para perros de todos los tamaños. Es esófago vacuno deshidratado, sin harinas, cereales, conservantes ni colorantes. Tiene 70,8% de proteína y 21,2% de grasa, y aporta calcio y fósforo. Se puede dar entero, en trozos como premio o dentro de juguetes interactivos.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "5 unidades"
+      ],
+      "price": {
+        "5 unidades": 7300
+      },
+      "image": null,
+      "mainImage": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "filan-bucle-de-esofago-vacuno-5-unidades",
+          "sku": null,
+          "ean": null,
+          "presentation": "5 unidades",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 7300,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "pending-image-match",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "filan-bucle-de-vinza-vacuna",
+      "brand": "Filan",
+      "supplier": "Filan",
+      "line": null,
+      "name": "Bucle de Vinza Vacuna",
+      "sourceName": "Bucle de Vinza Vacuna",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "Snack natural de dureza alta, de 18 cm, para perros medianos y grandes o chicos con mucha fuerza al masticar. Dura mucho y ayuda a reducir la placa y el sarro. Un solo ingrediente, vinza vacuna, con 87,3% de proteína y muy poca grasa. Viene en unidad termosellada; conservar en lugar fresco y seco, y ofrecer siempre con supervisión.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "18 cm · 1 unidad"
+      ],
+      "price": {
+        "18 cm · 1 unidad": 8100
+      },
+      "image": null,
+      "mainImage": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "filan-bucle-de-vinza-vacuna-18-cm-1-unidad",
+          "sku": null,
+          "ean": null,
+          "presentation": "18 cm · 1 unidad",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 8100,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "pending-image-match",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "filan-cogote-de-pollo-deshidratado",
+      "brand": "Filan",
+      "supplier": "Filan",
+      "line": null,
+      "name": "Cogote de Pollo Deshidratado",
+      "sourceName": "Cogote de Pollo Deshidratado",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "Snack natural de dureza media, apto para perros de todas las edades y tamaños. Aporta colágeno natural para articulaciones, tendones y ligamentos, además de calcio y fósforo. Tiene 52% de proteína y 15% de grasa, sin harinas, cereales, conservantes ni colorantes. 343 kcal cada 100 g. No ofrecer a perros alérgicos al pollo.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "100 g"
+      ],
+      "price": {
+        "100 g": 9100
+      },
+      "image": null,
+      "mainImage": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "filan-cogote-de-pollo-deshidratado-100-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "100 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 9100,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "pending-image-match",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "filan-trocitos-de-esofago-vacuno",
+      "brand": "Filan",
+      "supplier": "Filan",
+      "line": null,
+      "name": "Trocitos de Esófago Vacuno",
+      "sourceName": "Trocitos de Esófago Vacuno",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "Trocitos chicos y livianos de esófago vacuno deshidratado, ideales para entrenamiento, paseos y juegos de olfato. No manchan y son de dureza media. 70,8% de proteína y 21,2% de grasa, sin harinas, cereales, conservantes ni colorantes. Aptos para perros de todas las edades.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "100 g"
+      ],
+      "price": {
+        "100 g": 9500
+      },
+      "image": null,
+      "mainImage": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "filan-trocitos-de-esofago-vacuno-100-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "100 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 9500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "pending-image-match",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "filan-garras-de-pollo-deshidratadas",
+      "brand": "Filan",
+      "supplier": "Filan",
+      "line": null,
+      "name": "Garras de Pollo Deshidratadas",
+      "sourceName": "Garras de Pollo Deshidratadas",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "Snack natural de dureza media para perros de todas las edades y tamaños. Aporta colágeno para las articulaciones y calcio y fósforo para huesos y dientes. Tiene 50,9% de proteína y 30% de grasa, así que va como premio y no como alimento. Sin harinas, cereales, conservantes ni colorantes. No recomendado para perros alérgicos al pollo o con dieta baja en grasa.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "6 unidades"
+      ],
+      "price": {
+        "6 unidades": 5500
+      },
+      "image": null,
+      "mainImage": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "filan-garras-de-pollo-deshidratadas-6-unidades",
+          "sku": null,
+          "ean": null,
+          "presentation": "6 unidades",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 5500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "pending-image-match",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "filan-lonja-de-esofago-vacuno",
+      "brand": "Filan",
+      "supplier": "Filan",
+      "line": null,
+      "name": "Lonja de Esófago Vacuno",
+      "sourceName": "Lonja de Esófago Vacuno",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "Snack natural de dureza media, fácil de digerir, para perros chicos, medianos y grandes. Es esófago vacuno deshidratado con 70,8% de proteína y 21,2% de grasa, sin harinas, cereales, conservantes ni colorantes. Se puede dar entera, en trozos como premio o para rellenar juguetes.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "10 unidades"
+      ],
+      "price": {
+        "10 unidades": 7900
+      },
+      "image": null,
+      "mainImage": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "filan-lonja-de-esofago-vacuno-10-unidades",
+          "sku": null,
+          "ean": null,
+          "presentation": "10 unidades",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 7900,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "pending-image-match",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "filan-mega-bucle-de-esofago-vacuno",
+      "brand": "Filan",
+      "supplier": "Filan",
+      "line": null,
+      "name": "Mega Bucle de Esófago Vacuno",
+      "sourceName": "Mega Bucle de Esófago Vacuno",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "Mordedor natural de dureza media, de 30 cm, para perros de todos los tamaños. Ayuda a limpiar los dientes al masticar y aporta calcio y fósforo. 100% esófago vacuno deshidratado, con 70,8% de proteína y 21,2% de grasa. Se ofrece entero o en trozos como premio, siempre con supervisión.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "30 cm · 1 unidad"
+      ],
+      "price": {
+        "30 cm · 1 unidad": 3300
+      },
+      "image": null,
+      "mainImage": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "filan-mega-bucle-de-esofago-vacuno-30-cm-1-unidad",
+          "sku": null,
+          "ean": null,
+          "presentation": "30 cm · 1 unidad",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 3300,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "pending-image-match",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "filan-morro-de-cerdo",
+      "brand": "Filan",
+      "supplier": "Filan",
+      "line": null,
+      "name": "Morro de Cerdo",
+      "sourceName": "Morro de Cerdo",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "Mordedor natural de dureza alta, para perros que ya tienen experiencia con mordedores. Es rico en colágeno y selenio, y tiene 63% de proteína y 15% de grasa. Un solo ingrediente, morro de cerdo deshidratado, sin agregados. 387 kcal cada 100 g. No recomendado para perros alérgicos al cerdo, con pancreatitis, gastritis o dieta baja en calorías.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "5 unidades"
+      ],
+      "price": {
+        "5 unidades": 8900
+      },
+      "image": null,
+      "mainImage": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "filan-morro-de-cerdo-5-unidades",
+          "sku": null,
+          "ean": null,
+          "presentation": "5 unidades",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 8900,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "pending-image-match",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "filan-oreja-de-cerdo-deshidratada",
+      "brand": "Filan",
+      "supplier": "Filan",
+      "line": null,
+      "name": "Oreja de Cerdo Deshidratada",
+      "sourceName": "Oreja de Cerdo Deshidratada",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "Mordedor natural de dureza alta, apto para perros de todas las edades y tamaños. Ayuda a liberar energía y a limpiar los dientes, y es rico en colágeno. 66% de proteína y 12% de grasa, sin harinas, cereales, conservantes ni colorantes. No recomendado para perros alérgicos al cerdo, con pancreatitis, gastritis o dieta hipocalórica.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "1 unidad"
+      ],
+      "price": {
+        "1 unidad": 2000
+      },
+      "image": null,
+      "mainImage": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "filan-oreja-de-cerdo-deshidratada-1-unidad",
+          "sku": null,
+          "ean": null,
+          "presentation": "1 unidad",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 2000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "pending-image-match",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "filan-panza-de-pollo-deshidratada",
+      "brand": "Filan",
+      "supplier": "Filan",
+      "line": null,
+      "name": "Panza de Pollo Deshidratada",
+      "sourceName": "Panza de Pollo Deshidratada",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "Mordedor natural de dureza baja, ideal para cachorros, perros mayores y razas chicas. Es bajo en grasa y de fácil digestión: 73% de proteína y solo 5% de grasa. Un solo ingrediente, panza de pollo deshidratada. Se puede dar entera, en trocitos o dentro de juguetes. 337 kcal cada 100 g. No recomendado para perros alérgicos al pollo o con enfermedad renal avanzada.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "100 g"
+      ],
+      "price": {
+        "100 g": 8900
+      },
+      "image": null,
+      "mainImage": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "filan-panza-de-pollo-deshidratada-100-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "100 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 8900,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "pending-image-match",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "filan-pechuga-de-pollo-deshidratada",
+      "brand": "Filan",
+      "supplier": "Filan",
+      "line": null,
+      "name": "Pechuga de Pollo Deshidratada",
+      "sourceName": "Pechuga de Pollo Deshidratada",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "Snack natural de dureza baja, para cachorros, perros mayores y perros de mordida suave. Es magro y fácil de digerir: 75% de proteína y solo 3% de grasa. 100% pechuga de pollo deshidratada, sin harinas, cereales ni conservantes artificiales. Se puede dar entera, en trocitos como premio o en juguetes interactivos. Ajustar la cantidad según el tamaño del perro.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Pechuga de Pollo Deshidratada"
+      ],
+      "price": {
+        "Pechuga de Pollo Deshidratada": 13500
+      },
+      "image": null,
+      "mainImage": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "filan-pechuga-de-pollo-deshidratada-pechuga-de-pollo-deshidratada",
+          "sku": null,
+          "ean": null,
+          "presentation": "Pechuga de Pollo Deshidratada",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 13500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "pending-image-match",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "filan-pulmon-vacuno-deshidratado",
+      "brand": "Filan",
+      "supplier": "Filan",
+      "line": null,
+      "name": "Pulmón Vacuno Deshidratado",
+      "sourceName": "Pulmón Vacuno Deshidratado",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "Snack liviano y crujiente de dureza media, bueno para perros chicos, mayores o de mordida suave. Tiene 73% de proteína y 10,6% de grasa, y aporta calcio y fósforo. Un solo ingrediente, pulmón vacuno deshidratado, sin agregados. Sirve como premio de entrenamiento o para juegos de olfato. No recomendado para perros alérgicos a la proteína vacuna.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "8 unidades"
+      ],
+      "price": {
+        "8 unidades": 5100
+      },
+      "image": null,
+      "mainImage": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "filan-pulmon-vacuno-deshidratado-8-unidades",
+          "sku": null,
+          "ean": null,
+          "presentation": "8 unidades",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 5100,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "pending-image-match",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "filan-traquea-vacuna-deshidratada",
+      "brand": "Filan",
+      "supplier": "Filan",
+      "line": null,
+      "name": "Tráquea Vacuna Deshidratada",
+      "sourceName": "Tráquea Vacuna Deshidratada",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "Mordedor natural de dureza media, para perros medianos y grandes o con buena fuerza en la mandíbula. Es rico en colágeno y condroitina, que ayudan a cuidar articulaciones y cartílagos, y tiene 70% de proteína. Un solo ingrediente, tráquea vacuna deshidratada. Se puede dar entera o rellenar y congelar para que dure más.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "3 unidades · 90 g aprox."
+      ],
+      "price": {
+        "3 unidades · 90 g aprox.": 6000
+      },
+      "image": null,
+      "mainImage": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "filan-traquea-vacuna-deshidratada-3-unidades-90-g-aprox",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 unidades · 90 g aprox.",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 6000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "pending-image-match",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "filan-vinza-vacuna-fina",
+      "brand": "Filan",
+      "supplier": "Filan",
+      "line": null,
+      "name": "Vinza Vacuna Fina",
+      "sourceName": "Vinza Vacuna Fina",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "Mordedor natural de dureza alta, para perros medianos y grandes o chicos con mucha fuerza al masticar. Un solo ingrediente, vinza vacuna, con 87,3% de proteína y solo 0,7% de grasa. Ayuda a la higiene dental y a que el perro se entretenga. Ofrecer entero y con supervisión; no se recomienda para perros con problemas dentales graves.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Pack de 7 unidades"
+      ],
+      "price": {
+        "Pack de 7 unidades": 17900
+      },
+      "image": null,
+      "mainImage": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "filan-vinza-vacuna-fina-pack-de-7-unidades",
+          "sku": null,
+          "ean": null,
+          "presentation": "Pack de 7 unidades",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 17900,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "pending-image-match",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
           "sourceType": "terranova-price-list"
         }
       ]
