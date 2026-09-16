@@ -8745,7 +8745,7 @@
         "2 kg"
       ],
       "price": {
-        "2 kg": 32000
+        "2 kg": 37000
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-calm-canine.jpg",
@@ -8764,9 +8764,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 32000,
+            "amount": 37000,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -8784,6 +8784,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -8847,8 +8851,8 @@
         "3 kg"
       ],
       "price": {
-        "1 kg": 13600,
-        "3 kg": 36600
+        "1 kg": 14500,
+        "3 kg": 39500
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-mini-indoor-adulto.jpg",
@@ -8869,9 +8873,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 13600,
+            "amount": 14500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -8889,9 +8893,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 36600,
+            "amount": 39500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -8909,6 +8913,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -8935,7 +8943,7 @@
         "15 kg"
       ],
       "price": {
-        "15 kg": 152500
+        "15 kg": 153999
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-maxi-ageing-8-plus.jpg",
@@ -8955,9 +8963,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 152500,
+            "amount": 153999,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -8975,6 +8983,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -9038,7 +9050,7 @@
         "2 kg"
       ],
       "price": {
-        "2 kg": 48600
+        "2 kg": 52500
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-calm-feline.jpg",
@@ -9057,9 +9069,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 48600,
+            "amount": 52500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -9077,6 +9089,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -9103,7 +9119,7 @@
         "1,5 kg"
       ],
       "price": {
-        "1,5 kg": 32000
+        "1,5 kg": 34900
       },
       "image": null,
       "mainImage": "img/royal-canin/gato-hairball-care.jpg",
@@ -9123,9 +9139,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 32000,
+            "amount": 34900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -9143,6 +9159,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -9169,7 +9189,7 @@
         "15 kg"
       ],
       "price": {
-        "15 kg": 140700
+        "15 kg": 149500
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-giant-puppy.jpg",
@@ -9189,9 +9209,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 140700,
+            "amount": 149500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -9209,6 +9229,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -9235,7 +9259,7 @@
         "12 kg"
       ],
       "price": {
-        "12 kg": 139700
+        "12 kg": 140900
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-golden-retriever-junior.jpg",
@@ -9254,9 +9278,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 139700,
+            "amount": 140900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -9274,6 +9298,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -9301,8 +9329,8 @@
         "1,5 kg"
       ],
       "price": {
-        "0,4 kg": 11200,
-        "1,5 kg": 33600
+        "0,4 kg": 12100,
+        "1,5 kg": 36500
       },
       "image": null,
       "mainImage": "img/royal-canin/gato-mother-y-babycat.jpg",
@@ -9325,9 +9353,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 11200,
+            "amount": 12100,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -9345,9 +9373,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 33600,
+            "amount": 36500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -9365,6 +9393,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -9505,6 +9537,10 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
           "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -9526,8 +9562,16 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1,5 kg",
+        "7,5 kg",
+        "15 kg"
+      ],
+      "price": {
+        "1,5 kg": 24200,
+        "7,5 kg": 93900,
+        "15 kg": 163800
+      },
       "image": null,
       "mainImage": "img/royal-canin/dietas-satiety-support-weight-management-canine.jpg",
       "images": [],
@@ -9536,13 +9580,78 @@
         "7790187339118",
         "7790187339125"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-dietas-satiety-support-weight-management-canine-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 24200,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-dietas-satiety-support-weight-management-canine-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 93900,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-dietas-satiety-support-weight-management-canine-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 163800,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -9764,8 +9873,8 @@
         "10 kg"
       ],
       "price": {
-        "2 kg": 32400,
-        "10 kg": 121900
+        "2 kg": 37500,
+        "10 kg": 140000
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-diabetic-canine.jpg",
@@ -9786,9 +9895,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 32400,
+            "amount": 37500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -9806,9 +9915,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 121900,
+            "amount": 140000,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -9826,6 +9935,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -9888,7 +10001,7 @@
         "2 kg"
       ],
       "price": {
-        "2 kg": 43500
+        "2 kg": 46900
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-gastrointestinal-feline.jpg",
@@ -9908,9 +10021,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 43500,
+            "amount": 46900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -9928,6 +10041,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -9990,7 +10107,7 @@
         "12 kg"
       ],
       "price": {
-        "12 kg": 139900
+        "12 kg": 140900
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-labrador-retriever-junior.jpg",
@@ -10009,9 +10126,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 139900,
+            "amount": 140900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -10029,6 +10146,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -10055,7 +10176,7 @@
         "3 kg"
       ],
       "price": {
-        "3 kg": 42900
+        "3 kg": 45900
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-dachshund-adult.jpg",
@@ -10074,9 +10195,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 42900,
+            "amount": 45900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -10094,6 +10215,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -10121,8 +10246,8 @@
         "3 kg"
       ],
       "price": {
-        "1 kg": 14500,
-        "3 kg": 40999
+        "1 kg": 15600,
+        "3 kg": 43900
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-mini-starter-mother-y-babydog.jpg",
@@ -10142,9 +10267,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 14500,
+            "amount": 15600,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -10162,9 +10287,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 40999,
+            "amount": 43900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -10182,6 +10307,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -10208,7 +10337,7 @@
         "2 kg"
       ],
       "price": {
-        "2 kg": 42700
+        "2 kg": 46200
       },
       "image": null,
       "mainImage": "img/royal-canin/gato-digestive-care.jpg",
@@ -10229,9 +10358,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 42700,
+            "amount": 46200,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -10249,6 +10378,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -10276,8 +10409,8 @@
         "10 kg"
       ],
       "price": {
-        "2 kg": 33600,
-        "10 kg": 122500
+        "2 kg": 38900,
+        "10 kg": 141900
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-hypoallergenic-canine.jpg",
@@ -10299,9 +10432,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 33600,
+            "amount": 38900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -10319,9 +10452,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 122500,
+            "amount": 141900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -10339,6 +10472,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -10365,7 +10502,7 @@
         "3 kg"
       ],
       "price": {
-        "3 kg": 41500
+        "3 kg": 44500
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-mini-castrados.jpg",
@@ -10384,9 +10521,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 41500,
+            "amount": 44500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -10404,6 +10541,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -10428,11 +10569,13 @@
       "materials": [],
       "presentations": [
         "10 kg",
-        "15 kg"
+        "15 kg",
+        "2 kg"
       ],
       "price": {
-        "10 kg": 124600,
-        "15 kg": 158600
+        "10 kg": 143900,
+        "15 kg": 183200,
+        "2 kg": 36500
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-mobility-canine.jpg",
@@ -10452,9 +10595,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 124600,
+            "amount": 143900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -10472,9 +10615,29 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 158600,
+            "amount": 183200,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-dietas-mobility-canine-2-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "2 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 36500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -10492,6 +10655,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -10555,7 +10722,7 @@
         "3 kg"
       ],
       "price": {
-        "3 kg": 51700
+        "3 kg": 55900
       },
       "image": null,
       "mainImage": "img/royal-canin/gato-appetite-control.jpg",
@@ -10576,9 +10743,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 51700,
+            "amount": 55900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -10596,6 +10763,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -10623,8 +10794,8 @@
         "10 kg"
       ],
       "price": {
-        "3 kg": 33500,
-        "10 kg": 102100
+        "3 kg": 43100,
+        "10 kg": 108300
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-medium-weight-care.jpg",
@@ -10644,9 +10815,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 33500,
+            "amount": 43100,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -10664,9 +10835,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 102100,
+            "amount": 108300,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -10684,6 +10855,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -10710,7 +10885,7 @@
         "2 kg"
       ],
       "price": {
-        "2 kg": 34700
+        "2 kg": 40100
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-hypoallergenic-small-dog.jpg",
@@ -10729,9 +10904,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 34700,
+            "amount": 40100,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -10749,6 +10924,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -10811,7 +10990,7 @@
         "1,5 kg"
       ],
       "price": {
-        "1,5 kg": 21800
+        "1,5 kg": 25500
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-gastrointestinal-low-fat-canine.jpg",
@@ -10831,9 +11010,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 21800,
+            "amount": 25500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -10851,6 +11030,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -10878,8 +11061,8 @@
         "7,5 kg"
       ],
       "price": {
-        "1,5 kg": 32000,
-        "7,5 kg": 130500
+        "1,5 kg": 34900,
+        "7,5 kg": 141200
       },
       "image": null,
       "mainImage": "img/royal-canin/gato-urinary-care.jpg",
@@ -10902,9 +11085,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 32000,
+            "amount": 34900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -10922,9 +11105,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 130500,
+            "amount": 141200,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -10942,6 +11125,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -11107,8 +11294,8 @@
         "10 kg"
       ],
       "price": {
-        "1,5 kg": 21000,
-        "10 kg": 110200
+        "1,5 kg": 24500,
+        "10 kg": 127500
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-urinary-s-o-ageing-7-plus.jpg",
@@ -11128,9 +11315,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 21000,
+            "amount": 24500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -11148,9 +11335,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 110200,
+            "amount": 127500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -11168,6 +11355,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -11195,8 +11386,8 @@
         "3 kg"
       ],
       "price": {
-        "1 kg": 15100,
-        "3 kg": 42900
+        "1 kg": 16200,
+        "3 kg": 45900
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-yorkshire-terrier-adult.jpg",
@@ -11216,9 +11407,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 15100,
+            "amount": 16200,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -11236,9 +11427,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 42900,
+            "amount": 45900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -11256,6 +11447,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -11465,8 +11660,8 @@
         "15 kg"
       ],
       "price": {
-        "3 kg": 32000,
-        "15 kg": 140700
+        "3 kg": 41500,
+        "15 kg": 149300
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-medium-puppy.jpg",
@@ -11490,9 +11685,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 32000,
+            "amount": 41500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -11510,9 +11705,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 140700,
+            "amount": 149300,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -11530,6 +11725,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -11629,7 +11828,7 @@
         "12 kg"
       ],
       "price": {
-        "12 kg": 139700
+        "12 kg": 140900
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-ovejero-alem-n-junior.jpg",
@@ -11648,9 +11847,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 139700,
+            "amount": 140900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -11668,6 +11867,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -11690,21 +11893,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "2 kg"
+      ],
+      "price": {
+        "2 kg": 49600
+      },
       "image": null,
       "mainImage": "img/royal-canin/gato-ageing-11-plus.jpg",
       "images": [],
       "eans": [
         "3182551066005"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-gato-ageing-11-plus-2-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "2 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 49600,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -11867,6 +12099,10 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
           "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -11893,8 +12129,8 @@
         "10 kg"
       ],
       "price": {
-        "1,5 kg": 23200,
-        "10 kg": 122500
+        "1,5 kg": 25100,
+        "10 kg": 132200
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-urinary-s-o-canine.jpg",
@@ -11915,9 +12151,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 23200,
+            "amount": 25100,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -11935,9 +12171,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 122500,
+            "amount": 132200,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -11955,6 +12191,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -11982,8 +12222,8 @@
         "7,5 kg"
       ],
       "price": {
-        "3 kg": 42900,
-        "7,5 kg": 91500
+        "3 kg": 45900,
+        "7,5 kg": 97100
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-pug-adulto.jpg",
@@ -12003,9 +12243,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 42900,
+            "amount": 45900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -12023,9 +12263,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 91500,
+            "amount": 97100,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -12043,6 +12283,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -12069,7 +12313,7 @@
         "2 kg"
       ],
       "price": {
-        "2 kg": 37000
+        "2 kg": 42900
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-renal-feline.jpg",
@@ -12090,9 +12334,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 37000,
+            "amount": 42900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -12110,6 +12354,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -12137,8 +12385,8 @@
         "10 kg"
       ],
       "price": {
-        "2 kg": 34700,
-        "10 kg": 122500
+        "2 kg": 40100,
+        "10 kg": 141900
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-hypoallergenic-puppy.jpg",
@@ -12158,9 +12406,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 34700,
+            "amount": 40100,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -12178,9 +12426,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 122500,
+            "amount": 141900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -12198,6 +12446,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -12260,7 +12512,7 @@
         "1,5 kg"
       ],
       "price": {
-        "1,5 kg": 33800
+        "1,5 kg": 36900
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-hepatic-feline.jpg",
@@ -12279,9 +12531,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 33800,
+            "amount": 36900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -12299,6 +12551,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -12325,7 +12581,7 @@
         "12 kg"
       ],
       "price": {
-        "12 kg": 120200
+        "12 kg": 127500
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-bulldog-ingl-s-adult.jpg",
@@ -12344,9 +12600,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 120200,
+            "amount": 127500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -12364,6 +12620,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -12390,7 +12650,7 @@
         "15 kg"
       ],
       "price": {
-        "15 kg": 145600
+        "15 kg": 154500
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-medium-ageing-10-plus.jpg",
@@ -12410,9 +12670,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 145600,
+            "amount": 154500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -12430,6 +12690,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -12494,8 +12758,8 @@
         "8 kg"
       ],
       "price": {
-        "1,5 kg": 33700,
-        "8 kg": 144500
+        "1,5 kg": 36500,
+        "8 kg": 156200
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-anallergenic-canine.jpg",
@@ -12515,9 +12779,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 33700,
+            "amount": 36500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -12535,9 +12799,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 144500,
+            "amount": 156200,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -12555,6 +12819,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -12618,7 +12886,7 @@
         "2 kg"
       ],
       "price": {
-        "2 kg": 42100
+        "2 kg": 45500
       },
       "image": null,
       "mainImage": "img/royal-canin/gato-hair-y-skin-care.jpg",
@@ -12638,9 +12906,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 42100,
+            "amount": 45500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -12658,6 +12926,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -12724,6 +12996,10 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
           "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -12749,7 +13025,7 @@
         "3 kg"
       ],
       "price": {
-        "3 kg": 40999
+        "3 kg": 43900
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-medium-starter-mother-y-babydog.jpg",
@@ -12768,9 +13044,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 40999,
+            "amount": 43900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -12788,6 +13064,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -12877,6 +13157,10 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
           "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -12938,7 +13222,7 @@
         "2 kg"
       ],
       "price": {
-        "2 kg": 58000
+        "2 kg": 62500
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-anallergenic-feline.jpg",
@@ -12957,9 +13241,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 58000,
+            "amount": 62500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -12977,6 +13261,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -12999,21 +13287,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1,5 kg"
+      ],
+      "price": {
+        "1,5 kg": 34100
+      },
       "image": null,
       "mainImage": "img/royal-canin/gato-active-7-plus.jpg",
       "images": [],
       "eans": [
         "7790187339415"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-gato-active-7-plus-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 34100,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -13040,8 +13357,8 @@
         "3 kg"
       ],
       "price": {
-        "1 kg": 15800,
-        "3 kg": 46600
+        "1 kg": 17200,
+        "3 kg": 49900
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-dachshund-puppy.jpg",
@@ -13061,9 +13378,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 15800,
+            "amount": 17200,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -13081,9 +13398,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 46600,
+            "amount": 49900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -13101,6 +13418,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -13239,7 +13560,7 @@
         "12 kg"
       ],
       "price": {
-        "12 kg": 120200
+        "12 kg": 127500
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-boxer-adulto.jpg",
@@ -13258,9 +13579,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 120200,
+            "amount": 127500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -13278,6 +13599,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -13305,8 +13630,8 @@
         "10 kg"
       ],
       "price": {
-        "2 kg": 27700,
-        "10 kg": 105300
+        "2 kg": 32000,
+        "10 kg": 121900
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-gastrointestinal-canine.jpg",
@@ -13329,9 +13654,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 27700,
+            "amount": 32000,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -13349,9 +13674,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 105300,
+            "amount": 121900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -13369,6 +13694,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -13472,8 +13801,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1,5 kg",
+        "7,5 kg"
+      ],
+      "price": {
+        "1,5 kg": 37100,
+        "7,5 kg": 127900
+      },
       "image": null,
       "mainImage": "img/royal-canin/gato-persian.jpg",
       "images": [],
@@ -13481,13 +13816,58 @@
         "9003579001165",
         "9003579001172"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-gato-persian-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 37100,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-gato-persian-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 127900,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -13514,8 +13894,8 @@
         "7,5 kg"
       ],
       "price": {
-        "1,5 kg": 31000,
-        "7,5 kg": 113500
+        "1,5 kg": 33500,
+        "7,5 kg": 122500
       },
       "image": null,
       "mainImage": "img/royal-canin/gato-kitten.jpg",
@@ -13541,9 +13921,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 31000,
+            "amount": 33500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -13561,9 +13941,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 113500,
+            "amount": 122500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -13581,6 +13961,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -13643,7 +14027,7 @@
         "10 kg"
       ],
       "price": {
-        "10 kg": 97000
+        "10 kg": 102900
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-maxi-starter-mother-y-babydog.jpg",
@@ -13662,9 +14046,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 97000,
+            "amount": 102900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -13682,6 +14066,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -13709,8 +14097,8 @@
         "10 kg"
       ],
       "price": {
-        "1,5 kg": 22600,
-        "10 kg": 118300
+        "1,5 kg": 26100,
+        "10 kg": 136900
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-hepatic-canine.jpg",
@@ -13731,9 +14119,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 22600,
+            "amount": 26100,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -13751,9 +14139,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 118300,
+            "amount": 136900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -13771,6 +14159,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -13835,8 +14227,8 @@
         "3 kg"
       ],
       "price": {
-        "1 kg": 14500,
-        "3 kg": 40000
+        "1 kg": 15700,
+        "3 kg": 41900
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-mini-adulto-8-plus.jpg",
@@ -13857,9 +14249,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 14500,
+            "amount": 15700,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -13877,9 +14269,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 40000,
+            "amount": 41900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -13897,6 +14289,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -13926,10 +14322,10 @@
         "15 kg"
       ],
       "price": {
-        "1 kg": 14000,
-        "3 kg": 38500,
-        "7,5 kg": 77500,
-        "15 kg": 144500
+        "1 kg": 14700,
+        "3 kg": 40900,
+        "7,5 kg": 82300,
+        "15 kg": 153200
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-mini-pupy.jpg",
@@ -13948,9 +14344,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 14000,
+            "amount": 14700,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -13968,9 +14364,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 38500,
+            "amount": 40900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -13988,9 +14384,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 77500,
+            "amount": 82300,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -14008,9 +14404,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 144500,
+            "amount": 153200,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -14028,6 +14424,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -14090,7 +14490,7 @@
         "12 kg"
       ],
       "price": {
-        "12 kg": 120200
+        "12 kg": 127500
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-ovejero-alem-n-adult.jpg",
@@ -14109,9 +14509,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 120200,
+            "amount": 127500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -14129,6 +14529,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -14187,8 +14591,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1,5 kg",
+        "7,5 kg"
+      ],
+      "price": {
+        "1,5 kg": 31900,
+        "7,5 kg": 122600
+      },
       "image": null,
       "mainImage": "img/royal-canin/gato-sensible.jpg",
       "images": [],
@@ -14197,13 +14607,58 @@
         "7790187339484",
         "7790187339491"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-gato-sensible-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 31900,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-gato-sensible-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 122600,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -14230,8 +14685,8 @@
         "15 kg"
       ],
       "price": {
-        "3 kg": 36500,
-        "15 kg": 138700
+        "3 kg": 37500,
+        "15 kg": 139999
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-maxi-adulto.jpg",
@@ -14251,9 +14706,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 36500,
+            "amount": 37500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -14271,9 +14726,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 138700,
+            "amount": 139999,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -14291,6 +14746,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -14354,8 +14813,8 @@
         "3 kg"
       ],
       "price": {
-        "1 kg": 15000,
-        "3 kg": 38900
+        "1 kg": 16500,
+        "3 kg": 44500
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-mini-dermacomfort.jpg",
@@ -14375,9 +14834,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 15000,
+            "amount": 16500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -14395,9 +14854,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 38900,
+            "amount": 44500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -14415,6 +14874,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -14442,8 +14905,8 @@
         "3 kg"
       ],
       "price": {
-        "1 kg": 15800,
-        "3 kg": 46600
+        "1 kg": 17200,
+        "3 kg": 49900
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-caniche-junior.jpg",
@@ -14463,9 +14926,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 15800,
+            "amount": 17200,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -14483,9 +14946,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 46600,
+            "amount": 49900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -14503,6 +14966,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -14529,7 +14996,7 @@
         "15 kg"
       ],
       "price": {
-        "15 kg": 152500
+        "15 kg": 153999
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-maxi-adulto-5-plus.jpg",
@@ -14548,9 +15015,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 152500,
+            "amount": 153999,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -14568,6 +15035,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -14594,7 +15065,7 @@
         "1 kg"
       ],
       "price": {
-        "1 kg": 13500
+        "1 kg": 14500
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-x-small-adulto.jpg",
@@ -14613,9 +15084,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 13500,
+            "amount": 14500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -14633,6 +15104,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -14659,7 +15134,7 @@
         "1 kg"
       ],
       "price": {
-        "1 kg": 15100
+        "1 kg": 16200
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-chihuahua-adult.jpg",
@@ -14678,9 +15153,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 15100,
+            "amount": 16200,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -14698,6 +15173,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -14764,6 +15243,10 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
           "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -14825,7 +15308,7 @@
         "10 kg"
       ],
       "price": {
-        "10 kg": 111500
+        "10 kg": 128900
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-gastrointestinal-moderate-calorie-canine.jpg",
@@ -14844,9 +15327,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 111500,
+            "amount": 128900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -14864,6 +15347,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -14964,8 +15451,8 @@
         "7,5 kg"
       ],
       "price": {
-        "1,5 kg": 33600,
-        "7,5 kg": 119500
+        "1,5 kg": 37900,
+        "7,5 kg": 129100
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-urinary-s-o-feline.jpg",
@@ -14988,9 +15475,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 33600,
+            "amount": 37900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -15008,9 +15495,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 119500,
+            "amount": 129100,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -15028,6 +15515,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -15091,8 +15582,8 @@
         "3 kg"
       ],
       "price": {
-        "1 kg": 15800,
-        "3 kg": 46600
+        "1 kg": 17200,
+        "3 kg": 49900
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-yorkshire-terrier-junior.jpg",
@@ -15112,9 +15603,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 15800,
+            "amount": 17200,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -15132,9 +15623,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 46600,
+            "amount": 49900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -15152,6 +15643,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -15178,7 +15673,7 @@
         "1,5 kg"
       ],
       "price": {
-        "1,5 kg": 40000
+        "1,5 kg": 43500
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-diabetic-feline.jpg",
@@ -15197,9 +15692,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 40000,
+            "amount": 43500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -15217,6 +15712,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -15343,8 +15842,12 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "1,5 kg"
+      ],
+      "price": {
+        "1,5 kg": 32000
+      },
       "image": null,
       "mainImage": "img/royal-canin/gato-exigent.jpg",
       "images": [],
@@ -15352,13 +15855,38 @@
         "7790187339392",
         "7896181213154"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-gato-exigent-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1,5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 32000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -15385,8 +15913,8 @@
         "15 kg"
       ],
       "price": {
-        "3 kg": 38800,
-        "15 kg": 140700
+        "3 kg": 41500,
+        "15 kg": 149500
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-maxi-puppy.jpg",
@@ -15407,9 +15935,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 38800,
+            "amount": 41500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -15427,9 +15955,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 140700,
+            "amount": 149500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -15447,6 +15975,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -15476,10 +16008,10 @@
         "15 kg"
       ],
       "price": {
-        "1,5 kg": 28000,
-        "3 kg": 47500,
-        "7,5 kg": 113300,
-        "15 kg": 191300
+        "1,5 kg": 29700,
+        "3 kg": 51500,
+        "7,5 kg": 122700,
+        "15 kg": 206900
       },
       "image": null,
       "mainImage": "img/royal-canin/gato-fit.jpg",
@@ -15502,9 +16034,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 28000,
+            "amount": 29700,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -15522,9 +16054,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 47500,
+            "amount": 51500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -15542,9 +16074,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 113300,
+            "amount": 122700,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -15562,9 +16094,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 191300,
+            "amount": 206900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -15582,6 +16114,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -15609,8 +16145,8 @@
         "3 kg"
       ],
       "price": {
-        "1 kg": 15200,
-        "3 kg": 42000
+        "1 kg": 16200,
+        "3 kg": 44500
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-mini-weight-care.jpg",
@@ -15629,9 +16165,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 15200,
+            "amount": 16200,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -15649,9 +16185,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 42000,
+            "amount": 44500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -15669,6 +16205,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -15692,10 +16232,12 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "1,5 kg"
+        "1,5 kg",
+        "2 kg"
       ],
       "price": {
-        "1,5 kg": 28000
+        "1,5 kg": 28000,
+        "2 kg": 32500
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-urinary-s-o-small-dog.jpg",
@@ -15723,6 +16265,26 @@
           "image": null,
           "availability": null,
           "reviewStatus": "confirmed"
+        },
+        {
+          "id": "royal-canin-dietas-urinary-s-o-small-dog-2-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "2 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 32500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
         }
       ],
       "availability": null,
@@ -15734,6 +16296,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -15761,8 +16327,8 @@
         "7,5 kg"
       ],
       "price": {
-        "1,5 kg": 31000,
-        "7,5 kg": 118990
+        "1,5 kg": 33500,
+        "7,5 kg": 128900
       },
       "image": null,
       "mainImage": "img/royal-canin/gato-indoor-7-plus.jpg",
@@ -15783,9 +16349,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 31000,
+            "amount": 33500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -15803,9 +16369,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 118990,
+            "amount": 128900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -15823,6 +16389,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -15881,21 +16451,50 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "12 kg"
+      ],
+      "price": {
+        "12 kg": 140900
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-boxer-junior.jpg",
       "images": [],
       "eans": [
         "7790187341654"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-boxer-junior-12-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "12 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 140900,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        }
+      ],
       "availability": null,
-      "reviewStatus": "pending-price",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -15921,7 +16520,7 @@
         "2 kg"
       ],
       "price": {
-        "2 kg": 26700
+        "2 kg": 30900
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-gastrointestinal-junior-canine.jpg",
@@ -15940,9 +16539,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 26700,
+            "amount": 30900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -15960,6 +16559,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -15988,9 +16591,9 @@
         "7,5 kg"
       ],
       "price": {
-        "1 kg": 15100,
-        "3 kg": 42900,
-        "7,5 kg": 85000
+        "1 kg": 16500,
+        "3 kg": 45900,
+        "7,5 kg": 90100
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-caniche-adult.jpg",
@@ -16011,9 +16614,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 15100,
+            "amount": 16500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -16031,9 +16634,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 42900,
+            "amount": 45900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -16051,9 +16654,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 85000,
+            "amount": 90100,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -16071,6 +16674,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -16099,9 +16706,9 @@
         "15 kg"
       ],
       "price": {
-        "3 kg": 35000,
-        "7,5 kg": 80900,
-        "15 kg": 133000
+        "3 kg": 37500,
+        "7,5 kg": 85500,
+        "15 kg": 140500
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-medium-adulto.jpg",
@@ -16126,9 +16733,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 35000,
+            "amount": 37500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -16146,9 +16753,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 80900,
+            "amount": 85500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -16166,9 +16773,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 133000,
+            "amount": 140500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -16186,6 +16793,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -16213,8 +16824,8 @@
         "3 kg"
       ],
       "price": {
-        "1 kg": 15800,
-        "3 kg": 46600
+        "1 kg": 17000,
+        "3 kg": 49900
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-jack-russel-puppy.jpg",
@@ -16234,9 +16845,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 15800,
+            "amount": 17000,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -16254,9 +16865,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 46600,
+            "amount": 49900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -16274,6 +16885,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -16301,8 +16916,8 @@
         "3,5 kg"
       ],
       "price": {
-        "1,5 kg": 31800,
-        "3,5 kg": 68800
+        "1,5 kg": 34500,
+        "3,5 kg": 74500
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-mature-consult.jpg",
@@ -16323,9 +16938,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 31800,
+            "amount": 34500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -16343,9 +16958,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 68800,
+            "amount": 74500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -16363,6 +16978,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -16389,7 +17008,7 @@
         "2 kg"
       ],
       "price": {
-        "2 kg": 51800
+        "2 kg": 56000
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-hypoallergenic-feline.jpg",
@@ -16408,9 +17027,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 51800,
+            "amount": 56000,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -16428,6 +17047,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -16454,7 +17077,7 @@
         "2 kg"
       ],
       "price": {
-        "2 kg": 44300
+        "2 kg": 47900
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-gastrointestinal-moderate-calorie-feline.jpg",
@@ -16473,9 +17096,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 44300,
+            "amount": 47900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -16493,6 +17116,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -16555,7 +17182,7 @@
         "1,5 kg"
       ],
       "price": {
-        "1,5 kg": 34500
+        "1,5 kg": 37100
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-gastrointestinal-hydrolyzed-protein-feline.jpg",
@@ -16574,9 +17201,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 34500,
+            "amount": 37100,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -16594,6 +17221,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -16730,8 +17361,8 @@
         "7,5 kg"
       ],
       "price": {
-        "1,5 kg": 29500,
-        "7,5 kg": 113500
+        "1,5 kg": 31900,
+        "7,5 kg": 122500
       },
       "image": null,
       "mainImage": "img/royal-canin/gato-indoor.jpg",
@@ -16752,9 +17383,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 29500,
+            "amount": 31900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -16772,9 +17403,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 113500,
+            "amount": 122500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -16792,6 +17423,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -16818,7 +17453,7 @@
         "15 kg"
       ],
       "price": {
-        "15 kg": 140700
+        "15 kg": 149500
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-giant-junior.jpg",
@@ -16837,9 +17472,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 140700,
+            "amount": 149500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -16857,6 +17492,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -16957,8 +17596,8 @@
         "3 kg"
       ],
       "price": {
-        "1 kg": 15800,
-        "3 kg": 46600
+        "1 kg": 17200,
+        "3 kg": 49999
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-pug-puppy.jpg",
@@ -16978,9 +17617,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 15800,
+            "amount": 17200,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -16998,9 +17637,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 46600,
+            "amount": 49999,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -17018,6 +17657,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -17081,7 +17724,7 @@
         "1,5 kg"
       ],
       "price": {
-        "1,5 kg": 21000
+        "1,5 kg": 24600
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-satiety-small-dog.jpg",
@@ -17100,9 +17743,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 21000,
+            "amount": 24600,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -17120,6 +17763,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -17182,7 +17829,7 @@
         "10 kg"
       ],
       "price": {
-        "10 kg": 97000
+        "10 kg": 103900
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-giant-starter-mother-y-babydog.jpg",
@@ -17201,9 +17848,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 97000,
+            "amount": 103900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -17221,6 +17868,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -17250,10 +17901,10 @@
         "15 kg"
       ],
       "price": {
-        "1 kg": 13500,
-        "3 kg": 36800,
-        "7,5 kg": 85000,
-        "15 kg": 139500
+        "1 kg": 14500,
+        "3 kg": 39500,
+        "7,5 kg": 90000,
+        "15 kg": 147900
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-mini-adulto.jpg",
@@ -17279,9 +17930,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 13500,
+            "amount": 14500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -17299,9 +17950,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 36800,
+            "amount": 39500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -17319,9 +17970,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 85000,
+            "amount": 90000,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -17339,9 +17990,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 139500,
+            "amount": 147900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -17359,6 +18010,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -17385,7 +18040,7 @@
         "2 kg"
       ],
       "price": {
-        "2 kg": 26500
+        "2 kg": 30700
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-renal-canine-special.jpg",
@@ -17405,9 +18060,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 26500,
+            "amount": 30700,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -17425,6 +18080,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -17561,8 +18220,8 @@
         "7,5 kg"
       ],
       "price": {
-        "1,5 kg": 31800,
-        "7,5 kg": 120800
+        "1,5 kg": 34500,
+        "7,5 kg": 130700
       },
       "image": null,
       "mainImage": "img/royal-canin/gato-weight-care.jpg",
@@ -17582,9 +18241,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 31800,
+            "amount": 34500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -17602,9 +18261,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 120800,
+            "amount": 130700,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -17622,6 +18281,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -17648,7 +18311,7 @@
         "15 kg"
       ],
       "price": {
-        "15 kg": 125500
+        "15 kg": 133500
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-giant-adulto.jpg",
@@ -17667,9 +18330,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 125500,
+            "amount": 133500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -17687,6 +18350,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -17714,8 +18381,8 @@
         "15 kg"
       ],
       "price": {
-        "3 kg": 38100,
-        "15 kg": 145500
+        "3 kg": 40900,
+        "15 kg": 154500
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-medium-adulto-7-plus.jpg",
@@ -17736,9 +18403,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 38100,
+            "amount": 40900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -17756,9 +18423,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 145500,
+            "amount": 154500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -17776,6 +18443,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -17803,8 +18474,8 @@
         "7,5 kg"
       ],
       "price": {
-        "3 kg": 42900,
-        "7,5 kg": 91500
+        "3 kg": 45900,
+        "7,5 kg": 97200
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-bulldog-franc-s-adult.jpg",
@@ -17824,9 +18495,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 42900,
+            "amount": 45900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -17844,9 +18515,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 91500,
+            "amount": 97200,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -17864,6 +18535,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -17891,8 +18566,8 @@
         "7,5 kg"
       ],
       "price": {
-        "3 kg": 46600,
-        "7,5 kg": 104700
+        "3 kg": 49900,
+        "7,5 kg": 105900
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-bulldog-ingl-s-puppy.jpg",
@@ -17912,9 +18587,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 46600,
+            "amount": 49900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -17932,9 +18607,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 104700,
+            "amount": 105900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -17952,6 +18627,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -17978,7 +18657,7 @@
         "12 kg"
       ],
       "price": {
-        "12 kg": 120200
+        "12 kg": 127500
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-labrador-retriever-adult.jpg",
@@ -17997,9 +18676,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 120200,
+            "amount": 127500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -18017,6 +18696,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -18043,7 +18726,7 @@
         "3 kg"
       ],
       "price": {
-        "3 kg": 41500
+        "3 kg": 44500
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-exigent-mini.jpg",
@@ -18062,9 +18745,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 41500,
+            "amount": 44500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -18082,6 +18765,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -18109,8 +18796,8 @@
         "3 kg"
       ],
       "price": {
-        "1,5 kg": 30500,
-        "3 kg": 57200
+        "1,5 kg": 35200,
+        "3 kg": 66000
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-early-renal.jpg",
@@ -18131,9 +18818,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 30500,
+            "amount": 35200,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -18151,9 +18838,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 57200,
+            "amount": 66000,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -18171,6 +18858,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -18197,7 +18888,7 @@
         "12 kg"
       ],
       "price": {
-        "12 kg": 120200
+        "12 kg": 127500
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-golden-retriever-adult.jpg",
@@ -18216,9 +18907,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 120200,
+            "amount": 127500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -18236,6 +18927,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -18339,8 +19034,8 @@
         "3 kg"
       ],
       "price": {
-        "1 kg": 15100,
-        "3 kg": 42900
+        "1 kg": 16500,
+        "3 kg": 45900
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-jack-russel-adulto.jpg",
@@ -18360,9 +19055,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 15100,
+            "amount": 16500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -18380,9 +19075,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 42900,
+            "amount": 45900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -18400,6 +19095,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -18427,8 +19126,8 @@
         "3 kg"
       ],
       "price": {
-        "1 kg": 15800,
-        "3 kg": 46600
+        "1 kg": 17000,
+        "3 kg": 49900
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-bulldog-franc-s-junior.jpg",
@@ -18448,9 +19147,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 15800,
+            "amount": 17000,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -18468,9 +19167,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 46600,
+            "amount": 49900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -18488,6 +19187,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -18515,8 +19218,8 @@
         "10 kg"
       ],
       "price": {
-        "3 kg": 37700,
-        "10 kg": 92990
+        "3 kg": 43100,
+        "10 kg": 108300
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-medium-dermacomfort.jpg",
@@ -18536,9 +19239,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 37700,
+            "amount": 43100,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -18556,9 +19259,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 92990,
+            "amount": 108300,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -18576,6 +19279,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -18602,7 +19309,7 @@
         "3 kg"
       ],
       "price": {
-        "3 kg": 42900
+        "3 kg": 45900
       },
       "image": null,
       "mainImage": "img/royal-canin/perro-schnauzer-miniature-adult.jpg",
@@ -18621,9 +19328,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 42900,
+            "amount": 45900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -18641,6 +19348,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -18704,8 +19415,8 @@
         "7,5 kg"
       ],
       "price": {
-        "1,5 kg": 34500,
-        "7,5 kg": 118500
+        "1,5 kg": 37100,
+        "7,5 kg": 127900
       },
       "image": null,
       "mainImage": "img/royal-canin/gato-siamese-adult.jpg",
@@ -18725,9 +19436,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 34500,
+            "amount": 37100,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -18745,9 +19456,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 118500,
+            "amount": 127900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -18765,6 +19476,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -18793,9 +19508,9 @@
         "15 kg"
       ],
       "price": {
-        "1 kg": 8500,
+        "1 kg": 9500,
         "3 kg": 22900,
-        "15 kg": 86000
+        "15 kg": 95900
       },
       "image": null,
       "mainImage": null,
@@ -18811,9 +19526,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 8500,
+            "amount": 9500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -18851,9 +19566,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 86000,
+            "amount": 95900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -18867,6 +19582,10 @@
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -18895,9 +19614,9 @@
         "15 kg"
       ],
       "price": {
-        "1 kg": 8500,
-        "3 kg": 22500,
-        "15 kg": 81900
+        "1 kg": 9500,
+        "3 kg": 24900,
+        "15 kg": 91200
       },
       "image": null,
       "mainImage": null,
@@ -18913,9 +19632,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 8500,
+            "amount": 9500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -18933,9 +19652,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 22500,
+            "amount": 24900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -18953,9 +19672,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 81900,
+            "amount": 91200,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -18969,6 +19688,10 @@
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -18996,8 +19719,8 @@
         "15 kg"
       ],
       "price": {
-        "3 kg": 22000,
-        "15 kg": 80500
+        "3 kg": 24900,
+        "15 kg": 91200
       },
       "image": null,
       "mainImage": null,
@@ -19013,9 +19736,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 22000,
+            "amount": 24900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -19033,9 +19756,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 80500,
+            "amount": 91200,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -19049,6 +19772,10 @@
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -19200,8 +19927,8 @@
         "15 kg"
       ],
       "price": {
-        "3 kg": 21200,
-        "15 kg": 79000
+        "3 kg": 23900,
+        "15 kg": 89500
       },
       "image": null,
       "mainImage": null,
@@ -19217,9 +19944,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 21200,
+            "amount": 23900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -19237,9 +19964,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 79000,
+            "amount": 89500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -19253,6 +19980,10 @@
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -19280,8 +20011,8 @@
         "15 kg"
       ],
       "price": {
-        "3 kg": 21000,
-        "15 kg": 78500
+        "3 kg": 23900,
+        "15 kg": 89000
       },
       "image": null,
       "mainImage": null,
@@ -19297,9 +20028,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 21000,
+            "amount": 23900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -19317,9 +20048,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 78500,
+            "amount": 89000,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -19333,6 +20064,10 @@
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -19391,6 +20126,10 @@
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -19472,6 +20211,10 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
           "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -19551,6 +20294,10 @@
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -19632,6 +20379,10 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
           "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -19711,6 +20462,10 @@
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -19792,6 +20547,10 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
           "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -19849,6 +20608,10 @@
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -20032,6 +20795,10 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
           "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -20155,6 +20922,10 @@
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
