@@ -19513,8 +19513,10 @@
         "15 kg": 95900
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/eukanuba/puppy-small-breed.jpg",
+      "images": [
+        "img/eukanuba/puppy-small-breed.jpg"
+      ],
       "variants": [
         {
           "id": "eukanuba-puppy-small-breed-1-kg",
@@ -19578,7 +19580,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
@@ -19619,8 +19621,10 @@
         "15 kg": 91200
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/eukanuba/puppy-medium-breed.jpg",
+      "images": [
+        "img/eukanuba/puppy-medium-breed.jpg"
+      ],
       "variants": [
         {
           "id": "eukanuba-puppy-medium-breed-1-kg",
@@ -19684,7 +19688,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
@@ -19723,8 +19727,10 @@
         "15 kg": 91200
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/eukanuba/puppy-large-breed.jpg",
+      "images": [
+        "img/eukanuba/puppy-large-breed.jpg"
+      ],
       "variants": [
         {
           "id": "eukanuba-puppy-large-breed-3-kg",
@@ -19768,7 +19774,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
@@ -19811,8 +19817,10 @@
         "15 kg": 93500
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/eukanuba/adulto-small-breed.jpg",
+      "images": [
+        "img/eukanuba/adulto-small-breed.jpg"
+      ],
       "variants": [
         {
           "id": "eukanuba-adulto-small-breed-1-kg",
@@ -19896,7 +19904,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
@@ -19935,8 +19943,10 @@
         "15 kg": 89500
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/eukanuba/adulto-medium-breed.jpg",
+      "images": [
+        "img/eukanuba/adulto-medium-breed.jpg"
+      ],
       "variants": [
         {
           "id": "eukanuba-adulto-medium-breed-3-kg",
@@ -19980,7 +19990,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
@@ -20019,8 +20029,10 @@
         "15 kg": 89000
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/eukanuba/adulto-large-breed.jpg",
+      "images": [
+        "img/eukanuba/adulto-large-breed.jpg"
+      ],
       "variants": [
         {
           "id": "eukanuba-adulto-large-breed-3-kg",
@@ -20064,7 +20076,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
@@ -20101,8 +20113,10 @@
         "3 kg": 26100
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/eukanuba/senior-small-breed.jpg",
+      "images": [
+        "img/eukanuba/senior-small-breed.jpg"
+      ],
       "variants": [
         {
           "id": "eukanuba-senior-small-breed-3-kg",
@@ -20126,7 +20140,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
@@ -20165,8 +20179,10 @@
         "15 kg": 93900
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/eukanuba/senior-medium-breed.jpg",
+      "images": [
+        "img/eukanuba/senior-medium-breed.jpg"
+      ],
       "variants": [
         {
           "id": "eukanuba-senior-medium-breed-3-kg",
@@ -20210,7 +20226,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
@@ -20249,8 +20265,10 @@
         "15 kg": 93500
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/eukanuba/senior-large-breed.jpg",
+      "images": [
+        "img/eukanuba/senior-large-breed.jpg"
+      ],
       "variants": [
         {
           "id": "eukanuba-senior-large-breed-3-kg",
@@ -20294,7 +20312,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
@@ -20333,8 +20351,10 @@
         "3 kg": 26800
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/eukanuba/fit-body-small-breed.jpg",
+      "images": [
+        "img/eukanuba/fit-body-small-breed.jpg"
+      ],
       "variants": [
         {
           "id": "eukanuba-fit-body-small-breed-1-kg",
@@ -20378,7 +20398,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
@@ -20417,8 +20437,10 @@
         "15 kg": 99500
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/eukanuba/fit-body-medium-breed.jpg",
+      "images": [
+        "img/eukanuba/fit-body-medium-breed.jpg"
+      ],
       "variants": [
         {
           "id": "eukanuba-fit-body-medium-breed-3-kg",
@@ -20462,7 +20484,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
@@ -20501,8 +20523,10 @@
         "15 kg": 100300
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/eukanuba/fit-body-large-breed.jpg",
+      "images": [
+        "img/eukanuba/fit-body-large-breed.jpg"
+      ],
       "variants": [
         {
           "id": "eukanuba-fit-body-large-breed-3-kg",
@@ -20546,7 +20570,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
@@ -20583,8 +20607,10 @@
         "15 kg": 85500
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/eukanuba/puppy-lamb.jpg",
+      "images": [
+        "img/eukanuba/puppy-lamb.jpg"
+      ],
       "variants": [
         {
           "id": "eukanuba-puppy-lamb-15-kg",
@@ -20608,7 +20634,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
@@ -20647,8 +20673,10 @@
         "15 kg": 85100
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/eukanuba/adulto-lamb.jpg",
+      "images": [
+        "img/eukanuba/adulto-lamb.jpg"
+      ],
       "variants": [
         {
           "id": "eukanuba-adulto-lamb-3-kg",
@@ -20692,7 +20720,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
@@ -20733,8 +20761,10 @@
         "7,5 kg": 75500
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/eukanuba/kitten.jpg",
+      "images": [
+        "img/eukanuba/kitten.jpg"
+      ],
       "variants": [
         {
           "id": "eukanuba-kitten-1-kg",
@@ -20798,7 +20828,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
@@ -20841,8 +20871,10 @@
         "15 kg": 130500
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/eukanuba/gato-adulto.jpg",
+      "images": [
+        "img/eukanuba/gato-adulto.jpg"
+      ],
       "variants": [
         {
           "id": "eukanuba-gato-adulto-1-5-kg",
@@ -20926,7 +20958,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
@@ -20963,8 +20995,10 @@
         "1 unidad": 13500
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/filan/baston-de-vinza-vacuna-fina.jpg",
+      "images": [
+        "img/filan/baston-de-vinza-vacuna-fina.jpg"
+      ],
       "variants": [
         {
           "id": "filan-baston-de-vinza-vacuna-fina-1-unidad",
@@ -20988,7 +21022,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
@@ -21021,8 +21055,10 @@
         "5 unidades": 7300
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/filan/bucle-esofago-vacuno.jpg",
+      "images": [
+        "img/filan/bucle-esofago-vacuno.jpg"
+      ],
       "variants": [
         {
           "id": "filan-bucle-de-esofago-vacuno-5-unidades",
@@ -21046,7 +21082,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
@@ -21079,8 +21115,10 @@
         "18 cm · 1 unidad": 8100
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/filan/bucle-de-vinza-vacuna.jpg",
+      "images": [
+        "img/filan/bucle-de-vinza-vacuna.jpg"
+      ],
       "variants": [
         {
           "id": "filan-bucle-de-vinza-vacuna-18-cm-1-unidad",
@@ -21104,7 +21142,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
@@ -21137,8 +21175,10 @@
         "100 g": 9100
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/filan/cogote-de-pollo.jpg",
+      "images": [
+        "img/filan/cogote-de-pollo.jpg"
+      ],
       "variants": [
         {
           "id": "filan-cogote-de-pollo-deshidratado-100-g",
@@ -21162,7 +21202,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
@@ -21195,8 +21235,10 @@
         "100 g": 9500
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/filan/trocitos-de-esofago-vacuno-mini.jpg",
+      "images": [
+        "img/filan/trocitos-de-esofago-vacuno-mini.jpg"
+      ],
       "variants": [
         {
           "id": "filan-trocitos-de-esofago-vacuno-100-g",
@@ -21220,7 +21262,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
@@ -21253,8 +21295,10 @@
         "6 unidades": 5500
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/filan/garra-de-pollo.jpg",
+      "images": [
+        "img/filan/garra-de-pollo.jpg"
+      ],
       "variants": [
         {
           "id": "filan-garras-de-pollo-deshidratadas-6-unidades",
@@ -21278,7 +21322,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
@@ -21311,8 +21355,10 @@
         "10 unidades": 7900
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/filan/lonja-de-esofago-vacuno.jpg",
+      "images": [
+        "img/filan/lonja-de-esofago-vacuno.jpg"
+      ],
       "variants": [
         {
           "id": "filan-lonja-de-esofago-vacuno-10-unidades",
@@ -21336,7 +21382,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
@@ -21369,8 +21415,10 @@
         "30 cm · 1 unidad": 3300
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/filan/mega-bucle-de-esofago.jpg",
+      "images": [
+        "img/filan/mega-bucle-de-esofago.jpg"
+      ],
       "variants": [
         {
           "id": "filan-mega-bucle-de-esofago-vacuno-30-cm-1-unidad",
@@ -21394,7 +21442,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
@@ -21427,8 +21475,10 @@
         "5 unidades": 8900
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/filan/morro-de-cerdo.jpg",
+      "images": [
+        "img/filan/morro-de-cerdo.jpg"
+      ],
       "variants": [
         {
           "id": "filan-morro-de-cerdo-5-unidades",
@@ -21452,7 +21502,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
@@ -21485,8 +21535,10 @@
         "1 unidad": 2000
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/filan/oreja-de-cerdo.jpg",
+      "images": [
+        "img/filan/oreja-de-cerdo.jpg"
+      ],
       "variants": [
         {
           "id": "filan-oreja-de-cerdo-deshidratada-1-unidad",
@@ -21510,7 +21562,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
@@ -21543,8 +21595,10 @@
         "100 g": 8900
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/filan/panza-de-pollo.jpg",
+      "images": [
+        "img/filan/panza-de-pollo.jpg"
+      ],
       "variants": [
         {
           "id": "filan-panza-de-pollo-deshidratada-100-g",
@@ -21568,7 +21622,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
@@ -21601,8 +21655,10 @@
         "Pechuga de Pollo Deshidratada": 13500
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/filan/pechuga-de-pollo.jpg",
+      "images": [
+        "img/filan/pechuga-de-pollo.jpg"
+      ],
       "variants": [
         {
           "id": "filan-pechuga-de-pollo-deshidratada-pechuga-de-pollo-deshidratada",
@@ -21626,7 +21682,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
@@ -21659,8 +21715,10 @@
         "8 unidades": 5100
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/filan/pulmon-vacuno.jpg",
+      "images": [
+        "img/filan/pulmon-vacuno.jpg"
+      ],
       "variants": [
         {
           "id": "filan-pulmon-vacuno-deshidratado-8-unidades",
@@ -21684,7 +21742,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
@@ -21717,8 +21775,10 @@
         "3 unidades · 90 g aprox.": 6000
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/filan/traquea-vacuna.jpg",
+      "images": [
+        "img/filan/traquea-vacuna.jpg"
+      ],
       "variants": [
         {
           "id": "filan-traquea-vacuna-deshidratada-3-unidades-90-g-aprox",
@@ -21742,7 +21802,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
@@ -21775,8 +21835,10 @@
         "Pack de 7 unidades": 17900
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/filan/vinza-de-vacuna-fina.jpg",
+      "images": [
+        "img/filan/vinza-de-vacuna-fina.jpg"
+      ],
       "variants": [
         {
           "id": "filan-vinza-vacuna-fina-pack-de-7-unidades",
@@ -21800,7 +21862,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
