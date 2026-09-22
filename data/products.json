@@ -21957,8 +21957,10 @@
         "5 m": 64495.5
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/flexi/flexi-new-classic-cinta.jpg",
+      "images": [
+        "img/flexi/flexi-new-classic-cinta.jpg"
+      ],
       "variants": [
         {
           "id": "flexi-new-classic-cinta-5-m",
@@ -21983,7 +21985,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
