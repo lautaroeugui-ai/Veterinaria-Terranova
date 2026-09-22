@@ -3539,8 +3539,10 @@
         "ARBOL PARA GATOS AMARILLO": 131646.3
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/beepaw/arbol-gatos-amarillo.jpg",
+      "images": [
+        "img/beepaw/arbol-gatos-amarillo.jpg"
+      ],
       "variants": [
         {
           "id": "beepaw-arbol-para-gatos-amarillo-01428",
@@ -3564,7 +3566,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/catalogo_fuente_terranova.xlsx",
@@ -3605,8 +3607,10 @@
         "ARBOL PARA GATOS TERCIOPELO GRIS CLARO": 116837.6
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/beepaw/arbol-gatos-terciopelo-gris.jpg",
+      "images": [
+        "img/beepaw/arbol-gatos-terciopelo-gris.jpg"
+      ],
       "variants": [
         {
           "id": "beepaw-arbol-para-gatos-terciopelo-gris-claro-01412",
@@ -3630,7 +3634,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/catalogo_fuente_terranova.xlsx",
@@ -3671,8 +3675,10 @@
         "BEBEDERO INTERACTIVO BEEPAW": 35000
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/beepaw/bebedero-interactivo-gatos.jpg",
+      "images": [
+        "img/beepaw/bebedero-interactivo-gatos.jpg"
+      ],
       "variants": [
         {
           "id": "beepaw-bebedero-interactivo-beepaw-00992",
@@ -3696,7 +3702,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/catalogo_fuente_terranova.xlsx",
@@ -3737,8 +3743,10 @@
         "BEBEDERO INTERACTIVO PERROS BEEPAW": 19335.8
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/beepaw/bebedero-interactivo-perros.jpg",
+      "images": [
+        "img/beepaw/bebedero-interactivo-perros.jpg"
+      ],
       "variants": [
         {
           "id": "beepaw-bebedero-interactivo-perros-beepaw-01407",
@@ -3762,7 +3770,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/catalogo_fuente_terranova.xlsx",
@@ -3865,8 +3873,10 @@
         "BOLSO TRANPORTADOR RALLADO SMALL": 31500
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/beepaw/bolso-transportador-rayado-small.jpg",
+      "images": [
+        "img/beepaw/bolso-transportador-rayado-small.jpg"
+      ],
       "variants": [
         {
           "id": "beepaw-bolso-tranportador-rallado-small-01004",
@@ -3890,7 +3900,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/catalogo_fuente_terranova.xlsx",
@@ -3931,8 +3941,10 @@
         "BOLSO TRANSPORTADORA GRIS/ROSA": 25000
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/beepaw/bolso-transportadora-gris-rosa.jpg",
+      "images": [
+        "img/beepaw/bolso-transportadora-gris-rosa.jpg"
+      ],
       "variants": [
         {
           "id": "beepaw-bolso-transportadora-gris-rosa-01003",
@@ -3956,7 +3968,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/catalogo_fuente_terranova.xlsx",
@@ -3997,8 +4009,10 @@
         "BOLSO TRAPORTADOR RALLADO MEDIUM": 35000
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/beepaw/bolso-transportador-rayado-medium.jpg",
+      "images": [
+        "img/beepaw/bolso-transportador-rayado-medium.jpg"
+      ],
       "variants": [
         {
           "id": "beepaw-bolso-traportador-rallado-medium-01005",
@@ -4022,7 +4036,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/catalogo_fuente_terranova.xlsx",
@@ -4125,8 +4139,10 @@
         "BOTELLA DISPENSADORA CON OREJAS": 15000
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/beepaw/botella-dispensadora-orejas.jpg",
+      "images": [
+        "img/beepaw/botella-dispensadora-orejas.jpg"
+      ],
       "variants": [
         {
           "id": "beepaw-botella-dispensadora-con-orejas-01409",
@@ -4150,7 +4166,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/catalogo_fuente_terranova.xlsx",
@@ -4843,8 +4859,10 @@
         "COMEDERO INTERACTIVO B Y N": 16000
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/beepaw/comedero-interactivo-blanco-negro.jpg",
+      "images": [
+        "img/beepaw/comedero-interactivo-blanco-negro.jpg"
+      ],
       "variants": [
         {
           "id": "beepaw-comedero-interactivo-b-y-n-00993",
@@ -4868,7 +4886,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/catalogo_fuente_terranova.xlsx",
@@ -4975,8 +4993,10 @@
         "CORTADOR DE UÑAS SHAP-E CHICO": 16900
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/beepaw/cortador-unas-nail-e-chico.jpg",
+      "images": [
+        "img/beepaw/cortador-unas-nail-e-chico.jpg"
+      ],
       "variants": [
         {
           "id": "beepaw-cortador-de-unas-shap-e-chico-01434",
@@ -5000,7 +5020,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/catalogo_fuente_terranova.xlsx",
@@ -5235,8 +5255,10 @@
         "Juguete peluche pato 34x38": 16100
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/beepaw/juguete-peluche-pato.jpg",
+      "images": [
+        "img/beepaw/juguete-peluche-pato.jpg"
+      ],
       "variants": [
         {
           "id": "beepaw-juguete-peluche-pato-34x38-00988",
@@ -5260,7 +5282,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/catalogo_fuente_terranova.xlsx",
@@ -5429,8 +5451,10 @@
         "PAÑOS 56X60 - 50UNI": 15800
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/beepaw/panos-56x60.jpg",
+      "images": [
+        "img/beepaw/panos-56x60.jpg"
+      ],
       "variants": [
         {
           "id": "beepaw-panos-56x60-50uni-01001",
@@ -5454,7 +5478,7 @@
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "source-data/catalogo_fuente_terranova.xlsx",
@@ -5788,8 +5812,10 @@
         "MON AMI MEAT BITES 200G": 9018
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/mon-ami/meat-bites.jpg",
+      "images": [
+        "img/mon-ami/meat-bites.jpg"
+      ],
       "variants": [
         {
           "id": "mon-ami-mon-ami-meat-bites-75g-01232",
@@ -5880,8 +5906,10 @@
         "MON AMI MEAT STICK 250G": 11880
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/mon-ami/meat-stick.jpg",
+      "images": [
+        "img/mon-ami/meat-stick.jpg"
+      ],
       "variants": [
         {
           "id": "mon-ami-meat-stick-01222",
@@ -6080,8 +6108,10 @@
         "MON AMI SNACK DENTAL 75G": 3330
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/mon-ami/snack-dental.jpg",
+      "images": [
+        "img/mon-ami/snack-dental.jpg"
+      ],
       "variants": [
         {
           "id": "mon-ami-snack-dental-01224",
@@ -6168,8 +6198,10 @@
         "MON AMI SNACK GATO BITES 50G": 3573
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/mon-ami/snack-gato-bites.jpg",
+      "images": [
+        "img/mon-ami/snack-gato-bites.jpg"
+      ],
       "variants": [
         {
           "id": "mon-ami-mon-ami-snack-gato-bites-50g-01221",
@@ -6236,8 +6268,10 @@
         "MON AMI SNACK GRILLED 75G": 3573
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/mon-ami/snack-grilled.jpg",
+      "images": [
+        "img/mon-ami/snack-grilled.jpg"
+      ],
       "variants": [
         {
           "id": "mon-ami-mon-ami-snack-grilled-75g-01225",
@@ -7399,34 +7433,40 @@
       "lifeStage": null,
       "need": null,
       "flavor": null,
-      "description": null,
+      "description": "Correa retráctil con sistema anti-tensión para tener más control durante el paseo. Desde el talle S incluye banda reflectante. Es compatible con la Caja Multiusos Flexi y con el Sistema de Iluminación LED. Se consigue en negro y rosa; consultar disponibilidad de color y talle.",
       "features": [],
       "materials": [],
       "presentations": [
-        "CORREA FLEXI CLASSIC 5M",
-        "CORREA FLEXI CLASSIC 3M"
+        "CORREA FLEXI CLASSIC XS",
+        "CORREA FLEXI CLASSIC S",
+        "CORREA FLEXI CLASSIC M",
+        "CORREA FLEXI CLASSIC L"
       ],
       "price": {
-        "CORREA FLEXI CLASSIC 5M": 40000,
-        "CORREA FLEXI CLASSIC 3M": 29970
+        "CORREA FLEXI CLASSIC XS": 31500,
+        "CORREA FLEXI CLASSIC S": 36500,
+        "CORREA FLEXI CLASSIC M": 42200,
+        "CORREA FLEXI CLASSIC L": 65000
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/flexi/correa-flexi-classic.jpg",
+      "images": [
+        "img/flexi/correa-flexi-classic.jpg"
+      ],
       "variants": [
         {
-          "id": "flexi-correa-flexi-classic-2245",
-          "sku": "2245",
+          "id": "flexi-correa-flexi-classic-xs",
+          "sku": null,
           "ean": null,
-          "presentation": "CORREA FLEXI CLASSIC 5M",
-          "size": null,
+          "presentation": "CORREA FLEXI CLASSIC XS",
+          "size": "XS",
           "dimensions": null,
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 40000,
+            "amount": 31500,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -7435,18 +7475,58 @@
           "reviewStatus": "confirmed"
         },
         {
-          "id": "flexi-correa-flexi-classic-980",
-          "sku": "980",
+          "id": "flexi-correa-flexi-classic-s",
+          "sku": null,
           "ean": null,
-          "presentation": "CORREA FLEXI CLASSIC 3M",
-          "size": null,
+          "presentation": "CORREA FLEXI CLASSIC S",
+          "size": "S",
           "dimensions": null,
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 29970,
+            "amount": 36500,
             "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "flexi-correa-flexi-classic-m",
+          "sku": null,
+          "ean": null,
+          "presentation": "CORREA FLEXI CLASSIC M",
+          "size": "M",
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 42200,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed"
+        },
+        {
+          "id": "flexi-correa-flexi-classic-l",
+          "sku": null,
+          "ean": null,
+          "presentation": "CORREA FLEXI CLASSIC L",
+          "size": "L",
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 65000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -7466,6 +7546,10 @@
         {
           "file": "source-data/terranova_source_data_nuevo.zip::Flexi_lista_precios.jpg",
           "sourceType": "terranova-price-capture"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
