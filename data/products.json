@@ -19509,7 +19509,7 @@
       ],
       "price": {
         "1 kg": 9500,
-        "3 kg": 22900,
+        "3 kg": 25300,
         "15 kg": 95900
       },
       "image": null,
@@ -19546,9 +19546,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 22900,
+            "amount": 25300,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -19805,10 +19805,10 @@
         "15 kg"
       ],
       "price": {
-        "1 kg": 8000,
+        "1 kg": 9100,
         "3 kg": 21500,
-        "7,5 kg": 49500,
-        "15 kg": 82500
+        "7,5 kg": 56100,
+        "15 kg": 93500
       },
       "image": null,
       "mainImage": null,
@@ -19824,9 +19824,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 8000,
+            "amount": 9100,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -19864,9 +19864,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 49500,
+            "amount": 56100,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -19884,9 +19884,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 82500,
+            "amount": 93500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -19900,6 +19900,10 @@
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -20094,7 +20098,7 @@
         "3 kg"
       ],
       "price": {
-        "3 kg": 23000
+        "3 kg": 26100
       },
       "image": null,
       "mainImage": null,
@@ -20110,9 +20114,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 23000,
+            "amount": 26100,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -20157,8 +20161,8 @@
         "15 kg"
       ],
       "price": {
-        "3 kg": 22500,
-        "15 kg": 83000
+        "3 kg": 25500,
+        "15 kg": 93900
       },
       "image": null,
       "mainImage": null,
@@ -20174,9 +20178,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 22500,
+            "amount": 25500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -20194,9 +20198,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 83000,
+            "amount": 93900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -20241,8 +20245,8 @@
         "15 kg"
       ],
       "price": {
-        "3 kg": 21950,
-        "15 kg": 83900
+        "3 kg": 24900,
+        "15 kg": 93500
       },
       "image": null,
       "mainImage": null,
@@ -20258,9 +20262,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 21950,
+            "amount": 24900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -20278,9 +20282,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 83900,
+            "amount": 93500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -20326,7 +20330,7 @@
       ],
       "price": {
         "1 kg": 8500,
-        "3 kg": 23900
+        "3 kg": 26800
       },
       "image": null,
       "mainImage": null,
@@ -20362,9 +20366,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 23900,
+            "amount": 26800,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -20409,8 +20413,8 @@
         "15 kg"
       ],
       "price": {
-        "3 kg": 23500,
-        "15 kg": 87900
+        "3 kg": 26800,
+        "15 kg": 99500
       },
       "image": null,
       "mainImage": null,
@@ -20426,9 +20430,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 23500,
+            "amount": 26800,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -20446,9 +20450,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 87900,
+            "amount": 99500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -20493,8 +20497,8 @@
         "15 kg"
       ],
       "price": {
-        "3 kg": 23000,
-        "15 kg": 88900
+        "3 kg": 26000,
+        "15 kg": 100300
       },
       "image": null,
       "mainImage": null,
@@ -20510,9 +20514,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 23000,
+            "amount": 26000,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -20530,9 +20534,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 88900,
+            "amount": 100300,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -20576,7 +20580,7 @@
         "15 kg"
       ],
       "price": {
-        "15 kg": 75500
+        "15 kg": 85500
       },
       "image": null,
       "mainImage": null,
@@ -20592,9 +20596,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 75500,
+            "amount": 85500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -20639,8 +20643,8 @@
         "15 kg"
       ],
       "price": {
-        "3 kg": 20500,
-        "15 kg": 75300
+        "3 kg": 23500,
+        "15 kg": 85100
       },
       "image": null,
       "mainImage": null,
@@ -20656,9 +20660,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 20500,
+            "amount": 23500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -20676,9 +20680,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 75300,
+            "amount": 85100,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -20692,6 +20696,10 @@
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -20720,9 +20728,9 @@
         "7,5 kg"
       ],
       "price": {
-        "1 kg": 11900,
-        "3 kg": 31300,
-        "7,5 kg": 67000
+        "1 kg": 13300,
+        "3 kg": 35300,
+        "7,5 kg": 75500
       },
       "image": null,
       "mainImage": null,
@@ -20738,9 +20746,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 11900,
+            "amount": 13300,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -20758,9 +20766,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 31300,
+            "amount": 35300,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -20778,9 +20786,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 67000,
+            "amount": 75500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -20827,10 +20835,10 @@
         "15 kg"
       ],
       "price": {
-        "1,5 kg": 15500,
-        "3 kg": 28000,
-        "7,5 kg": 64000,
-        "15 kg": 114900
+        "1,5 kg": 18300,
+        "3 kg": 31800,
+        "7,5 kg": 73500,
+        "15 kg": 130500
       },
       "image": null,
       "mainImage": null,
@@ -20846,9 +20854,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 15500,
+            "amount": 18300,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -20866,9 +20874,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 28000,
+            "amount": 31800,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -20886,9 +20894,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 64000,
+            "amount": 73500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -20906,9 +20914,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 114900,
+            "amount": 130500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-07)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
