@@ -7421,139 +7421,6 @@
       ]
     },
     {
-      "id": "flexi-correa-flexi-classic",
-      "brand": "Flexi",
-      "supplier": "Flexi",
-      "line": null,
-      "name": "Correa Flexi Classic",
-      "sourceName": "CORREA FLEXI CLASSIC 5M",
-      "category": "paseo",
-      "subcategory": "varios",
-      "species": [],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": "Correa retráctil con sistema anti-tensión para tener más control durante el paseo. Desde el talle S incluye banda reflectante. Es compatible con la Caja Multiusos Flexi y con el Sistema de Iluminación LED. Se consigue en negro y rosa; consultar disponibilidad de color y talle.",
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "CORREA FLEXI CLASSIC XS",
-        "CORREA FLEXI CLASSIC S",
-        "CORREA FLEXI CLASSIC M",
-        "CORREA FLEXI CLASSIC L"
-      ],
-      "price": {
-        "CORREA FLEXI CLASSIC XS": 31500,
-        "CORREA FLEXI CLASSIC S": 36500,
-        "CORREA FLEXI CLASSIC M": 42200,
-        "CORREA FLEXI CLASSIC L": 65000
-      },
-      "image": null,
-      "mainImage": "img/flexi/correa-flexi-classic.jpg",
-      "images": [
-        "img/flexi/correa-flexi-classic.jpg"
-      ],
-      "variants": [
-        {
-          "id": "flexi-correa-flexi-classic-xs",
-          "sku": null,
-          "ean": null,
-          "presentation": "CORREA FLEXI CLASSIC XS",
-          "size": "XS",
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 31500,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed"
-        },
-        {
-          "id": "flexi-correa-flexi-classic-s",
-          "sku": null,
-          "ean": null,
-          "presentation": "CORREA FLEXI CLASSIC S",
-          "size": "S",
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 36500,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed"
-        },
-        {
-          "id": "flexi-correa-flexi-classic-m",
-          "sku": null,
-          "ean": null,
-          "presentation": "CORREA FLEXI CLASSIC M",
-          "size": "M",
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 42200,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed"
-        },
-        {
-          "id": "flexi-correa-flexi-classic-l",
-          "sku": null,
-          "ean": null,
-          "presentation": "CORREA FLEXI CLASSIC L",
-          "size": "L",
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 65000,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "confirmed",
-      "sources": [
-        {
-          "file": "source-data/catalogo_fuente_terranova.xlsx",
-          "sourceType": "terranova-price-list",
-          "sheet": "productos"
-        },
-        {
-          "file": "source-data/terranova_source_data_nuevo.zip::Flexi_lista_precios.jpg",
-          "sourceType": "terranova-price-capture"
-        },
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
       "id": "can-cat-soga",
       "brand": "CAN CAT",
       "supplier": "CAN CAT",
@@ -21950,6 +21817,905 @@
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-10)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "flexi-new-classic-cordon",
+      "brand": "Flexi",
+      "supplier": "Flexi",
+      "line": null,
+      "name": "Flexi New Classic Cordón",
+      "sourceName": "CORREA FLEXI CLASSIC CORDON XS",
+      "category": "paseo",
+      "subcategory": "correas",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "Correa extensible con cordón, ideal para paseos cómodos y con mayor libertad de movimiento. Disponible en 3 m y 5 m, según talle.",
+      "features": [
+        "Colores: Rosa / Negro"
+      ],
+      "materials": [],
+      "presentations": [
+        "XS · 3 m · hasta 8 kg",
+        "S · 5 m · hasta 12 kg",
+        "M · 5 m · hasta 20 kg"
+      ],
+      "price": {
+        "XS · 3 m · hasta 8 kg": 31480.5,
+        "S · 5 m · hasta 12 kg": 36226.5,
+        "M · 5 m · hasta 20 kg": 42034.5
+      },
+      "image": null,
+      "mainImage": "img/flexi/flexi-new-classic-cordon.jpg",
+      "images": [
+        "img/flexi/flexi-new-classic-cordon.jpg"
+      ],
+      "variants": [
+        {
+          "id": "flexi-new-classic-cordon-xs-3-m-hasta-8-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "XS · 3 m · hasta 8 kg",
+          "size": "XS",
+          "dimensions": "3 m",
+          "color": "Rosa / Negro",
+          "pattern": null,
+          "retailPrice": {
+            "amount": 31480.5,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "CORREA FLEXI CLASSIC CORDON XS"
+        },
+        {
+          "id": "flexi-new-classic-cordon-s-5-m-hasta-12-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "S · 5 m · hasta 12 kg",
+          "size": "S",
+          "dimensions": "5 m",
+          "color": "Rosa / Negro",
+          "pattern": null,
+          "retailPrice": {
+            "amount": 36226.5,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "CORREA FLEXI CLASSIC CORDON S"
+        },
+        {
+          "id": "flexi-new-classic-cordon-m-5-m-hasta-20-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "M · 5 m · hasta 20 kg",
+          "size": "M",
+          "dimensions": "5 m",
+          "color": "Rosa / Negro",
+          "pattern": null,
+          "retailPrice": {
+            "amount": 42034.5,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "CORREA FLEXI CLASSIC CORDON M"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "flexi-new-classic-cinta",
+      "brand": "Flexi",
+      "supplier": "Flexi",
+      "line": null,
+      "name": "Flexi New Classic Cinta",
+      "sourceName": "CORREA FLEXI CLASSIC CINTA 5 METROS",
+      "category": "paseo",
+      "subcategory": "correas",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "Correa extensible con cinta, práctica y resistente para paseos con mayor libertad y control.",
+      "features": [
+        "Colores: Rosa / Negro"
+      ],
+      "materials": [],
+      "presentations": [
+        "5 m"
+      ],
+      "price": {
+        "5 m": 64495.5
+      },
+      "image": null,
+      "mainImage": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "flexi-new-classic-cinta-5-m",
+          "sku": null,
+          "ean": null,
+          "presentation": "5 m",
+          "size": null,
+          "dimensions": "5 m",
+          "color": "Rosa / Negro",
+          "pattern": null,
+          "retailPrice": {
+            "amount": 64495.5,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "CORREA FLEXI CLASSIC CINTA 5 METROS"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "pending-image-match",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "flexi-black-design-cordon",
+      "brand": "Flexi",
+      "supplier": "Flexi",
+      "line": null,
+      "name": "Flexi Black Design Cordón",
+      "sourceName": "CORREA EXTENSIBLE BLACK DESIGN CORDON XS",
+      "category": "paseo",
+      "subcategory": "correas",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "Correa extensible con cordón y banda reflectante, ideal para paseos cómodos y seguros. Permite mayor libertad de movimiento manteniendo el control. Disponible en 3 m y 5 m, según talle.",
+      "features": [
+        "Colores: Negro y Rosa / Negro y Celeste"
+      ],
+      "materials": [],
+      "presentations": [
+        "XS · 3 m · hasta 8 kg",
+        "S · 5 m · hasta 12 kg",
+        "M · 5 m · hasta 20 kg"
+      ],
+      "price": {
+        "XS · 3 m · hasta 8 kg": 26910,
+        "S · 5 m · hasta 12 kg": 30750,
+        "M · 5 m · hasta 20 kg": 34810.5
+      },
+      "image": null,
+      "mainImage": "img/flexi/flexi-black-design-cordon.jpg",
+      "images": [
+        "img/flexi/flexi-black-design-cordon.jpg"
+      ],
+      "variants": [
+        {
+          "id": "flexi-black-design-cordon-xs-3-m-hasta-8-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "XS · 3 m · hasta 8 kg",
+          "size": "XS",
+          "dimensions": "3 m",
+          "color": "Negro y Rosa / Negro y Celeste",
+          "pattern": null,
+          "retailPrice": {
+            "amount": 26910,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "CORREA EXTENSIBLE BLACK DESIGN CORDON XS"
+        },
+        {
+          "id": "flexi-black-design-cordon-s-5-m-hasta-12-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "S · 5 m · hasta 12 kg",
+          "size": "S",
+          "dimensions": "5 m",
+          "color": "Negro y Rosa / Negro y Celeste",
+          "pattern": null,
+          "retailPrice": {
+            "amount": 30750,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "CORREA EXTENSIBLE BLACK DESIGN CORDON S"
+        },
+        {
+          "id": "flexi-black-design-cordon-m-5-m-hasta-20-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "M · 5 m · hasta 20 kg",
+          "size": "M",
+          "dimensions": "5 m",
+          "color": "Negro y Rosa / Negro y Celeste",
+          "pattern": null,
+          "retailPrice": {
+            "amount": 34810.5,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "CORREA EXTENSIBLE BLACK DESIGN CORDON M"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "flexi-black-design-cinta",
+      "brand": "Flexi",
+      "supplier": "Flexi",
+      "line": null,
+      "name": "Flexi Black Design Cinta",
+      "sourceName": "CORREA EXTENSIBLE BLACK DESIGN S",
+      "category": "paseo",
+      "subcategory": "correas",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "Correa extensible con cinta y banda reflectante, ideal para paseos cómodos y seguros. Ofrece mayor libertad de movimiento manteniendo el control. Disponible en 5 m, en diferentes talles según el peso del perro.",
+      "features": [
+        "Colores: Negro y Rosa / Negro y Celeste"
+      ],
+      "materials": [],
+      "presentations": [
+        "S · 5 m · hasta 15 kg",
+        "M · 5 m · hasta 25 kg",
+        "L · 5 m · hasta 50 kg"
+      ],
+      "price": {
+        "S · 5 m · hasta 15 kg": 37266,
+        "M · 5 m · hasta 25 kg": 44943,
+        "L · 5 m · hasta 50 kg": 51954
+      },
+      "image": null,
+      "mainImage": "img/flexi/flexi-black-design-cinta.jpg",
+      "images": [
+        "img/flexi/flexi-black-design-cinta.jpg"
+      ],
+      "variants": [
+        {
+          "id": "flexi-black-design-cinta-s-5-m-hasta-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "S · 5 m · hasta 15 kg",
+          "size": "S",
+          "dimensions": "5 m",
+          "color": "Negro y Rosa / Negro y Celeste",
+          "pattern": null,
+          "retailPrice": {
+            "amount": 37266,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "CORREA EXTENSIBLE BLACK DESIGN S"
+        },
+        {
+          "id": "flexi-black-design-cinta-m-5-m-hasta-25-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "M · 5 m · hasta 25 kg",
+          "size": "M",
+          "dimensions": "5 m",
+          "color": "Negro y Rosa / Negro y Celeste",
+          "pattern": null,
+          "retailPrice": {
+            "amount": 44943,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "CORREA EXTENSIBLE BLACK DESIGN M"
+        },
+        {
+          "id": "flexi-black-design-cinta-l-5-m-hasta-50-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "L · 5 m · hasta 50 kg",
+          "size": "L",
+          "dimensions": "5 m",
+          "color": "Negro y Rosa / Negro y Celeste",
+          "pattern": null,
+          "retailPrice": {
+            "amount": 51954,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": null,
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "CORREA EXTENSIBLE BLACK DESIGN L"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "natuplus-pollo",
+      "brand": "Natuplus",
+      "supplier": "Natuplus",
+      "line": null,
+      "name": "Natuplus Pollo",
+      "sourceName": "Natuplus Mini x200 ml",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [],
+      "lifeStage": null,
+      "need": null,
+      "flavor": "Pollo",
+      "description": "Snack de carne 100% natural elaborado por liofilización, un proceso que quita el agua del alimento a baja temperatura y conserva sus características.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Mini 200 ml",
+        "Balde 500 ml",
+        "Condimento 250 ml"
+      ],
+      "price": {
+        "Mini 200 ml": 8960,
+        "Balde 500 ml": 19360,
+        "Condimento 250 ml": 16480
+      },
+      "image": null,
+      "mainImage": "img/natuplus/pollo-mini-200-ml.jpg",
+      "images": [
+        "img/natuplus/pollo-mini-200-ml.jpg",
+        "img/natuplus/pollo-balde-500-ml.jpg",
+        "img/natuplus/pollo-condimento-250-ml.jpg"
+      ],
+      "variants": [
+        {
+          "id": "natuplus-pollo-mini-200-ml",
+          "sku": null,
+          "ean": null,
+          "presentation": "Mini 200 ml",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 8960,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/natuplus/pollo-mini-200-ml.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Natuplus Mini x200 ml"
+        },
+        {
+          "id": "natuplus-pollo-balde-500-ml",
+          "sku": null,
+          "ean": null,
+          "presentation": "Balde 500 ml",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 19360,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/natuplus/pollo-balde-500-ml.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Natuplus mini x 500 ml"
+        },
+        {
+          "id": "natuplus-pollo-condimento-250-ml",
+          "sku": null,
+          "ean": null,
+          "presentation": "Condimento 250 ml",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 16480,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/natuplus/pollo-condimento-250-ml.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "NATUPLUS CONDIMENTO sabor pollo"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "natuplus-carne",
+      "brand": "Natuplus",
+      "supplier": "Natuplus",
+      "line": null,
+      "name": "Natuplus Carne",
+      "sourceName": "NATUPLUS MINI CARNE 200ML",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [],
+      "lifeStage": null,
+      "need": null,
+      "flavor": "Carne",
+      "description": "Snack de carne 100% natural elaborado por liofilización, un proceso que quita el agua del alimento a baja temperatura y conserva sus características.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Mini 200 ml",
+        "Balde 500 ml",
+        "Condimento 250 ml"
+      ],
+      "price": {
+        "Mini 200 ml": 11520,
+        "Balde 500 ml": 25440,
+        "Condimento 250 ml": 20800
+      },
+      "image": null,
+      "mainImage": "img/natuplus/carne-mini-200-ml.jpg",
+      "images": [
+        "img/natuplus/carne-mini-200-ml.jpg",
+        "img/natuplus/carne-balde-500-ml.jpg",
+        "img/natuplus/carne-condimento-250-ml.jpg"
+      ],
+      "variants": [
+        {
+          "id": "natuplus-carne-mini-200-ml",
+          "sku": null,
+          "ean": null,
+          "presentation": "Mini 200 ml",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 11520,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/natuplus/carne-mini-200-ml.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "NATUPLUS MINI CARNE 200ML"
+        },
+        {
+          "id": "natuplus-carne-balde-500-ml",
+          "sku": null,
+          "ean": null,
+          "presentation": "Balde 500 ml",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 25440,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/natuplus/carne-balde-500-ml.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "NATUPLUS BALDE CARNE 500ML"
+        },
+        {
+          "id": "natuplus-carne-condimento-250-ml",
+          "sku": null,
+          "ean": null,
+          "presentation": "Condimento 250 ml",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 20800,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/natuplus/carne-condimento-250-ml.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "NATUPLUS CONDIMENTO CARNE 250ML"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "natuplus-cerdo",
+      "brand": "Natuplus",
+      "supplier": "Natuplus",
+      "line": null,
+      "name": "Natuplus Cerdo",
+      "sourceName": "NATUPLUS MINI CERDO 200ML",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [],
+      "lifeStage": null,
+      "need": null,
+      "flavor": "Cerdo",
+      "description": "Snack de carne 100% natural elaborado por liofilización, un proceso que quita el agua del alimento a baja temperatura y conserva sus características.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Mini 200 ml",
+        "Balde 500 ml"
+      ],
+      "price": {
+        "Mini 200 ml": 9120,
+        "Balde 500 ml": 20160
+      },
+      "image": null,
+      "mainImage": "img/natuplus/cerdo-mini-200-ml.jpg",
+      "images": [
+        "img/natuplus/cerdo-mini-200-ml.jpg",
+        "img/natuplus/cerdo-balde-500-ml.jpg"
+      ],
+      "variants": [
+        {
+          "id": "natuplus-cerdo-mini-200-ml",
+          "sku": null,
+          "ean": null,
+          "presentation": "Mini 200 ml",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 9120,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/natuplus/cerdo-mini-200-ml.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "NATUPLUS MINI CERDO 200ML"
+        },
+        {
+          "id": "natuplus-cerdo-balde-500-ml",
+          "sku": null,
+          "ean": null,
+          "presentation": "Balde 500 ml",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 20160,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/natuplus/cerdo-balde-500-ml.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "NATUPLUS BALDE CERDO 500ML"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "natuplus-higado",
+      "brand": "Natuplus",
+      "supplier": "Natuplus",
+      "line": null,
+      "name": "Natuplus Hígado",
+      "sourceName": "NATUPLUS MINI HIGADO 200ML",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [],
+      "lifeStage": null,
+      "need": null,
+      "flavor": "Hígado",
+      "description": "Snack de carne 100% natural elaborado por liofilización, un proceso que quita el agua del alimento a baja temperatura y conserva sus características.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Mini 200 ml",
+        "Balde 500 ml",
+        "Condimento 250 ml"
+      ],
+      "price": {
+        "Mini 200 ml": 7200,
+        "Balde 500 ml": 15680,
+        "Condimento 250 ml": 12800
+      },
+      "image": null,
+      "mainImage": "img/natuplus/higado-mini-200-ml.jpg",
+      "images": [
+        "img/natuplus/higado-mini-200-ml.jpg",
+        "img/natuplus/higado-balde-500-ml.jpg",
+        "img/natuplus/higado-condimento-250-ml.jpg"
+      ],
+      "variants": [
+        {
+          "id": "natuplus-higado-mini-200-ml",
+          "sku": null,
+          "ean": null,
+          "presentation": "Mini 200 ml",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 7200,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/natuplus/higado-mini-200-ml.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "NATUPLUS MINI HIGADO 200ML"
+        },
+        {
+          "id": "natuplus-higado-balde-500-ml",
+          "sku": null,
+          "ean": null,
+          "presentation": "Balde 500 ml",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 15680,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/natuplus/higado-balde-500-ml.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "NATUPLUS BALDE HIGADO 500ML"
+        },
+        {
+          "id": "natuplus-higado-condimento-250-ml",
+          "sku": null,
+          "ean": null,
+          "presentation": "Condimento 250 ml",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 12800,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/natuplus/higado-condimento-250-ml.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "NATUPLUS CONDIMENTO HIGADO 250ML"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "natuplus-pescado",
+      "brand": "Natuplus",
+      "supplier": "Natuplus",
+      "line": null,
+      "name": "Natuplus Pescado",
+      "sourceName": "NATUPLUS MINI PESCADO 200ML",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [],
+      "lifeStage": null,
+      "need": null,
+      "flavor": "Pescado",
+      "description": "Snack de carne 100% natural elaborado por liofilización, un proceso que quita el agua del alimento a baja temperatura y conserva sus características.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Mini 200 ml",
+        "Balde 500 ml",
+        "Condimento 250 ml"
+      ],
+      "price": {
+        "Mini 200 ml": 8160,
+        "Balde 500 ml": 17600,
+        "Condimento 250 ml": 15520
+      },
+      "image": null,
+      "mainImage": "img/natuplus/pescado-mini-200-ml.jpg",
+      "images": [
+        "img/natuplus/pescado-mini-200-ml.jpg",
+        "img/natuplus/pescado-balde-500-ml.jpg",
+        "img/natuplus/pescado-condimento-250-ml.jpg"
+      ],
+      "variants": [
+        {
+          "id": "natuplus-pescado-mini-200-ml",
+          "sku": null,
+          "ean": null,
+          "presentation": "Mini 200 ml",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 8160,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/natuplus/pescado-mini-200-ml.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "NATUPLUS MINI PESCADO 200ML"
+        },
+        {
+          "id": "natuplus-pescado-balde-500-ml",
+          "sku": null,
+          "ean": null,
+          "presentation": "Balde 500 ml",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 17600,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/natuplus/pescado-balde-500-ml.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "NATUPLUS BALDE PESCADO 500ML"
+        },
+        {
+          "id": "natuplus-pescado-condimento-250-ml",
+          "sku": null,
+          "ean": null,
+          "presentation": "Condimento 250 ml",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 15520,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/natuplus/pescado-condimento-250-ml.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "NATUPLUS CONDIMENTO PESCADO 250ML"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-22)",
           "sourceType": "terranova-price-list"
         }
       ]
