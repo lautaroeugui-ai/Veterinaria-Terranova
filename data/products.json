@@ -22721,6 +22721,4784 @@
           "sourceType": "terranova-price-list"
         }
       ]
+    },
+    {
+      "id": "balanced-bal-gato-ad",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Gato Adulto",
+      "sourceName": "BAL GATO AD 15 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "15 kg",
+        "2 kg",
+        "7.5 kg"
+      ],
+      "price": {
+        "15 kg": 120978,
+        "2 kg": 24405.5,
+        "7.5 kg": 66047.52
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-gato-ad-15-kg.jpg",
+      "images": [
+        "img/balanced/bal-gato-ad-15-kg.jpg",
+        "img/balanced/bal-gato-ad-2-kg.jpg",
+        "img/balanced/bal-gato-ad-7-5-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-gato-ad-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 120978,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-gato-ad-15-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL GATO AD 15 KG"
+        },
+        {
+          "id": "balanced-bal-gato-ad-2-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "2 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 24405.5,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-gato-ad-2-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL GATO AD 2 KG"
+        },
+        {
+          "id": "balanced-bal-gato-ad-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 66047.52,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-gato-ad-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL GATO AD 7.5 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-gato-control-peso",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Gato Control Peso",
+      "sourceName": "BAL GATO CONTROL PESO 2 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "2 kg",
+        "7.5 kg"
+      ],
+      "price": {
+        "2 kg": 28169.4,
+        "7.5 kg": 79721.4
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-gato-control-peso-2-kg.jpg",
+      "images": [
+        "img/balanced/bal-gato-control-peso-2-kg.jpg",
+        "img/balanced/bal-gato-control-peso-7-5-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-gato-control-peso-2-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "2 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 28169.4,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-gato-control-peso-2-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL GATO CONTROL PESO 2 KG"
+        },
+        {
+          "id": "balanced-bal-gato-control-peso-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 79721.4,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-gato-control-peso-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL GATO CONTROL PESO 7.5 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-gato-control-ph",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Gato Control pH",
+      "sourceName": "BAL GATO CONTROL PH 2 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "2 kg",
+        "7.5 kg"
+      ],
+      "price": {
+        "2 kg": 28169.4,
+        "7.5 kg": 78260.71
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-gato-control-ph-7-5-kg.jpg",
+      "images": [
+        "img/balanced/bal-gato-control-ph-7-5-kg.jpg",
+        "img/balanced/bal-gato-control-ph-2-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-gato-control-ph-2-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "2 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 28169.4,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-gato-control-ph-2-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL GATO CONTROL PH 2 KG"
+        },
+        {
+          "id": "balanced-bal-gato-control-ph-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 78260.71,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-gato-control-ph-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL GATO CONTROL PH 7.5 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-gato-senior",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Gato Senior",
+      "sourceName": "BAL GATO SENIOR 2 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "2 kg",
+        "7.5 kg"
+      ],
+      "price": {
+        "2 kg": 27222.44,
+        "7.5 kg": 72596.27
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-gato-senior-7-5-kg.jpg",
+      "images": [
+        "img/balanced/bal-gato-senior-7-5-kg.jpg",
+        "img/balanced/bal-gato-senior-2-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-gato-senior-2-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "2 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 27222.44,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-gato-senior-2-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL GATO SENIOR 2 KG"
+        },
+        {
+          "id": "balanced-bal-gato-senior-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 72596.27,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-gato-senior-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL GATO SENIOR 7.5 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-kitten",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Kitten",
+      "sourceName": "BAL KITTEN 2 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "2 kg",
+        "7.5 kg"
+      ],
+      "price": {
+        "2 kg": 28169.4,
+        "7.5 kg": 77473.4
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-kitten-7-5-kg.jpg",
+      "images": [
+        "img/balanced/bal-kitten-7-5-kg.jpg",
+        "img/balanced/bal-kitten-2-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-kitten-2-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "2 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 28169.4,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-kitten-2-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL KITTEN 2 KG"
+        },
+        {
+          "id": "balanced-bal-kitten-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 77473.4,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-kitten-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL KITTEN 7.5 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-nat-recipe-carne-perro",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Natural Recipe Carne Perro",
+      "sourceName": "BAL NAT RECIPE CARNE PERRO 15 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "15 kg",
+        "3 kg"
+      ],
+      "price": {
+        "15 kg": 82043,
+        "3 kg": 22822.8
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-nat-recip-carne-perro-3-kg.jpg",
+      "images": [
+        "img/balanced/bal-nat-recip-carne-perro-3-kg.jpg",
+        "img/balanced/bal-nat-recip-carne-perro-15-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-nat-recipe-carne-perro-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 82043,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recip-carne-perro-15-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE CARNE PERRO 15 KG"
+        },
+        {
+          "id": "balanced-bal-nat-recipe-carne-perro-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 22822.8,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recip-carne-perro-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE CARNE PERRO 3 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-nat-recipe-cerdo-perro",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Natural Recipe Cerdo Perro",
+      "sourceName": "BAL NAT RECIPE CERDO PERRO 15 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "15 kg",
+        "3 kg"
+      ],
+      "price": {
+        "15 kg": 82041.7,
+        "3 kg": 22822.8
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-nat-recip-cerdo-perro-3-kg.jpg",
+      "images": [
+        "img/balanced/bal-nat-recip-cerdo-perro-3-kg.jpg",
+        "img/balanced/bal-nat-recip-cerdo-perro-15-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-nat-recipe-cerdo-perro-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 82041.7,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recip-cerdo-perro-15-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE CERDO PERRO 15 KG"
+        },
+        {
+          "id": "balanced-bal-nat-recipe-cerdo-perro-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 22822.8,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recip-cerdo-perro-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE CERDO PERRO 3 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-nat-recipe-cordero-perro",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Natural Recipe Cordero Perro",
+      "sourceName": "BAL NAT RECIPE CORDERO PERRO 15 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "15 kg",
+        "3 kg"
+      ],
+      "price": {
+        "15 kg": 83564,
+        "3 kg": 22822.8
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-nat-recip-cordero-perro-15-kg.jpg",
+      "images": [
+        "img/balanced/bal-nat-recip-cordero-perro-15-kg.jpg",
+        "img/balanced/bal-nat-recip-cordero-perro-3-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-nat-recipe-cordero-perro-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 83564,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recip-cordero-perro-15-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE CORDERO PERRO 15 KG"
+        },
+        {
+          "id": "balanced-bal-nat-recipe-cordero-perro-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 22822.8,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recip-cordero-perro-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE CORDERO PERRO 3 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-nat-recipe-gato-cordero",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Natural Recipe Gato Cordero",
+      "sourceName": "BAL NAT RECIPE GATO CORDERO 15 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "15 kg",
+        "3 kg",
+        "7.5 kg"
+      ],
+      "price": {
+        "15 kg": 129269.4,
+        "3 kg": 32941.92,
+        "7.5 kg": 68605.68
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-nat-recip-gato-cordero-15-kg.jpg",
+      "images": [
+        "img/balanced/bal-nat-recip-gato-cordero-15-kg.jpg",
+        "img/balanced/bal-nat-recip-gato-cordero-7-5-kg.jpg",
+        "img/balanced/bal-nat-recip-gato-cordero-3-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-nat-recipe-gato-cordero-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 129269.4,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recip-gato-cordero-15-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE GATO CORDERO 15 KG"
+        },
+        {
+          "id": "balanced-bal-nat-recipe-gato-cordero-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 32941.92,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recip-gato-cordero-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE GATO CORDERO 3 KG"
+        },
+        {
+          "id": "balanced-bal-nat-recipe-gato-cordero-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 68605.68,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recip-gato-cordero-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE GATO CORDERO 7.5 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-nat-recipe-gato-pollo",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Natural Recipe Gato Pollo",
+      "sourceName": "BAL NAT RECIPE GATO POLLO 15 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "15 kg",
+        "3 kg",
+        "7.5 kg"
+      ],
+      "price": {
+        "15 kg": 129269.4,
+        "3 kg": 32940.6,
+        "7.5 kg": 68604.36
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-nat-recip-gato-pollo-3-kg.jpg",
+      "images": [
+        "img/balanced/bal-nat-recip-gato-pollo-3-kg.jpg",
+        "img/balanced/bal-nat-recip-gato-pollo-15-kg.jpg",
+        "img/balanced/bal-nat-recip-gato-pollo-7-5-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-nat-recipe-gato-pollo-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 129269.4,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recip-gato-pollo-15-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE GATO POLLO 15 KG"
+        },
+        {
+          "id": "balanced-bal-nat-recipe-gato-pollo-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 32940.6,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recip-gato-pollo-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE GATO POLLO 3 KG"
+        },
+        {
+          "id": "balanced-bal-nat-recipe-gato-pollo-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 68604.36,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recip-gato-pollo-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE GATO POLLO 7.5 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-nat-recipe-gato-salmon",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Natural Recipe Gato Salmón",
+      "sourceName": "BAL NAT RECIPE GATO SALMON 3 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "3 kg",
+        "7.5 kg",
+        "15 kg"
+      ],
+      "price": {
+        "3 kg": 32940.6,
+        "7.5 kg": 68604.36,
+        "15 kg": 129269.4
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-nat-recip-gato-salmon-7-5-kg.jpg",
+      "images": [
+        "img/balanced/bal-nat-recip-gato-salmon-7-5-kg.jpg",
+        "img/balanced/bal-nat-recip-gato-salmon-3-kg.jpg",
+        "img/balanced/bal-nat-recipe-gato-salmon-15-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-nat-recipe-gato-salmon-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 32940.6,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recip-gato-salmon-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE GATO SALMON 3 KG"
+        },
+        {
+          "id": "balanced-bal-nat-recipe-gato-salmon-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 68604.36,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recip-gato-salmon-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE GATO SALMON 7.5 KG"
+        },
+        {
+          "id": "balanced-bal-nat-recipe-gato-salmon-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 129269.4,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recipe-gato-salmon-15-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE GATO SALMON 15 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-nat-recipe-gato-trucha",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Natural Recipe Gato Trucha",
+      "sourceName": "BAL NAT RECIPE GATO TRUCHA 3 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "3 kg",
+        "7.5 kg",
+        "15 kg"
+      ],
+      "price": {
+        "3 kg": 32940.6,
+        "7.5 kg": 68604.36,
+        "15 kg": 129269.4
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-nat-recip-gato-trucha-3-kg.jpg",
+      "images": [
+        "img/balanced/bal-nat-recip-gato-trucha-3-kg.jpg",
+        "img/balanced/bal-nat-recip-gato-trucha-7-5-kg.jpg",
+        "img/balanced/bal-nat-recipe-gato-trucha-15-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-nat-recipe-gato-trucha-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 32940.6,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recip-gato-trucha-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE GATO TRUCHA 3 KG"
+        },
+        {
+          "id": "balanced-bal-nat-recipe-gato-trucha-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 68604.36,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recip-gato-trucha-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE GATO TRUCHA 7.5 KG"
+        },
+        {
+          "id": "balanced-bal-nat-recipe-gato-trucha-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 129269.4,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recipe-gato-trucha-15-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE GATO TRUCHA 15 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-nat-recipe-pollo-perro",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Natural Recipe Pollo Perro",
+      "sourceName": "BAL NAT RECIPE POLLO PERRO 15 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "15 kg",
+        "3 kg"
+      ],
+      "price": {
+        "15 kg": 83303.88,
+        "3 kg": 22822.8
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-nat-recip-pollo-perro-15-kg.jpg",
+      "images": [
+        "img/balanced/bal-nat-recip-pollo-perro-15-kg.jpg",
+        "img/balanced/bal-nat-recipe-pollo-perro-3-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-nat-recipe-pollo-perro-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 83303.88,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recip-pollo-perro-15-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE POLLO PERRO 15 KG"
+        },
+        {
+          "id": "balanced-bal-nat-recipe-pollo-perro-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 22822.8,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recipe-pollo-perro-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE POLLO PERRO 3 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-nat-recipe-salmon-perro",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Natural Recipe Salmón Perro",
+      "sourceName": "BAL NAT RECIPE SALMON PERRO 15 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "15 kg",
+        "3 kg"
+      ],
+      "price": {
+        "15 kg": 76666.2,
+        "3 kg": 20927.28
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-nat-recip-salmon-perro-3-kg.jpg",
+      "images": [
+        "img/balanced/bal-nat-recip-salmon-perro-3-kg.jpg",
+        "img/balanced/bal-nat-recip-salmon-perro-15-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-nat-recipe-salmon-perro-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 76666.2,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recip-salmon-perro-15-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE SALMON PERRO 15 KG"
+        },
+        {
+          "id": "balanced-bal-nat-recipe-salmon-perro-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 20927.28,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recip-salmon-perro-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE SALMON PERRO 3 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-nat-recipe-gato-carne",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Natural Recipe Gato Carne",
+      "sourceName": "BAL NAT RECIPE GATO CARNE 15 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "15 kg",
+        "3 kg",
+        "7.5 kg"
+      ],
+      "price": {
+        "15 kg": 129269.4,
+        "3 kg": 32940.6,
+        "7.5 kg": 68604.36
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-nat-recipe-gato-carne-15-kg.jpg",
+      "images": [
+        "img/balanced/bal-nat-recipe-gato-carne-15-kg.jpg",
+        "img/balanced/bal-nat-recipe-gato-carne-3-kg.jpg",
+        "img/balanced/bal-nat-recipe-gato-carne-7-5-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-nat-recipe-gato-carne-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 129269.4,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recipe-gato-carne-15-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE GATO CARNE 15 KG"
+        },
+        {
+          "id": "balanced-bal-nat-recipe-gato-carne-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 32940.6,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recipe-gato-carne-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE GATO CARNE 3 KG"
+        },
+        {
+          "id": "balanced-bal-nat-recipe-gato-carne-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 68604.36,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recipe-gato-carne-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE GATO CARNE 7.5 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-nat-recipe-gato-merluza",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Natural Recipe Gato Merluza",
+      "sourceName": "BAL NAT RECIPE GATO MERLUZA 15 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "15 kg",
+        "3 kg",
+        "7.5 kg"
+      ],
+      "price": {
+        "15 kg": 129269.4,
+        "3 kg": 32940.6,
+        "7.5 kg": 68604.36
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-nat-recipe-gato-merluza-3-kg.jpg",
+      "images": [
+        "img/balanced/bal-nat-recipe-gato-merluza-3-kg.jpg",
+        "img/balanced/bal-nat-recipe-gato-merluza-15-kg.jpg",
+        "img/balanced/bal-nat-recipe-gato-merluza-7-5-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-nat-recipe-gato-merluza-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 129269.4,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recipe-gato-merluza-15-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE GATO MERLUZA 15 KG"
+        },
+        {
+          "id": "balanced-bal-nat-recipe-gato-merluza-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 32940.6,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recipe-gato-merluza-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE GATO MERLUZA 3 KG"
+        },
+        {
+          "id": "balanced-bal-nat-recipe-gato-merluza-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 68604.36,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-nat-recipe-gato-merluza-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL NAT RECIPE GATO MERLUZA 7.5 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-perro-ad-raza-gigante",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Perro Adulto Raza Gigante",
+      "sourceName": "BAL PERRO AD RAZA GIGANTE 20 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "20 kg"
+      ],
+      "price": {
+        "20 kg": 94354
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-perro-ad-raza-gigante-20-kg.jpg",
+      "images": [
+        "img/balanced/bal-perro-ad-raza-gigante-20-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-perro-ad-raza-gigante-20-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "20 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 94354,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-ad-raza-gigante-20-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO AD RAZA GIGANTE 20 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-perro-ad-rg",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Perro Adulto Raza Grande",
+      "sourceName": "BAL PERRO AD RG 15 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "15 kg",
+        "20 kg",
+        "3 kg"
+      ],
+      "price": {
+        "15 kg": 65457.6,
+        "20 kg": 84100.9,
+        "3 kg": 19681.34
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-perro-ad-rg-3-kg.jpg",
+      "images": [
+        "img/balanced/bal-perro-ad-rg-3-kg.jpg",
+        "img/balanced/bal-perro-ad-rg-15-kg.jpg",
+        "img/balanced/bal-perro-ad-rg-20-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-perro-ad-rg-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 65457.6,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-ad-rg-15-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO AD RG 15 KG"
+        },
+        {
+          "id": "balanced-bal-perro-ad-rg-20-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "20 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 84100.9,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-ad-rg-20-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO AD RG 20 KG"
+        },
+        {
+          "id": "balanced-bal-perro-ad-rg-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 19681.34,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-ad-rg-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO AD RG 3 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-perro-ad-rm",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Perro Adulto Raza Mediana",
+      "sourceName": "BAL PERRO AD RM 12 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "12 kg",
+        "20 kg",
+        "3 kg"
+      ],
+      "price": {
+        "12 kg": 55210.32,
+        "20 kg": 84100.9,
+        "3 kg": 19680.01
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-perro-ad-rm-12-kg.jpg",
+      "images": [
+        "img/balanced/bal-perro-ad-rm-12-kg.jpg",
+        "img/balanced/bal-perro-ad-rm-3-kg.jpg",
+        "img/balanced/bal-perro-ad-rm-20-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-perro-ad-rm-12-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "12 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 55210.32,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-ad-rm-12-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO AD RM 12 KG"
+        },
+        {
+          "id": "balanced-bal-perro-ad-rm-20-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "20 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 84100.9,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-ad-rm-20-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO AD RM 20 KG"
+        },
+        {
+          "id": "balanced-bal-perro-ad-rm-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 19680.01,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-ad-rm-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO AD RM 3 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-perro-ad-rp",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Perro Adulto Raza Pequeña",
+      "sourceName": "BAL PERRO AD RP 15 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "15 kg",
+        "3 kg",
+        "7.5 kg"
+      ],
+      "price": {
+        "15 kg": 67529.8,
+        "3 kg": 18899.3,
+        "7.5 kg": 43296
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-perro-ad-rp-15-kg.jpg",
+      "images": [
+        "img/balanced/bal-perro-ad-rp-15-kg.jpg",
+        "img/balanced/bal-perro-ad-rp-7-5-kg.jpg",
+        "img/balanced/bal-perro-ad-rp-3-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-perro-ad-rp-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 67529.8,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-ad-rp-15-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO AD RP 15 KG"
+        },
+        {
+          "id": "balanced-bal-perro-ad-rp-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 18899.3,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-ad-rp-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO AD RP 3 KG"
+        },
+        {
+          "id": "balanced-bal-perro-ad-rp-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 43296,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-ad-rp-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO AD RP 7.5 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-perro-cach-rg",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Perro Cachorro Raza Grande",
+      "sourceName": "BAL PERRO CACH RG 15 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "15 kg",
+        "20 kg",
+        "3 kg"
+      ],
+      "price": {
+        "15 kg": 75224.5,
+        "20 kg": 103078.3,
+        "3 kg": 21027.3
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-perro-cach-rg-20-kg.jpg",
+      "images": [
+        "img/balanced/bal-perro-cach-rg-20-kg.jpg",
+        "img/balanced/bal-perro-cach-rg-15-kg.jpg",
+        "img/balanced/bal-perro-cach-rg-3-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-perro-cach-rg-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 75224.5,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-cach-rg-15-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO CACH RG 15 KG"
+        },
+        {
+          "id": "balanced-bal-perro-cach-rg-20-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "20 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 103078.3,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-cach-rg-20-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO CACH RG 20 KG"
+        },
+        {
+          "id": "balanced-bal-perro-cach-rg-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 21027.3,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-cach-rg-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO CACH RG 3 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-perro-cach-rm",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Perro Cachorro Raza Mediana",
+      "sourceName": "BAL PERRO CACH RM 12 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "12 kg",
+        "20 kg",
+        "3 kg"
+      ],
+      "price": {
+        "12 kg": 61538.4,
+        "20 kg": 103078.3,
+        "3 kg": 21027.3
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-perro-cach-rm-12-kg.jpg",
+      "images": [
+        "img/balanced/bal-perro-cach-rm-12-kg.jpg",
+        "img/balanced/bal-perro-cach-rm-20-kg.jpg",
+        "img/balanced/bal-perro-cach-rm-3-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-perro-cach-rm-12-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "12 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 61538.4,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-cach-rm-12-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO CACH RM 12 KG"
+        },
+        {
+          "id": "balanced-bal-perro-cach-rm-20-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "20 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 103078.3,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-cach-rm-20-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO CACH RM 20 KG"
+        },
+        {
+          "id": "balanced-bal-perro-cach-rm-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 21027.3,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-cach-rm-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO CACH RM 3 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-perro-cach-rp",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Perro Cachorro Raza Pequeña",
+      "sourceName": "BAL PERRO CACH RP 1 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "1 kg",
+        "3 kg",
+        "7.5 kg"
+      ],
+      "price": {
+        "3 kg": 21822.64,
+        "7.5 kg": 51683.28
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-perro-cach-rp-7-5-kg.jpg",
+      "images": [
+        "img/balanced/bal-perro-cach-rp-7-5-kg.jpg",
+        "img/balanced/bal-perro-cach-rp-3-kg.jpg",
+        "img/balanced/bal-perro-cach-rp-1-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-perro-cach-rp-1-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-cach-rp-1-kg.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BAL PERRO CACH RP 1 KG"
+        },
+        {
+          "id": "balanced-bal-perro-cach-rp-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 21822.64,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-cach-rp-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO CACH RP 3 KG"
+        },
+        {
+          "id": "balanced-bal-perro-cach-rp-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 51683.28,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-cach-rp-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO CACH RP 7.5 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-perro-control-peso",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Perro Control Peso",
+      "sourceName": "BAL PERRO CONTROL PESO 12 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "12 kg",
+        "20 kg",
+        "3 kg"
+      ],
+      "price": {
+        "12 kg": 63471.2,
+        "20 kg": 104960.7,
+        "3 kg": 22594.04
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-perro-control-peso-20-kg.jpg",
+      "images": [
+        "img/balanced/bal-perro-control-peso-20-kg.jpg",
+        "img/balanced/bal-perro-control-peso-12-kg.jpg",
+        "img/balanced/bal-perro-control-peso-3-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-perro-control-peso-12-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "12 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 63471.2,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-control-peso-12-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO CONTROL PESO 12 KG"
+        },
+        {
+          "id": "balanced-bal-perro-control-peso-20-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "20 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 104960.7,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-control-peso-20-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO CONTROL PESO 20 KG"
+        },
+        {
+          "id": "balanced-bal-perro-control-peso-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 22594.04,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-control-peso-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO CONTROL PESO 3 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-perro-senior-rg",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Perro Senior Raza Grande",
+      "sourceName": "BAL PERRO SENIOR RG 15 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "15 kg",
+        "3 kg"
+      ],
+      "price": {
+        "15 kg": 72413.9,
+        "3 kg": 21027.3
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-perro-senior-rg-3-kg.jpg",
+      "images": [
+        "img/balanced/bal-perro-senior-rg-3-kg.jpg",
+        "img/balanced/bal-perro-senior-rg-15-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-perro-senior-rg-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 72413.9,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-senior-rg-15-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO SENIOR RG 15 KG"
+        },
+        {
+          "id": "balanced-bal-perro-senior-rg-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 21027.3,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-senior-rg-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO SENIOR RG 3 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-perro-senior-rm",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Perro Senior Raza Mediana",
+      "sourceName": "BAL PERRO SENIOR RM 12 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "12 kg",
+        "3 kg"
+      ],
+      "price": {
+        "12 kg": 57924.24,
+        "3 kg": 21027.3
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-perro-senior-rm-3-kg.jpg",
+      "images": [
+        "img/balanced/bal-perro-senior-rm-3-kg.jpg",
+        "img/balanced/bal-perro-senior-rm-12-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-perro-senior-rm-12-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "12 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 57924.24,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-senior-rm-12-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO SENIOR RM 12 KG"
+        },
+        {
+          "id": "balanced-bal-perro-senior-rm-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 21027.3,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-senior-rm-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO SENIOR RM 3 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-perro-senior-rp",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Perro Senior Raza Pequeña",
+      "sourceName": "BAL PERRO SENIOR RP 3 KG",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "3 kg",
+        "7.5 kg"
+      ],
+      "price": {
+        "3 kg": 21822.64,
+        "7.5 kg": 50174.52
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-perro-senior-rp-3-kg.jpg",
+      "images": [
+        "img/balanced/bal-perro-senior-rp-3-kg.jpg",
+        "img/balanced/bal-perro-senior-rp-7-5-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-perro-senior-rp-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 21822.64,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-senior-rp-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO SENIOR RP 3 KG"
+        },
+        {
+          "id": "balanced-bal-perro-senior-rp-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 50174.52,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-perro-senior-rp-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL PERRO SENIOR RP 7.5 KG"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-bal-soufle-gato",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Soufflé Gato",
+      "sourceName": "BAL SOUFLE GATO 85 G",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "85 g"
+      ],
+      "price": {
+        "85 g": 2454
+      },
+      "image": null,
+      "mainImage": "img/balanced/bal-soufle-gato-85-g.jpg",
+      "images": [
+        "img/balanced/bal-soufle-gato-85-g.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-bal-soufle-gato-85-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "85 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 2454,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/bal-soufle-gato-85-g.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BAL SOUFLE GATO 85 G"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-balanced-souffle-perro-cachorro-pollo",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Soufflé Perro Cachorro Pollo",
+      "sourceName": "BALANCED SOUFFLE PERRO CACHORRO POLLO",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Balanced Soufflé Perro Cachorro Pollo"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/balanced/balanced-souffle-perro-cachorro-pollo.jpg",
+      "images": [
+        "img/balanced/balanced-souffle-perro-cachorro-pollo.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-balanced-souffle-perro-cachorro-pollo-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Balanced Soufflé Perro Cachorro Pollo",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/balanced/balanced-souffle-perro-cachorro-pollo.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE PERRO CACHORRO POLLO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-balanced-souffle-perro-cachorro-carne",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Soufflé Perro Cachorro Carne",
+      "sourceName": "BALANCED SOUFFLE PERRO CACHORRO CARNE",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Balanced Soufflé Perro Cachorro Carne"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/balanced/balanced-souffle-perro-cachorro-carne.jpg",
+      "images": [
+        "img/balanced/balanced-souffle-perro-cachorro-carne.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-balanced-souffle-perro-cachorro-carne-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Balanced Soufflé Perro Cachorro Carne",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/balanced/balanced-souffle-perro-cachorro-carne.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE PERRO CACHORRO CARNE"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-balanced-souffle-perro-adulto-cordero",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Soufflé Perro Adulto Cordero",
+      "sourceName": "BALANCED SOUFFLE PERRO ADULTO CORDERO",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Balanced Soufflé Perro Adulto Cordero"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/balanced/balanced-souffle-perro-adulto-cordero.jpg",
+      "images": [
+        "img/balanced/balanced-souffle-perro-adulto-cordero.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-balanced-souffle-perro-adulto-cordero-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Balanced Soufflé Perro Adulto Cordero",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/balanced/balanced-souffle-perro-adulto-cordero.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE PERRO ADULTO CORDERO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-balanced-souffle-perro-adulto-pollo",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Soufflé Perro Adulto Pollo",
+      "sourceName": "BALANCED SOUFFLE PERRO ADULTO POLLO",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Balanced Soufflé Perro Adulto Pollo"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/balanced/balanced-souffle-perro-adulto-pollo.jpg",
+      "images": [
+        "img/balanced/balanced-souffle-perro-adulto-pollo.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-balanced-souffle-perro-adulto-pollo-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Balanced Soufflé Perro Adulto Pollo",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/balanced/balanced-souffle-perro-adulto-pollo.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE PERRO ADULTO POLLO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-balanced-souffle-perro-adulto-carne",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Soufflé Perro Adulto Carne",
+      "sourceName": "BALANCED SOUFFLE PERRO ADULTO CARNE",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Balanced Soufflé Perro Adulto Carne"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/balanced/balanced-souffle-perro-adulto-carne.jpg",
+      "images": [
+        "img/balanced/balanced-souffle-perro-adulto-carne.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-balanced-souffle-perro-adulto-carne-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Balanced Soufflé Perro Adulto Carne",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/balanced/balanced-souffle-perro-adulto-carne.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE PERRO ADULTO CARNE"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-balanced-souffle-perro-senior-carne",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Soufflé Perro Senior Carne",
+      "sourceName": "BALANCED SOUFFLE PERRO SENIOR CARNE",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Balanced Soufflé Perro Senior Carne"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/balanced/balanced-souffle-perro-senior-carne.jpg",
+      "images": [
+        "img/balanced/balanced-souffle-perro-senior-carne.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-balanced-souffle-perro-senior-carne-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Balanced Soufflé Perro Senior Carne",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/balanced/balanced-souffle-perro-senior-carne.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE PERRO SENIOR CARNE"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-balanced-souffle-perro-senior-pollo",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Soufflé Perro Senior Pollo",
+      "sourceName": "BALANCED SOUFFLE PERRO SENIOR POLLO",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Balanced Soufflé Perro Senior Pollo"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/balanced/balanced-souffle-perro-senior-pollo.jpg",
+      "images": [
+        "img/balanced/balanced-souffle-perro-senior-pollo.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-balanced-souffle-perro-senior-pollo-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Balanced Soufflé Perro Senior Pollo",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/balanced/balanced-souffle-perro-senior-pollo.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE PERRO SENIOR POLLO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-balanced-natural-recipe-cachorro-sabor-cordero",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Natural Recipe Cachorro Sabor Cordero",
+      "sourceName": "Balanced Natural Recipe Cachorro sabor cordero",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Balanced Natural Recipe Cachorro Sabor Cordero"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/balanced/balanced-natural-recipe-cachorro-sabor-cordero.jpg",
+      "images": [
+        "img/balanced/balanced-natural-recipe-cachorro-sabor-cordero.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-balanced-natural-recipe-cachorro-sabor-cordero-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Balanced Natural Recipe Cachorro Sabor Cordero",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/balanced/balanced-natural-recipe-cachorro-sabor-cordero.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "Balanced Natural Recipe Cachorro sabor cordero"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-perro-cachorro-delicados-filetes-carne",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Perro Cachorro Delicados Filetes Carne",
+      "sourceName": "PERRO CACHORRO DELICADOS FILETES CARNE",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Perro Cachorro Delicados Filetes Carne"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/balanced/perro-cachorro-delicados-filetes-carne.jpg",
+      "images": [
+        "img/balanced/perro-cachorro-delicados-filetes-carne.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-perro-cachorro-delicados-filetes-carne-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Perro Cachorro Delicados Filetes Carne",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/balanced/perro-cachorro-delicados-filetes-carne.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "PERRO CACHORRO DELICADOS FILETES CARNE"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-perro-adulto-delicados-filetes-salmon-y-cordero",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Perro Adulto Delicados Filetes Salmón Y Cordero",
+      "sourceName": "PERRO ADULTO DELICADOS FILETES SALMÓN Y CORDERO",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Perro Adulto Delicados Filetes Salmón Y Cordero"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/balanced/perro-adulto-delicados-filetes-salmon-y-cordero.jpg",
+      "images": [
+        "img/balanced/perro-adulto-delicados-filetes-salmon-y-cordero.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-perro-adulto-delicados-filetes-salmon-y-cordero-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Perro Adulto Delicados Filetes Salmón Y Cordero",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/balanced/perro-adulto-delicados-filetes-salmon-y-cordero.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "PERRO ADULTO DELICADOS FILETES SALMÓN Y CORDERO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-perro-adulto-delicados-filetes-cordero",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Perro Adulto Delicados Filetes Cordero",
+      "sourceName": "PERRO ADULTO DELICADOS FILETES CORDERO",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Perro Adulto Delicados Filetes Cordero"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/balanced/perro-adulto-delicados-filetes-cordero.jpg",
+      "images": [
+        "img/balanced/perro-adulto-delicados-filetes-cordero.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-perro-adulto-delicados-filetes-cordero-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Perro Adulto Delicados Filetes Cordero",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/balanced/perro-adulto-delicados-filetes-cordero.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "PERRO ADULTO DELICADOS FILETES CORDERO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-perro-adulto-delicados-filetes-cerdo",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Perro Adulto Delicados Filetes Cerdo",
+      "sourceName": "PERRO ADULTO DELICADOS FILETES CERDO",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Perro Adulto Delicados Filetes Cerdo"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/balanced/perro-adulto-delicados-filetes-cerdo.jpg",
+      "images": [
+        "img/balanced/perro-adulto-delicados-filetes-cerdo.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-perro-adulto-delicados-filetes-cerdo-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Perro Adulto Delicados Filetes Cerdo",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/balanced/perro-adulto-delicados-filetes-cerdo.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "PERRO ADULTO DELICADOS FILETES CERDO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-perro-adulto-delicados-filetes-carne",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Perro Adulto Delicados Filetes Carne",
+      "sourceName": "PERRO ADULTO DELICADOS FILETES CARNE",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Perro Adulto Delicados Filetes Carne"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/balanced/perro-adulto-delicados-filetes-carne.jpg",
+      "images": [
+        "img/balanced/perro-adulto-delicados-filetes-carne.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-perro-adulto-delicados-filetes-carne-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Perro Adulto Delicados Filetes Carne",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/balanced/perro-adulto-delicados-filetes-carne.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "PERRO ADULTO DELICADOS FILETES CARNE"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-natural-recipe-delicados-filetes-gato-cachorro-trucha-y-cordero",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Natural Recipe Delicados Filetes Gato Cachorro Trucha Y Cordero",
+      "sourceName": "NATURAL RECIPE DELICADOS FILETES GATO CACHORRO TRUCHA Y CORDERO",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Natural Recipe Delicados Filetes Gato Cachorro Trucha Y Cordero"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/balanced/natural-recipe-delicados-filetes-gato-cachorro-trucha-y-cordero.jpg",
+      "images": [
+        "img/balanced/natural-recipe-delicados-filetes-gato-cachorro-trucha-y-cordero.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-natural-recipe-delicados-filetes-gato-cachorro-trucha-y-cordero-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Natural Recipe Delicados Filetes Gato Cachorro Trucha Y Cordero",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/balanced/natural-recipe-delicados-filetes-gato-cachorro-trucha-y-cordero.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "NATURAL RECIPE DELICADOS FILETES GATO CACHORRO TRUCHA Y CORDERO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-natural-recipe-delicados-filetes-gato-cachorro-cordero",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Natural Recipe Delicados Filetes Gato Cachorro Cordero",
+      "sourceName": "NATURAL RECIPE DELICADOS FILETES GATO CACHORRO CORDERO",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Natural Recipe Delicados Filetes Gato Cachorro Cordero"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/balanced/natural-recipe-delicados-filetes-gato-cachorro-cordero.jpg",
+      "images": [
+        "img/balanced/natural-recipe-delicados-filetes-gato-cachorro-cordero.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-natural-recipe-delicados-filetes-gato-cachorro-cordero-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Natural Recipe Delicados Filetes Gato Cachorro Cordero",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/balanced/natural-recipe-delicados-filetes-gato-cachorro-cordero.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "NATURAL RECIPE DELICADOS FILETES GATO CACHORRO CORDERO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-natural-recipe-delicados-filetes-gato-adulto-trucha-y-cordero",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Natural Recipe Delicados Filetes Gato Adulto Trucha Y Cordero",
+      "sourceName": "NATURAL RECIPE DELICADOS FILETES GATO ADULTO TRUCHA Y CORDERO",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Natural Recipe Delicados Filetes Gato Adulto Trucha Y Cordero"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/balanced/natural-recipe-delicados-filetes-gato-adulto-trucha-y-cordero.jpg",
+      "images": [
+        "img/balanced/natural-recipe-delicados-filetes-gato-adulto-trucha-y-cordero.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-natural-recipe-delicados-filetes-gato-adulto-trucha-y-cordero-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Natural Recipe Delicados Filetes Gato Adulto Trucha Y Cordero",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/balanced/natural-recipe-delicados-filetes-gato-adulto-trucha-y-cordero.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "NATURAL RECIPE DELICADOS FILETES GATO ADULTO TRUCHA Y CORDERO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-natural-recipe-delicados-filetes-gato-adulto-salmon-y-cordero",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Natural Recipe Delicados Filetes Gato Adulto Salmón Y Cordero",
+      "sourceName": "NATURAL RECIPE DELICADOS FILETES GATO ADULTO SALMÓN Y CORDERO",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Natural Recipe Delicados Filetes Gato Adulto Salmón Y Cordero"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/balanced/natural-recipe-delicados-filetes-gato-adulto-salmon-y-cordero.jpg",
+      "images": [
+        "img/balanced/natural-recipe-delicados-filetes-gato-adulto-salmon-y-cordero.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-natural-recipe-delicados-filetes-gato-adulto-salmon-y-cordero-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Natural Recipe Delicados Filetes Gato Adulto Salmón Y Cordero",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/balanced/natural-recipe-delicados-filetes-gato-adulto-salmon-y-cordero.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "NATURAL RECIPE DELICADOS FILETES GATO ADULTO SALMÓN Y CORDERO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-natural-recipe-delicados-filetes-gato-adulto-pollo",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Natural Recipe Delicados Filetes Gato Adulto Pollo",
+      "sourceName": "NATURAL RECIPE DELICADOS FILETES GATO ADULTO POLLO",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Natural Recipe Delicados Filetes Gato Adulto Pollo"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/balanced/natural-recipe-delicados-filetes-gato-adulto-pollo.jpg",
+      "images": [
+        "img/balanced/natural-recipe-delicados-filetes-gato-adulto-pollo.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-natural-recipe-delicados-filetes-gato-adulto-pollo-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Natural Recipe Delicados Filetes Gato Adulto Pollo",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/balanced/natural-recipe-delicados-filetes-gato-adulto-pollo.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "NATURAL RECIPE DELICADOS FILETES GATO ADULTO POLLO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-natural-recipe-delicados-filetes-gato-adulto-cordero",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Natural Recipe Delicados Filetes Gato Adulto Cordero",
+      "sourceName": "NATURAL RECIPE DELICADOS FILETES GATO ADULTO CORDERO",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Natural Recipe Delicados Filetes Gato Adulto Cordero"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/balanced/natural-recipe-delicados-filetes-gato-adulto-cordero.jpg",
+      "images": [
+        "img/balanced/natural-recipe-delicados-filetes-gato-adulto-cordero.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-natural-recipe-delicados-filetes-gato-adulto-cordero-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Natural Recipe Delicados Filetes Gato Adulto Cordero",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/balanced/natural-recipe-delicados-filetes-gato-adulto-cordero.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "NATURAL RECIPE DELICADOS FILETES GATO ADULTO CORDERO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-complete-gato-adulto",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Complete Gato Adulto",
+      "sourceName": "Complete gato adulto 1.5 kg",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "1.5 kg",
+        "15 kg",
+        "7.5 kg"
+      ],
+      "price": {
+        "1.5 kg": 11352,
+        "15 kg": 79378,
+        "7.5 kg": 44146.7
+      },
+      "image": null,
+      "mainImage": "img/balanced/complete-gato-adulto-7-5-kg.jpg",
+      "images": [
+        "img/balanced/complete-gato-adulto-7-5-kg.jpg",
+        "img/balanced/complete-gato-adulto-15-kg.jpg",
+        "img/balanced/complete-gato-adulto-1-5-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-complete-gato-adulto-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 11352,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-gato-adulto-1-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete gato adulto 1.5 kg"
+        },
+        {
+          "id": "balanced-complete-gato-adulto-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 79378,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-gato-adulto-15-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete gato adulto 15 kg"
+        },
+        {
+          "id": "balanced-complete-gato-adulto-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 44146.7,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-gato-adulto-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete gato adulto 7.5 kg"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-complete-gato-castrado",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Complete Gato Castrado",
+      "sourceName": "Complete gato castrado 1.5 kg",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "1.5 kg",
+        "7.5 kg"
+      ],
+      "price": {
+        "1.5 kg": 12438.36,
+        "7.5 kg": 49537.8
+      },
+      "image": null,
+      "mainImage": "img/balanced/complete-gato-castrado-7-5-kg.jpg",
+      "images": [
+        "img/balanced/complete-gato-castrado-7-5-kg.jpg",
+        "img/balanced/complete-gato-castrado-1-5-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-complete-gato-castrado-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 12438.36,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-gato-castrado-1-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete gato castrado 1.5 kg"
+        },
+        {
+          "id": "balanced-complete-gato-castrado-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 49537.8,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-gato-castrado-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete gato castrado 7.5 kg"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-complete-gato-kitten",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Complete Gato Kitten",
+      "sourceName": "Complete gato kitten 1.5 kg",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "1.5 kg",
+        "15 kg",
+        "7.5 kg"
+      ],
+      "price": {
+        "1.5 kg": 12200.76,
+        "15 kg": 82596.8,
+        "7.5 kg": 48266.4
+      },
+      "image": null,
+      "mainImage": "img/balanced/complete-gato-kitten-7-5-kg.jpg",
+      "images": [
+        "img/balanced/complete-gato-kitten-7-5-kg.jpg",
+        "img/balanced/complete-gato-kitten-1-5-kg.jpg",
+        "img/balanced/complete-gato-kitten-15-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-complete-gato-kitten-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 12200.76,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-gato-kitten-1-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete gato kitten 1.5 kg"
+        },
+        {
+          "id": "balanced-complete-gato-kitten-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 82596.8,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-gato-kitten-15-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete gato kitten 15 kg"
+        },
+        {
+          "id": "balanced-complete-gato-kitten-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 48266.4,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-gato-kitten-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete gato kitten 7.5 kg"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-complete-gato-senior",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Complete Gato Senior",
+      "sourceName": "Complete gato senior 1.5 kg",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "1.5 kg",
+        "7.5 kg"
+      ],
+      "price": {
+        "1.5 kg": 12438.36,
+        "7.5 kg": 49537.8
+      },
+      "image": null,
+      "mainImage": "img/balanced/complete-gato-senior-7-5-kg.jpg",
+      "images": [
+        "img/balanced/complete-gato-senior-7-5-kg.jpg",
+        "img/balanced/complete-gato-senior-1-5-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-complete-gato-senior-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 12438.36,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-gato-senior-1-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete gato senior 1.5 kg"
+        },
+        {
+          "id": "balanced-complete-gato-senior-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 49537.8,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-gato-senior-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete gato senior 7.5 kg"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-complete-gato-urinary",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Complete Gato Urinary",
+      "sourceName": "Complete gato urinary 1.5 kg",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "1.5 kg",
+        "7.5 kg"
+      ],
+      "price": {
+        "1.5 kg": 12438.36,
+        "7.5 kg": 49537.8
+      },
+      "image": null,
+      "mainImage": "img/balanced/complete-gato-urinary-1-5-kg.jpg",
+      "images": [
+        "img/balanced/complete-gato-urinary-1-5-kg.jpg",
+        "img/balanced/complete-gato-urinary-7-5-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-complete-gato-urinary-1-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "1.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 12438.36,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-gato-urinary-1-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete gato urinary 1.5 kg"
+        },
+        {
+          "id": "balanced-complete-gato-urinary-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 49537.8,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-gato-urinary-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete gato urinary 7.5 kg"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-complete-perro-adulto-raza-med",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Complete Perro Adulto Raza Mediana",
+      "sourceName": "Complete perro adulto raza med 20 kg",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "20 kg",
+        "3 kg"
+      ],
+      "price": {
+        "20 kg": 62686,
+        "3 kg": 13119.48
+      },
+      "image": null,
+      "mainImage": "img/balanced/complete-perro-adulto-raza-med-20-kg.jpg",
+      "images": [
+        "img/balanced/complete-perro-adulto-raza-med-20-kg.jpg",
+        "img/balanced/complete-perro-adulto-raza-med-3-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-complete-perro-adulto-raza-med-20-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "20 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 62686,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-perro-adulto-raza-med-20-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete perro adulto raza med 20 kg"
+        },
+        {
+          "id": "balanced-complete-perro-adulto-raza-med-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 13119.48,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-perro-adulto-raza-med-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete perro adulto raza med 3 kg"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-complete-perro-adulto-raza-peq",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Complete Perro Adulto Raza Pequeña",
+      "sourceName": "Complete perro adulto raza peq 20 kg",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "20 kg",
+        "3 kg",
+        "7.5 kg"
+      ],
+      "price": {
+        "20 kg": 66051.7,
+        "3 kg": 13119.48,
+        "7.5 kg": 28666.3
+      },
+      "image": null,
+      "mainImage": "img/balanced/complete-perro-adulto-raza-peq-7-5-kg.jpg",
+      "images": [
+        "img/balanced/complete-perro-adulto-raza-peq-7-5-kg.jpg",
+        "img/balanced/complete-perro-adulto-raza-peq-20-kg.jpg",
+        "img/balanced/complete-perro-adulto-raza-peq-3-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-complete-perro-adulto-raza-peq-20-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "20 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 66051.7,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-perro-adulto-raza-peq-20-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete perro adulto raza peq 20 kg"
+        },
+        {
+          "id": "balanced-complete-perro-adulto-raza-peq-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 13119.48,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-perro-adulto-raza-peq-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete perro adulto raza peq 3 kg"
+        },
+        {
+          "id": "balanced-complete-perro-adulto-raza-peq-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 28666.3,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-perro-adulto-raza-peq-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete perro adulto raza peq 7.5 kg"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-complete-perro-cach-raza-med",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Complete Perro Cachorro Raza Mediana",
+      "sourceName": "Complete perro cach raza med 20 kg",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "20 kg",
+        "3 kg"
+      ],
+      "price": {
+        "20 kg": 69111.9,
+        "3 kg": 13119.48
+      },
+      "image": null,
+      "mainImage": "img/balanced/complete-perro-cach-raza-med-20-kg.jpg",
+      "images": [
+        "img/balanced/complete-perro-cach-raza-med-20-kg.jpg",
+        "img/balanced/complete-perro-cach-raza-med-3-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-complete-perro-cach-raza-med-20-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "20 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 69111.9,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-perro-cach-raza-med-20-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete perro cach raza med 20 kg"
+        },
+        {
+          "id": "balanced-complete-perro-cach-raza-med-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 13119.48,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-perro-cach-raza-med-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete perro cach raza med 3 kg"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-complete-perro-cach-raza-peq",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Complete Perro Cachorro Raza Pequeña",
+      "sourceName": "Complete perro cach raza peq 20 kg",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "20 kg",
+        "3 kg",
+        "7.5 kg"
+      ],
+      "price": {
+        "20 kg": 69111.9,
+        "3 kg": 13935.24,
+        "7.5 kg": 30273.1
+      },
+      "image": null,
+      "mainImage": "img/balanced/complete-perro-cach-raza-peq-3-kg.jpg",
+      "images": [
+        "img/balanced/complete-perro-cach-raza-peq-3-kg.jpg",
+        "img/balanced/complete-perro-cach-raza-peq-20-kg.jpg",
+        "img/balanced/complete-perro-cach-raza-peq-7-5-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-complete-perro-cach-raza-peq-20-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "20 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 69111.9,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-perro-cach-raza-peq-20-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete perro cach raza peq 20 kg"
+        },
+        {
+          "id": "balanced-complete-perro-cach-raza-peq-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 13935.24,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-perro-cach-raza-peq-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete perro cach raza peq 3 kg"
+        },
+        {
+          "id": "balanced-complete-perro-cach-raza-peq-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 30273.1,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-perro-cach-raza-peq-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete perro cach raza peq 7.5 kg"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-complete-perro-control-de-peso",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Complete Perro Control De Peso",
+      "sourceName": "Complete perro control de peso 3 kg",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "3 kg"
+      ],
+      "price": {
+        "3 kg": 13725.36
+      },
+      "image": null,
+      "mainImage": "img/balanced/complete-perro-control-de-peso-3-kg.jpg",
+      "images": [
+        "img/balanced/complete-perro-control-de-peso-3-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-complete-perro-control-de-peso-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 13725.36,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-perro-control-de-peso-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete perro control de peso 3 kg"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-complete-perro-raza-peq-senior",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Complete Perro Raza Pequeña Senior",
+      "sourceName": "Complete perro raza peq senior 3 kg",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "3 kg",
+        "7.5 kg"
+      ],
+      "price": {
+        "3 kg": 13725.36,
+        "7.5 kg": 29806.4
+      },
+      "image": null,
+      "mainImage": "img/balanced/complete-perro-raza-peq-senior-3-kg.jpg",
+      "images": [
+        "img/balanced/complete-perro-raza-peq-senior-3-kg.jpg",
+        "img/balanced/complete-perro-raza-peq-senior-7-5-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-complete-perro-raza-peq-senior-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 13725.36,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-perro-raza-peq-senior-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete perro raza peq senior 3 kg"
+        },
+        {
+          "id": "balanced-complete-perro-raza-peq-senior-7-5-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "7.5 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 29806.4,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-perro-raza-peq-senior-7-5-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete perro raza peq senior 7.5 kg"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-complete-senior-all-breeds",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Complete Senior All Breeds",
+      "sourceName": "Complete senior all breeds 20 kg",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "20 kg",
+        "3 kg"
+      ],
+      "price": {
+        "20 kg": 72195.5,
+        "3 kg": 13725.36
+      },
+      "image": null,
+      "mainImage": "img/balanced/complete-senior-all-breeds-3-kg.jpg",
+      "images": [
+        "img/balanced/complete-senior-all-breeds-3-kg.jpg",
+        "img/balanced/complete-senior-all-breeds-20-kg.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-complete-senior-all-breeds-20-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "20 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 72195.5,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-senior-all-breeds-20-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete senior all breeds 20 kg"
+        },
+        {
+          "id": "balanced-complete-senior-all-breeds-3-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "3 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 13725.36,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/balanced/complete-senior-all-breeds-3-kg.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Complete senior all breeds 3 kg"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
     }
   ]
 }
