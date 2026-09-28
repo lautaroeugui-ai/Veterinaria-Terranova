@@ -9895,42 +9895,6 @@
       ]
     },
     {
-      "id": "royal-canin-perro-premium-dog-junior",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Premium Dog Junior",
-      "sourceName": "Premium Dog Junior",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/perro-premium-dog-junior.jpg",
-      "images": [],
-      "eans": [
-        "7790187340961"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
       "id": "royal-canin-dietas-gastrointestinal-feline",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -17477,42 +17441,6 @@
       "eans": [
         "7790187003903",
         "7790187003910"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
-      "id": "royal-canin-perro-premium-dog-adulto",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Premium Dog Adulto",
-      "sourceName": "Premium Dog Adulto",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/perro-premium-dog-adulto.jpg",
-      "images": [],
-      "eans": [
-        "7790187341593"
       ],
       "variants": [],
       "availability": null,
