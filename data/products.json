@@ -8272,21 +8272,51 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "15 kg"
+      ],
+      "price": {
+        "15 kg": 85300
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-club-performance-dog-weight-control.jpg",
       "images": [],
       "eans": [
         "7790187340954"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-club-performance-dog-weight-control-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 85300,
+            "currency": "ARS",
+            "source": "WhatsApp: Veterinaria Terranova, lista Royal Canin perro (2026-10-01)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/royal-canin/perro-club-performance-dog-weight-control.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Club Performance Dog Weight Control 15 kg"
+        }
+      ],
       "availability": null,
       "reviewStatus": "pending-price",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "WhatsApp: Veterinaria Terranova, lista Royal Canin perro (2026-10-01)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -8450,43 +8480,10 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
-      "id": "royal-canin-perro-yorkshire-terrier",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Yorkshire Terrier",
-      "sourceName": "Yorkshire Terrier",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/perro-yorkshire-terrier.jpg",
-      "images": [],
-      "eans": [
-        "9003579001431",
-        "9003579001448"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
+        },
         {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -8914,43 +8911,6 @@
       ]
     },
     {
-      "id": "royal-canin-perro-poodle",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Poodle",
-      "sourceName": "Poodle",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/perro-poodle.jpg",
-      "images": [],
-      "eans": [
-        "9003579001646",
-        "9003579001653"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
       "id": "royal-canin-perro-relax-care-mini",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -9135,42 +9095,6 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
           "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
-      "id": "royal-canin-perro-mini-ageing",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Mini ageing",
-      "sourceName": "Mini ageing",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/perro-mini-ageing.jpg",
-      "images": [],
-      "eans": [
-        "9003579008287"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
         }
       ]
     },
@@ -10452,6 +10376,10 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -10988,6 +10916,10 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -11148,8 +11080,14 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "15 kg",
+        "20 kg"
+      ],
+      "price": {
+        "15 kg": 85300,
+        "20 kg": 109200
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-club-performance-dog-adult.jpg",
       "images": [],
@@ -11157,13 +11095,60 @@
         "7790187340930",
         "7790187340947"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-club-performance-dog-adult-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 85300,
+            "currency": "ARS",
+            "source": "WhatsApp: Veterinaria Terranova, lista Royal Canin perro (2026-10-01)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/royal-canin/perro-club-performance-dog-adult.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Club Performance Dog Adult 15 kg"
+        },
+        {
+          "id": "royal-canin-perro-club-performance-dog-adult-20-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "20 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 109200,
+            "currency": "ARS",
+            "source": "WhatsApp: Veterinaria Terranova, lista Royal Canin perro (2026-10-01)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/royal-canin/perro-club-performance-dog-adult.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Club Performance Dog Adult 20 kg"
+        }
+      ],
       "availability": null,
       "reviewStatus": "pending-price",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "WhatsApp: Veterinaria Terranova, lista Royal Canin perro (2026-10-01)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -11321,21 +11306,51 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "2 kg"
+      ],
+      "price": {
+        "2 kg": 40000
+      },
       "image": null,
       "mainImage": "img/royal-canin/dietas-hypoallergenic-moderate-calorie-canine.jpg",
       "images": [],
       "eans": [
         "7908248301145"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-dietas-hypoallergenic-moderate-calorie-canine-2-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "2 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 40000,
+            "currency": "ARS",
+            "source": "WhatsApp: Veterinaria Terranova, lista Royal Canin perro (2026-10-01)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/royal-canin/dietas-hypoallergenic-moderate-calorie-canine.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Hypoallergenic Moderate Calorie Canine 2 kg"
+        }
+      ],
       "availability": null,
       "reviewStatus": "pending-price",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "WhatsApp: Veterinaria Terranova, lista Royal Canin perro (2026-10-01)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -12257,43 +12272,6 @@
       ]
     },
     {
-      "id": "royal-canin-perro-dachshund",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Dachshund",
-      "sourceName": "Dachshund",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/perro-dachshund.jpg",
-      "images": [],
-      "eans": [
-        "9003579001578",
-        "9003579001585"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
       "id": "royal-canin-dietas-anallergenic-canine",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -12752,21 +12730,51 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "15 kg"
+      ],
+      "price": {
+        "15 kg": 92050
+      },
       "image": null,
       "mainImage": "img/royal-canin/perro-club-performance-dog-junior.jpg",
       "images": [],
       "eans": [
         "7790187340909"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-perro-club-performance-dog-junior-15-kg",
+          "sku": null,
+          "ean": null,
+          "presentation": "15 kg",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 92050,
+            "currency": "ARS",
+            "source": "WhatsApp: Veterinaria Terranova, lista Royal Canin perro (2026-10-01)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/royal-canin/perro-club-performance-dog-junior.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Club Performance Dog Junior 15 kg"
+        }
+      ],
       "availability": null,
       "reviewStatus": "pending-price",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "WhatsApp: Veterinaria Terranova, lista Royal Canin perro (2026-10-01)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -13560,42 +13568,6 @@
       ]
     },
     {
-      "id": "royal-canin-dietas-gastrointestinal-low-fat-seco",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": "Dietas veterinarias",
-      "name": "Gastrointestinal Low Fat Seco",
-      "sourceName": "GASTROINTESTINAL LOW FAT SECO",
-      "category": "alimentos",
-      "subcategory": "dieta-veterinaria",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/dietas-gastrointestinal-low-fat-seco.jpg",
-      "images": [],
-      "eans": [
-        "7896181213703"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
       "id": "royal-canin-perro-maxi-starter-mother-y-babydog",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -14361,6 +14333,10 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -14523,98 +14499,6 @@
       ]
     },
     {
-      "id": "royal-canin-perro-caniche-junior",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Caniche Junior",
-      "sourceName": "Caniche Junior",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "1 kg",
-        "3 kg"
-      ],
-      "price": {
-        "1 kg": 17200,
-        "3 kg": 49900
-      },
-      "image": null,
-      "mainImage": "img/royal-canin/perro-caniche-junior.jpg",
-      "images": [],
-      "eans": [
-        "7790187341838",
-        "7790187341845"
-      ],
-      "variants": [
-        {
-          "id": "royal-canin-perro-caniche-junior-1-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "1 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 17200,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed"
-        },
-        {
-          "id": "royal-canin-perro-caniche-junior-3-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "3 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 49900,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "confirmed",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        },
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
-          "sourceType": "terranova-price-list"
-        },
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
       "id": "royal-canin-perro-maxi-adulto-5-plus",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -14679,6 +14563,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -15041,42 +14929,6 @@
       ]
     },
     {
-      "id": "royal-canin-perro-maxi-adulto-pouch",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "maxi adulto pouch",
-      "sourceName": "maxi adulto pouch",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/perro-maxi-adulto-pouch.jpg",
-      "images": [],
-      "eans": [
-        "9003579008492"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
       "id": "royal-canin-dietas-urinary-s-o-feline",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -15204,98 +15056,6 @@
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
-      "id": "royal-canin-perro-yorkshire-terrier-junior",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Yorkshire Terrier Junior",
-      "sourceName": "Yorkshire Terrier Junior",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "1 kg",
-        "3 kg"
-      ],
-      "price": {
-        "1 kg": 17200,
-        "3 kg": 49900
-      },
-      "image": null,
-      "mainImage": "img/royal-canin/perro-yorkshire-terrier-junior.jpg",
-      "images": [],
-      "eans": [
-        "7790187341852",
-        "7790187341869"
-      ],
-      "variants": [
-        {
-          "id": "royal-canin-perro-yorkshire-terrier-junior-1-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "1 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 17200,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed"
-        },
-        {
-          "id": "royal-canin-perro-yorkshire-terrier-junior-3-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "3 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 49900,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "confirmed",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        },
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
-          "sourceType": "terranova-price-list"
-        },
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
-          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -15439,45 +15199,6 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
           "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
-      "id": "royal-canin-perro-mini-ageing-12-plus",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Mini Ageing 12+",
-      "sourceName": "Mini Ageing 12+",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/perro-mini-ageing-12-plus.jpg",
-      "images": [],
-      "eans": [
-        "7790187340480",
-        "7790187370425",
-        "7790187370456",
-        "9003579008294"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
         }
       ]
     },
@@ -37160,6 +36881,10 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
           "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
         }
       ]
     },
@@ -38666,6 +38391,18 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
           "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -39948,67 +39685,6 @@
       ]
     },
     {
-      "id": "royalcanin-rc-hypoallergenic-canine-sb",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Hypoallergenic Canine Sb",
-      "sourceName": "RC HYPOALLERGENIC CANINE SB",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "2 kg"
-      ],
-      "price": {
-        "2 kg": 40100
-      },
-      "image": null,
-      "mainImage": "img/planilla/rc/rc-hypoallergenic-canine-sb.jpg",
-      "images": [
-        "img/planilla/rc/rc-hypoallergenic-canine-sb.jpg"
-      ],
-      "variants": [
-        {
-          "id": "royalcanin-rc-hypoallergenic-canine-sb-2-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "2 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 40100,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": "img/planilla/rc/rc-hypoallergenic-canine-sb.jpg",
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC HYPOALLERGENIC CANINE SB 2 kg"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "confirmed",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
       "id": "royalcanin-rc-persian-pouch",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -40655,67 +40331,6 @@
       ]
     },
     {
-      "id": "royalcanin-rc-maxi-adult-plus5",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Maxi Adult +5",
-      "sourceName": "RC MAXI ADULT +5",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "15 kg"
-      ],
-      "price": {
-        "15 kg": 153999
-      },
-      "image": null,
-      "mainImage": "img/planilla/rc/rc-maxi-adult-plus5.jpg",
-      "images": [
-        "img/planilla/rc/rc-maxi-adult-plus5.jpg"
-      ],
-      "variants": [
-        {
-          "id": "royalcanin-rc-maxi-adult-plus5-15-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "15 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 153999,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": "img/planilla/rc/rc-maxi-adult-plus5.jpg",
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC MAXI ADULT +5 15 kg"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "confirmed",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
       "id": "royalcanin-rc-weight-control-fel",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -40844,156 +40459,11 @@
       ]
     },
     {
-      "id": "royalcanin-rc-maxi-adult-plus8",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Maxi Adult +8",
-      "sourceName": "RC MAXI ADULT +8",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "15 kg"
-      ],
-      "price": {
-        "15 kg": 153999
-      },
-      "image": null,
-      "mainImage": "img/planilla/rc/rc-maxi-adult-plus8.jpg",
-      "images": [
-        "img/planilla/rc/rc-maxi-adult-plus8.jpg"
-      ],
-      "variants": [
-        {
-          "id": "royalcanin-rc-maxi-adult-plus8-15-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "15 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 153999,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": "img/planilla/rc/rc-maxi-adult-plus8.jpg",
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC MAXI ADULT +8 15 kg"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "confirmed",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
-      "id": "royalcanin-rc-maxi-adult",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Maxi Adult",
-      "sourceName": "RC MAXI ADULT",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "3 kg",
-        "15 kg"
-      ],
-      "price": {
-        "3 kg": 37500,
-        "15 kg": 139999
-      },
-      "image": null,
-      "mainImage": "img/planilla/rc/rc-maxi-adult.jpg",
-      "images": [
-        "img/planilla/rc/rc-maxi-adult.jpg"
-      ],
-      "variants": [
-        {
-          "id": "royalcanin-rc-maxi-adult-3-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "3 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 37500,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": "img/planilla/rc/rc-maxi-adult.jpg",
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC MAXI ADULT 3 kg"
-        },
-        {
-          "id": "royalcanin-rc-maxi-adult-15-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "15 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 139999,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": "img/planilla/rc/rc-maxi-adult.jpg",
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC MAXI ADULT 15 kg"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "confirmed",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
       "id": "royalcanin-rc-maxi-adult-pouch",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Maxi Adult Pouch",
+      "name": "Maxi Adulto Pouch",
       "sourceName": "RC MAXI ADULT POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -41046,65 +40516,10 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
           "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
-      "id": "royalcanin-rc-mobility-dog",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Mobility Dog",
-      "sourceName": "RC MOBILITY DOG",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "2 kg"
-      ],
-      "price": {
-        "2 kg": 36500
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
+        },
         {
-          "id": "royalcanin-rc-mobility-dog-2-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "2 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 36500,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC MOBILITY DOG 2 kg"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "pending",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-          "sourceType": "terranova-price-list"
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
         }
       ]
     },
@@ -41986,90 +41401,6 @@
       ]
     },
     {
-      "id": "royalcanin-rc-yorkshire-adult-1-kg",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Yorkshire Adult 1 Kg",
-      "sourceName": "RC YORKSHIRE ADULT 1 KG",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "1 kg",
-        "3 kg"
-      ],
-      "price": {
-        "1 kg": 16200,
-        "3 kg": 45900
-      },
-      "image": null,
-      "mainImage": "img/planilla/rc/rc-yorkshire-adult-1-kg.jpg",
-      "images": [
-        "img/planilla/rc/rc-yorkshire-adult-1-kg.jpg"
-      ],
-      "variants": [
-        {
-          "id": "royalcanin-rc-yorkshire-adult-1-kg-1-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "1 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 16200,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": "img/planilla/rc/rc-yorkshire-adult-1-kg.jpg",
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC YORKSHIRE ADULT 1 KG 1 kg"
-        },
-        {
-          "id": "royalcanin-rc-yorkshire-adult-1-kg-3-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "3 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 45900,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": "img/planilla/rc/rc-yorkshire-adult-1-kg.jpg",
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC YORKSHIRE ADULT 1 KG 3 kg"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "confirmed",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
       "id": "royalcanin-rc-yorkshire-pouch",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -42210,6 +41541,18 @@
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-08)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
         }
       ]
