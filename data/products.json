@@ -33355,8 +33355,10 @@
         "7.5 kg": 85113.6
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/nutrique/nutrique-mini-adult-3-kg.jpg",
+      "images": [
+        "img/planilla/nutrique/nutrique-mini-adult-3-kg.jpg"
+      ],
       "variants": [
         {
           "id": "nutrique-nutrique-mini-adult-3-kg",
@@ -33374,7 +33376,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/nutrique/nutrique-mini-adult-3-kg.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "NUTRIQUE MINI ADULT 3 KG"
@@ -33395,14 +33397,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/nutrique/nutrique-mini-adult-3-kg.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "NUTRIQUE MINI ADULT 7.5 KG"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
