@@ -8533,13 +8533,14 @@
           "retailPrice": {
             "amount": 52500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/royal-canin/dietas-calm-feline.jpg",
           "availability": null,
-          "reviewStatus": "confirmed"
+          "reviewStatus": "confirmed",
+          "sourceName": "RC CALM FEL 2 kg"
         }
       ],
       "availability": null,
@@ -8555,6 +8556,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -9210,7 +9215,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": "Dietas veterinarias",
-      "name": "GASTROINTESTINAL FIBRE RESPONSE WET",
+      "name": "GASTROINTESTINAL Fibre RESPONSE WET",
       "sourceName": "GASTROINTESTINAL FIBRE RESPONSE WET",
       "category": "alimentos",
       "subcategory": "dieta-veterinaria",
@@ -9473,13 +9478,14 @@
           "retailPrice": {
             "amount": 46900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/royal-canin/dietas-gastrointestinal-feline.jpg",
           "availability": null,
-          "reviewStatus": "confirmed"
+          "reviewStatus": "confirmed",
+          "sourceName": "RC GASTROINTEST FEL 2 kg"
         }
       ],
       "availability": null,
@@ -9495,6 +9501,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -10249,13 +10259,14 @@
           "retailPrice": {
             "amount": 55900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/royal-canin/gato-appetite-control.jpg",
           "availability": null,
-          "reviewStatus": "confirmed"
+          "reviewStatus": "confirmed",
+          "sourceName": "RC APETTITE CONTROL 3 kg"
         }
       ],
       "availability": null,
@@ -10271,6 +10282,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -10495,10 +10510,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "1,5 kg"
+        "1.5 kg"
       ],
       "price": {
-        "1,5 kg": 25500
+        "1.5 kg": 25500
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-gastrointestinal-low-fat-canine.jpg",
@@ -10512,7 +10527,7 @@
           "id": "royal-canin-dietas-gastrointestinal-low-fat-canine-1-5-kg",
           "sku": null,
           "ean": null,
-          "presentation": "1,5 kg",
+          "presentation": "1.5 kg",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -10520,13 +10535,14 @@
           "retailPrice": {
             "amount": 25500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/royal-canin/dietas-gastrointestinal-low-fat-canine.jpg",
           "availability": null,
-          "reviewStatus": "confirmed"
+          "reviewStatus": "confirmed",
+          "sourceName": "RC GASTROINTEST LOW FAT canine 1.5 kg"
         }
       ],
       "availability": null,
@@ -10542,6 +10558,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -10650,7 +10670,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "MINI PUPPY",
+      "name": "Mini Puppy",
       "sourceName": "MINI PUPPY",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -11152,7 +11172,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": "Dietas veterinarias",
-      "name": "SATIETY FELINE WET",
+      "name": "Satiety Feline Wet",
       "sourceName": "SATIETY FELINE WET",
       "category": "alimentos",
       "subcategory": "dieta-veterinaria",
@@ -11288,7 +11308,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": "Dietas veterinarias",
-      "name": "HYPOALLERGENIC MODERATE CALORIE CANINE",
+      "name": "Hypoallergenic Moderate Calorie Canine",
       "sourceName": "HYPOALLERGENIC MODERATE CALORIE CANINE",
       "category": "alimentos",
       "subcategory": "dieta-veterinaria",
@@ -11519,43 +11539,6 @@
       "images": [],
       "eans": [
         "9003579018866"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
-      "id": "royal-canin-perro-puppy-pro-tech",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "PUPPY PRO TECH",
-      "sourceName": "PUPPY PRO TECH",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/perro-puppy-pro-tech.jpg",
-      "images": [],
-      "eans": [
-        "3182550861366",
-        "3182550861366"
       ],
       "variants": [],
       "availability": null,
@@ -11898,13 +11881,14 @@
           "retailPrice": {
             "amount": 42900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/royal-canin/dietas-renal-feline.jpg",
           "availability": null,
-          "reviewStatus": "confirmed"
+          "reviewStatus": "confirmed",
+          "sourceName": "RC RENAL FEL 2 kg"
         }
       ],
       "availability": null,
@@ -11921,6 +11905,10 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -11929,7 +11917,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": "Dietas veterinarias",
-      "name": "HYPOALLERGENIC PUPPY",
+      "name": "Hypoallergenic Puppy",
       "sourceName": "HYPOALLERGENIC PUPPY",
       "category": "alimentos",
       "subcategory": "dieta-veterinaria",
@@ -12061,7 +12049,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": "Dietas veterinarias",
-      "name": "HEPATIC FELINE",
+      "name": "Hepatic Feline",
       "sourceName": "HEPATIC FELINE",
       "category": "alimentos",
       "subcategory": "dieta-veterinaria",
@@ -12310,7 +12298,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": "Dietas veterinarias",
-      "name": "ANALLERGENIC CANINE",
+      "name": "Anallergenic Canine",
       "sourceName": "ANALLERGENIC CANINE",
       "category": "alimentos",
       "subcategory": "dieta-veterinaria",
@@ -12787,7 +12775,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": "Dietas veterinarias",
-      "name": "ANALLERGENIC FELINE",
+      "name": "Anallergenic Feline",
       "sourceName": "ANALLERGENIC FELINE",
       "category": "alimentos",
       "subcategory": "dieta-veterinaria",
@@ -13474,7 +13462,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "KITTEN",
+      "name": "Kitten",
       "sourceName": "KITTEN",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -13576,7 +13564,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": "Dietas veterinarias",
-      "name": "GASTROINTESTINAL LOW FAT SECO",
+      "name": "Gastrointestinal Low Fat Seco",
       "sourceName": "GASTROINTESTINAL LOW FAT SECO",
       "category": "alimentos",
       "subcategory": "dieta-veterinaria",
@@ -13916,7 +13904,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "MINI PUPY",
+      "name": "Mini Pupy",
       "sourceName": "MINI PUPY",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -14394,21 +14382,51 @@
       "description": null,
       "features": [],
       "materials": [],
-      "presentations": [],
-      "price": {},
+      "presentations": [
+        "único"
+      ],
+      "price": {
+        "único": 31900
+      },
       "image": null,
       "mainImage": "img/royal-canin/gato-indoor-long-hair.jpg",
       "images": [],
       "eans": [
         "7790187339460"
       ],
-      "variants": [],
+      "variants": [
+        {
+          "id": "royal-canin-gato-indoor-long-hair--nico",
+          "sku": null,
+          "ean": null,
+          "presentation": "único",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 31900,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/royal-canin/gato-indoor-long-hair.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "RC INDOOR LONGHAIR"
+        }
+      ],
       "availability": null,
       "reviewStatus": "pending-price",
       "sources": [
         {
           "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
           "sourceType": "brand-photo-set"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
+          "sourceType": "terranova-price-list"
         }
       ]
     },
@@ -15300,10 +15318,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "1,5 kg"
+        "1.5 kg"
       ],
       "price": {
-        "1,5 kg": 43500
+        "1.5 kg": 43500
       },
       "image": null,
       "mainImage": "img/royal-canin/dietas-diabetic-feline.jpg",
@@ -15316,7 +15334,7 @@
           "id": "royal-canin-dietas-diabetic-feline-1-5-kg",
           "sku": null,
           "ean": null,
-          "presentation": "1,5 kg",
+          "presentation": "1.5 kg",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -15324,13 +15342,14 @@
           "retailPrice": {
             "amount": 43500,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/royal-canin/dietas-diabetic-feline.jpg",
           "availability": null,
-          "reviewStatus": "confirmed"
+          "reviewStatus": "confirmed",
+          "sourceName": "RC DIABETIC FEL 1.5 kg"
         }
       ],
       "availability": null,
@@ -15346,6 +15365,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -15868,7 +15891,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": "Dietas veterinarias",
-      "name": "URINARY  S-O SMALL DOG",
+      "name": "Urinary S-O Small Dog",
       "sourceName": "URINARY  S-O SMALL DOG",
       "category": "alimentos",
       "subcategory": "dieta-veterinaria",
@@ -16691,13 +16714,14 @@
           "retailPrice": {
             "amount": 56000,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/royal-canin/dietas-hypoallergenic-feline.jpg",
           "availability": null,
-          "reviewStatus": "confirmed"
+          "reviewStatus": "confirmed",
+          "sourceName": "RC HYPOALLERG FEL 2 kg"
         }
       ],
       "availability": null,
@@ -16713,6 +16737,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -16760,13 +16788,14 @@
           "retailPrice": {
             "amount": 47900,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/royal-canin/dietas-gastrointestinal-moderate-calorie-feline.jpg",
           "availability": null,
-          "reviewStatus": "confirmed"
+          "reviewStatus": "confirmed",
+          "sourceName": "RC GASTRO MOD CAL FEL 2 kg"
         }
       ],
       "availability": null,
@@ -16782,6 +16811,10 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -16827,7 +16860,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": "Dietas veterinarias",
-      "name": "GASTROINTESTINAL HYDROLYZED PROTEIN FELINE",
+      "name": "Gastrointestinal Hydrolyzed Protein Feline",
       "sourceName": "GASTROINTESTINAL HYDROLYZED PROTEIN FELINE",
       "category": "alimentos",
       "subcategory": "dieta-veterinaria",
@@ -17338,7 +17371,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "APPETITE CONTROL CARE",
+      "name": "Appetite Control Care",
       "sourceName": "APPETITE CONTROL CARE",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -36992,7 +37025,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Kitten Pouch",
+      "name": "Kitten Pouch",
       "sourceName": "RC KITTEN POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -37135,7 +37168,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Urinary Care Pouch",
+      "name": "Urinary Care Pouch",
       "sourceName": "RC URINARY CARE POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -37278,7 +37311,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Dermacomfort Pouch",
+      "name": "Dermacomfort Pouch",
       "sourceName": "RC DERMACOMFORT POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -37339,7 +37372,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Ageing +11 Pouch",
+      "name": "Ageing +11 Pouch",
       "sourceName": "RC AGEING +11 POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -37478,70 +37511,11 @@
       ]
     },
     {
-      "id": "royalcanin-rc-apettite-control",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Rc Apettite Control",
-      "sourceName": "RC APETTITE CONTROL",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "3 kg"
-      ],
-      "price": {
-        "3 kg": 55900
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
-        {
-          "id": "royalcanin-rc-apettite-control-3-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "3 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 55900,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC APETTITE CONTROL 3 kg"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "pending",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
       "id": "royalcanin-rc-apettite-control-pouch",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Apettite Control Pouch",
+      "name": "Appetite Control Pouch",
       "sourceName": "RC APETTITE CONTROL POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -37600,7 +37574,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Baby Milk",
+      "name": "Baby Milk",
       "sourceName": "RC BABY MILK",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -37659,7 +37633,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Medium Adult +10",
+      "name": "Medium Adult +10",
       "sourceName": "RC MEDIUM ADULT +10",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -37716,129 +37690,11 @@
       ]
     },
     {
-      "id": "royalcanin-rc-anallergenic-fel",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Rc Anallergenic Fel",
-      "sourceName": "RC ANALLERGENIC FEL",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "2 kg"
-      ],
-      "price": {
-        "2 kg": 62500
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
-        {
-          "id": "royalcanin-rc-anallergenic-fel-2-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "2 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 62500,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC ANALLERGENIC FEL 2 kg"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "pending",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
-      "id": "royalcanin-rc-calm-fel",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Rc Calm Fel",
-      "sourceName": "RC CALM FEL",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "2 kg"
-      ],
-      "price": {
-        "2 kg": 52500
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
-        {
-          "id": "royalcanin-rc-calm-fel-2-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "2 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 52500,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC CALM FEL 2 kg"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "pending",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
       "id": "royalcanin-rc-medium-adult",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Medium Adult",
+      "name": "Medium Adult",
       "sourceName": "RC MEDIUM ADULT",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -37941,70 +37797,11 @@
       ]
     },
     {
-      "id": "royalcanin-rc-diabetic-fel",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Rc Diabetic Fel",
-      "sourceName": "RC DIABETIC FEL",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "1.5 kg"
-      ],
-      "price": {
-        "1.5 kg": 43500
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
-        {
-          "id": "royalcanin-rc-diabetic-fel-1-5-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "1.5 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 43500,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC DIABETIC FEL 1.5 kg"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "pending",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
       "id": "royalcanin-rc-urinary-dog-plus7",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Urinary Dog +7",
+      "name": "Urinary Dog +7",
       "sourceName": "RC URINARY DOG +7",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -38088,7 +37885,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Diabetic Lata Perro",
+      "name": "Diabetic Lata Perro",
       "sourceName": "RC DIABETIC LATA PERRO",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -38147,7 +37944,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Anallergenic Dog",
+      "name": "Anallergenic Dog",
       "sourceName": "RC ANALLERGENIC DOG",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -38231,7 +38028,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Digest Pouch",
+      "name": "Digest Pouch",
       "sourceName": "RC DIGEST POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -38290,7 +38087,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Boxer Puppy",
+      "name": "Boxer Puppy",
       "sourceName": "RC BOXER PUPPY",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -38351,7 +38148,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Boxer Adult",
+      "name": "Boxer Adult",
       "sourceName": "RC BOXER ADULT",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -38412,7 +38209,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Early Renal Fel Pouch",
+      "name": "Early Renal Feline Pouch",
       "sourceName": "RC EARLY RENAL FEL POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -38471,7 +38268,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Bulldog Frances Puppy",
+      "name": "Bulldog Frances Puppy",
       "sourceName": "RC BULLDOG FRANCES PUPPY",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -38555,7 +38352,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Fibre Response Fel",
+      "name": "Fibre Response Feline",
       "sourceName": "RC FIBRE RESPONSE FEL",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -38614,7 +38411,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Fibre Response Pouch",
+      "name": "Fibre Response Pouch",
       "sourceName": "RC FIBRE RESPONSE POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -38673,7 +38470,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Caniche Pouch",
+      "name": "Caniche Pouch",
       "sourceName": "RC CANICHE POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -38734,7 +38531,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Gastro Kitten Mousse Lata",
+      "name": "Gastrointestinal Kitten Mousse Lata",
       "sourceName": "RC GASTRO KITTEN MOUSSE LATA",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -38793,7 +38590,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Caniche Puppy",
+      "name": "Caniche Puppy",
       "sourceName": "RC CANICHE PUPPY",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -38873,70 +38670,11 @@
       ]
     },
     {
-      "id": "royalcanin-rc-gastro-mod-cal-fel",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Rc Gastro Mod Cal Fel",
-      "sourceName": "RC GASTRO MOD CAL FEL",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "2 kg"
-      ],
-      "price": {
-        "2 kg": 47900
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
-        {
-          "id": "royalcanin-rc-gastro-mod-cal-fel-2-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "2 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 47900,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC GASTRO MOD CAL FEL 2 kg"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "pending",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
       "id": "royalcanin-rc-gastroint-canine-lata",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Gastroint Canine Lata",
+      "name": "Gastrointestinal Canine Lata",
       "sourceName": "RC GASTROINT CANINE LATA",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -38995,7 +38733,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Gastroint Hydrolized Fel",
+      "name": "Gastrointestinal Hydrolyzed Feline",
       "sourceName": "RC GASTROINT HYDROLIZED FEL",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -39054,7 +38792,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Gastroint Low Fat Canine Lata",
+      "name": "Gastrointestinal Low Fat Canine Lata",
       "sourceName": "RC GASTROINT LOW FAT CANINE LATA",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -39113,7 +38851,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Dachshund Pouch",
+      "name": "Dachshund Pouch",
       "sourceName": "RC DACHSHUND POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -39170,129 +38908,11 @@
       ]
     },
     {
-      "id": "royalcanin-rc-gastrointest-fel",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Rc Gastrointest Fel",
-      "sourceName": "RC GASTROINTEST FEL",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "2 kg"
-      ],
-      "price": {
-        "2 kg": 46900
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
-        {
-          "id": "royalcanin-rc-gastrointest-fel-2-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "2 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 46900,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC GASTROINTEST FEL 2 kg"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "pending",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
-      "id": "royalcanin-rc-gastrointest-low-fat-canine",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Rc Gastrointest Low Fat Canine",
-      "sourceName": "RC GASTROINTEST LOW FAT canine",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "1.5 kg"
-      ],
-      "price": {
-        "1.5 kg": 25500
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
-        {
-          "id": "royalcanin-rc-gastrointest-low-fat-canine-1-5-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "1.5 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 25500,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC GASTROINTEST LOW FAT canine 1.5 kg"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "pending",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
       "id": "royalcanin-rc-gastrointest-mod-cal",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Gastrointest Mod Cal",
+      "name": "Gastrointestinal Moderate Calorie",
       "sourceName": "RC GASTROINTEST MOD CAL",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -39351,7 +38971,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Diabetic Fel 1.5 Kg",
+      "name": "Diabetic Feline 1.5 Kg",
       "sourceName": "RC DIABETIC FEL 1.5 KG",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -39410,7 +39030,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Gastrointest Puppy Lata",
+      "name": "Gastrointestinal Puppy Lata",
       "sourceName": "RC GASTROINTEST PUPPY LATA",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -39465,70 +39085,11 @@
       ]
     },
     {
-      "id": "royalcanin-rc-hepatic-fel",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Rc Hepatic Fel",
-      "sourceName": "RC HEPATIC FEL",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "1.5 kg"
-      ],
-      "price": {
-        "1.5 kg": 36900
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
-        {
-          "id": "royalcanin-rc-hepatic-fel-1-5-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "1.5 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 36900,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC HEPATIC FEL 1.5 kg"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "pending",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
       "id": "royalcanin-rc-gastrointestinal-puppy",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Gastrointestinal Puppy",
+      "name": "Gastrointestinal Puppy",
       "sourceName": "RC GASTROINTESTINAL PUPPY",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -39585,70 +39146,11 @@
       ]
     },
     {
-      "id": "royalcanin-rc-hypoallerg-fel",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Rc Hypoallerg Fel",
-      "sourceName": "RC HYPOALLERG FEL",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "2 kg"
-      ],
-      "price": {
-        "2 kg": 56000
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
-        {
-          "id": "royalcanin-rc-hypoallerg-fel-2-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "2 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 56000,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC HYPOALLERG FEL 2 kg"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "pending",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
       "id": "royalcanin-rc-giant-adult",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Giant Adult",
+      "name": "Giant Adult",
       "sourceName": "RC GIANT ADULT",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -39709,7 +39211,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Sterilized Pouch",
+      "name": "Sterilized Pouch",
       "sourceName": "RC STERILIZED POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -39764,70 +39266,11 @@
       ]
     },
     {
-      "id": "royalcanin-rc-indoor-longhair",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Rc Indoor Longhair",
-      "sourceName": "RC INDOOR LONGHAIR",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "único"
-      ],
-      "price": {
-        "único": 31900
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
-        {
-          "id": "royalcanin-rc-indoor-longhair",
-          "sku": null,
-          "ean": null,
-          "presentation": "único",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 31900,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC INDOOR LONGHAIR"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "pending",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
       "id": "royalcanin-rc-golden-puppy",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Golden Puppy",
+      "name": "Golden Puppy",
       "sourceName": "RC GOLDEN PUPPY",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -39888,7 +39331,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Instinctive + 7 Pouch",
+      "name": "Instinctive + 7 Pouch",
       "sourceName": "RC INSTINCTIVE + 7 POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -39947,7 +39390,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Instinctive Pouch",
+      "name": "Instinctive Pouch",
       "sourceName": "RC INSTINCTIVE POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -40006,7 +39449,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Hair & Skin Pouch",
+      "name": "Hair & Skin Pouch",
       "sourceName": "RC HAIR & SKIN POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -40067,7 +39510,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Hairball Pouch",
+      "name": "Hairball Pouch",
       "sourceName": "RC HAIRBALL POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -40128,7 +39571,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Light Weight Care Pouch",
+      "name": "Light Weight Care Pouch",
       "sourceName": "RC LIGHT WEIGHT CARE POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -40187,7 +39630,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Mother & Baby",
+      "name": "Mother & Baby",
       "sourceName": "RC MOTHER & BABY",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -40269,7 +39712,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Hepatic Canine Lata",
+      "name": "Hepatic Canine Lata",
       "sourceName": "RC HEPATIC CANINE LATA",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -40330,7 +39773,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Mother & Baby Lata",
+      "name": "Mother & Baby Lata",
       "sourceName": "RC MOTHER & BABY LATA",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -40389,7 +39832,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Neutered Balance Pouch",
+      "name": "Neutered Balance Pouch",
       "sourceName": "RC NEUTERED BALANCE POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -40448,7 +39891,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Hypoallergenic Canine Lata",
+      "name": "Hypoallergenic Canine Lata",
       "sourceName": "RC HYPOALLERGENIC CANINE LATA",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -40509,7 +39952,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Hypoallergenic Canine Sb",
+      "name": "Hypoallergenic Canine Sb",
       "sourceName": "RC HYPOALLERGENIC CANINE SB",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -40570,7 +40013,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Persian Pouch",
+      "name": "Persian Pouch",
       "sourceName": "RC PERSIAN POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -40629,7 +40072,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Renal Cat Liquid",
+      "name": "Renal Cat Liquid",
       "sourceName": "RC RENAL CAT LIQUID",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -40684,72 +40127,11 @@
       ]
     },
     {
-      "id": "royalcanin-rc-renal-fel",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Rc Renal Fel",
-      "sourceName": "RC RENAL FEL",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "2 kg"
-      ],
-      "price": {
-        "2 kg": 42900
-      },
-      "image": null,
-      "mainImage": "img/planilla/rc/rc-renal-fel.jpg",
-      "images": [
-        "img/planilla/rc/rc-renal-fel.jpg"
-      ],
-      "variants": [
-        {
-          "id": "royalcanin-rc-renal-fel-2-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "2 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 42900,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": "img/planilla/rc/rc-renal-fel.jpg",
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC RENAL FEL 2 kg"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "confirmed",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
       "id": "royalcanin-rc-renal-fel-pouch",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Renal Fel Pouch",
+      "name": "Renal Feline Pouch",
       "sourceName": "RC RENAL FEL POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -40808,7 +40190,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Satiety Fel",
+      "name": "Satiety Feline",
       "sourceName": "RC SATIETY FEL",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -40869,7 +40251,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Satiety Felino Pouch",
+      "name": "Satiety Felino Pouch",
       "sourceName": "RC SATIETY FELINO POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -40930,7 +40312,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Jack Russell Adult",
+      "name": "Jack Russell Adult",
       "sourceName": "RC JACK RUSSELL ADULT",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -41010,93 +40392,11 @@
       ]
     },
     {
-      "id": "royalcanin-rc-urinary-s-o-fel",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Rc Urinary S/o Fel",
-      "sourceName": "RC URINARY S/O FEL",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "1.5 kg",
-        "7.5 kg"
-      ],
-      "price": {
-        "1.5 kg": 37900,
-        "7.5 kg": 129100
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
-        {
-          "id": "royalcanin-rc-urinary-s-o-fel-1-5-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "1.5 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 37900,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC URINARY S/O FEL 1.5 kg"
-        },
-        {
-          "id": "royalcanin-rc-urinary-s-o-fel-7-5-kg",
-          "sku": null,
-          "ean": null,
-          "presentation": "7.5 kg",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 129100,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "RC URINARY S/O FEL 7.5 kg"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "pending",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
       "id": "royalcanin-rc-jack-russell-puppy",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Jack Russell Puppy",
+      "name": "Jack Russell Puppy",
       "sourceName": "RC JACK RUSSELL PUPPY",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -41180,7 +40480,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Urinary S/o Pouch",
+      "name": "Urinary S/O Pouch",
       "sourceName": "RC URINARY S/O POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -41239,7 +40539,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Labrador Puppy",
+      "name": "Labrador Puppy",
       "sourceName": "RC LABRADOR PUPPY",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -41300,7 +40600,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Weight Care Pouch",
+      "name": "Weight Care Pouch",
       "sourceName": "RC WEIGHT CARE POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -41359,7 +40659,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Maxi Adult +5",
+      "name": "Maxi Adult +5",
       "sourceName": "RC MAXI ADULT +5",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -41420,7 +40720,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Weight Control Fel",
+      "name": "Weight Control Feline",
       "sourceName": "RC WEIGHT CONTROL FEL",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -41548,7 +40848,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Maxi Adult +8",
+      "name": "Maxi Adult +8",
       "sourceName": "RC MAXI ADULT +8",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -41609,7 +40909,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Maxi Adult",
+      "name": "Maxi Adult",
       "sourceName": "RC MAXI ADULT",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -41693,7 +40993,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Maxi Adult Pouch",
+      "name": "Maxi Adult Pouch",
       "sourceName": "RC MAXI ADULT POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -41754,7 +41054,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Mobility Dog",
+      "name": "Mobility Dog",
       "sourceName": "RC MOBILITY DOG",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -41813,7 +41113,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Ovejero Aleman Puppy",
+      "name": "Ovejero Aleman Puppy",
       "sourceName": "RC OVEJERO ALEMAN PUPPY",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -41874,7 +41174,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Pug Adult",
+      "name": "Pug Adult",
       "sourceName": "RC PUG ADULT",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -41958,7 +41258,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Puppy Protech",
+      "name": "Puppy Protech",
       "sourceName": "RC PUPPY PROTECH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -42019,7 +41319,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Recovery Lata",
+      "name": "Recovery Lata",
       "sourceName": "RC RECOVERY LATA",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -42080,7 +41380,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Relax Care Pouch",
+      "name": "Relax Care Pouch",
       "sourceName": "RC RELAX CARE POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -42141,7 +41441,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Renal Canine Lata",
+      "name": "Renal Canine Lata",
       "sourceName": "RC RENAL CANINE LATA",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -42202,7 +41502,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Renal Dog Liquid",
+      "name": "Renal Dog Liquid",
       "sourceName": "RC RENAL DOG LIQUID",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -42263,7 +41563,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Renal Special Wet",
+      "name": "Renal Special Wet",
       "sourceName": "RC RENAL SPECIAL WET",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -42324,7 +41624,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Rc Satiety Support Weight Management Lata Dog",
+      "name": "Rc Satiety Support Weight Management Lata Dog",
       "sourceName": "RC RC Satiety Support Weight Management LATA DOG",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -42385,7 +41685,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Sensory Pouch",
+      "name": "Sensory Pouch",
       "sourceName": "RC SENSORY POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -42446,7 +41746,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Urinary S/o Dog Sb",
+      "name": "Urinary S/O Dog Sb",
       "sourceName": "RC URINARY S/O DOG SB",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -42507,7 +41807,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Urinary S/o Perro Lata",
+      "name": "Urinary S/O Perro Lata",
       "sourceName": "RC URINARY S/O PERRO LATA",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -42568,7 +41868,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Xs Adult",
+      "name": "Xs Adult",
       "sourceName": "RC XS ADULT",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -42629,7 +41929,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Xs Puppy",
+      "name": "Xs Puppy",
       "sourceName": "RC XS PUPPY",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -42690,7 +41990,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Yorkshire Adult 1 Kg",
+      "name": "Yorkshire Adult 1 Kg",
       "sourceName": "RC YORKSHIRE ADULT 1 KG",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -42774,7 +42074,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Yorkshire Pouch",
+      "name": "Yorkshire Pouch",
       "sourceName": "RC YORKSHIRE POUCH",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -42835,7 +42135,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Yorkshire Puppy",
+      "name": "Yorkshire Puppy",
       "sourceName": "RC YORKSHIRE PUPPY",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
