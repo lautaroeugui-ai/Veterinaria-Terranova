@@ -35418,7 +35418,8 @@
         "7.5 kg"
       ],
       "price": {
-        "2 kg": 27000
+        "2 kg": 27000,
+        "7.5 kg": 84000
       },
       "image": null,
       "mainImage": "img/planilla/unik/unik-gatito-2-kg.jpg",
@@ -35456,11 +35457,16 @@
           "dimensions": null,
           "color": null,
           "pattern": null,
-          "retailPrice": null,
+          "retailPrice": {
+            "amount": 84000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-01)",
+            "priceType": "terranova"
+          },
           "supplierPrice": null,
           "image": "img/planilla/unik/unik-gatito-2-kg.jpg",
           "availability": null,
-          "reviewStatus": "pending-price",
+          "reviewStatus": "confirmed",
           "sourceName": "UNIK GATITO 7.5 KG"
         }
       ],
@@ -35469,6 +35475,10 @@
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-01)",
           "sourceType": "terranova-price-list"
         }
       ]
