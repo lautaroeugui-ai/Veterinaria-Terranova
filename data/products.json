@@ -8862,43 +8862,6 @@
       ]
     },
     {
-      "id": "royal-canin-dietas-gatos-castrados-young-female",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": "Dietas veterinarias",
-      "name": "Gatos Castrados Young Female",
-      "sourceName": "Gatos Castrados Young Female",
-      "category": "alimentos",
-      "subcategory": "dieta-veterinaria",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/dietas-gatos-castrados-young-female.jpg",
-      "images": [],
-      "eans": [
-        "7790187003095",
-        "7790187003101"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
       "id": "royal-canin-perro-relax-care-mini",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -11336,43 +11299,6 @@
       ]
     },
     {
-      "id": "royal-canin-gato-digest-sensitive",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Digest Sensitive",
-      "sourceName": "Digest Sensitive",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/gato-digest-sensitive.jpg",
-      "images": [],
-      "eans": [
-        "9003579309537",
-        "9003579309568"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
       "id": "royal-canin-gato-ageing-11-plus",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -12364,43 +12290,6 @@
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-16)",
           "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
-      "id": "royal-canin-dietas-gatos-castrados-young-male",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": "Dietas veterinarias",
-      "name": "Gatos Castrados Young Male",
-      "sourceName": "Gatos Castrados Young Male",
-      "category": "alimentos",
-      "subcategory": "dieta-veterinaria",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/dietas-gatos-castrados-young-male.jpg",
-      "images": [],
-      "eans": [
-        "7790187003057",
-        "7790187003064"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
         }
       ]
     },
@@ -18367,45 +18256,6 @@
         {
           "file": "Drive: ALIMENTOS WEB, hoja RC lista sistema (Terranova, 2026-10-05)",
           "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
-      "id": "royal-canin-dietas-senior-consult-stage",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": "Dietas veterinarias",
-      "name": "Senior Consult Stage",
-      "sourceName": "Senior Consult Stage",
-      "category": "alimentos",
-      "subcategory": "dieta-veterinaria",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/dietas-senior-consult-stage.jpg",
-      "images": [],
-      "eans": [
-        "7790187003200",
-        "9003579310960",
-        "9003579310977",
-        "9003579311240"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
         }
       ]
     },
