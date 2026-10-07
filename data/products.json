@@ -13110,51 +13110,6 @@
       ]
     },
     {
-      "id": "royal-canin-dietas-gatos-castrados-weight-control",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": "Dietas veterinarias",
-      "name": "Gatos Castrados Weight Control",
-      "sourceName": "Gatos Castrados Weight Control",
-      "category": "alimentos",
-      "subcategory": "dieta-veterinaria",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/dietas-gatos-castrados-weight-control.jpg",
-      "images": [],
-      "eans": [
-        "7790187003125",
-        "7790187342125",
-        "7790187342132",
-        "7790187342149",
-        "7790187342156",
-        "7790187003132",
-        "7790187003149",
-        "7790187003156",
-        "7790187003163",
-        "7790187342118"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
       "id": "royal-canin-perro-maxi-adulto-h-medo",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -40513,7 +40468,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Weight Control Feline",
+      "name": "Gatos Castrados Weight Control",
       "sourceName": "RC WEIGHT CONTROL FEL",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -40639,6 +40594,10 @@
         {
           "file": "Drive: ALIMENTOS WEB, hoja RC lista sistema (Terranova, 2026-10-05)",
           "sourceType": "terranova-price-list"
+        },
+        {
+          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
+          "sourceType": "brand-photo-set"
         }
       ]
     },
