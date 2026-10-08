@@ -183,3 +183,6 @@
 
 @media(min-width:661px){.footer-brand{gap:10px}.footer-logo{width:128px}.footer-brand p{margin-top:4px}}
 
+
+/* Sin precio = sin stock: el botón de agregar queda apagado. */
+.product-add:disabled{opacity:.45;cursor:not-allowed;transform:none;box-shadow:none}

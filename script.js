@@ -343,10 +343,12 @@ function createProductCard(product){
   function updateVariant(){
     const retail=selectedVariant?.retailPrice;
     const hasPrice=Number.isFinite(retail?.amount);
-    price.textContent=hasPrice?formatPrice(retail.amount,retail.currency||'ARS'):'Consultar precio';
+    // Terranova carga el precio recién cuando entra stock: sin precio es sin stock.
+    price.textContent=hasPrice?formatPrice(retail.amount,retail.currency||'ARS'):'Sin stock';
     price.classList.toggle('is-query',!hasPrice);
+    button.disabled=!hasPrice;
     if(presentation)presentation.textContent=variantLabel(selectedVariant);
-    review.hidden=product.reviewStatus!=='price-review'&&selectedVariant?.reviewStatus!=='price-review';
+    review.hidden=!hasPrice||(product.reviewStatus!=='price-review'&&selectedVariant?.reviewStatus!=='price-review');
   }
 
   variantSelect?.addEventListener('change',()=>{
@@ -720,8 +722,9 @@ function openProductModal(product,initialVariant){
     }
     const retail=variant?.retailPrice;
     const hasPrice=Number.isFinite(retail?.amount);
-    price.textContent=hasPrice?formatPrice(retail.amount,retail.currency||'ARS'):'Consultar precio';
+    price.textContent=hasPrice?formatPrice(retail.amount,retail.currency||'ARS'):'Sin stock';
     price.classList.toggle('is-query',!hasPrice);
+    addButton.disabled=!hasPrice;
     button.dataset.message=[
       `Quisiera consultar por ${product.brand} ${displayName(product)}`,
       variant?variantLabel(variant):null,
