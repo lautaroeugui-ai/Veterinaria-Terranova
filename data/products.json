@@ -24890,7 +24890,7 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Balanced Soufflé Perro Adulto Pollo"
+        "85 g"
       ],
       "price": {},
       "image": null,
@@ -24903,16 +24903,21 @@
           "id": "balanced-balanced-souffle-perro-adulto-pollo-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Balanced Soufflé Perro Adulto Pollo",
+          "presentation": "85 g",
           "size": null,
           "dimensions": null,
           "color": null,
           "pattern": null,
-          "retailPrice": null,
+          "retailPrice": {
+            "amount": 2499.81,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+            "priceType": "terranova"
+          },
           "supplierPrice": null,
           "image": "img/balanced/balanced-souffle-perro-adulto-pollo.jpg",
           "availability": null,
-          "reviewStatus": "pending-price",
+          "reviewStatus": "confirmed",
           "sourceName": "BALANCED SOUFFLE PERRO ADULTO POLLO"
         }
       ],
@@ -24921,6 +24926,656 @@
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-balanced-souffle-gato-adulto-merluza-pollo-carne",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Soufflé Gato Adulto Merluza, Pollo y Carne",
+      "sourceName": "BALANCED SOUFFLE GATO ADULTO MERLUZA -POLLO-CARNE",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "85 g",
+        "340 g"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/planilla/balanced/balanced-souffle-gato-adulto-merluza-pollo-carne.jpg",
+      "images": [
+        "img/planilla/balanced/balanced-souffle-gato-adulto-merluza-pollo-carne.jpg",
+        "img/planilla/balanced/balanced-souffle-gato-adulto-merluza-pollo-carne-1.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-balanced-souffle-gato-adulto-merluza-pollo-carne-85-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "85 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 2600,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/balanced/balanced-souffle-gato-adulto-merluza-pollo-carne.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BALANCED SOUFFLE GATO ADULTO MERLUZA -POLLO-CARNE"
+        },
+        {
+          "id": "balanced-balanced-souffle-gato-adulto-merluza-pollo-carne-340-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "340 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 5720,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/balanced/balanced-souffle-gato-adulto-merluza-pollo-carne.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BALANCED SOUFFLE GATO ADULTO MERLUZA -POLLO-CARNE"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-balanced-souffle-gato-senior-pollo",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Soufflé Gato Senior Pollo",
+      "sourceName": "BALANCED SOUFFLE GATO SENIOR POLLO",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "85 g",
+        "340 g"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/planilla/balanced/balanced-souffle-gato-senior-pollo.jpg",
+      "images": [
+        "img/planilla/balanced/balanced-souffle-gato-senior-pollo.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-balanced-souffle-gato-senior-pollo-85-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "85 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/planilla/balanced/balanced-souffle-gato-senior-pollo.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE GATO SENIOR POLLO"
+        },
+        {
+          "id": "balanced-balanced-souffle-gato-senior-pollo-340-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "340 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/planilla/balanced/balanced-souffle-gato-senior-pollo.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE GATO SENIOR POLLO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-balanced-souffle-gato-senior-merluza",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Soufflé Gato Senior Merluza",
+      "sourceName": "BALANCED SOUFFLE GATO SENIOR MERLUZA",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "85 g",
+        "340 g"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/planilla/balanced/balanced-souffle-gato-senior-merluza.jpg",
+      "images": [
+        "img/planilla/balanced/balanced-souffle-gato-senior-merluza.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-balanced-souffle-gato-senior-merluza-85-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "85 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/planilla/balanced/balanced-souffle-gato-senior-merluza.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE GATO SENIOR MERLUZA"
+        },
+        {
+          "id": "balanced-balanced-souffle-gato-senior-merluza-340-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "340 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/planilla/balanced/balanced-souffle-gato-senior-merluza.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE GATO SENIOR MERLUZA"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-balanced-souffle-gato-castrado-pollo",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Soufflé Gato Castrado Pollo",
+      "sourceName": "BALANCED SOUFFLE GATO CASTRADO POLLO",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "85 g",
+        "340 g"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/planilla/balanced/balanced-souffle-gato-castrado-pollo.jpg",
+      "images": [
+        "img/planilla/balanced/balanced-souffle-gato-castrado-pollo.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-balanced-souffle-gato-castrado-pollo-85-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "85 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/planilla/balanced/balanced-souffle-gato-castrado-pollo.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE GATO CASTRADO POLLO"
+        },
+        {
+          "id": "balanced-balanced-souffle-gato-castrado-pollo-340-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "340 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/planilla/balanced/balanced-souffle-gato-castrado-pollo.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE GATO CASTRADO POLLO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-balanced-souffle-gato-castrado-merluza",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Soufflé Gato Castrado Merluza",
+      "sourceName": "BALANCED SOUFFLE GATO CASTRADO MERLUZA",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "85 g",
+        "340 g"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/planilla/balanced/balanced-souffle-gato-castrado-merluza.jpg",
+      "images": [
+        "img/planilla/balanced/balanced-souffle-gato-castrado-merluza.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-balanced-souffle-gato-castrado-merluza-85-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "85 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/planilla/balanced/balanced-souffle-gato-castrado-merluza.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE GATO CASTRADO MERLUZA"
+        },
+        {
+          "id": "balanced-balanced-souffle-gato-castrado-merluza-340-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "340 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/planilla/balanced/balanced-souffle-gato-castrado-merluza.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE GATO CASTRADO MERLUZA"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-balanced-souffle-gato-cachorro-pollo",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Soufflé Gato Cachorro Pollo",
+      "sourceName": "BALANCED SOUFFLE GATO CACHORRO POLLO",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "85 g",
+        "340 g"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/planilla/balanced/balanced-souffle-gato-cachorro-pollo.jpg",
+      "images": [
+        "img/planilla/balanced/balanced-souffle-gato-cachorro-pollo.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-balanced-souffle-gato-cachorro-pollo-85-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "85 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/planilla/balanced/balanced-souffle-gato-cachorro-pollo.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE GATO CACHORRO POLLO"
+        },
+        {
+          "id": "balanced-balanced-souffle-gato-cachorro-pollo-340-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "340 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/planilla/balanced/balanced-souffle-gato-cachorro-pollo.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE GATO CACHORRO POLLO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-balanced-souffle-gato-cachorro-merluza",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Soufflé Gato Cachorro Merluza",
+      "sourceName": "BALANCED SOUFFLE GATO CACHORRO MERLUZA",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "85 g",
+        "340 g"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/planilla/balanced/balanced-souffle-gato-cachorro-merluza.jpg",
+      "images": [
+        "img/planilla/balanced/balanced-souffle-gato-cachorro-merluza.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-balanced-souffle-gato-cachorro-merluza-85-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "85 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/planilla/balanced/balanced-souffle-gato-cachorro-merluza.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE GATO CACHORRO MERLUZA"
+        },
+        {
+          "id": "balanced-balanced-souffle-gato-cachorro-merluza-340-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "340 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/planilla/balanced/balanced-souffle-gato-cachorro-merluza.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE GATO CACHORRO MERLUZA"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-balanced-souffle-gato-adulto-pollo",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Soufflé Gato Adulto Pollo",
+      "sourceName": "BALANCED SOUFFLE GATO ADULTO POLLO",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "85 g",
+        "340 g"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/planilla/balanced/balanced-souffle-gato-adulto-pollo.jpg",
+      "images": [
+        "img/planilla/balanced/balanced-souffle-gato-adulto-pollo.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-balanced-souffle-gato-adulto-pollo-85-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "85 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/planilla/balanced/balanced-souffle-gato-adulto-pollo.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE GATO ADULTO POLLO"
+        },
+        {
+          "id": "balanced-balanced-souffle-gato-adulto-pollo-340-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "340 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/planilla/balanced/balanced-souffle-gato-adulto-pollo.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE GATO ADULTO POLLO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "balanced-balanced-souffle-gato-adulto-merluza",
+      "brand": "Balanced",
+      "supplier": "Balanced",
+      "line": null,
+      "name": "Balanced Soufflé Gato Adulto Merluza",
+      "sourceName": "BALANCED SOUFFLE GATO ADULTO MERLUZA",
+      "category": "alimentos",
+      "subcategory": "alimento-balanceado",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "85 g",
+        "340 g"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/planilla/balanced/balanced-souffle-gato-adulto-merluza.jpg",
+      "images": [
+        "img/planilla/balanced/balanced-souffle-gato-adulto-merluza.jpg"
+      ],
+      "variants": [
+        {
+          "id": "balanced-balanced-souffle-gato-adulto-merluza-85-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "85 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/planilla/balanced/balanced-souffle-gato-adulto-merluza.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE GATO ADULTO MERLUZA"
+        },
+        {
+          "id": "balanced-balanced-souffle-gato-adulto-merluza-340-g",
+          "sku": null,
+          "ean": null,
+          "presentation": "340 g",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/planilla/balanced/balanced-souffle-gato-adulto-merluza.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "BALANCED SOUFFLE GATO ADULTO MERLUZA"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -34556,12 +35211,7 @@
           "dimensions": null,
           "color": null,
           "pattern": null,
-          "retailPrice": {
-            "amount": 40095.01,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
-            "priceType": "terranova"
-          },
+          "retailPrice": null,
           "supplierPrice": null,
           "image": "img/planilla/maintenance/maintenance-gato-adulto-urinario15-kg.jpg",
           "availability": null,
@@ -41751,8 +42401,11 @@
         "10 kg": 57296.78
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/whiskas/whiskas-10kg-pollo.jpg",
+      "images": [
+        "img/planilla/whiskas/whiskas-10kg-pollo.jpg",
+        "img/planilla/whiskas/whiskas-10kg-pescado.jpg"
+      ],
       "variants": [
         {
           "id": "whiskas-whiskas-sabor-pollo-o-pescado-o-carne-10-kg",
@@ -41770,14 +42423,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/whiskas/whiskas-10kg-pollo.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "Whiskas Sabor Pollo o Pescado o Carne 10 kg"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -41812,8 +42465,11 @@
         "10 kg": 57296.78
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/whiskas/whiskas-gatito-1kg.jpg",
+      "images": [
+        "img/planilla/whiskas/whiskas-gatito-1kg.jpg",
+        "img/planilla/whiskas/whiskas-gatito-10kg.jpg"
+      ],
       "variants": [
         {
           "id": "whiskas-whiskas-gatito-carne-y-leche-1-kg",
@@ -41831,7 +42487,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/whiskas/whiskas-gatito-1kg.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "Whiskas Gatito Carne y Leche 1 kg"
@@ -41852,14 +42508,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/whiskas/whiskas-gatito-10kg.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "Whiskas Gatito Carne y Leche 10 kg"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -42496,7 +43152,7 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "85"
+        "85 g"
       ],
       "price": {},
       "image": null,
@@ -42509,16 +43165,21 @@
           "id": "whiskas-whiskas-sobrecito-para-gatitos-carne-en-souffle-x-85",
           "sku": null,
           "ean": null,
-          "presentation": "85",
+          "presentation": "85 g",
           "size": null,
           "dimensions": null,
           "color": null,
           "pattern": null,
-          "retailPrice": null,
+          "retailPrice": {
+            "amount": 1500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+            "priceType": "terranova"
+          },
           "supplierPrice": null,
           "image": "img/planilla/golosinasalimentoh/whiskas-sobrecito-para-gatitos-carne-en-souffle-x-85.jpg",
           "availability": null,
-          "reviewStatus": "pending-price",
+          "reviewStatus": "confirmed",
           "sourceName": "Whiskas Sobrecito Para Gatitos Carne en Soufflé x 85"
         }
       ],
@@ -43508,12 +44169,12 @@
       ]
     },
     {
-      "id": "pedigree-cuidado-oral-dentastix",
+      "id": "pedigree-dentastix-adulto-razas-pequenas",
       "brand": "Pedigree",
       "supplier": "Pedigree",
       "line": null,
-      "name": "Cuidado Oral Dentastix",
-      "sourceName": "CUIDADO ORAL DENTASTIX",
+      "name": "Dentastix Adulto Razas Pequeñas",
+      "sourceName": "PEDIGREE Dentastix Adulto Razas Pequeñas",
       "category": "alimentos-y-snacks",
       "subcategory": "alimento-o-snack",
       "species": [
@@ -43526,35 +44187,298 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Cuidado Oral Dentastix"
+        "x1",
+        "x3",
+        "x7"
       ],
       "price": {},
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/golosinas/dentastix-adulto-razas-pequenas-x3.jpg",
+      "images": [
+        "img/planilla/golosinas/dentastix-adulto-razas-pequenas-x3.jpg",
+        "img/planilla/golosinas/dentastix-adulto-razas-pequenas-x1.jpg",
+        "img/planilla/golosinas/dentastix-adulto-razas-pequenas-x7.jpg"
+      ],
       "variants": [
         {
-          "id": "pedigree-cuidado-oral-dentastix-unico",
+          "id": "pedigree-dentastix-adulto-razas-pequenas-x1",
           "sku": null,
           "ean": null,
-          "presentation": "Cuidado Oral Dentastix",
+          "presentation": "x1",
           "size": null,
           "dimensions": null,
           "color": null,
           "pattern": null,
-          "retailPrice": null,
+          "retailPrice": {
+            "amount": 2500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+            "priceType": "terranova"
+          },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/golosinas/dentastix-adulto-razas-pequenas-x1.jpg",
           "availability": null,
-          "reviewStatus": "pending-price",
-          "sourceName": "CUIDADO ORAL DENTASTIX"
+          "reviewStatus": "confirmed",
+          "sourceName": "PEDIGREE Dentastix Adulto Razas Pequeñas"
+        },
+        {
+          "id": "pedigree-dentastix-adulto-razas-pequenas-x3",
+          "sku": null,
+          "ean": null,
+          "presentation": "x3",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 4397.93,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/golosinas/dentastix-adulto-razas-pequenas-x3.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "PEDIGREE Dentastix Adulto Razas Pequeñas"
+        },
+        {
+          "id": "pedigree-dentastix-adulto-razas-pequenas-x7",
+          "sku": null,
+          "ean": null,
+          "presentation": "x7",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 7264.77,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/golosinas/dentastix-adulto-razas-pequenas-x7.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "PEDIGREE Dentastix Adulto Razas Pequeñas"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "pedigree-dentastix-adulto-razas-medianas",
+      "brand": "Pedigree",
+      "supplier": "Pedigree",
+      "line": null,
+      "name": "Dentastix Adulto Razas Medianas",
+      "sourceName": "PEDIGREE Dentastix Adulto Razas Medianas",
+      "category": "alimentos-y-snacks",
+      "subcategory": "alimento-o-snack",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "x1",
+        "x3",
+        "x7"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/planilla/golosinas/dentastix-adulto-razas-medianas-x3.jpg",
+      "images": [
+        "img/planilla/golosinas/dentastix-adulto-razas-medianas-x3.jpg",
+        "img/planilla/golosinas/dentastix-adulto-razas-medianas-x1.jpg",
+        "img/planilla/golosinas/dentastix-adulto-razas-medianas-x7.jpg"
+      ],
+      "variants": [
+        {
+          "id": "pedigree-dentastix-adulto-razas-medianas-x1",
+          "sku": null,
+          "ean": null,
+          "presentation": "x1",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 2820,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/golosinas/dentastix-adulto-razas-medianas-x1.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "PEDIGREE Dentastix Adulto Razas Medianas"
+        },
+        {
+          "id": "pedigree-dentastix-adulto-razas-medianas-x3",
+          "sku": null,
+          "ean": null,
+          "presentation": "x3",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 5798,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/golosinas/dentastix-adulto-razas-medianas-x3.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "PEDIGREE Dentastix Adulto Razas Medianas"
+        },
+        {
+          "id": "pedigree-dentastix-adulto-razas-medianas-x7",
+          "sku": null,
+          "ean": null,
+          "presentation": "x7",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 8398.17,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/golosinas/dentastix-adulto-razas-medianas-x7.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "PEDIGREE Dentastix Adulto Razas Medianas"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "pedigree-dentastix-adulto-razas-grandes",
+      "brand": "Pedigree",
+      "supplier": "Pedigree",
+      "line": null,
+      "name": "Dentastix Adulto Razas Grandes",
+      "sourceName": "PEDIGREE Dentastix Adulto Razas grandes",
+      "category": "alimentos-y-snacks",
+      "subcategory": "alimento-o-snack",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "x1",
+        "x3",
+        "x7"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/planilla/golosinas/dentastix-adulto-razas-grandes-x3.jpg",
+      "images": [
+        "img/planilla/golosinas/dentastix-adulto-razas-grandes-x3.jpg",
+        "img/planilla/golosinas/dentastix-adulto-razas-grandes-x1.jpg",
+        "img/planilla/golosinas/dentastix-adulto-razas-grandes-x7.jpg"
+      ],
+      "variants": [
+        {
+          "id": "pedigree-dentastix-adulto-razas-grandes-x1",
+          "sku": null,
+          "ean": null,
+          "presentation": "x1",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 3424.5,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/golosinas/dentastix-adulto-razas-grandes-x1.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "PEDIGREE Dentastix Adulto Razas grandes"
+        },
+        {
+          "id": "pedigree-dentastix-adulto-razas-grandes-x3",
+          "sku": null,
+          "ean": null,
+          "presentation": "x3",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 6515.55,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/golosinas/dentastix-adulto-razas-grandes-x3.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "PEDIGREE Dentastix Adulto Razas grandes"
+        },
+        {
+          "id": "pedigree-dentastix-adulto-razas-grandes-x7",
+          "sku": null,
+          "ean": null,
+          "presentation": "x7",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 9193.03,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/golosinas/dentastix-adulto-razas-grandes-x7.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "PEDIGREE Dentastix Adulto Razas grandes"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
           "sourceType": "terranova-price-list"
         }
       ]
@@ -43916,11 +44840,16 @@
           "dimensions": null,
           "color": null,
           "pattern": null,
-          "retailPrice": null,
+          "retailPrice": {
+            "amount": 15000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-13)",
+            "priceType": "terranova"
+          },
           "supplierPrice": null,
           "image": "img/planilla/piedras/arena-sanitaria-super-cat-25-litros-12-5-kg.jpg",
           "availability": null,
-          "reviewStatus": "pending-price",
+          "reviewStatus": "confirmed",
           "sourceName": "Arena Sanitaria Super Cat 25 Litros  12,5 kg  "
         }
       ],
@@ -46570,8 +47499,8 @@
     },
     {
       "id": "varios-comedero-acero",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Comedero Acero",
       "sourceName": "COMEDERO ACERO 15 CM",
@@ -46770,8 +47699,8 @@
     },
     {
       "id": "varios-comedero-acero-inox-recub-cool",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Comedero Acero Inox Recub \"cool\"",
       "sourceName": "COMEDERO ACERO INOX RECUB \"COOL\"",
@@ -46832,8 +47761,8 @@
     },
     {
       "id": "varios-comedero-acero-lineas-pintadas",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Comedero Acero Lineas Pintadas",
       "sourceName": "COMEDERO ACERO LINEAS PINTADAS",
@@ -46894,8 +47823,8 @@
     },
     {
       "id": "varios-comedero-coker-plastico",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Comedero Coker Plastico",
       "sourceName": "COMEDERO COKER PLASTICO",
@@ -46956,8 +47885,8 @@
     },
     {
       "id": "varios-comedero-doble",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Comedero Doble",
       "sourceName": "COMEDERO DOBLE 21 CM",
@@ -47016,8 +47945,8 @@
     },
     {
       "id": "varios-comedero-doble-gatito-negro",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Comedero Doble Gatito Negro",
       "sourceName": "COMEDERO DOBLE GATITO NEGRO",
@@ -47075,8 +48004,8 @@
     },
     {
       "id": "varios-comedero-doble-m",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Comedero Doble M",
       "sourceName": "COMEDERO DOBLE M",
@@ -47137,8 +48066,8 @@
     },
     {
       "id": "varios-comedero-doble-s",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Comedero Doble S",
       "sourceName": "COMEDERO DOBLE S",
@@ -47199,8 +48128,8 @@
     },
     {
       "id": "varios-comedero-doble-xs",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Comedero Doble Xs",
       "sourceName": "COMEDERO DOBLE XS",
@@ -47261,8 +48190,8 @@
     },
     {
       "id": "varios-comedero-en-altura-bp417",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Comedero en Altura Bp417",
       "sourceName": "COMEDERO EN ALTURA BP417",
@@ -47323,8 +48252,8 @@
     },
     {
       "id": "varios-comedero-en-altura-bp418",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Comedero en Altura Bp418",
       "sourceName": "COMEDERO EN ALTURA BP418",
@@ -47385,8 +48314,8 @@
     },
     {
       "id": "varios-comedero-gato-acero-inox",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "TRIXIE",
+      "supplier": "TRIXIE",
       "line": null,
       "name": "Comedero Gato Acero Inox",
       "sourceName": "COMEDERO GATO acero inox 12 cm",
@@ -47446,8 +48375,8 @@
     },
     {
       "id": "varios-comedero-acero-inox-con-huellitas-bp411",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "TRIXIE",
+      "supplier": "TRIXIE",
       "line": null,
       "name": "Comedero Acero Inox. con Huellitas Bp411",
       "sourceName": "Comedero acero inox. con huellitas BP411",
@@ -47508,8 +48437,8 @@
     },
     {
       "id": "varios-comedero-huella-grande",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Comedero Huella Grande",
       "sourceName": "COMEDERO HUELLA GRANDE",
@@ -47570,8 +48499,8 @@
     },
     {
       "id": "varios-comedero-huella-mediano",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Comedero Huella Mediano",
       "sourceName": "COMEDERO HUELLA MEDIANO",
@@ -47632,8 +48561,8 @@
     },
     {
       "id": "varios-comedero-mini-gato-cali",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Comedero Mini Gato Cali",
       "sourceName": "COMEDERO MINI GATO CALI",
@@ -47693,8 +48622,8 @@
     },
     {
       "id": "varios-comedero-oval-grande",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Comedero Oval Grande",
       "sourceName": "COMEDERO OVAL GRANDE",
@@ -47755,8 +48684,8 @@
     },
     {
       "id": "varios-comedero-plastico-chico",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Comedero Plastico Chico",
       "sourceName": "COMEDERO PLASTICO CHICO 15CM",
@@ -47817,8 +48746,8 @@
     },
     {
       "id": "varios-comedero-plastico-grande",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Comedero Plastico Grande",
       "sourceName": "COMEDERO PLASTICO GRANDE 25 CM",
@@ -47879,8 +48808,8 @@
     },
     {
       "id": "varios-comedero-plastico-mediano",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Comedero Plastico Mediano",
       "sourceName": "COMEDERO PLASTICO MEDIANO 20 CM",
@@ -47941,8 +48870,8 @@
     },
     {
       "id": "varios-comedero-sharpei",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Comedero Sharpei",
       "sourceName": "COMEDERO SHARPEI 22 CM",
@@ -48001,8 +48930,8 @@
     },
     {
       "id": "varios-comedero-y-bebedero-13cm-celeste",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Comedero y Bebedero 13CM Celeste",
       "sourceName": "COMEDERO Y BEBEDERO 13CM CELESTE",
@@ -49650,8 +50579,8 @@
     },
     {
       "id": "varios-collar-isabelino-pomelo-talle-xs",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Pet Hour",
+      "supplier": "Pet Hour",
       "line": null,
       "name": "Collar Isabelino Pomelo Talle Xs",
       "sourceName": "Collar isabelino Pomelo talle XS",
@@ -49711,8 +50640,8 @@
     },
     {
       "id": "varios-collar-isabelino-sandia-talle-m",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Pet Hour",
+      "supplier": "Pet Hour",
       "line": null,
       "name": "Collar Isabelino Sandia Talle M",
       "sourceName": "Collar isabelino Sandia talle M",
@@ -49772,8 +50701,8 @@
     },
     {
       "id": "varios-collar-isabelino-lima-talle-l",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Pet Hour",
+      "supplier": "Pet Hour",
       "line": null,
       "name": "Collar Isabelino Lima Talle L",
       "sourceName": "Collar isabelino Lima talle L",
@@ -49833,8 +50762,8 @@
     },
     {
       "id": "varios-collar-isabelino-kiwi-talle-xl",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Pet Hour",
+      "supplier": "Pet Hour",
       "line": null,
       "name": "Collar Isabelino Kiwi Talle Xl",
       "sourceName": "Collar isabelino Kiwi talle XL",
@@ -50039,8 +50968,10 @@
         "Arnes Premium Acolchado M": 28858.5
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/trixie/arnes-premium-acolchado-l.jpg",
+      "images": [
+        "img/planilla/trixie/arnes-premium-acolchado-l.jpg"
+      ],
       "variants": [
         {
           "id": "trixie-arnes-premium-acolchado-m-unico",
@@ -50058,14 +50989,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/trixie/arnes-premium-acolchado-l.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "ARNES PREMIUM ACOLCHADO M"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -50098,8 +51029,10 @@
         "Arnes Premium Acolchado M-l": 33171
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/trixie/arnes-premium-acolchado-l.jpg",
+      "images": [
+        "img/planilla/trixie/arnes-premium-acolchado-l.jpg"
+      ],
       "variants": [
         {
           "id": "trixie-arnes-premium-acolchado-m-l-unico",
@@ -50117,14 +51050,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/trixie/arnes-premium-acolchado-l.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "ARNES PREMIUM ACOLCHADO M-L"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -50157,8 +51090,10 @@
         "Arnes Premium Acolchado S": 24466.5
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/trixie/arnes-premium-acolchado-l.jpg",
+      "images": [
+        "img/planilla/trixie/arnes-premium-acolchado-l.jpg"
+      ],
       "variants": [
         {
           "id": "trixie-arnes-premium-acolchado-s-unico",
@@ -50176,14 +51111,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/trixie/arnes-premium-acolchado-l.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "ARNES PREMIUM ACOLCHADO S"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -50216,8 +51151,10 @@
         "Arnes Premium Acolchado S-m": 26379
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/trixie/arnes-premium-acolchado-l.jpg",
+      "images": [
+        "img/planilla/trixie/arnes-premium-acolchado-l.jpg"
+      ],
       "variants": [
         {
           "id": "trixie-arnes-premium-acolchado-s-m-unico",
@@ -50235,14 +51172,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/trixie/arnes-premium-acolchado-l.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "ARNES PREMIUM ACOLCHADO S-M"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -50275,8 +51212,10 @@
         "Arnes Premium Acolchado Xs-s": 20595
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/trixie/arnes-premium-acolchado-l.jpg",
+      "images": [
+        "img/planilla/trixie/arnes-premium-acolchado-l.jpg"
+      ],
       "variants": [
         {
           "id": "trixie-arnes-premium-acolchado-xs-s-unico",
@@ -50294,14 +51233,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/trixie/arnes-premium-acolchado-l.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "ARNES PREMIUM ACOLCHADO XS-S"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -50517,8 +51456,10 @@
         "Arnes Comfort Xs-s": 37837.8
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/trixie/arnes-comfort-soft-s.jpg",
+      "images": [
+        "img/planilla/trixie/arnes-comfort-soft-s.jpg"
+      ],
       "variants": [
         {
           "id": "trixie-arnes-comfort-xs-s-unico",
@@ -50536,14 +51477,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/trixie/arnes-comfort-soft-s.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "Arnes Comfort XS-S"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -50637,8 +51578,10 @@
         "Collar Premium M/l Trixie": 8838.4
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/trixie/collar-premium-l-xl-trixie.jpg",
+      "images": [
+        "img/planilla/trixie/collar-premium-l-xl-trixie.jpg"
+      ],
       "variants": [
         {
           "id": "trixie-collar-premium-m-l-trixie-unico",
@@ -50656,14 +51599,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/trixie/collar-premium-l-xl-trixie.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR PREMIUM M/L TRIXIE"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -50696,8 +51639,10 @@
         "Collar Premium S/m Trixie": 7036.8
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/trixie/collar-premium-l-xl-trixie.jpg",
+      "images": [
+        "img/planilla/trixie/collar-premium-l-xl-trixie.jpg"
+      ],
       "variants": [
         {
           "id": "trixie-collar-premium-s-m-trixie-unico",
@@ -50715,14 +51660,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/trixie/collar-premium-l-xl-trixie.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR PREMIUM S/M TRIXIE"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -50755,8 +51700,10 @@
         "Collar Premium Xs/s Trixie": 5819.2
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/trixie/collar-premium-l-xl-trixie.jpg",
+      "images": [
+        "img/planilla/trixie/collar-premium-l-xl-trixie.jpg"
+      ],
       "variants": [
         {
           "id": "trixie-collar-premium-xs-s-trixie-unico",
@@ -50774,14 +51721,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/trixie/collar-premium-l-xl-trixie.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR PREMIUM XS/S TRIXIE"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -50936,8 +51883,10 @@
         "Correa Premium Trixie Xs/s": 12733
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/trixie/correa-premium-trixie-m-l.jpg",
+      "images": [
+        "img/planilla/trixie/correa-premium-trixie-m-l.jpg"
+      ],
       "variants": [
         {
           "id": "trixie-correa-premium-trixie-xs-s-unico",
@@ -50955,14 +51904,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/trixie/correa-premium-trixie-m-l.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA PREMIUM TRIXIE XS/S"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -51244,8 +52193,10 @@
         "0.60": 11000
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/cali/cinturon-de-seguridad-cali.jpg",
+      "images": [
+        "img/planilla/cali/cinturon-de-seguridad-cali.jpg"
+      ],
       "variants": [
         {
           "id": "cali-cinturon-de-seguridad-cali-0-40",
@@ -51263,7 +52214,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/cinturon-de-seguridad-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CINTURON DE SEGURIDAD CALI 0.40"
@@ -51284,7 +52235,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/cinturon-de-seguridad-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CINTURON DE SEGURIDAD CALI 0.50"
@@ -51305,14 +52256,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/cinturon-de-seguridad-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CINTURON DE SEGURIDAD CALI 0.60"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -51388,8 +52339,11 @@
         "2X0.35/4": 8000
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/cali/collar-cali.jpg",
+      "images": [
+        "img/planilla/cali/collar-cali.jpg",
+        "img/planilla/cali/collar-cali-2.jpg"
+      ],
       "variants": [
         {
           "id": "cali-collar-cali-1-5x0-25-6",
@@ -51407,7 +52361,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR CALI 1,5X0,25/6"
@@ -51428,7 +52382,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR CALI 1,5X0.40/6"
@@ -51449,7 +52403,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR CALI 1.5X0.25/5"
@@ -51470,7 +52424,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR CALI 1.5X0.30/5"
@@ -51491,7 +52445,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR CALI 1.5X0.30/6"
@@ -51512,7 +52466,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR CALI 1.5X0.35/5"
@@ -51533,7 +52487,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR CALI 1.5X0.35/6"
@@ -51554,7 +52508,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR CALI 1.5X0.40/5"
@@ -51575,7 +52529,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR CALI 1.5X0.45/5"
@@ -51596,7 +52550,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR CALI 1.5X0.45/6"
@@ -51617,7 +52571,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR CALI 2,5X0.55/3"
@@ -51638,7 +52592,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR CALI 2,5X0.60/3"
@@ -51659,7 +52613,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR CALI 2.5X0.35/3"
@@ -51680,7 +52634,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR CALI 2.5X0.40/3"
@@ -51701,7 +52655,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR CALI 2.5X0.45/3"
@@ -51722,7 +52676,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR CALI 2.5X0.50/3"
@@ -51743,7 +52697,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR CALI 2X0.30/4"
@@ -51764,7 +52718,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR CALI 2X0.35/4"
@@ -51780,7 +52734,7 @@
           "pattern": null,
           "retailPrice": null,
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "pending-price",
           "sourceName": "COLLAR CALI 3X 0.30/1"
@@ -51796,7 +52750,7 @@
           "pattern": null,
           "retailPrice": null,
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "pending-price",
           "sourceName": "COLLAR CALI 3X0.40/1"
@@ -51812,7 +52766,7 @@
           "pattern": null,
           "retailPrice": null,
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "pending-price",
           "sourceName": "COLLAR CALI 3X0.45/1"
@@ -51828,7 +52782,7 @@
           "pattern": null,
           "retailPrice": null,
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "pending-price",
           "sourceName": "COLLAR CALI 3X0.50/1"
@@ -51844,7 +52798,7 @@
           "pattern": null,
           "retailPrice": null,
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "pending-price",
           "sourceName": "COLLAR CALI 3X0.55/1"
@@ -51860,7 +52814,7 @@
           "pattern": null,
           "retailPrice": null,
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "pending-price",
           "sourceName": "COLLAR CALI 3X0.60/1"
@@ -51876,7 +52830,7 @@
           "pattern": null,
           "retailPrice": null,
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "pending-price",
           "sourceName": "COLLAR CALI 3X0.65/1"
@@ -51892,7 +52846,7 @@
           "pattern": null,
           "retailPrice": null,
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "pending-price",
           "sourceName": "COLLAR CALI 3X0.70/1"
@@ -51908,14 +52862,14 @@
           "pattern": null,
           "retailPrice": null,
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-cali.jpg",
           "availability": null,
           "reviewStatus": "pending-price",
           "sourceName": "COLLAR CALI 3X0.75/1"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -51948,8 +52902,10 @@
         "Collar Eslastizado Gato Cali": 3500
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/cali/collar-elastizado-gato-cali.jpg",
+      "images": [
+        "img/planilla/cali/collar-elastizado-gato-cali.jpg"
+      ],
       "variants": [
         {
           "id": "cali-collar-eslastizado-gato-cali-unico",
@@ -51967,14 +52923,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/collar-elastizado-gato-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR ESLASTIZADO GATO CALI"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -52041,8 +52997,10 @@
         "3X5.00/1": 28800
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/cali/correa-cali.jpg",
+      "images": [
+        "img/planilla/cali/correa-cali.jpg"
+      ],
       "variants": [
         {
           "id": "cali-correa-cali-1-50x1-20-6",
@@ -52060,7 +53018,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 1,50X1,20/6"
@@ -52081,7 +53039,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 1,50X1,50/6"
@@ -52102,7 +53060,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 1.5X2.00/6"
@@ -52123,7 +53081,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 2 X 1.50 / 4"
@@ -52144,7 +53102,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 2 X 2 / 4"
@@ -52165,7 +53123,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 2.5 X 1.50 / 3"
@@ -52186,7 +53144,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 2.5X1.20/3"
@@ -52207,7 +53165,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 2.5X2.00/3"
@@ -52228,7 +53186,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 2.5X3.00/3"
@@ -52249,7 +53207,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 2X1.20/4"
@@ -52270,7 +53228,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 3 X 1.50 / 1"
@@ -52291,7 +53249,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 3X0.70/1"
@@ -52312,7 +53270,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 3X1.00/1"
@@ -52333,7 +53291,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 3X1.20/1"
@@ -52354,7 +53312,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 3x2.00/1"
@@ -52375,7 +53333,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 3X3.00/1"
@@ -52396,7 +53354,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 3X4.00 /1"
@@ -52417,14 +53375,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 3X5.00/1"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -52457,8 +53415,10 @@
         "Correa Cali 1.5X1.20/5 Caidel": 8700
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/cali/correa-cali.jpg",
+      "images": [
+        "img/planilla/cali/correa-cali.jpg"
+      ],
       "variants": [
         {
           "id": "cali-correa-cali-1-5x1-20-5-caidel-unico",
@@ -52476,14 +53436,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 1.5X1.20/5 CAIDEL"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -52516,8 +53476,10 @@
         "Correa Cali 1.5X1.50/5 Caidel": 9000
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/cali/correa-cali.jpg",
+      "images": [
+        "img/planilla/cali/correa-cali.jpg"
+      ],
       "variants": [
         {
           "id": "cali-correa-cali-1-5x1-50-5-caidel-unico",
@@ -52535,14 +53497,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 1.5X1.50/5 CAIDEL"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -52575,8 +53537,10 @@
         "1": 28750
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/cali/correa-cali.jpg",
+      "images": [
+        "img/planilla/cali/correa-cali.jpg"
+      ],
       "variants": [
         {
           "id": "cali-correa-cali-3-5-m-1",
@@ -52594,14 +53558,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 3×5 M / 1"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -52634,8 +53598,10 @@
         "1": 21780
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/cali/correa-cali.jpg",
+      "images": [
+        "img/planilla/cali/correa-cali.jpg"
+      ],
       "variants": [
         {
           "id": "cali-correa-cali-3-4-m-1",
@@ -52653,14 +53619,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/correa-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CORREA CALI 3×4 M / 1"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -52694,8 +53660,10 @@
         "Medallas Cali:🐾 Chapitas Personalizadas": 15200
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/cali/medallas-cali.jpg",
+      "images": [
+        "img/planilla/cali/medallas-cali.jpg"
+      ],
       "variants": [
         {
           "id": "cali-medallas-cali-chapitas-personalizadas-unico",
@@ -52713,14 +53681,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/cali/medallas-cali.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "MEDALLAS CALI:🐾 Chapitas personalizadas"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -52730,8 +53698,8 @@
     },
     {
       "id": "varios-collar-isabelino-rigido-n",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "M System",
+      "supplier": "M System",
       "line": null,
       "name": "Collar Isabelino Rigido N°",
       "sourceName": "Collar Isabelino rigido N° 1",
@@ -52931,8 +53899,11 @@
         "0.70 cm": 25000
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/trixie/collar-de-ahorque.jpg",
+      "images": [
+        "img/planilla/trixie/collar-de-ahorque.jpg",
+        "img/planilla/trixie/collar-de-ahorque-2.jpg"
+      ],
       "variants": [
         {
           "id": "trixie-collar-de-ahorque-0-50-cm",
@@ -52950,7 +53921,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/trixie/collar-de-ahorque.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR DE AHORQUE 0.50 cm"
@@ -52971,7 +53942,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/trixie/collar-de-ahorque.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR DE AHORQUE 0.60 cm"
@@ -52992,14 +53963,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/trixie/collar-de-ahorque.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COLLAR DE AHORQUE 0.70 cm"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -53032,8 +54003,11 @@
         "Kit Sanitario en Varios Colores": 9500
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/trixie/kit-sanitario.jpg",
+      "images": [
+        "img/planilla/trixie/kit-sanitario.jpg",
+        "img/planilla/trixie/kit-sanitario-2.jpg"
+      ],
       "variants": [
         {
           "id": "trixie-kit-sanitario-en-varios-colores-unico",
@@ -53051,14 +54025,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/trixie/kit-sanitario.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "KIT SANITARIO EN VARIOS COLORES"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -53091,8 +54065,10 @@
         "Bandeja Sanitaria Grande": 7000
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/trixie/bandeja-sanitaria-grande.jpg",
+      "images": [
+        "img/planilla/trixie/bandeja-sanitaria-grande.jpg"
+      ],
       "variants": [
         {
           "id": "trixie-bandeja-sanitaria-grande-unico",
@@ -53110,14 +54086,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/trixie/bandeja-sanitaria-grande.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "BANDEJA SANITARIA GRANDE"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
