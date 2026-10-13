@@ -9333,42 +9333,6 @@
       ]
     },
     {
-      "id": "royal-canin-perro-glycobalance",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Glycobalance",
-      "sourceName": "Glycobalance",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/perro-glycobalance.jpg",
-      "images": [],
-      "eans": [
-        "9003579051061"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
       "id": "royal-canin-perro-labrador-retriever-junior",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -10279,42 +10243,6 @@
       ]
     },
     {
-      "id": "royal-canin-dietas-hypoallergenic-canine-br",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": "Dietas veterinarias",
-      "name": "Hypoallergenic Canine BR",
-      "sourceName": "Hypoallergenic Canine BR",
-      "category": "alimentos",
-      "subcategory": "dieta-veterinaria",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/dietas-hypoallergenic-canine-br.jpg",
-      "images": [],
-      "eans": [
-        "7908248301398"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
       "id": "royal-canin-dietas-gastrointestinal-low-fat-canine",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -10831,42 +10759,6 @@
         {
           "file": "Drive: ALIMENTOS WEB, hoja RC lista sistema (Terranova, 2026-10-05)",
           "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
-      "id": "royal-canin-dietas-gi-kitten-mousse-wet",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": "Dietas veterinarias",
-      "name": "GI Kitten Mousse Wet",
-      "sourceName": "GI Kitten Mousse Wet",
-      "category": "alimentos",
-      "subcategory": "dieta-veterinaria",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/dietas-gi-kitten-mousse-wet.jpg",
-      "images": [],
-      "eans": [
-        "9003579013410"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
         }
       ]
     },
@@ -13110,42 +13002,6 @@
       ]
     },
     {
-      "id": "royal-canin-perro-maxi-adulto-h-medo",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Maxi Adulto Húmedo",
-      "sourceName": "Maxi Adulto Húmedo",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/perro-maxi-adulto-h-medo.jpg",
-      "images": [],
-      "eans": [
-        "9003579008485"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
       "id": "royal-canin-gato-persian",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -13768,42 +13624,6 @@
       ]
     },
     {
-      "id": "royal-canin-perro-medium-castrados",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Medium Castrados",
-      "sourceName": "Medium Castrados",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/perro-medium-castrados.jpg",
-      "images": [],
-      "eans": [
-        "7790187340862"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
       "id": "royal-canin-perro-ovejero-alem-n-adult",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -13877,42 +13697,6 @@
         {
           "file": "Drive: ALIMENTOS WEB, hoja RC lista sistema (Terranova, 2026-10-05)",
           "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
-      "id": "royal-canin-perro-maxi-castrados",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Maxi Castrados",
-      "sourceName": "Maxi Castrados",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/perro-maxi-castrados.jpg",
-      "images": [],
-      "eans": [
-        "7790187340756"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
         }
       ]
     },
@@ -14580,42 +14364,6 @@
         {
           "file": "Drive: ALIMENTOS WEB, hoja RC lista sistema (Terranova, 2026-10-05)",
           "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
-      "id": "royal-canin-dietas-mobility-larger-dogs",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": "Dietas veterinarias",
-      "name": "Mobility Larger Dogs",
-      "sourceName": "Mobility Larger Dogs",
-      "category": "alimentos",
-      "subcategory": "dieta-veterinaria",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/dietas-mobility-larger-dogs.jpg",
-      "images": [],
-      "eans": [
-        "7790187342590"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
         }
       ]
     },
@@ -17238,42 +16986,6 @@
       ]
     },
     {
-      "id": "royal-canin-perro-maxi-adulto-bonus-bag",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": null,
-      "name": "Maxi adulto Bonus Bag",
-      "sourceName": "Maxi adulto Bonus Bag",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/perro-maxi-adulto-bonus-bag.jpg",
-      "images": [],
-      "eans": [
-        "7790187340602"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
       "id": "royal-canin-perro-medium-puppy-pouch",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -17340,43 +17052,6 @@
         {
           "file": "Drive: ALIMENTOS WEB, hoja RC lista sistema (Terranova, 2026-10-05)",
           "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
-      "id": "royal-canin-dietas-mobility-c2p-plus-canine",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": "Dietas veterinarias",
-      "name": "Mobility C2P+ Canine",
-      "sourceName": "Mobility C2P+ Canine",
-      "category": "alimentos",
-      "subcategory": "dieta-veterinaria",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/dietas-mobility-c2p-plus-canine.jpg",
-      "images": [],
-      "eans": [
-        "7790187340213",
-        "9003579001691"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
         }
       ]
     },
