@@ -16422,42 +16422,6 @@
       ]
     },
     {
-      "id": "royal-canin-dietas-diabetic-special-canine",
-      "brand": "Royal Canin",
-      "supplier": "Royal Canin",
-      "line": "Dietas veterinarias",
-      "name": "Diabetic Special Canine",
-      "sourceName": "Diabetic Special Canine",
-      "category": "alimentos",
-      "subcategory": "dieta-veterinaria",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [],
-      "price": {},
-      "image": null,
-      "mainImage": "img/royal-canin/dietas-diabetic-special-canine.jpg",
-      "images": [],
-      "eans": [
-        "7790187339385"
-      ],
-      "variants": [],
-      "availability": null,
-      "reviewStatus": "pending-price",
-      "sources": [
-        {
-          "file": "source-data/Jose Negro/2026-08-25/Royal Canin",
-          "sourceType": "brand-photo-set"
-        }
-      ]
-    },
-    {
       "id": "royal-canin-perro-medium-adult-pouch",
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
@@ -24637,67 +24601,6 @@
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "BAL PERRO SENIOR RP 7.5 KG"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "confirmed",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
-      "id": "balanced-bal-soufle-gato",
-      "brand": "Balanced",
-      "supplier": "Balanced",
-      "line": null,
-      "name": "Balanced Soufflé Gato",
-      "sourceName": "BAL SOUFLE GATO 85 G",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "85 g"
-      ],
-      "price": {
-        "85 g": 2454
-      },
-      "image": null,
-      "mainImage": "img/balanced/bal-soufle-gato-85-g.jpg",
-      "images": [
-        "img/balanced/bal-soufle-gato-85-g.jpg"
-      ],
-      "variants": [
-        {
-          "id": "balanced-bal-soufle-gato-85-g",
-          "sku": null,
-          "ean": null,
-          "presentation": "85 g",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 2454,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": "img/balanced/bal-soufle-gato-85-g.jpg",
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "BAL SOUFLE GATO 85 G"
         }
       ],
       "availability": null,
@@ -44606,8 +44509,8 @@
       "line": null,
       "name": "Golden Breeze Perfumada Super Premium",
       "sourceName": "Golden Breeze perfumada Super Premium 4kg",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
+      "category": "accesorios",
+      "subcategory": "sanitario",
       "species": [
         "perro"
       ],
@@ -44665,8 +44568,8 @@
       "line": null,
       "name": "Golden Breeze Neutras Super Premium",
       "sourceName": "Golden Breeze Neutras Super Premium 2kg",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
+      "category": "accesorios",
+      "subcategory": "sanitario",
       "species": [
         "perro"
       ],
@@ -45236,8 +45139,8 @@
     },
     {
       "id": "varios-alta-gama-lavanda",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Absorsol",
+      "supplier": "Absorsol",
       "line": null,
       "name": "Alta Gama Lavanda",
       "sourceName": "ALTA GAMA LAVANDA 2KG",
@@ -45320,8 +45223,8 @@
     },
     {
       "id": "varios-alta-gama-limon",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Absorsol",
+      "supplier": "Absorsol",
       "line": null,
       "name": "Alta Gama Limon",
       "sourceName": "ALTA GAMA LIMON 3.6 KG",
@@ -45381,8 +45284,8 @@
     },
     {
       "id": "varios-alta-gama-negra",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Absorsol",
+      "supplier": "Absorsol",
       "line": null,
       "name": "Alta Gama Negra",
       "sourceName": "ALTA GAMA NEGRA 3.6 KG",
@@ -45442,8 +45345,8 @@
     },
     {
       "id": "varios-alta-gama-vainilla",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Absorsol",
+      "supplier": "Absorsol",
       "line": null,
       "name": "Alta Gama Vainilla",
       "sourceName": "ALTA GAMA VAINILLA 3.6 KG",
@@ -45942,8 +45845,8 @@
       "line": null,
       "name": "Protector Solar Osspret para Perros y Gatos",
       "sourceName": "Protector Solar Osspret para Perros y Gatos x 130 ML",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
+      "category": "accesorios",
+      "subcategory": "higiene",
       "species": [
         "gato"
       ],
@@ -46613,8 +46516,8 @@
     },
     {
       "id": "varios-mamadera-plastico",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Mamadera Plastico",
       "sourceName": "mamadera plastico",
@@ -46681,7 +46584,7 @@
       "name": "Kil Ag – Aerosol Cicatrizante y Antimiásico",
       "sourceName": "Kil AG – Aerosol Cicatrizante y Antimiásico x 420 mL",
       "category": "accesorios",
-      "subcategory": "sanidad",
+      "subcategory": "higiene",
       "species": [
         "perro",
         "gato"
@@ -46743,7 +46646,7 @@
       "name": "Otra Parte – Repelente para Perros y Gatos",
       "sourceName": "Otra Parte – Repelente para Perros y Gatos x 1 L",
       "category": "accesorios",
-      "subcategory": "sanidad",
+      "subcategory": "higiene",
       "species": [
         "gato"
       ],
@@ -46798,13 +46701,13 @@
     },
     {
       "id": "varios-formula-mac-donald",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Mac Donald",
+      "supplier": "Mac Donald",
       "line": null,
       "name": "Formula Mac Donald",
       "sourceName": "Formula Mac Donald 1 Kg",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
+      "category": "accesorios",
+      "subcategory": "higiene",
       "species": [
         "perro",
         "gato"
@@ -47257,8 +47160,10 @@
         "120 cc": 12700
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/farmacia/ecthol-5-antiparasitario-externo.jpg",
+      "images": [
+        "img/planilla/farmacia/ecthol-5-antiparasitario-externo.jpg"
+      ],
       "variants": [
         {
           "id": "ecthol-ecthol-5-antiparasitario-externo-70-cc",
@@ -47276,7 +47181,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/farmacia/ecthol-5-antiparasitario-externo.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "Ecthol 5 – Antiparasitario Externo 70 cc"
@@ -47297,14 +47202,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/farmacia/ecthol-5-antiparasitario-externo.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "Ecthol 5 – Antiparasitario Externo 120 cc"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -49112,8 +49017,8 @@
     },
     {
       "id": "varios-juguete-para-gatos-raton-tricolor-con-cola-y-sonido",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Juguete para Gatos Ratón Tricolor con Cola y Sonido",
       "sourceName": "Juguete para gatos Ratón Tricolor con Cola y Sonido",
@@ -49173,8 +49078,8 @@
     },
     {
       "id": "varios-juguete-para-gato-mamba-con-catnip-15-5x3cm",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Juguete para Gato Mamba con Catnip 15.5x3cm",
       "sourceName": "Juguete para Gato Mamba con Catnip 15.5x3cm",
@@ -49234,8 +49139,8 @@
     },
     {
       "id": "varios-juguete-para-gato-tortuga-con-catnip-12x10cm",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Juguete para Gato. Tortuga con Catnip 12x10cm",
       "sourceName": "Juguete para Gato. TORTUGA CON CATNIP 12x10cm",
@@ -49295,8 +49200,8 @@
     },
     {
       "id": "varios-juguete-para-gato-tucan-con-plumas-11x11cm",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Juguete para Gato. Tucan con Plumas 11x11cm",
       "sourceName": "Juguete para gato. tucan con Plumas 11x11cm",
@@ -49356,8 +49261,8 @@
     },
     {
       "id": "varios-juguete-para-perro-mordillo-estrella",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Juguete para Perro Mordillo Estrella",
       "sourceName": "Juguete para perro Mordillo Estrella",
@@ -49417,8 +49322,8 @@
     },
     {
       "id": "varios-juguete-de-perro-jirafa-con-chifle",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Juguete de Perro Jirafa con Chifle",
       "sourceName": "Juguete de perro Jirafa con chifle 27 cm",
@@ -49478,13 +49383,13 @@
     },
     {
       "id": "varios-jueguete-para-gato-mariposa-con-plumas",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Jueguete para Gato. Mariposa con Plumas",
       "sourceName": "Jueguete para gato. Mariposa con plumas",
-      "category": "alimentos",
-      "subcategory": "alimento-balanceado",
+      "category": "juguetes",
+      "subcategory": "varios",
       "species": [
         "gato"
       ],
@@ -49539,8 +49444,8 @@
     },
     {
       "id": "varios-jueguete-para-perro-cocodrilo-latex-31cm-con-chifle",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Jueguete para Perro. Cocodrilo Látex 31cm con Chifle",
       "sourceName": "Jueguete para perro. Cocodrilo látex 31cm con chifle",
@@ -49600,8 +49505,8 @@
     },
     {
       "id": "varios-tortuga-de-peluche-medida",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Tortuga de Peluche Medida:",
       "sourceName": "Tortuga de peluche Medida: 25 cm",
@@ -49662,8 +49567,8 @@
     },
     {
       "id": "varios-peluche-ardilla-para-perro-16-5-cm-con-chifle",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Peluche Ardilla para Perro. 16,5 Cm, con Chifle",
       "sourceName": "Peluche Ardilla para Perro. 16,5 cm, con chifle",
@@ -49723,8 +49628,8 @@
     },
     {
       "id": "varios-ornitorrinco-para-perro-24-cm-con-chifle",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Ornitorrinco para Perro. 24 Cm, con Chifle",
       "sourceName": "Ornitorrinco para Perro. 24 cm, con chifle",
@@ -49784,8 +49689,8 @@
     },
     {
       "id": "varios-capibara-para-perro-17-5-cm-con-chifle",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Capibara para Perro. 17,5 Cm, con Chifle",
       "sourceName": "Capibara para Perro. 17,5 cm, con chifle",
@@ -49845,8 +49750,8 @@
     },
     {
       "id": "varios-raya-peluche-36-8cm-con-chifle-y-sonido-crunch",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Raya - Peluche, 36.8cm, con Chifle y Sonido Crunch",
       "sourceName": "Raya - Peluche, 36.8cm, con chifle y sonido crunch",
@@ -49907,8 +49812,8 @@
     },
     {
       "id": "varios-mordillo-ice-para-perros",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Mordillo Ice para Perros",
       "sourceName": "Mordillo ice para perros",
@@ -49968,8 +49873,8 @@
     },
     {
       "id": "varios-pelotas-dosificadora-para-perro",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Pelotas Dosificadora para Perro",
       "sourceName": "Pelotas dosificadora para Perro",
@@ -50029,8 +49934,8 @@
     },
     {
       "id": "varios-pelotas-de-tennis-bicolor-x-3-para-perro",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Pelotas de Tennis Bicolor X 3 para Perro",
       "sourceName": "Pelotas de tennis bicolor X 3 para Perro",
@@ -50090,8 +49995,8 @@
     },
     {
       "id": "varios-pelota-para-gatos",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Pelota para Gatos",
       "sourceName": "pelota para gatos",
@@ -50151,8 +50056,8 @@
     },
     {
       "id": "varios-pelotas-de-tennis-x-3-para-perro",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Pelotas de Tennis X 3 para Perro",
       "sourceName": "Pelotas de tennis X 3 para Perro",
@@ -50212,8 +50117,8 @@
     },
     {
       "id": "varios-mancuerna-snack-spielzeug",
-      "brand": "Varios",
-      "supplier": "Varios",
+      "brand": "Genérico",
+      "supplier": "Genérico",
       "line": null,
       "name": "Mancuerna Snack Spielzeug",
       "sourceName": "MANCUERNA SNACK SPIELZEUG",
