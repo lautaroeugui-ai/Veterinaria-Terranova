@@ -328,16 +328,13 @@ function createProductCard(product){
   const price=document.createElement('p');
   price.className='product-price';
   price.setAttribute('aria-live','polite');
-  const review=document.createElement('p');
-  review.className='review-note';
-  review.textContent='Precio pendiente de revisión';
   const button=document.createElement('button');
   button.className='btn product-add';
   button.type='button';
   button.textContent='Agregar al pedido';
   const purchase=document.createElement('div');
   purchase.className='product-purchase';
-  purchase.append(price,review,button);
+  purchase.append(price,button);
   body.append(purchase);
 
   function updateVariant(){
@@ -348,7 +345,6 @@ function createProductCard(product){
     price.classList.toggle('is-query',!hasPrice);
     button.disabled=!hasPrice;
     if(presentation)presentation.textContent=variantLabel(selectedVariant);
-    review.hidden=!hasPrice||(product.reviewStatus!=='price-review'&&selectedVariant?.reviewStatus!=='price-review');
   }
 
   variantSelect?.addEventListener('change',()=>{
