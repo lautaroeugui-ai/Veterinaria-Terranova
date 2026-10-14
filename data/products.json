@@ -2906,7 +2906,7 @@
       "brand": "Beepaw",
       "supplier": "Beepaw",
       "line": null,
-      "name": "Arbol Para Gatos Amarillo",
+      "name": "Árbol para Gatos Amarillo",
       "sourceName": "ARBOL PARA GATOS AMARILLO",
       "category": "accesorios",
       "subcategory": "varios",
@@ -2976,7 +2976,7 @@
       "brand": "Beepaw",
       "supplier": "Beepaw",
       "line": null,
-      "name": "Arbol Para Gatos Terciopelo Gris Claro",
+      "name": "Árbol para Gatos Terciopelo Gris Claro",
       "sourceName": "ARBOL PARA GATOS TERCIOPELO GRIS CLARO",
       "category": "accesorios",
       "subcategory": "varios",
@@ -6351,70 +6351,6 @@
       ]
     },
     {
-      "id": "mkr-pets-colchoneta-antidesgarro-n-o-4-10060",
-      "brand": "MKR Pets",
-      "supplier": "MKR Pets",
-      "line": null,
-      "name": "Colchoneta Antidesgarro N.º 4 100×60",
-      "sourceName": "Colchoneta Antidesgarro N.º 4 100×60",
-      "category": "camas-y-descanso",
-      "subcategory": "varios",
-      "species": [
-        "perro",
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "Colchoneta Antidesgarro N.º 4 100×60"
-      ],
-      "price": {
-        "Colchoneta Antidesgarro N.º 4 100×60": 33940.5
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
-        {
-          "id": "mkr-pets-colchoneta-antidesgarro-n-o-4-10060-2164",
-          "sku": "2164",
-          "ean": null,
-          "presentation": "Colchoneta Antidesgarro N.º 4 100×60",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 33940.5,
-            "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "confirmed",
-      "sources": [
-        {
-          "file": "source-data/catalogo_fuente_terranova.xlsx",
-          "sourceType": "terranova-price-list",
-          "sheet": "productos"
-        },
-        {
-          "file": "source-data/terranova_source_data_nuevo.zip::CATALOGO MAYORISTA MKR PETS ACTUALIZADO JULIO 2026 A.pdf",
-          "sourceType": "supplier-catalog"
-        }
-      ]
-    },
-    {
       "id": "mkr-pets-mantitas",
       "brand": "MKR Pets",
       "supplier": "MKR Pets",
@@ -6668,70 +6604,6 @@
           "pattern": null,
           "retailPrice": {
             "amount": 51298.2,
-            "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "confirmed",
-      "sources": [
-        {
-          "file": "source-data/catalogo_fuente_terranova.xlsx",
-          "sourceType": "terranova-price-list",
-          "sheet": "productos"
-        },
-        {
-          "file": "source-data/terranova_source_data_nuevo.zip::_Catálogo Rosoví AGO.26.pdf (1).pdf",
-          "sourceType": "supplier-catalog"
-        }
-      ]
-    },
-    {
-      "id": "rosovi-pets-maxi-puff-tussor-y-vellon",
-      "brand": "Rosoví Pets",
-      "supplier": "Rosoví Pets",
-      "line": null,
-      "name": "Maxi Puff Tussor Y Vellón",
-      "sourceName": "Maxi Puff Tussor y Vellón",
-      "category": "camas-y-descanso",
-      "subcategory": "varios",
-      "species": [
-        "perro",
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "Maxi Puff Tussor y Vellón"
-      ],
-      "price": {
-        "Maxi Puff Tussor y Vellón": 41400
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
-        {
-          "id": "rosovi-pets-maxi-puff-tussor-y-vellon-1396",
-          "sku": "1396",
-          "ean": null,
-          "presentation": "Maxi Puff Tussor y Vellón",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 41400,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -7255,7 +7127,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Monstruos Latex Trixie",
+      "name": "Monstruos Látex Trixie",
       "sourceName": "Monstruos latex Trixie",
       "category": "juguetes",
       "subcategory": "varios",
@@ -7319,7 +7191,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Arnes Confort Soft S Trixie",
+      "name": "Arnés Comfort Soft S Trixie",
       "sourceName": "Arnes confort soft S trixie",
       "category": "paseo",
       "subcategory": "varios",
@@ -7333,10 +7205,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Arnes confort soft S trixie"
+        "S"
       ],
       "price": {
-        "Arnes confort soft S trixie": 38808.07
+        "S": 38808.07
       },
       "image": null,
       "mainImage": "img/trixie/arnes-confort-soft-s.webp",
@@ -7346,7 +7218,7 @@
           "id": "trixie-arnes-confort-soft-s-trixie-2318",
           "sku": "2318",
           "ean": null,
-          "presentation": "Arnes confort soft S trixie",
+          "presentation": "S",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -7365,69 +7237,6 @@
       ],
       "availability": null,
       "reviewStatus": "confirmed",
-      "sources": [
-        {
-          "file": "source-data/catalogo_fuente_terranova.xlsx",
-          "sourceType": "terranova-price-list",
-          "sheet": "productos"
-        },
-        {
-          "file": "source-data/terranova_source_data_nuevo.zip::TRIXIE_lista_precios.jpg",
-          "sourceType": "terranova-price-capture"
-        }
-      ]
-    },
-    {
-      "id": "trixie-bozal-trixie",
-      "brand": "TRIXIE",
-      "supplier": "TRIXIE",
-      "line": null,
-      "name": "Bozal Trixie",
-      "sourceName": "BOZAL TRIXIE",
-      "category": "paseo",
-      "subcategory": "varios",
-      "species": [
-        "perro"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "BOZAL TRIXIE"
-      ],
-      "price": {
-        "BOZAL TRIXIE": 1042
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
-        {
-          "id": "trixie-bozal-trixie-sin-codigo-bozal",
-          "sku": null,
-          "ean": null,
-          "presentation": "BOZAL TRIXIE",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 1042,
-            "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "price-review"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "price-review",
       "sources": [
         {
           "file": "source-data/catalogo_fuente_terranova.xlsx",
@@ -7805,92 +7614,6 @@
       ]
     },
     {
-      "id": "trixie-comedero-dibujo",
-      "brand": "TRIXIE",
-      "supplier": "TRIXIE",
-      "line": null,
-      "name": "Comedero dibujo",
-      "sourceName": "COMEDERO DIBUJO TRIXIE MEDIANO",
-      "category": "alimentacion-e-hidratacion",
-      "subcategory": "varios",
-      "species": [
-        "perro",
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "COMEDERO DIBUJO TRIXIE MEDIANO",
-        "COMEDERO DIBUJO TRIXIE CHICO"
-      ],
-      "price": {
-        "COMEDERO DIBUJO TRIXIE MEDIANO": 9000,
-        "COMEDERO DIBUJO TRIXIE CHICO": 6000
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
-        {
-          "id": "trixie-comedero-dibujo-1393",
-          "sku": "1393",
-          "ean": null,
-          "presentation": "COMEDERO DIBUJO TRIXIE MEDIANO",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 9000,
-            "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed"
-        },
-        {
-          "id": "trixie-comedero-dibujo-824",
-          "sku": "824",
-          "ean": null,
-          "presentation": "COMEDERO DIBUJO TRIXIE CHICO",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 6000,
-            "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "confirmed",
-      "sources": [
-        {
-          "file": "source-data/catalogo_fuente_terranova.xlsx",
-          "sourceType": "terranova-price-list",
-          "sheet": "productos"
-        },
-        {
-          "file": "source-data/terranova_source_data_nuevo.zip::TRIXIE_lista_precios.jpg",
-          "sourceType": "terranova-price-capture"
-        }
-      ]
-    },
-    {
       "id": "trixie-collar-nylon-gatos-trixie",
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
@@ -8061,70 +7784,6 @@
           "pattern": null,
           "retailPrice": {
             "amount": 16800,
-            "currency": "ARS",
-            "source": "source-data/catalogo_fuente_terranova.xlsx",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "confirmed",
-      "sources": [
-        {
-          "file": "source-data/catalogo_fuente_terranova.xlsx",
-          "sourceType": "terranova-price-list",
-          "sheet": "productos"
-        },
-        {
-          "file": "source-data/terranova_source_data_nuevo.zip::TRIXIE_lista_precios.jpg",
-          "sourceType": "terranova-price-capture"
-        }
-      ]
-    },
-    {
-      "id": "trixie-comedero-silicona-trixie-medio",
-      "brand": "TRIXIE",
-      "supplier": "TRIXIE",
-      "line": null,
-      "name": "Comedero Silicona Trixie Medio",
-      "sourceName": "Comedero Silicona Trixie Medio",
-      "category": "alimentacion-e-hidratacion",
-      "subcategory": "varios",
-      "species": [
-        "perro",
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "Comedero Silicona Trixie Medio"
-      ],
-      "price": {
-        "Comedero Silicona Trixie Medio": 24820
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
-        {
-          "id": "trixie-comedero-silicona-trixie-medio-2242",
-          "sku": "2242",
-          "ean": null,
-          "presentation": "Comedero Silicona Trixie Medio",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 24820,
             "currency": "ARS",
             "source": "source-data/catalogo_fuente_terranova.xlsx",
             "priceType": "terranova"
@@ -13497,7 +13156,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Mini Pupy",
+      "name": "Mini Puppy",
       "sourceName": "MINI PUPY",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -15754,7 +15413,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Jack Russel Puppy",
+      "name": "Jack Russell Puppy",
       "sourceName": "Jack Russel Puppy",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -16178,7 +15837,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "medium adult pouch",
+      "name": "Medium Adult Pouch",
       "sourceName": "medium adult pouch",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -16994,7 +16653,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "medium puppy pouch",
+      "name": "Medium Puppy Pouch",
       "sourceName": "medium puppy pouch",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -17862,7 +17521,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Jack Russel Adulto",
+      "name": "Jack Russell Adulto",
       "sourceName": "Jack Russel Adulto",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -18223,7 +17882,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "maxi puppy pouch",
+      "name": "Maxi Puppy Pouch",
       "sourceName": "maxi puppy pouch",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -34759,7 +34418,7 @@
       "brand": "Maintenance",
       "supplier": "Maintenance",
       "line": null,
-      "name": "Maintenance Gato Adulto Urinario15 Kg",
+      "name": "Maintenance Gato Adulto Urinario",
       "sourceName": "Maintenance gato adulto urinario15 kg",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -34773,10 +34432,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Maintenance Gato Adulto Urinario15 Kg"
+        "Maintenance Gato Adulto Urinario"
       ],
       "price": {
-        "Maintenance Gato Adulto Urinario15 Kg": 40095.01
+        "Maintenance Gato Adulto Urinario": 40095.01
       },
       "image": null,
       "mainImage": "img/planilla/maintenance/maintenance-gato-adulto-urinario15-kg.jpg",
@@ -34788,7 +34447,7 @@
           "id": "maintenance-maintenance-gato-adulto-urinario15-kg-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Maintenance Gato Adulto Urinario15 Kg",
+          "presentation": "Maintenance Gato Adulto Urinario",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -36949,7 +36608,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Mini Dermaconfort",
+      "name": "Mini Dermacomfort",
       "sourceName": "ROYAL CANIN MINI DERMACONFORT",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -38012,7 +37671,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Bulldog Frances Puppy",
+      "name": "Bulldog Francés Puppy",
       "sourceName": "RC BULLDOG FRANCES PUPPY",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -41475,7 +41134,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Rc Satiety Support Weight Management Lata Dog",
+      "name": "Satiety Support Weight Management Lata Dog",
       "sourceName": "RC RC Satiety Support Weight Management LATA DOG",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -41670,7 +41329,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Xs Adult",
+      "name": "XS Adult",
       "sourceName": "RC XS ADULT",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -41735,7 +41394,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "Xs Puppy",
+      "name": "XS Puppy",
       "sourceName": "RC XS PUPPY",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -42661,7 +42320,7 @@
       "brand": "Whiskas",
       "supplier": "Whiskas",
       "line": null,
-      "name": "Whiskas Lata para Gatos Atun en Paté",
+      "name": "Whiskas Lata para Gatos Atún en Paté",
       "sourceName": "Whiskas Lata Para Gatos atun en Paté x 340 g",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -42722,7 +42381,7 @@
       "brand": "Whiskas",
       "supplier": "Whiskas",
       "line": null,
-      "name": "Whiskas Sobrecito para Gatitos Carne en Soufflé X",
+      "name": "Whiskas Sobrecito para Gatitos Carne en Soufflé",
       "sourceName": "Whiskas Sobrecito Para Gatitos Carne en Soufflé x 85",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -42842,7 +42501,7 @@
       "brand": "Whiskas",
       "supplier": "Whiskas",
       "line": null,
-      "name": "Whiskas Sobrecito para Gatos Pescado en Soufflé X",
+      "name": "Whiskas Sobrecito para Gatos Pescado en Soufflé",
       "sourceName": "Whiskas Sobrecito Para Gatos Pescado en Soufflé x 85",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -42964,7 +42623,7 @@
       "brand": "Whiskas",
       "supplier": "Whiskas",
       "line": null,
-      "name": "Whiskas Sobrecito para Gatos Sardina en Salsa X",
+      "name": "Whiskas Sobrecito para Gatos Sardina en Salsa",
       "sourceName": "Whiskas Sobrecito Para Gatos Sardina en Salsa x 85",
       "category": "alimentos",
       "subcategory": "alimento-balanceado",
@@ -44072,7 +43731,7 @@
       "brand": "Cholitas",
       "supplier": "Cholitas",
       "line": null,
-      "name": "Galletitas Caseras Cholitas -",
+      "name": "Galletitas Caseras Cholitas",
       "sourceName": "Galletitas Caseras Cholitas - 500 Grs",
       "category": "alimentos-y-snacks",
       "subcategory": "alimento-o-snack",
@@ -44396,7 +44055,7 @@
       "brand": "Super Cat",
       "supplier": "Super Cat",
       "line": null,
-      "name": "Arena Sanitaria Super Gato 25 Litros",
+      "name": "Arena Sanitaria Super Cat 25 Litros",
       "sourceName": "Arena Sanitaria Super Cat 25 Litros  12,5 kg  ",
       "category": "accesorios",
       "subcategory": "sanitario",
@@ -44913,7 +44572,7 @@
       "brand": "Absorsol",
       "supplier": "Absorsol",
       "line": null,
-      "name": "Alta Gama Limon",
+      "name": "Alta Gama Limón",
       "sourceName": "ALTA GAMA LIMON 3.6 KG",
       "category": "accesorios",
       "subcategory": "sanitario",
@@ -45591,7 +45250,7 @@
       "brand": "Osspret",
       "supplier": "Osspret",
       "line": null,
-      "name": "Osspret Shampoo Máximo Color - Blanco X 25o Ml",
+      "name": "Osspret Shampoo Máximo Color Blanco 250 ml",
       "sourceName": "Osspret Shampoo Máximo Color - Blanco x 25o mL",
       "category": "accesorios",
       "subcategory": "higiene",
@@ -45606,20 +45265,22 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Osspret Shampoo Máximo Color - Blanco X 25o Ml"
+        "Osspret Shampoo Máximo Color Blanco 250 ml"
       ],
       "price": {
-        "Osspret Shampoo Máximo Color - Blanco X 25o Ml": 11000
+        "Osspret Shampoo Máximo Color Blanco 250 ml": 11000
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/extra/osspret-shampoo-maximo-color-blanco.jpg",
+      "images": [
+        "img/planilla/extra/osspret-shampoo-maximo-color-blanco.jpg"
+      ],
       "variants": [
         {
           "id": "osspret-osspret-shampoo-maximo-color-blanco-x-25o-ml-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Osspret Shampoo Máximo Color - Blanco X 25o Ml",
+          "presentation": "Osspret Shampoo Máximo Color Blanco 250 ml",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -45631,14 +45292,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/extra/osspret-shampoo-maximo-color-blanco.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "Osspret Shampoo Máximo Color - Blanco x 25o mL"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -45713,7 +45374,7 @@
       "brand": "Osspret",
       "supplier": "Osspret",
       "line": null,
-      "name": "Osspret Shampoo Tradiocional",
+      "name": "Osspret Shampoo Tradicional",
       "sourceName": "Osspret Shampoo tradiocional x 250 mL",
       "category": "accesorios",
       "subcategory": "higiene",
@@ -45898,7 +45559,7 @@
       "brand": "Osspret",
       "supplier": "Osspret",
       "line": null,
-      "name": "Procolor Osspret – Limpia Lagrimas, Neutralizador de Olor y Mejorador Del Color",
+      "name": "Procolor Osspret – Limpia Lágrimas, Neutralizador de Olor y Mejorador del Color",
       "sourceName": "Procolor Osspret – Limpia lagrimas, Neutralizador de Olor y Mejorador del Color",
       "category": "accesorios",
       "subcategory": "higiene",
@@ -45913,10 +45574,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Procolor Osspret – Limpia Lagrimas, Neutralizador de Olor y Mejorador Del Color"
+        "Procolor Osspret – Limpia Lágrimas, Neutralizador de Olor y Mejorador del Color"
       ],
       "price": {
-        "Procolor Osspret – Limpia Lagrimas, Neutralizador de Olor y Mejorador Del Color": 10000
+        "Procolor Osspret – Limpia Lágrimas, Neutralizador de Olor y Mejorador del Color": 10000
       },
       "image": null,
       "mainImage": "img/planilla/farmacia/procolor-osspret-limpia-lagrimas-neutralizador-de-olor-y-mejorador-del.jpg",
@@ -45928,7 +45589,7 @@
           "id": "osspret-procolor-osspret-limpia-lagrimas-neutralizador-de-olor-y-mejorador-del-color-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Procolor Osspret – Limpia Lagrimas, Neutralizador de Olor y Mejorador Del Color",
+          "presentation": "Procolor Osspret – Limpia Lágrimas, Neutralizador de Olor y Mejorador del Color",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -46206,7 +45867,7 @@
       "brand": "Genérico",
       "supplier": "Genérico",
       "line": null,
-      "name": "Mamadera Plastico",
+      "name": "Mamadera Plástico",
       "sourceName": "mamadera plastico",
       "category": "alimentacion-e-hidratacion",
       "subcategory": "comederos",
@@ -46221,10 +45882,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Mamadera Plastico"
+        "Mamadera Plástico"
       ],
       "price": {
-        "Mamadera Plastico": 5000
+        "Mamadera Plástico": 5000
       },
       "image": null,
       "mainImage": "img/planilla/farmacia/mamadera-plastico.jpg",
@@ -46236,7 +45897,7 @@
           "id": "varios-mamadera-plastico-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Mamadera Plastico",
+          "presentation": "Mamadera Plástico",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -46391,7 +46052,7 @@
       "brand": "Mac Donald",
       "supplier": "Mac Donald",
       "line": null,
-      "name": "Formula Mac Donald",
+      "name": "Fórmula Mac Donald",
       "sourceName": "Formula Mac Donald 1 Kg",
       "category": "accesorios",
       "subcategory": "higiene",
@@ -46967,8 +46628,8 @@
     },
     {
       "id": "dermo-dermoscalm-shampoo-avena-plus-aloe",
-      "brand": "Dermo",
-      "supplier": "Dermo",
+      "brand": "Dermosedan",
+      "supplier": "Dermosedan",
       "line": null,
       "name": "Dermoscalm Shampoo Avena + Aloe",
       "sourceName": "Dermoscalm Shampoo Avena + Aloe x 200cc",
@@ -47029,8 +46690,8 @@
     },
     {
       "id": "dermo-dermosedan-shampoo-uso-frecuente",
-      "brand": "Dermo",
-      "supplier": "Dermo",
+      "brand": "Dermosedan",
+      "supplier": "Dermosedan",
       "line": null,
       "name": "Dermosedan Shampoo Uso Frecuente",
       "sourceName": "Dermosedan Shampoo uso frecuente x 200cc",
@@ -47294,7 +46955,7 @@
       "brand": "Genérico",
       "supplier": "Genérico",
       "line": null,
-      "name": "Comedero Acero Inox Recub \"cool\"",
+      "name": "Comedero Acero Inox Recubierto \"Cool\"",
       "sourceName": "COMEDERO ACERO INOX RECUB \"COOL\"",
       "category": "alimentacion-e-hidratacion",
       "subcategory": "comederos",
@@ -47309,10 +46970,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Comedero Acero Inox Recub \"cool\""
+        "Comedero Acero Inox Recubierto \"Cool\""
       ],
       "price": {
-        "Comedero Acero Inox Recub \"cool\"": 9553.5
+        "Comedero Acero Inox Recubierto \"Cool\"": 9553.5
       },
       "image": null,
       "mainImage": "img/planilla/platoscomederos/comedero-acero-inox-recub-cool.jpg",
@@ -47324,7 +46985,7 @@
           "id": "varios-comedero-acero-inox-recub-cool-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Comedero Acero Inox Recub \"cool\"",
+          "presentation": "Comedero Acero Inox Recubierto \"Cool\"",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -47356,7 +47017,7 @@
       "brand": "Genérico",
       "supplier": "Genérico",
       "line": null,
-      "name": "Comedero Acero Lineas Pintadas 17 cm",
+      "name": "Comedero Acero Líneas Pintadas 17 cm",
       "sourceName": "COMEDERO ACERO LINEAS PINTADAS",
       "category": "alimentacion-e-hidratacion",
       "subcategory": "comederos",
@@ -47418,7 +47079,7 @@
       "brand": "Genérico",
       "supplier": "Genérico",
       "line": null,
-      "name": "Comedero Coker Plastico",
+      "name": "Comedero Coker Plástico",
       "sourceName": "COMEDERO COKER PLASTICO",
       "category": "alimentacion-e-hidratacion",
       "subcategory": "comederos",
@@ -47433,10 +47094,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Comedero Coker Plastico"
+        "Comedero Coker Plástico"
       ],
       "price": {
-        "Comedero Coker Plastico": 1600
+        "Comedero Coker Plástico": 1600
       },
       "image": null,
       "mainImage": "img/planilla/platoscomederos/comedero-coker-plastico.jpg",
@@ -47448,7 +47109,7 @@
           "id": "varios-comedero-coker-plastico-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Comedero Coker Plastico",
+          "presentation": "Comedero Coker Plástico",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -47476,316 +47137,11 @@
       ]
     },
     {
-      "id": "varios-comedero-doble",
-      "brand": "Genérico",
-      "supplier": "Genérico",
-      "line": null,
-      "name": "Comedero Doble",
-      "sourceName": "COMEDERO DOBLE 21 CM",
-      "category": "alimentacion-e-hidratacion",
-      "subcategory": "comederos",
-      "species": [
-        "perro",
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "21 cm"
-      ],
-      "price": {
-        "21 cm": 21080
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
-        {
-          "id": "varios-comedero-doble-21-cm",
-          "sku": null,
-          "ean": null,
-          "presentation": "21 cm",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 21080,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "COMEDERO DOBLE 21 CM"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "pending-image-match",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
-      "id": "varios-comedero-doble-gatito-negro",
-      "brand": "Genérico",
-      "supplier": "Genérico",
-      "line": null,
-      "name": "Comedero Doble Gatito Negro",
-      "sourceName": "COMEDERO DOBLE GATITO NEGRO",
-      "category": "alimentacion-e-hidratacion",
-      "subcategory": "comederos",
-      "species": [
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "Comedero Doble Gatito Negro"
-      ],
-      "price": {
-        "Comedero Doble Gatito Negro": 7550.4
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
-        {
-          "id": "varios-comedero-doble-gatito-negro-unico",
-          "sku": null,
-          "ean": null,
-          "presentation": "Comedero Doble Gatito Negro",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 7550.4,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "COMEDERO DOBLE GATITO NEGRO"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "pending-image-match",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
-      "id": "varios-comedero-doble-m",
-      "brand": "Genérico",
-      "supplier": "Genérico",
-      "line": null,
-      "name": "Comedero Doble M",
-      "sourceName": "COMEDERO DOBLE M",
-      "category": "alimentacion-e-hidratacion",
-      "subcategory": "comederos",
-      "species": [
-        "perro",
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "Comedero Doble M"
-      ],
-      "price": {
-        "Comedero Doble M": 22303.8
-      },
-      "image": null,
-      "mainImage": "img/planilla/platoscomederos/comedero-doble-m.jpg",
-      "images": [
-        "img/planilla/platoscomederos/comedero-doble-m.jpg"
-      ],
-      "variants": [
-        {
-          "id": "varios-comedero-doble-m-unico",
-          "sku": null,
-          "ean": null,
-          "presentation": "Comedero Doble M",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 22303.8,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": "img/planilla/platoscomederos/comedero-doble-m.jpg",
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "COMEDERO DOBLE M"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "confirmed",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
-      "id": "varios-comedero-doble-s",
-      "brand": "Genérico",
-      "supplier": "Genérico",
-      "line": null,
-      "name": "Comedero Doble S",
-      "sourceName": "COMEDERO DOBLE S",
-      "category": "alimentacion-e-hidratacion",
-      "subcategory": "comederos",
-      "species": [
-        "perro",
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "Comedero Doble S"
-      ],
-      "price": {
-        "Comedero Doble S": 8416.8
-      },
-      "image": null,
-      "mainImage": "img/planilla/platoscomederos/comedero-doble-s.jpg",
-      "images": [
-        "img/planilla/platoscomederos/comedero-doble-s.jpg"
-      ],
-      "variants": [
-        {
-          "id": "varios-comedero-doble-s-unico",
-          "sku": null,
-          "ean": null,
-          "presentation": "Comedero Doble S",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 8416.8,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": "img/planilla/platoscomederos/comedero-doble-s.jpg",
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "COMEDERO DOBLE S"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "confirmed",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
-      "id": "varios-comedero-doble-xs",
-      "brand": "Genérico",
-      "supplier": "Genérico",
-      "line": null,
-      "name": "Comedero Doble Xs",
-      "sourceName": "COMEDERO DOBLE XS",
-      "category": "alimentacion-e-hidratacion",
-      "subcategory": "comederos",
-      "species": [
-        "perro",
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "Comedero Doble Xs"
-      ],
-      "price": {
-        "Comedero Doble Xs": 6300
-      },
-      "image": null,
-      "mainImage": "img/planilla/platoscomederos/comedero-doble-xs.jpg",
-      "images": [
-        "img/planilla/platoscomederos/comedero-doble-xs.jpg"
-      ],
-      "variants": [
-        {
-          "id": "varios-comedero-doble-xs-unico",
-          "sku": null,
-          "ean": null,
-          "presentation": "Comedero Doble Xs",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 6300,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": "img/planilla/platoscomederos/comedero-doble-xs.jpg",
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "COMEDERO DOBLE XS"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "confirmed",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
       "id": "varios-comedero-en-altura-bp417",
       "brand": "Genérico",
       "supplier": "Genérico",
       "line": null,
-      "name": "Comedero en Altura Bp417",
+      "name": "Comedero en Altura BP417",
       "sourceName": "COMEDERO EN ALTURA BP417",
       "category": "alimentacion-e-hidratacion",
       "subcategory": "comederos",
@@ -47800,10 +47156,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Comedero en Altura Bp417"
+        "Comedero en Altura BP417"
       ],
       "price": {
-        "Comedero en Altura Bp417": 47417.4
+        "Comedero en Altura BP417": 47417.4
       },
       "image": null,
       "mainImage": "img/planilla/platoscomederos/comedero-en-altura-bp417.jpg",
@@ -47815,7 +47171,7 @@
           "id": "varios-comedero-en-altura-bp417-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Comedero en Altura Bp417",
+          "presentation": "Comedero en Altura BP417",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -47847,7 +47203,7 @@
       "brand": "Genérico",
       "supplier": "Genérico",
       "line": null,
-      "name": "Comedero en Altura Bp418",
+      "name": "Comedero en Altura BP418",
       "sourceName": "COMEDERO EN ALTURA BP418",
       "category": "alimentacion-e-hidratacion",
       "subcategory": "comederos",
@@ -47862,10 +47218,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Comedero en Altura Bp418"
+        "Comedero en Altura BP418"
       ],
       "price": {
-        "Comedero en Altura Bp418": 70194.6
+        "Comedero en Altura BP418": 70194.6
       },
       "image": null,
       "mainImage": "img/planilla/platoscomederos/comedero-en-altura-bp418.jpg",
@@ -47877,7 +47233,7 @@
           "id": "varios-comedero-en-altura-bp418-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Comedero en Altura Bp418",
+          "presentation": "Comedero en Altura BP418",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -47970,7 +47326,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Comedero Acero Inox. con Huellitas Bp411",
+      "name": "Comedero Acero Inox con Huellitas BP411",
       "sourceName": "Comedero acero inox. con huellitas BP411",
       "category": "alimentacion-e-hidratacion",
       "subcategory": "comederos",
@@ -47985,10 +47341,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Comedero Acero Inox. con Huellitas Bp411"
+        "Comedero Acero Inox con Huellitas BP411"
       ],
       "price": {
-        "Comedero Acero Inox. con Huellitas Bp411": 5984
+        "Comedero Acero Inox con Huellitas BP411": 5984
       },
       "image": null,
       "mainImage": "img/planilla/platoscomederos/comedero-acero-inox-con-huellitas-bp411.jpg",
@@ -48000,7 +47356,7 @@
           "id": "varios-comedero-acero-inox-con-huellitas-bp411-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Comedero Acero Inox. con Huellitas Bp411",
+          "presentation": "Comedero Acero Inox con Huellitas BP411",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -48016,6 +47372,160 @@
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "Comedero acero inox. con huellitas BP411"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "generico-comedero-doble",
+      "brand": "Genérico",
+      "supplier": "Genérico",
+      "line": null,
+      "name": "Comedero Doble",
+      "sourceName": "COMEDERO DOBLE",
+      "category": "alimentacion-e-hidratacion",
+      "subcategory": "comederos",
+      "species": [
+        "perro",
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "XS",
+        "S",
+        "M",
+        "21 cm",
+        "Gatito Negro"
+      ],
+      "price": {
+        "XS": 6300,
+        "S": 8416.8,
+        "M": 22303.8,
+        "21 cm": 21080,
+        "Gatito Negro": 7550.4
+      },
+      "image": null,
+      "mainImage": "img/planilla/platoscomederos/comedero-doble-m.jpg",
+      "images": [
+        "img/planilla/platoscomederos/comedero-doble-m.jpg"
+      ],
+      "variants": [
+        {
+          "id": "generico-comedero-doble-xs",
+          "sku": null,
+          "ean": null,
+          "presentation": "XS",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 6300,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/platoscomederos/comedero-doble-m.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "COMEDERO DOBLE XS"
+        },
+        {
+          "id": "generico-comedero-doble-s",
+          "sku": null,
+          "ean": null,
+          "presentation": "S",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 8416.8,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/platoscomederos/comedero-doble-m.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "COMEDERO DOBLE S"
+        },
+        {
+          "id": "generico-comedero-doble-m",
+          "sku": null,
+          "ean": null,
+          "presentation": "M",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 22303.8,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/platoscomederos/comedero-doble-m.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "COMEDERO DOBLE M"
+        },
+        {
+          "id": "generico-comedero-doble-21-cm",
+          "sku": null,
+          "ean": null,
+          "presentation": "21 cm",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 21080,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/platoscomederos/comedero-doble-m.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "COMEDERO DOBLE 21 CM"
+        },
+        {
+          "id": "generico-comedero-doble-gatito-negro",
+          "sku": null,
+          "ean": null,
+          "presentation": "Gatito Negro",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 7550.4,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/platoscomederos/comedero-doble-m.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "COMEDERO DOBLE GATITO NEGRO"
         }
       ],
       "availability": null,
@@ -48279,7 +47789,7 @@
       "brand": "Genérico",
       "supplier": "Genérico",
       "line": null,
-      "name": "Comedero Plastico Chico",
+      "name": "Comedero Plástico Chico",
       "sourceName": "COMEDERO PLASTICO CHICO 15CM",
       "category": "alimentacion-e-hidratacion",
       "subcategory": "comederos",
@@ -48341,7 +47851,7 @@
       "brand": "Genérico",
       "supplier": "Genérico",
       "line": null,
-      "name": "Comedero Plastico Grande",
+      "name": "Comedero Plástico Grande",
       "sourceName": "COMEDERO PLASTICO GRANDE 25 CM",
       "category": "alimentacion-e-hidratacion",
       "subcategory": "comederos",
@@ -48403,7 +47913,7 @@
       "brand": "Genérico",
       "supplier": "Genérico",
       "line": null,
-      "name": "Comedero Plastico Mediano",
+      "name": "Comedero Plástico Mediano",
       "sourceName": "COMEDERO PLASTICO MEDIANO 20 CM",
       "category": "alimentacion-e-hidratacion",
       "subcategory": "comederos",
@@ -48527,7 +48037,7 @@
       "brand": "Gigwi",
       "supplier": "Gigwi",
       "line": null,
-      "name": "Gigwi Leon con Anillo Plush Friendz",
+      "name": "Gigwi León con Anillo Plush Friendz",
       "sourceName": "Gigwi Leon con Anillo Plush Friendz",
       "category": "juguetes",
       "subcategory": "varios",
@@ -48542,10 +48052,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Gigwi Leon con Anillo Plush Friendz"
+        "Gigwi León con Anillo Plush Friendz"
       ],
       "price": {
-        "Gigwi Leon con Anillo Plush Friendz": 16500
+        "Gigwi León con Anillo Plush Friendz": 16500
       },
       "image": null,
       "mainImage": "img/planilla/juguetes/gigwi-leon-con-anillo-plush-friendz.jpg",
@@ -48557,7 +48067,7 @@
           "id": "gigwi-gigwi-leon-con-anillo-plush-friendz-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Gigwi Leon con Anillo Plush Friendz",
+          "presentation": "Gigwi León con Anillo Plush Friendz",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -48650,7 +48160,7 @@
       "brand": "CAN CAT",
       "supplier": "CAN CAT",
       "line": null,
-      "name": "Juguete para Gato Mamba con Catnip 15.5x3cm",
+      "name": "Juguete para Gato Mamba con Catnip 15,5x3 cm",
       "sourceName": "Juguete para Gato Mamba con Catnip 15.5x3cm",
       "category": "juguetes",
       "subcategory": "varios",
@@ -48664,10 +48174,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Juguete para Gato Mamba con Catnip 15.5x3cm"
+        "Juguete para Gato Mamba con Catnip 15,5x3 cm"
       ],
       "price": {
-        "Juguete para Gato Mamba con Catnip 15.5x3cm": 6500
+        "Juguete para Gato Mamba con Catnip 15,5x3 cm": 6500
       },
       "image": null,
       "mainImage": "img/planilla/juguetes/juguete-para-gato-mamba-con-catnip-15-5x3cm.jpg",
@@ -48679,7 +48189,7 @@
           "id": "varios-juguete-para-gato-mamba-con-catnip-15-5x3cm-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Juguete para Gato Mamba con Catnip 15.5x3cm",
+          "presentation": "Juguete para Gato Mamba con Catnip 15,5x3 cm",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -48711,7 +48221,7 @@
       "brand": "CAN CAT",
       "supplier": "CAN CAT",
       "line": null,
-      "name": "Juguete para Gato. Tortuga con Catnip 12x10cm",
+      "name": "Juguete para Gato Tortuga con Catnip 12x10 cm",
       "sourceName": "Juguete para Gato. TORTUGA CON CATNIP 12x10cm",
       "category": "juguetes",
       "subcategory": "varios",
@@ -48725,10 +48235,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Juguete para Gato. Tortuga con Catnip 12x10cm"
+        "Juguete para Gato Tortuga con Catnip 12x10 cm"
       ],
       "price": {
-        "Juguete para Gato. Tortuga con Catnip 12x10cm": 9000
+        "Juguete para Gato Tortuga con Catnip 12x10 cm": 9000
       },
       "image": null,
       "mainImage": "img/planilla/juguetes/juguete-para-gato-tortuga-con-catnip-12x10cm.jpg",
@@ -48740,7 +48250,7 @@
           "id": "varios-juguete-para-gato-tortuga-con-catnip-12x10cm-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Juguete para Gato. Tortuga con Catnip 12x10cm",
+          "presentation": "Juguete para Gato Tortuga con Catnip 12x10 cm",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -48772,7 +48282,7 @@
       "brand": "CAN CAT",
       "supplier": "CAN CAT",
       "line": null,
-      "name": "Juguete para Gato. Tucan con Plumas 11x11cm",
+      "name": "Juguete para Gato Tucán con Plumas 11x11 cm",
       "sourceName": "Juguete para gato. tucan con Plumas 11x11cm",
       "category": "juguetes",
       "subcategory": "varios",
@@ -48786,10 +48296,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Juguete para Gato. Tucan con Plumas 11x11cm"
+        "Juguete para Gato Tucán con Plumas 11x11 cm"
       ],
       "price": {
-        "Juguete para Gato. Tucan con Plumas 11x11cm": 7200
+        "Juguete para Gato Tucán con Plumas 11x11 cm": 7200
       },
       "image": null,
       "mainImage": "img/planilla/juguetes/juguete-para-gato-tucan-con-plumas-11x11cm.jpg",
@@ -48801,7 +48311,7 @@
           "id": "varios-juguete-para-gato-tucan-con-plumas-11x11cm-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Juguete para Gato. Tucan con Plumas 11x11cm",
+          "presentation": "Juguete para Gato Tucán con Plumas 11x11 cm",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -48955,7 +48465,7 @@
       "brand": "CAN CAT",
       "supplier": "CAN CAT",
       "line": null,
-      "name": "Jueguete para Gato. Mariposa con Plumas",
+      "name": "Juguete para Gato Mariposa con Plumas",
       "sourceName": "Jueguete para gato. Mariposa con plumas",
       "category": "juguetes",
       "subcategory": "varios",
@@ -48969,10 +48479,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Jueguete para Gato. Mariposa con Plumas"
+        "Juguete para Gato Mariposa con Plumas"
       ],
       "price": {
-        "Jueguete para Gato. Mariposa con Plumas": 10200
+        "Juguete para Gato Mariposa con Plumas": 10200
       },
       "image": null,
       "mainImage": "img/planilla/juguetes/jueguete-para-gato-mariposa-con-plumas.jpg",
@@ -48984,7 +48494,7 @@
           "id": "varios-jueguete-para-gato-mariposa-con-plumas-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Jueguete para Gato. Mariposa con Plumas",
+          "presentation": "Juguete para Gato Mariposa con Plumas",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -49016,7 +48526,7 @@
       "brand": "Genérico",
       "supplier": "Genérico",
       "line": null,
-      "name": "Jueguete para Perro. Cocodrilo Látex 31cm con Chifle",
+      "name": "Juguete para Perro Cocodrilo de Látex 31 cm con Chifle",
       "sourceName": "Jueguete para perro. Cocodrilo látex 31cm con chifle",
       "category": "juguetes",
       "subcategory": "varios",
@@ -49030,10 +48540,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Jueguete para Perro. Cocodrilo Látex 31cm con Chifle"
+        "Juguete para Perro Cocodrilo de Látex 31 cm con Chifle"
       ],
       "price": {
-        "Jueguete para Perro. Cocodrilo Látex 31cm con Chifle": 14300
+        "Juguete para Perro Cocodrilo de Látex 31 cm con Chifle": 14300
       },
       "image": null,
       "mainImage": "img/planilla/juguetes/jueguete-para-perro-cocodrilo-latex-31cm-con-chifle.jpg",
@@ -49045,7 +48555,7 @@
           "id": "varios-jueguete-para-perro-cocodrilo-latex-31cm-con-chifle-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Jueguete para Perro. Cocodrilo Látex 31cm con Chifle",
+          "presentation": "Juguete para Perro Cocodrilo de Látex 31 cm con Chifle",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -49077,7 +48587,7 @@
       "brand": "Genérico",
       "supplier": "Genérico",
       "line": null,
-      "name": "Tortuga de Peluche Medida:",
+      "name": "Tortuga de Peluche 25 cm",
       "sourceName": "Tortuga de peluche Medida: 25 cm",
       "category": "juguetes",
       "subcategory": "varios",
@@ -49139,7 +48649,7 @@
       "brand": "Bestia Peluda",
       "supplier": "Bestia Peluda",
       "line": null,
-      "name": "Peluche Ardilla para Perro. 16,5 Cm, con Chifle",
+      "name": "Peluche Ardilla para Perro 16,5 cm con Chifle",
       "sourceName": "Peluche Ardilla para Perro. 16,5 cm, con chifle",
       "category": "juguetes",
       "subcategory": "varios",
@@ -49153,10 +48663,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Peluche Ardilla para Perro. 16,5 Cm, con Chifle"
+        "Peluche Ardilla para Perro 16,5 cm con Chifle"
       ],
       "price": {
-        "Peluche Ardilla para Perro. 16,5 Cm, con Chifle": 12000
+        "Peluche Ardilla para Perro 16,5 cm con Chifle": 12000
       },
       "image": null,
       "mainImage": "img/planilla/juguetes/peluche-ardilla-para-perro-16-5-cm-con-chifle.jpg",
@@ -49168,7 +48678,7 @@
           "id": "varios-peluche-ardilla-para-perro-16-5-cm-con-chifle-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Peluche Ardilla para Perro. 16,5 Cm, con Chifle",
+          "presentation": "Peluche Ardilla para Perro 16,5 cm con Chifle",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -49200,7 +48710,7 @@
       "brand": "Bestia Peluda",
       "supplier": "Bestia Peluda",
       "line": null,
-      "name": "Ornitorrinco para Perro. 24 Cm, con Chifle",
+      "name": "Ornitorrinco para Perro 24 cm con Chifle",
       "sourceName": "Ornitorrinco para Perro. 24 cm, con chifle",
       "category": "juguetes",
       "subcategory": "varios",
@@ -49214,10 +48724,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Ornitorrinco para Perro. 24 Cm, con Chifle"
+        "Ornitorrinco para Perro 24 cm con Chifle"
       ],
       "price": {
-        "Ornitorrinco para Perro. 24 Cm, con Chifle": 12000
+        "Ornitorrinco para Perro 24 cm con Chifle": 12000
       },
       "image": null,
       "mainImage": "img/planilla/juguetes/ornitorrinco-para-perro-24-cm-con-chifle.jpg",
@@ -49229,7 +48739,7 @@
           "id": "varios-ornitorrinco-para-perro-24-cm-con-chifle-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Ornitorrinco para Perro. 24 Cm, con Chifle",
+          "presentation": "Ornitorrinco para Perro 24 cm con Chifle",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -49261,7 +48771,7 @@
       "brand": "Bestia Peluda",
       "supplier": "Bestia Peluda",
       "line": null,
-      "name": "Capibara para Perro. 17,5 Cm, con Chifle",
+      "name": "Capibara para Perro 17,5 cm con Chifle",
       "sourceName": "Capibara para Perro. 17,5 cm, con chifle",
       "category": "juguetes",
       "subcategory": "varios",
@@ -49275,10 +48785,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Capibara para Perro. 17,5 Cm, con Chifle"
+        "Capibara para Perro 17,5 cm con Chifle"
       ],
       "price": {
-        "Capibara para Perro. 17,5 Cm, con Chifle": 12000
+        "Capibara para Perro 17,5 cm con Chifle": 12000
       },
       "image": null,
       "mainImage": "img/planilla/juguetes/capibara-para-perro-17-5-cm-con-chifle.jpg",
@@ -49290,7 +48800,7 @@
           "id": "varios-capibara-para-perro-17-5-cm-con-chifle-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Capibara para Perro. 17,5 Cm, con Chifle",
+          "presentation": "Capibara para Perro 17,5 cm con Chifle",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -49322,7 +48832,7 @@
       "brand": "Bestia Peluda",
       "supplier": "Bestia Peluda",
       "line": null,
-      "name": "Raya - Peluche, 36.8cm, con Chifle y Sonido Crunch",
+      "name": "Raya Peluche 36,8 cm con Chifle y Sonido Crunch",
       "sourceName": "Raya - Peluche, 36.8cm, con chifle y sonido crunch",
       "category": "juguetes",
       "subcategory": "varios",
@@ -49337,10 +48847,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Raya - Peluche, 36.8cm, con Chifle y Sonido Crunch"
+        "Raya Peluche 36,8 cm con Chifle y Sonido Crunch"
       ],
       "price": {
-        "Raya - Peluche, 36.8cm, con Chifle y Sonido Crunch": 14000
+        "Raya Peluche 36,8 cm con Chifle y Sonido Crunch": 14000
       },
       "image": null,
       "mainImage": "img/planilla/juguetes/raya-peluche-36-8cm-con-chifle-y-sonido-crunch.jpg",
@@ -49352,7 +48862,7 @@
           "id": "varios-raya-peluche-36-8cm-con-chifle-y-sonido-crunch-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Raya - Peluche, 36.8cm, con Chifle y Sonido Crunch",
+          "presentation": "Raya Peluche 36,8 cm con Chifle y Sonido Crunch",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -49445,7 +48955,7 @@
       "brand": "Rascals",
       "supplier": "Rascals",
       "line": null,
-      "name": "Pelotas Dosificadora para Perro",
+      "name": "Pelota Dosificadora para Perro",
       "sourceName": "Pelotas dosificadora para Perro",
       "category": "juguetes",
       "subcategory": "varios",
@@ -49459,10 +48969,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Pelotas Dosificadora para Perro"
+        "Pelota Dosificadora para Perro"
       ],
       "price": {
-        "Pelotas Dosificadora para Perro": 16900
+        "Pelota Dosificadora para Perro": 16900
       },
       "image": null,
       "mainImage": "img/planilla/juguetes/pelotas-dosificadora-para-perro.jpg",
@@ -49474,7 +48984,7 @@
           "id": "varios-pelotas-dosificadora-para-perro-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Pelotas Dosificadora para Perro",
+          "presentation": "Pelota Dosificadora para Perro",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -49506,7 +49016,7 @@
       "brand": "Genérico",
       "supplier": "Genérico",
       "line": null,
-      "name": "Pelotas de Tennis Bicolor X 3 para Perro",
+      "name": "Pelotas de Tenis Bicolor x3 para Perro",
       "sourceName": "Pelotas de tennis bicolor X 3 para Perro",
       "category": "juguetes",
       "subcategory": "varios",
@@ -49520,10 +49030,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Pelotas de Tennis Bicolor X 3 para Perro"
+        "Pelotas de Tenis Bicolor x3 para Perro"
       ],
       "price": {
-        "Pelotas de Tennis Bicolor X 3 para Perro": 7700
+        "Pelotas de Tenis Bicolor x3 para Perro": 7700
       },
       "image": null,
       "mainImage": "img/planilla/juguetes/pelotas-de-tennis-bicolor-x3-para-perro.jpg",
@@ -49535,7 +49045,7 @@
           "id": "varios-pelotas-de-tennis-bicolor-x-3-para-perro-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Pelotas de Tennis Bicolor X 3 para Perro",
+          "presentation": "Pelotas de Tenis Bicolor x3 para Perro",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -49628,7 +49138,7 @@
       "brand": "Rascals",
       "supplier": "Rascals",
       "line": null,
-      "name": "Pelotas de Tennis X 3 para Perro",
+      "name": "Pelotas de Tenis x3 para Perro",
       "sourceName": "Pelotas de tennis X 3 para Perro",
       "category": "juguetes",
       "subcategory": "varios",
@@ -49642,10 +49152,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Pelotas de Tennis X 3 para Perro"
+        "Pelotas de Tenis x3 para Perro"
       ],
       "price": {
-        "Pelotas de Tennis X 3 para Perro": 12800
+        "Pelotas de Tenis x3 para Perro": 12800
       },
       "image": null,
       "mainImage": "img/planilla/juguetes/pelotas-de-tennis-x3-para-perro.jpg",
@@ -49657,7 +49167,7 @@
           "id": "varios-pelotas-de-tennis-x-3-para-perro-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Pelotas de Tennis X 3 para Perro",
+          "presentation": "Pelotas de Tenis x3 para Perro",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -50056,7 +49566,7 @@
       "brand": "Pet Hour",
       "supplier": "Pet Hour",
       "line": null,
-      "name": "Collar Isabelino Pomelo Talle Xs",
+      "name": "Collar Isabelino Pomelo Talle XS",
       "sourceName": "Collar isabelino Pomelo talle XS",
       "category": "accesorios",
       "subcategory": "sanidad",
@@ -50070,10 +49580,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Collar Isabelino Pomelo Talle Xs"
+        "Collar Isabelino Pomelo Talle XS"
       ],
       "price": {
-        "Collar Isabelino Pomelo Talle Xs": 29000
+        "Collar Isabelino Pomelo Talle XS": 29000
       },
       "image": null,
       "mainImage": "img/planilla/collarisabelinos/collar-isabelino-pomelo-talle-xs.jpg",
@@ -50085,7 +49595,7 @@
           "id": "varios-collar-isabelino-pomelo-talle-xs-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Collar Isabelino Pomelo Talle Xs",
+          "presentation": "Collar Isabelino Pomelo Talle XS",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -50117,7 +49627,7 @@
       "brand": "Pet Hour",
       "supplier": "Pet Hour",
       "line": null,
-      "name": "Collar Isabelino Sandia Talle M",
+      "name": "Collar Isabelino Sandía Talle M",
       "sourceName": "Collar isabelino Sandia talle M",
       "category": "accesorios",
       "subcategory": "sanidad",
@@ -50131,10 +49641,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Collar Isabelino Sandia Talle M"
+        "Collar Isabelino Sandía Talle M"
       ],
       "price": {
-        "Collar Isabelino Sandia Talle M": 36000
+        "Collar Isabelino Sandía Talle M": 36000
       },
       "image": null,
       "mainImage": "img/planilla/collarisabelinos/collar-isabelino-sandia-talle-m.jpg",
@@ -50146,7 +49656,7 @@
           "id": "varios-collar-isabelino-sandia-talle-m-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Collar Isabelino Sandia Talle M",
+          "presentation": "Collar Isabelino Sandía Talle M",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -50239,7 +49749,7 @@
       "brand": "Pet Hour",
       "supplier": "Pet Hour",
       "line": null,
-      "name": "Collar Isabelino Kiwi Talle Xl",
+      "name": "Collar Isabelino Kiwi Talle XL",
       "sourceName": "Collar isabelino Kiwi talle XL",
       "category": "accesorios",
       "subcategory": "sanidad",
@@ -50253,10 +49763,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Collar Isabelino Kiwi Talle Xl"
+        "Collar Isabelino Kiwi Talle XL"
       ],
       "price": {
-        "Collar Isabelino Kiwi Talle Xl": 45000
+        "Collar Isabelino Kiwi Talle XL": 45000
       },
       "image": null,
       "mainImage": "img/planilla/collarisabelinos/collar-isabelino-kiwi-talle-xl.jpg",
@@ -50268,7 +49778,7 @@
           "id": "varios-collar-isabelino-kiwi-talle-xl-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Collar Isabelino Kiwi Talle Xl",
+          "presentation": "Collar Isabelino Kiwi Talle XL",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -50300,7 +49810,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Arnes Premium Acolchado L",
+      "name": "Arnés Premium Acolchado L",
       "sourceName": "ARNES PREMIUM ACOLCHADO L",
       "category": "camas-y-descanso",
       "subcategory": "varios",
@@ -50314,10 +49824,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Arnes Premium Acolchado L"
+        "Arnés Premium Acolchado L"
       ],
       "price": {
-        "Arnes Premium Acolchado L": 22719
+        "Arnés Premium Acolchado L": 22719
       },
       "image": null,
       "mainImage": "img/planilla/trixie/arnes-premium-acolchado-l.jpg",
@@ -50329,7 +49839,7 @@
           "id": "trixie-arnes-premium-acolchado-l-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Arnes Premium Acolchado L",
+          "presentation": "Arnés Premium Acolchado L",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -50361,7 +49871,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Arnes Premium Acolchado L-xl",
+      "name": "Arnés Premium Acolchado L-XL",
       "sourceName": "ARNES PREMIUM ACOLCHADO L-XL",
       "category": "camas-y-descanso",
       "subcategory": "varios",
@@ -50375,10 +49885,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Arnes Premium Acolchado L-xl"
+        "Arnés Premium Acolchado L-XL"
       ],
       "price": {
-        "Arnes Premium Acolchado L-xl": 35859
+        "Arnés Premium Acolchado L-XL": 35859
       },
       "image": null,
       "mainImage": "img/planilla/trixie/arnes-premium-acolchado-l-xl.jpg",
@@ -50390,7 +49900,7 @@
           "id": "trixie-arnes-premium-acolchado-l-xl-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Arnes Premium Acolchado L-xl",
+          "presentation": "Arnés Premium Acolchado L-XL",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -50422,7 +49932,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Arnes Premium Acolchado M",
+      "name": "Arnés Premium Acolchado M",
       "sourceName": "ARNES PREMIUM ACOLCHADO M",
       "category": "camas-y-descanso",
       "subcategory": "varios",
@@ -50436,10 +49946,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Arnes Premium Acolchado M"
+        "Arnés Premium Acolchado M"
       ],
       "price": {
-        "Arnes Premium Acolchado M": 28858.5
+        "Arnés Premium Acolchado M": 28858.5
       },
       "image": null,
       "mainImage": "img/planilla/trixie/arnes-premium-acolchado-l.jpg",
@@ -50451,7 +49961,7 @@
           "id": "trixie-arnes-premium-acolchado-m-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Arnes Premium Acolchado M",
+          "presentation": "Arnés Premium Acolchado M",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -50483,7 +49993,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Arnes Premium Acolchado M-l",
+      "name": "Arnés Premium Acolchado M-L",
       "sourceName": "ARNES PREMIUM ACOLCHADO M-L",
       "category": "camas-y-descanso",
       "subcategory": "varios",
@@ -50497,10 +50007,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Arnes Premium Acolchado M-l"
+        "Arnés Premium Acolchado M-L"
       ],
       "price": {
-        "Arnes Premium Acolchado M-l": 33171
+        "Arnés Premium Acolchado M-L": 33171
       },
       "image": null,
       "mainImage": "img/planilla/trixie/arnes-premium-acolchado-l.jpg",
@@ -50512,7 +50022,7 @@
           "id": "trixie-arnes-premium-acolchado-m-l-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Arnes Premium Acolchado M-l",
+          "presentation": "Arnés Premium Acolchado M-L",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -50544,7 +50054,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Arnes Premium Acolchado S",
+      "name": "Arnés Premium Acolchado S",
       "sourceName": "ARNES PREMIUM ACOLCHADO S",
       "category": "camas-y-descanso",
       "subcategory": "varios",
@@ -50558,10 +50068,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Arnes Premium Acolchado S"
+        "Arnés Premium Acolchado S"
       ],
       "price": {
-        "Arnes Premium Acolchado S": 24466.5
+        "Arnés Premium Acolchado S": 24466.5
       },
       "image": null,
       "mainImage": "img/planilla/trixie/arnes-premium-acolchado-l.jpg",
@@ -50573,7 +50083,7 @@
           "id": "trixie-arnes-premium-acolchado-s-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Arnes Premium Acolchado S",
+          "presentation": "Arnés Premium Acolchado S",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -50605,7 +50115,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Arnes Premium Acolchado S-m",
+      "name": "Arnés Premium Acolchado S-M",
       "sourceName": "ARNES PREMIUM ACOLCHADO S-M",
       "category": "camas-y-descanso",
       "subcategory": "varios",
@@ -50619,10 +50129,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Arnes Premium Acolchado S-m"
+        "Arnés Premium Acolchado S-M"
       ],
       "price": {
-        "Arnes Premium Acolchado S-m": 26379
+        "Arnés Premium Acolchado S-M": 26379
       },
       "image": null,
       "mainImage": "img/planilla/trixie/arnes-premium-acolchado-l.jpg",
@@ -50634,7 +50144,7 @@
           "id": "trixie-arnes-premium-acolchado-s-m-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Arnes Premium Acolchado S-m",
+          "presentation": "Arnés Premium Acolchado S-M",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -50666,7 +50176,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Arnes Premium Acolchado Xs-s",
+      "name": "Arnés Premium Acolchado XS-S",
       "sourceName": "ARNES PREMIUM ACOLCHADO XS-S",
       "category": "camas-y-descanso",
       "subcategory": "varios",
@@ -50680,10 +50190,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Arnes Premium Acolchado Xs-s"
+        "Arnés Premium Acolchado XS-S"
       ],
       "price": {
-        "Arnes Premium Acolchado Xs-s": 20595
+        "Arnés Premium Acolchado XS-S": 20595
       },
       "image": null,
       "mainImage": "img/planilla/trixie/arnes-premium-acolchado-l.jpg",
@@ -50695,7 +50205,7 @@
           "id": "trixie-arnes-premium-acolchado-xs-s-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Arnes Premium Acolchado Xs-s",
+          "presentation": "Arnés Premium Acolchado XS-S",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -50727,7 +50237,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Arnes Comfort Soft S",
+      "name": "Arnés Comfort Soft S",
       "sourceName": "Arnes comfort soft S",
       "category": "paseo",
       "subcategory": "correas",
@@ -50741,10 +50251,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Arnes Comfort Soft S"
+        "Arnés Comfort Soft S"
       ],
       "price": {
-        "Arnes Comfort Soft S": 44467.2
+        "Arnés Comfort Soft S": 44467.2
       },
       "image": null,
       "mainImage": "img/planilla/trixie/arnes-comfort-soft-s.jpg",
@@ -50756,7 +50266,7 @@
           "id": "trixie-arnes-comfort-soft-s-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Arnes Comfort Soft S",
+          "presentation": "Arnés Comfort Soft S",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -50788,7 +50298,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Arnes Comfort Soft S-m",
+      "name": "Arnés Comfort Soft S-M",
       "sourceName": "Arnes comfort soft S-M",
       "category": "paseo",
       "subcategory": "correas",
@@ -50802,10 +50312,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Arnes Comfort Soft S-m"
+        "Arnés Comfort Soft S-M"
       ],
       "price": {
-        "Arnes Comfort Soft S-m": 49845.6
+        "Arnés Comfort Soft S-M": 49845.6
       },
       "image": null,
       "mainImage": "img/planilla/trixie/arnes-comfort-soft-s-m.jpg",
@@ -50817,7 +50327,7 @@
           "id": "trixie-arnes-comfort-soft-s-m-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Arnes Comfort Soft S-m",
+          "presentation": "Arnés Comfort Soft S-M",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -50849,7 +50359,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Arnes Comfort Soft Xxs-xs",
+      "name": "Arnés Comfort Soft XXS-XS",
       "sourceName": "Arnes comfort soft XXS-XS",
       "category": "paseo",
       "subcategory": "correas",
@@ -50863,10 +50373,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Arnes Comfort Soft Xxs-xs"
+        "Arnés Comfort Soft XXS-XS"
       ],
       "price": {
-        "Arnes Comfort Soft Xxs-xs": 33836.4
+        "Arnés Comfort Soft XXS-XS": 33836.4
       },
       "image": null,
       "mainImage": "img/planilla/trixie/arnes-comfort-soft-xxs-xs.jpg",
@@ -50878,7 +50388,7 @@
           "id": "trixie-arnes-comfort-soft-xxs-xs-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Arnes Comfort Soft Xxs-xs",
+          "presentation": "Arnés Comfort Soft XXS-XS",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -50910,7 +50420,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Arnes Comfort Xs-s",
+      "name": "Arnés Comfort XS-S",
       "sourceName": "Arnes Comfort XS-S",
       "category": "paseo",
       "subcategory": "correas",
@@ -50924,10 +50434,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Arnes Comfort Xs-s"
+        "Arnés Comfort XS-S"
       ],
       "price": {
-        "Arnes Comfort Xs-s": 37837.8
+        "Arnés Comfort XS-S": 37837.8
       },
       "image": null,
       "mainImage": "img/planilla/trixie/arnes-comfort-soft-s.jpg",
@@ -50939,7 +50449,7 @@
           "id": "trixie-arnes-comfort-xs-s-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Arnes Comfort Xs-s",
+          "presentation": "Arnés Comfort XS-S",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -50971,7 +50481,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Collar Premium L/xl Trixie",
+      "name": "Collar Premium L/XL Trixie",
       "sourceName": "COLLAR PREMIUM L/XL TRIXIE",
       "category": "paseo",
       "subcategory": "correas",
@@ -50985,10 +50495,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Collar Premium L/xl Trixie"
+        "Collar Premium L/XL Trixie"
       ],
       "price": {
-        "Collar Premium L/xl Trixie": 12608
+        "Collar Premium L/XL Trixie": 12608
       },
       "image": null,
       "mainImage": "img/planilla/trixie/collar-premium-l-xl-trixie.jpg",
@@ -51000,7 +50510,7 @@
           "id": "trixie-collar-premium-l-xl-trixie-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Collar Premium L/xl Trixie",
+          "presentation": "Collar Premium L/XL Trixie",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -51032,7 +50542,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Collar Premium M/l Trixie",
+      "name": "Collar Premium M/L Trixie",
       "sourceName": "COLLAR PREMIUM M/L TRIXIE",
       "category": "paseo",
       "subcategory": "correas",
@@ -51046,10 +50556,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Collar Premium M/l Trixie"
+        "Collar Premium M/L Trixie"
       ],
       "price": {
-        "Collar Premium M/l Trixie": 8838.4
+        "Collar Premium M/L Trixie": 8838.4
       },
       "image": null,
       "mainImage": "img/planilla/trixie/collar-premium-l-xl-trixie.jpg",
@@ -51061,7 +50571,7 @@
           "id": "trixie-collar-premium-m-l-trixie-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Collar Premium M/l Trixie",
+          "presentation": "Collar Premium M/L Trixie",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -51093,7 +50603,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Collar Premium S/m Trixie",
+      "name": "Collar Premium S/M Trixie",
       "sourceName": "COLLAR PREMIUM S/M TRIXIE",
       "category": "paseo",
       "subcategory": "correas",
@@ -51107,10 +50617,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Collar Premium S/m Trixie"
+        "Collar Premium S/M Trixie"
       ],
       "price": {
-        "Collar Premium S/m Trixie": 7036.8
+        "Collar Premium S/M Trixie": 7036.8
       },
       "image": null,
       "mainImage": "img/planilla/trixie/collar-premium-l-xl-trixie.jpg",
@@ -51122,7 +50632,7 @@
           "id": "trixie-collar-premium-s-m-trixie-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Collar Premium S/m Trixie",
+          "presentation": "Collar Premium S/M Trixie",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -51154,7 +50664,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Collar Premium Xs/s Trixie",
+      "name": "Collar Premium XS/S Trixie",
       "sourceName": "COLLAR PREMIUM XS/S TRIXIE",
       "category": "paseo",
       "subcategory": "correas",
@@ -51168,10 +50678,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Collar Premium Xs/s Trixie"
+        "Collar Premium XS/S Trixie"
       ],
       "price": {
-        "Collar Premium Xs/s Trixie": 5819.2
+        "Collar Premium XS/S Trixie": 5819.2
       },
       "image": null,
       "mainImage": "img/planilla/trixie/collar-premium-l-xl-trixie.jpg",
@@ -51183,7 +50693,7 @@
           "id": "trixie-collar-premium-xs-s-trixie-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Collar Premium Xs/s Trixie",
+          "presentation": "Collar Premium XS/S Trixie",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -51215,7 +50725,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Correa Premium Trixie L/xl",
+      "name": "Correa Premium Trixie L/XL",
       "sourceName": "CORREA PREMIUM TRIXIE L/XL",
       "category": "paseo",
       "subcategory": "correas",
@@ -51229,10 +50739,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Correa Premium Trixie L/xl"
+        "Correa Premium Trixie L/XL"
       ],
       "price": {
-        "Correa Premium Trixie L/xl": 29913.2
+        "Correa Premium Trixie L/XL": 29913.2
       },
       "image": null,
       "mainImage": "img/planilla/trixie/correa-premium-trixie-l-xl.jpg",
@@ -51244,7 +50754,7 @@
           "id": "trixie-correa-premium-trixie-l-xl-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Correa Premium Trixie L/xl",
+          "presentation": "Correa Premium Trixie L/XL",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -51276,7 +50786,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Correa Premium Trixie M/l",
+      "name": "Correa Premium Trixie M/L",
       "sourceName": "CORREA PREMIUM TRIXIE M/L",
       "category": "paseo",
       "subcategory": "correas",
@@ -51290,10 +50800,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Correa Premium Trixie M/l"
+        "Correa Premium Trixie M/L"
       ],
       "price": {
-        "Correa Premium Trixie M/l": 25296
+        "Correa Premium Trixie M/L": 25296
       },
       "image": null,
       "mainImage": "img/planilla/trixie/correa-premium-trixie-m-l.jpg",
@@ -51305,7 +50815,7 @@
           "id": "trixie-correa-premium-trixie-m-l-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Correa Premium Trixie M/l",
+          "presentation": "Correa Premium Trixie M/L",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -51337,7 +50847,7 @@
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Correa Premium Trixie Xs/s",
+      "name": "Correa Premium Trixie XS/S",
       "sourceName": "CORREA PREMIUM TRIXIE XS/S",
       "category": "paseo",
       "subcategory": "correas",
@@ -51351,10 +50861,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Correa Premium Trixie Xs/s"
+        "Correa Premium Trixie XS/S"
       ],
       "price": {
-        "Correa Premium Trixie Xs/s": 12733
+        "Correa Premium Trixie XS/S": 12733
       },
       "image": null,
       "mainImage": "img/planilla/trixie/correa-premium-trixie-m-l.jpg",
@@ -51366,7 +50876,7 @@
           "id": "trixie-correa-premium-trixie-xs-s-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Correa Premium Trixie Xs/s",
+          "presentation": "Correa Premium Trixie XS/S",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -51398,7 +50908,7 @@
       "brand": "Rascals",
       "supplier": "Rascals",
       "line": null,
-      "name": "Arnes Gato Rascals",
+      "name": "Arnés Gato Rascals",
       "sourceName": "Arnes gato rascals",
       "category": "paseo",
       "subcategory": "correas",
@@ -51412,10 +50922,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Arnes Gato Rascals"
+        "Arnés Gato Rascals"
       ],
       "price": {
-        "Arnes Gato Rascals": 18000
+        "Arnés Gato Rascals": 18000
       },
       "image": null,
       "mainImage": "img/planilla/trixie/arnes-gato-rascals.jpg",
@@ -51427,7 +50937,7 @@
           "id": "trixie-arnes-gato-rascals-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Arnes Gato Rascals",
+          "presentation": "Arnés Gato Rascals",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -51643,7 +51153,7 @@
       "brand": "Cali",
       "supplier": "Cali",
       "line": null,
-      "name": "Cinturon de Seguridad Cali",
+      "name": "Cinturón de Seguridad Cali",
       "sourceName": "CINTURON DE SEGURIDAD CALI 0.40",
       "category": "paseo",
       "subcategory": "correas",
@@ -52356,7 +51866,7 @@
       "brand": "Cali",
       "supplier": "Cali",
       "line": null,
-      "name": "Collar Eslastizado Gato Cali",
+      "name": "Collar Elastizado Gato Cali",
       "sourceName": "COLLAR ESLASTIZADO GATO CALI",
       "category": "paseo",
       "subcategory": "correas",
@@ -52370,10 +51880,10 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Collar Eslastizado Gato Cali"
+        "Collar Elastizado Gato Cali"
       ],
       "price": {
-        "Collar Eslastizado Gato Cali": 3500
+        "Collar Elastizado Gato Cali": 3500
       },
       "image": null,
       "mainImage": "img/planilla/cali/collar-elastizado-gato-cali.jpg",
@@ -52385,7 +51895,7 @@
           "id": "cali-collar-eslastizado-gato-cali-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Collar Eslastizado Gato Cali",
+          "presentation": "Collar Elastizado Gato Cali",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -52991,7 +52501,7 @@
       "brand": "Cali",
       "supplier": "Cali",
       "line": null,
-      "name": "Correa Cali 3×5 M /",
+      "name": "Correa Cali 3×5 m",
       "sourceName": "CORREA CALI 3×5 M / 1",
       "category": "paseo",
       "subcategory": "correas",
@@ -53052,7 +52562,7 @@
       "brand": "Cali",
       "supplier": "Cali",
       "line": null,
-      "name": "Correa Cali 3×4 M /",
+      "name": "Correa Cali 3×4 m",
       "sourceName": "CORREA CALI 3×4 M / 1",
       "category": "paseo",
       "subcategory": "correas",
@@ -53175,7 +52685,7 @@
       "brand": "M System",
       "supplier": "M System",
       "line": null,
-      "name": "Collar Isabelino Rigido N°",
+      "name": "Collar Isabelino Rígido",
       "sourceName": "Collar Isabelino rigido N° 1",
       "category": "accesorios",
       "subcategory": "sanidad",
@@ -53583,7 +53093,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "rc gastro fel pouch",
+      "name": "Gastrointestinal Feline Pouch",
       "sourceName": "RC GASTRO FEL POUCH",
       "category": "alimentos",
       "subcategory": "dieta-veterinaria",
@@ -53733,7 +53243,7 @@
       "brand": "Royal Canin",
       "supplier": "Royal Canin",
       "line": null,
-      "name": "rc mini ageing +12 pouch",
+      "name": "Mini Ageing +12 Pouch",
       "sourceName": "RC MINI AGEING +12 POUCH",
       "category": "alimentos",
       "subcategory": "dieta-veterinaria",
