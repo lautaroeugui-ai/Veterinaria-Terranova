@@ -47344,7 +47344,7 @@
       "brand": "Genérico",
       "supplier": "Genérico",
       "line": null,
-      "name": "Comedero Acero Lineas Pintadas",
+      "name": "Comedero Acero Lineas Pintadas 17 cm",
       "sourceName": "COMEDERO ACERO LINEAS PINTADAS",
       "category": "alimentacion-e-hidratacion",
       "subcategory": "comederos",
@@ -47362,7 +47362,7 @@
         "Comedero Acero Lineas Pintadas"
       ],
       "price": {
-        "Comedero Acero Lineas Pintadas": 12342
+        "Comedero Acero Lineas Pintadas": 12400
       },
       "image": null,
       "mainImage": "img/planilla/platoscomederos/comedero-acero-lineas-pintadas.jpg",
@@ -47380,9 +47380,9 @@
           "color": null,
           "pattern": null,
           "retailPrice": {
-            "amount": 12342,
+            "amount": 12400,
             "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
             "priceType": "terranova"
           },
           "supplierPrice": null,
@@ -48449,132 +48449,12 @@
       ]
     },
     {
-      "id": "varios-comedero-sharpei",
-      "brand": "Genérico",
-      "supplier": "Genérico",
-      "line": null,
-      "name": "Comedero Sharpei",
-      "sourceName": "COMEDERO SHARPEI 22 CM",
-      "category": "alimentacion-e-hidratacion",
-      "subcategory": "comederos",
-      "species": [
-        "perro",
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "22 cm"
-      ],
-      "price": {
-        "22 cm": 6086.5
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
-        {
-          "id": "varios-comedero-sharpei-22-cm",
-          "sku": null,
-          "ean": null,
-          "presentation": "22 cm",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 6086.5,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "COMEDERO SHARPEI 22 CM"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "pending-image-match",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
-      "id": "varios-comedero-y-bebedero-13cm-celeste",
-      "brand": "Genérico",
-      "supplier": "Genérico",
-      "line": null,
-      "name": "Comedero y Bebedero 13CM Celeste",
-      "sourceName": "COMEDERO Y BEBEDERO 13CM CELESTE",
-      "category": "alimentacion-e-hidratacion",
-      "subcategory": "comederos",
-      "species": [
-        "perro",
-        "gato"
-      ],
-      "lifeStage": null,
-      "need": null,
-      "flavor": null,
-      "description": null,
-      "features": [],
-      "materials": [],
-      "presentations": [
-        "Comedero y Bebedero 13CM Celeste"
-      ],
-      "price": {
-        "Comedero y Bebedero 13CM Celeste": 9901.47
-      },
-      "image": null,
-      "mainImage": null,
-      "images": [],
-      "variants": [
-        {
-          "id": "varios-comedero-y-bebedero-13cm-celeste-unico",
-          "sku": null,
-          "ean": null,
-          "presentation": "Comedero y Bebedero 13CM Celeste",
-          "size": null,
-          "dimensions": null,
-          "color": null,
-          "pattern": null,
-          "retailPrice": {
-            "amount": 9901.47,
-            "currency": "ARS",
-            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
-            "priceType": "terranova"
-          },
-          "supplierPrice": null,
-          "image": null,
-          "availability": null,
-          "reviewStatus": "confirmed",
-          "sourceName": "COMEDERO Y BEBEDERO 13CM CELESTE"
-        }
-      ],
-      "availability": null,
-      "reviewStatus": "pending-image-match",
-      "sources": [
-        {
-          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
-          "sourceType": "terranova-price-list"
-        }
-      ]
-    },
-    {
       "id": "trixie-comedero-dibujo-trixie-chico",
       "brand": "TRIXIE",
       "supplier": "TRIXIE",
       "line": null,
-      "name": "Comedero Dibujo Trixie Chico",
-      "sourceName": "COMEDERO DIBUJO TRIXIE CHICO",
+      "name": "Comedero Acero Inox Antideslizante Trixie 14 cm",
+      "sourceName": "COMEDERO ACERO INOX ANTIDESLIZANTE TRIXIE 14 cm- TRIXIE",
       "category": "alimentacion-e-hidratacion",
       "subcategory": "comederos",
       "species": [
@@ -48588,20 +48468,22 @@
       "features": [],
       "materials": [],
       "presentations": [
-        "Comedero Dibujo Trixie Chico"
+        "14 cm"
       ],
       "price": {
-        "Comedero Dibujo Trixie Chico": 6000
+        "14 cm": 6000
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/platoscomederos/comedero-acero-inox-antideslizante-trixie-14-cm.jpg",
+      "images": [
+        "img/planilla/platoscomederos/comedero-acero-inox-antideslizante-trixie-14-cm.jpg"
+      ],
       "variants": [
         {
           "id": "trixie-comedero-dibujo-trixie-chico-unico",
           "sku": null,
           "ean": null,
-          "presentation": "Comedero Dibujo Trixie Chico",
+          "presentation": "14 cm",
           "size": null,
           "dimensions": null,
           "color": null,
@@ -48613,14 +48495,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/platoscomederos/comedero-acero-inox-antideslizante-trixie-14-cm.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "COMEDERO DIBUJO TRIXIE CHICO"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -48692,8 +48574,8 @@
     },
     {
       "id": "varios-juguete-para-gatos-raton-tricolor-con-cola-y-sonido",
-      "brand": "Genérico",
-      "supplier": "Genérico",
+      "brand": "CAN CAT",
+      "supplier": "CAN CAT",
       "line": null,
       "name": "Juguete para Gatos Ratón Tricolor con Cola y Sonido",
       "sourceName": "Juguete para gatos Ratón Tricolor con Cola y Sonido",
@@ -48753,8 +48635,8 @@
     },
     {
       "id": "varios-juguete-para-gato-mamba-con-catnip-15-5x3cm",
-      "brand": "Genérico",
-      "supplier": "Genérico",
+      "brand": "CAN CAT",
+      "supplier": "CAN CAT",
       "line": null,
       "name": "Juguete para Gato Mamba con Catnip 15.5x3cm",
       "sourceName": "Juguete para Gato Mamba con Catnip 15.5x3cm",
@@ -48814,8 +48696,8 @@
     },
     {
       "id": "varios-juguete-para-gato-tortuga-con-catnip-12x10cm",
-      "brand": "Genérico",
-      "supplier": "Genérico",
+      "brand": "CAN CAT",
+      "supplier": "CAN CAT",
       "line": null,
       "name": "Juguete para Gato. Tortuga con Catnip 12x10cm",
       "sourceName": "Juguete para Gato. TORTUGA CON CATNIP 12x10cm",
@@ -48875,8 +48757,8 @@
     },
     {
       "id": "varios-juguete-para-gato-tucan-con-plumas-11x11cm",
-      "brand": "Genérico",
-      "supplier": "Genérico",
+      "brand": "CAN CAT",
+      "supplier": "CAN CAT",
       "line": null,
       "name": "Juguete para Gato. Tucan con Plumas 11x11cm",
       "sourceName": "Juguete para gato. tucan con Plumas 11x11cm",
@@ -48997,8 +48879,8 @@
     },
     {
       "id": "varios-juguete-de-perro-jirafa-con-chifle",
-      "brand": "Genérico",
-      "supplier": "Genérico",
+      "brand": "CAN CAT",
+      "supplier": "CAN CAT",
       "line": null,
       "name": "Juguete de Perro Jirafa con Chifle",
       "sourceName": "Juguete de perro Jirafa con chifle 27 cm",
@@ -49058,8 +48940,8 @@
     },
     {
       "id": "varios-jueguete-para-gato-mariposa-con-plumas",
-      "brand": "Genérico",
-      "supplier": "Genérico",
+      "brand": "CAN CAT",
+      "supplier": "CAN CAT",
       "line": null,
       "name": "Jueguete para Gato. Mariposa con Plumas",
       "sourceName": "Jueguete para gato. Mariposa con plumas",
@@ -49242,8 +49124,8 @@
     },
     {
       "id": "varios-peluche-ardilla-para-perro-16-5-cm-con-chifle",
-      "brand": "Genérico",
-      "supplier": "Genérico",
+      "brand": "Bestia Peluda",
+      "supplier": "Bestia Peluda",
       "line": null,
       "name": "Peluche Ardilla para Perro. 16,5 Cm, con Chifle",
       "sourceName": "Peluche Ardilla para Perro. 16,5 cm, con chifle",
@@ -49303,8 +49185,8 @@
     },
     {
       "id": "varios-ornitorrinco-para-perro-24-cm-con-chifle",
-      "brand": "Genérico",
-      "supplier": "Genérico",
+      "brand": "Bestia Peluda",
+      "supplier": "Bestia Peluda",
       "line": null,
       "name": "Ornitorrinco para Perro. 24 Cm, con Chifle",
       "sourceName": "Ornitorrinco para Perro. 24 cm, con chifle",
@@ -49364,8 +49246,8 @@
     },
     {
       "id": "varios-capibara-para-perro-17-5-cm-con-chifle",
-      "brand": "Genérico",
-      "supplier": "Genérico",
+      "brand": "Bestia Peluda",
+      "supplier": "Bestia Peluda",
       "line": null,
       "name": "Capibara para Perro. 17,5 Cm, con Chifle",
       "sourceName": "Capibara para Perro. 17,5 cm, con chifle",
@@ -49425,8 +49307,8 @@
     },
     {
       "id": "varios-raya-peluche-36-8cm-con-chifle-y-sonido-crunch",
-      "brand": "Genérico",
-      "supplier": "Genérico",
+      "brand": "Bestia Peluda",
+      "supplier": "Bestia Peluda",
       "line": null,
       "name": "Raya - Peluche, 36.8cm, con Chifle y Sonido Crunch",
       "sourceName": "Raya - Peluche, 36.8cm, con chifle y sonido crunch",
@@ -49548,8 +49430,8 @@
     },
     {
       "id": "varios-pelotas-dosificadora-para-perro",
-      "brand": "Genérico",
-      "supplier": "Genérico",
+      "brand": "Rascals",
+      "supplier": "Rascals",
       "line": null,
       "name": "Pelotas Dosificadora para Perro",
       "sourceName": "Pelotas dosificadora para Perro",
@@ -49731,8 +49613,8 @@
     },
     {
       "id": "varios-pelotas-de-tennis-x-3-para-perro",
-      "brand": "Genérico",
-      "supplier": "Genérico",
+      "brand": "Rascals",
+      "supplier": "Rascals",
       "line": null,
       "name": "Pelotas de Tennis X 3 para Perro",
       "sourceName": "Pelotas de tennis X 3 para Perro",
@@ -49792,8 +49674,8 @@
     },
     {
       "id": "varios-mancuerna-snack-spielzeug",
-      "brand": "Genérico",
-      "supplier": "Genérico",
+      "brand": "TRIXIE",
+      "supplier": "TRIXIE",
       "line": null,
       "name": "Mancuerna Snack Spielzeug",
       "sourceName": "MANCUERNA SNACK SPIELZEUG",
@@ -49857,7 +49739,7 @@
       "brand": "CAN CAT",
       "supplier": "CAN CAT",
       "line": null,
-      "name": "Hueso Soga 2 Nudos Can Gato",
+      "name": "Hueso Soga 2 Nudos Can Cat",
       "sourceName": "Hueso Soga 2 nudos can cat",
       "category": "alimentos-y-snacks",
       "subcategory": "alimento-o-snack",
@@ -49918,7 +49800,7 @@
       "brand": "CAN CAT",
       "supplier": "CAN CAT",
       "line": null,
-      "name": "Hueso Soga 3 Nudos Can Gato",
+      "name": "Hueso Soga 3 Nudos Can Cat",
       "sourceName": "Hueso soga 3 nudos can cat",
       "category": "alimentos-y-snacks",
       "subcategory": "alimento-o-snack",
@@ -49979,7 +49861,7 @@
       "brand": "CAN CAT",
       "supplier": "CAN CAT",
       "line": null,
-      "name": "Hueso Soga 4 Nudos Can Gato",
+      "name": "Hueso Soga 4 Nudos Can Cat",
       "sourceName": "Hueso soga 4 nudos can cat",
       "category": "alimentos-y-snacks",
       "subcategory": "alimento-o-snack",
@@ -50040,7 +49922,7 @@
       "brand": "CAN CAT",
       "supplier": "CAN CAT",
       "line": null,
-      "name": "Hueso Soga 5 Nudos Can Gato",
+      "name": "Hueso Soga 5 Nudos Can Cat",
       "sourceName": "Hueso soga 5 nudos can cat",
       "category": "alimentos-y-snacks",
       "subcategory": "alimento-o-snack",
@@ -50101,7 +49983,7 @@
       "brand": "CAN CAT",
       "supplier": "CAN CAT",
       "line": null,
-      "name": "Hueso Soga 6 Nudos Can Gato",
+      "name": "Hueso Soga 6 Nudos Can Cat",
       "sourceName": "Hueso soga 6 nudos can cat",
       "category": "alimentos-y-snacks",
       "subcategory": "alimento-o-snack",
@@ -51501,8 +51383,8 @@
     },
     {
       "id": "trixie-arnes-gato-rascals",
-      "brand": "TRIXIE",
-      "supplier": "TRIXIE",
+      "brand": "Rascals",
+      "supplier": "Rascals",
       "line": null,
       "name": "Arnes Gato Rascals",
       "sourceName": "Arnes gato rascals",
@@ -51562,8 +51444,8 @@
     },
     {
       "id": "trixie-collar-para-gato-con-cascabel-rascals",
-      "brand": "TRIXIE",
-      "supplier": "TRIXIE",
+      "brand": "Rascals",
+      "supplier": "Rascals",
       "line": null,
       "name": "Collar para Gato con Cascabel Rascals",
       "sourceName": "COLLAR PARA GATO CON CASCABEL RASCALS",
@@ -54047,6 +53929,2264 @@
         },
         {
           "file": "Drive: ALIMENTOS WEB, hoja RC lista sistema (Terranova, 2026-10-05)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "trixie-comedero-gato-hocico-chato-13-cm-trixie",
+      "brand": "TRIXIE",
+      "supplier": "TRIXIE",
+      "line": null,
+      "name": "Comedero Gato Hocico Chato 13 cm Trixie",
+      "sourceName": "COMEDERO GATO HOCICO CHATO 13 CM TRIXIE",
+      "category": "alimentacion-e-hidratacion",
+      "subcategory": "comederos",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "13 cm"
+      ],
+      "price": {
+        "13 cm": 10500
+      },
+      "image": null,
+      "mainImage": "img/planilla/platoscomederos/comedero-gato-hocico-chato-13-cm-trixie.jpg",
+      "images": [
+        "img/planilla/platoscomederos/comedero-gato-hocico-chato-13-cm-trixie.jpg"
+      ],
+      "variants": [
+        {
+          "id": "trixie-comedero-gato-hocico-chato-13-cm-trixie-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "13 cm",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 10500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/platoscomederos/comedero-gato-hocico-chato-13-cm-trixie.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "COMEDERO GATO HOCICO CHATO 13 CM TRIXIE"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "trixie-bandeja-de-lamer-pescado-trixie",
+      "brand": "TRIXIE",
+      "supplier": "TRIXIE",
+      "line": null,
+      "name": "Bandeja de Lamer Pescado Trixie",
+      "sourceName": "BANDEJA DE LAMER - PESCADO- trixie",
+      "category": "alimentacion-e-hidratacion",
+      "subcategory": "comederos",
+      "species": [
+        "perro",
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Bandeja de Lamer Pescado"
+      ],
+      "price": {
+        "Bandeja de Lamer Pescado": 10800
+      },
+      "image": null,
+      "mainImage": "img/planilla/platoscomederos/bandeja-de-lamer-pescado-trixie.jpg",
+      "images": [
+        "img/planilla/platoscomederos/bandeja-de-lamer-pescado-trixie.jpg"
+      ],
+      "variants": [
+        {
+          "id": "trixie-bandeja-de-lamer-pescado-trixie-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Bandeja de Lamer Pescado",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 10800,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/platoscomederos/bandeja-de-lamer-pescado-trixie.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BANDEJA DE LAMER - PESCADO- trixie"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "trixie-bandeja-de-lamer-perro-junior-trixie",
+      "brand": "TRIXIE",
+      "supplier": "TRIXIE",
+      "line": null,
+      "name": "Bandeja de Lamer Perro Junior Trixie",
+      "sourceName": "BANDEJA DE LAMER - PERRO JUNIOR- trixie",
+      "category": "alimentacion-e-hidratacion",
+      "subcategory": "comederos",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Bandeja de Lamer Perro Junior"
+      ],
+      "price": {
+        "Bandeja de Lamer Perro Junior": 8500
+      },
+      "image": null,
+      "mainImage": "img/planilla/platoscomederos/bandeja-de-lamer-perro-junior-trixie.jpg",
+      "images": [
+        "img/planilla/platoscomederos/bandeja-de-lamer-perro-junior-trixie.jpg"
+      ],
+      "variants": [
+        {
+          "id": "trixie-bandeja-de-lamer-perro-junior-trixie-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Bandeja de Lamer Perro Junior",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 8500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/platoscomederos/bandeja-de-lamer-perro-junior-trixie.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BANDEJA DE LAMER - PERRO JUNIOR- trixie"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "generico-guante-cepillo-deslanador-para-perros-y-gatos",
+      "brand": "Genérico",
+      "supplier": "Genérico",
+      "line": null,
+      "name": "Guante Cepillo Deslanador para Perros y Gatos",
+      "sourceName": "GUANTE CEPILLO/DESLANADOR PARA PERROS Y GATOS",
+      "category": "accesorios",
+      "subcategory": "higiene",
+      "species": [
+        "perro",
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Guante Cepillo Deslanador"
+      ],
+      "price": {
+        "Guante Cepillo Deslanador": 10500
+      },
+      "image": null,
+      "mainImage": "img/planilla/higiene/guante-cepillo-deslanador-para-perros-y-gatos.jpg",
+      "images": [
+        "img/planilla/higiene/guante-cepillo-deslanador-para-perros-y-gatos.jpg"
+      ],
+      "variants": [
+        {
+          "id": "generico-guante-cepillo-deslanador-para-perros-y-gatos-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Guante Cepillo Deslanador",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 10500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/higiene/guante-cepillo-deslanador-para-perros-y-gatos.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "GUANTE CEPILLO/DESLANADOR PARA PERROS Y GATOS"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "trixie-rodillo-adhesivo-recoge-pelo-trixie",
+      "brand": "TRIXIE",
+      "supplier": "TRIXIE",
+      "line": null,
+      "name": "Rodillo Adhesivo Recoge Pelo Trixie",
+      "sourceName": "RODILLO ADHESIVO RECOGE PELO TRIXIE",
+      "category": "accesorios",
+      "subcategory": "higiene",
+      "species": [
+        "perro",
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Rodillo Adhesivo"
+      ],
+      "price": {
+        "Rodillo Adhesivo": 6200
+      },
+      "image": null,
+      "mainImage": "img/planilla/higiene/rodillo-adhesivo-recoge-pelo-trixie.jpg",
+      "images": [
+        "img/planilla/higiene/rodillo-adhesivo-recoge-pelo-trixie.jpg"
+      ],
+      "variants": [
+        {
+          "id": "trixie-rodillo-adhesivo-recoge-pelo-trixie-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Rodillo Adhesivo",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 6200,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/higiene/rodillo-adhesivo-recoge-pelo-trixie.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "RODILLO ADHESIVO RECOGE PELO TRIXIE"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "trixie-cepillo-dental-dedal-trixie",
+      "brand": "TRIXIE",
+      "supplier": "TRIXIE",
+      "line": null,
+      "name": "Cepillo Dental Dedal Trixie",
+      "sourceName": "CEPILLO DENTAL DEDAL TRIXIE",
+      "category": "accesorios",
+      "subcategory": "higiene",
+      "species": [
+        "perro",
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Cepillo Dental Dedal"
+      ],
+      "price": {
+        "Cepillo Dental Dedal": 2500
+      },
+      "image": null,
+      "mainImage": "img/planilla/higiene/cepillo-dental-dedal-trixie.jpg",
+      "images": [
+        "img/planilla/higiene/cepillo-dental-dedal-trixie.jpg"
+      ],
+      "variants": [
+        {
+          "id": "trixie-cepillo-dental-dedal-trixie-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Cepillo Dental Dedal",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 2500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/higiene/cepillo-dental-dedal-trixie.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "CEPILLO DENTAL DEDAL TRIXIE"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "trixie-cepillo-dental-por-unidad-trixie",
+      "brand": "TRIXIE",
+      "supplier": "TRIXIE",
+      "line": null,
+      "name": "Cepillo Dental por Unidad Trixie",
+      "sourceName": "CEPILLO DENTAL POR UNIDAD TRIXIE",
+      "category": "accesorios",
+      "subcategory": "higiene",
+      "species": [
+        "perro",
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Cepillo Dental"
+      ],
+      "price": {
+        "Cepillo Dental": 5100
+      },
+      "image": null,
+      "mainImage": "img/planilla/higiene/cepillo-dental-por-unidad-trixie.jpg",
+      "images": [
+        "img/planilla/higiene/cepillo-dental-por-unidad-trixie.jpg"
+      ],
+      "variants": [
+        {
+          "id": "trixie-cepillo-dental-por-unidad-trixie-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Cepillo Dental",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 5100,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/higiene/cepillo-dental-por-unidad-trixie.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "CEPILLO DENTAL POR UNIDAD TRIXIE"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "generico-juguetes-dosificadores-tpr-frutas-y-verduras",
+      "brand": "Genérico",
+      "supplier": "Genérico",
+      "line": null,
+      "name": "Juguetes Dosificadores TPR Frutas y Verduras",
+      "sourceName": "Juguetes dosificadores TPR con formas de frutas y verduras",
+      "category": "juguetes",
+      "subcategory": "varios",
+      "species": [
+        "perro",
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "Juguetes resistentes de TPR para rellenar con snacks y estimular el juego. Modelos: manzana roja, mandarina, frambuesa rosa, banana amarilla, zanahoria y chaucha verde.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Frutas y Verduras"
+      ],
+      "price": {
+        "Frutas y Verduras": 18700
+      },
+      "image": null,
+      "mainImage": "img/planilla/juguetes/juguetes-dosificadores-tpr-frutas-y-verduras.jpg",
+      "images": [
+        "img/planilla/juguetes/juguetes-dosificadores-tpr-frutas-y-verduras.jpg"
+      ],
+      "variants": [
+        {
+          "id": "generico-juguetes-dosificadores-tpr-frutas-y-verduras-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Frutas y Verduras",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 18700,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/juguetes/juguetes-dosificadores-tpr-frutas-y-verduras.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Juguetes dosificadores TPR con formas de frutas y verduras"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "generico-juguete-de-felpa-para-gatos-con-catnip",
+      "brand": "Genérico",
+      "supplier": "Genérico",
+      "line": null,
+      "name": "Juguete de Felpa para Gatos con Catnip",
+      "sourceName": "Juguetes de Felpa para Gatos con Catnip",
+      "category": "juguetes",
+      "subcategory": "varios",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Forma Zanahoria",
+        "Forma Manzana",
+        "Forma Pera"
+      ],
+      "price": {
+        "Forma Zanahoria": 9600,
+        "Forma Manzana": 9600,
+        "Forma Pera": 9600
+      },
+      "image": null,
+      "mainImage": "img/planilla/juguetes/juguete-de-felpa-para-gatos-con-catnip.jpg",
+      "images": [
+        "img/planilla/juguetes/juguete-de-felpa-para-gatos-con-catnip.jpg",
+        "img/planilla/juguetes/juguete-de-felpa-para-gatos-con-catnip-2.jpg",
+        "img/planilla/juguetes/juguete-de-felpa-para-gatos-con-catnip-3.jpg"
+      ],
+      "variants": [
+        {
+          "id": "generico-juguete-de-felpa-para-gatos-con-catnip-forma-zanahoria",
+          "sku": null,
+          "ean": null,
+          "presentation": "Forma Zanahoria",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 9600,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/juguetes/juguete-de-felpa-para-gatos-con-catnip.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Juguetes de Felpa para Gatos con Catnip"
+        },
+        {
+          "id": "generico-juguete-de-felpa-para-gatos-con-catnip-forma-manzana",
+          "sku": null,
+          "ean": null,
+          "presentation": "Forma Manzana",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 9600,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/juguetes/juguete-de-felpa-para-gatos-con-catnip-2.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Juguetes de Felpa para Gatos con Catnip"
+        },
+        {
+          "id": "generico-juguete-de-felpa-para-gatos-con-catnip-forma-pera",
+          "sku": null,
+          "ean": null,
+          "presentation": "Forma Pera",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 9600,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/juguetes/juguete-de-felpa-para-gatos-con-catnip-3.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Juguetes de Felpa para Gatos con Catnip"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "rascals-peluche-pollito-para-gato-con-catnip-rascals",
+      "brand": "Rascals",
+      "supplier": "Rascals",
+      "line": null,
+      "name": "Peluche Pollito para Gato con Catnip Rascals",
+      "sourceName": "Peluche para Gato con catnip POLLITO- RASCALS",
+      "category": "juguetes",
+      "subcategory": "varios",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Pollito"
+      ],
+      "price": {
+        "Pollito": 13400
+      },
+      "image": null,
+      "mainImage": "img/planilla/juguetes/peluche-pollito-para-gato-con-catnip-rascals.jpg",
+      "images": [
+        "img/planilla/juguetes/peluche-pollito-para-gato-con-catnip-rascals.jpg"
+      ],
+      "variants": [
+        {
+          "id": "rascals-peluche-pollito-para-gato-con-catnip-rascals-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Pollito",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 13400,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/juguetes/peluche-pollito-para-gato-con-catnip-rascals.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Peluche para Gato con catnip POLLITO- RASCALS"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "rascals-peluche-erizo-para-gato-con-catnip-rascals",
+      "brand": "Rascals",
+      "supplier": "Rascals",
+      "line": null,
+      "name": "Peluche Erizo para Gato con Catnip Rascals",
+      "sourceName": "Peluche Erizo para Gato con catnip- rASCALS",
+      "category": "juguetes",
+      "subcategory": "varios",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Erizo"
+      ],
+      "price": {
+        "Erizo": 12100
+      },
+      "image": null,
+      "mainImage": "img/planilla/juguetes/peluche-erizo-para-gato-con-catnip-rascals.jpg",
+      "images": [
+        "img/planilla/juguetes/peluche-erizo-para-gato-con-catnip-rascals.jpg"
+      ],
+      "variants": [
+        {
+          "id": "rascals-peluche-erizo-para-gato-con-catnip-rascals-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Erizo",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 12100,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/juguetes/peluche-erizo-para-gato-con-catnip-rascals.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Peluche Erizo para Gato con catnip- rASCALS"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "rascals-peluche-cangrejo-y-tortuga-pirata-para-gato-con-catnip-rascals",
+      "brand": "Rascals",
+      "supplier": "Rascals",
+      "line": null,
+      "name": "Peluche Cangrejo y Tortuga Pirata para Gato con Catnip Rascals",
+      "sourceName": "Peluche Cangrejo y Tortuga Pirata para Gato con catnip- RASCALS",
+      "category": "juguetes",
+      "subcategory": "varios",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Cangrejo y Tortuga Pirata"
+      ],
+      "price": {
+        "Cangrejo y Tortuga Pirata": 14560
+      },
+      "image": null,
+      "mainImage": "img/planilla/juguetes/peluche-cangrejo-y-tortuga-pirata-para-gato-con-catnip-rascals.jpg",
+      "images": [
+        "img/planilla/juguetes/peluche-cangrejo-y-tortuga-pirata-para-gato-con-catnip-rascals.jpg"
+      ],
+      "variants": [
+        {
+          "id": "rascals-peluche-cangrejo-y-tortuga-pirata-para-gato-con-catnip-rascals-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Cangrejo y Tortuga Pirata",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 14560,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/juguetes/peluche-cangrejo-y-tortuga-pirata-para-gato-con-catnip-rascals.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Peluche Cangrejo y Tortuga Pirata para Gato con catnip- RASCALS"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "generico-monstruitos-de-latex-con-chifle-para-perro",
+      "brand": "Genérico",
+      "supplier": "Genérico",
+      "line": null,
+      "name": "Monstruitos de Látex con Chifle para Perro",
+      "sourceName": "MONSTRUITOS DE LÁTEX CON CHIFLE PARA PERRO",
+      "category": "juguetes",
+      "subcategory": "varios",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Monstruitos"
+      ],
+      "price": {
+        "Monstruitos": 15000
+      },
+      "image": null,
+      "mainImage": "img/planilla/juguetes/monstruitos-de-latex-con-chifle-para-perro.jpg",
+      "images": [
+        "img/planilla/juguetes/monstruitos-de-latex-con-chifle-para-perro.jpg"
+      ],
+      "variants": [
+        {
+          "id": "generico-monstruitos-de-latex-con-chifle-para-perro-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Monstruitos",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 15000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/juguetes/monstruitos-de-latex-con-chifle-para-perro.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "MONSTRUITOS DE LÁTEX CON CHIFLE PARA PERRO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "generico-mordillo-con-chifle-para-perro-cookie",
+      "brand": "Genérico",
+      "supplier": "Genérico",
+      "line": null,
+      "name": "Mordillo con Chifle para Perro Cookie",
+      "sourceName": "MORDILLO CON CHIFLE PARA PERRO COOKIE",
+      "category": "juguetes",
+      "subcategory": "varios",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Cookie"
+      ],
+      "price": {
+        "Cookie": 8400
+      },
+      "image": null,
+      "mainImage": "img/planilla/juguetes/mordillo-con-chifle-para-perro-cookie.jpg",
+      "images": [
+        "img/planilla/juguetes/mordillo-con-chifle-para-perro-cookie.jpg"
+      ],
+      "variants": [
+        {
+          "id": "generico-mordillo-con-chifle-para-perro-cookie-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Cookie",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 8400,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/juguetes/mordillo-con-chifle-para-perro-cookie.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "MORDILLO CON CHIFLE PARA PERRO COOKIE"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "rascals-comidita-con-chifle-cupcake-rascals",
+      "brand": "Rascals",
+      "supplier": "Rascals",
+      "line": null,
+      "name": "Comidita con Chifle Cupcake Rascals",
+      "sourceName": "COMIDITA CON CHIFLE Cupcake Rosa, Cupcake Amarillo (OPCIONES)- RASCALS",
+      "category": "juguetes",
+      "subcategory": "varios",
+      "species": [
+        "perro",
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Cupcake Rosa o Amarillo"
+      ],
+      "price": {
+        "Cupcake Rosa o Amarillo": 7900
+      },
+      "image": null,
+      "mainImage": "img/planilla/juguetes/comidita-con-chifle-cupcake-rascals.jpg",
+      "images": [
+        "img/planilla/juguetes/comidita-con-chifle-cupcake-rascals.jpg",
+        "img/planilla/juguetes/comidita-con-chifle-cupcake-rascals-2.jpg"
+      ],
+      "variants": [
+        {
+          "id": "rascals-comidita-con-chifle-cupcake-rascals-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Cupcake Rosa o Amarillo",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 7900,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/juguetes/comidita-con-chifle-cupcake-rascals.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "COMIDITA CON CHIFLE Cupcake Rosa, Cupcake Amarillo (OPCIONES)- RASCALS"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "rascals-pelota-basket-con-soga-y-chifle-rascals",
+      "brand": "Rascals",
+      "supplier": "Rascals",
+      "line": null,
+      "name": "Pelota Basket con Soga y Chifle Rascals",
+      "sourceName": "PELOTA BASKET CON SOGA Y CHIFLE-RASCALS",
+      "category": "juguetes",
+      "subcategory": "varios",
+      "species": [
+        "perro",
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Pelota Basket con Soga"
+      ],
+      "price": {
+        "Pelota Basket con Soga": 8900
+      },
+      "image": null,
+      "mainImage": "img/planilla/juguetes/pelota-basket-con-soga-y-chifle-rascals.jpg",
+      "images": [
+        "img/planilla/juguetes/pelota-basket-con-soga-y-chifle-rascals.jpg"
+      ],
+      "variants": [
+        {
+          "id": "rascals-pelota-basket-con-soga-y-chifle-rascals-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Pelota Basket con Soga",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 8900,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/juguetes/pelota-basket-con-soga-y-chifle-rascals.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "PELOTA BASKET CON SOGA Y CHIFLE-RASCALS"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "rascals-rascals-dog-animalitos-peluche-con-chifle",
+      "brand": "Rascals",
+      "supplier": "Rascals",
+      "line": null,
+      "name": "Rascals Dog Animalitos Peluche con Chifle",
+      "sourceName": "RASCALS DOG - ANIMALITOS PELUCHE CON CHIFLE",
+      "category": "juguetes",
+      "subcategory": "varios",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Ardilla, Zorro o Búho"
+      ],
+      "price": {
+        "Ardilla, Zorro o Búho": 20600
+      },
+      "image": null,
+      "mainImage": "img/planilla/juguetes/rascals-dog-animalitos-peluche-con-chifle.jpg",
+      "images": [
+        "img/planilla/juguetes/rascals-dog-animalitos-peluche-con-chifle.jpg",
+        "img/planilla/juguetes/rascals-dog-animalitos-peluche-con-chifle-2.jpg",
+        "img/planilla/juguetes/rascals-dog-animalitos-peluche-con-chifle-3.jpg"
+      ],
+      "variants": [
+        {
+          "id": "rascals-rascals-dog-animalitos-peluche-con-chifle-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Ardilla, Zorro o Búho",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 20600,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/juguetes/rascals-dog-animalitos-peluche-con-chifle.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "RASCALS DOG - ANIMALITOS PELUCHE CON CHIFLE"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "rascals-rascals-cat-varitas-con-juguete",
+      "brand": "Rascals",
+      "supplier": "Rascals",
+      "line": null,
+      "name": "Rascals Cat Varitas con Juguete",
+      "sourceName": "RASCALS CAT - VARITAS / CAÑITAS CON JUGUETe",
+      "category": "juguetes",
+      "subcategory": "varios",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": "La clásica cañita interactiva con juguetito en la punta: plumas, pececitos, ratitas, pelotitas. Para gatos de todas las edades.",
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Varita"
+      ],
+      "price": {},
+      "image": null,
+      "mainImage": "img/planilla/juguetes/rascals-cat-varitas-con-juguete.jpg",
+      "images": [
+        "img/planilla/juguetes/rascals-cat-varitas-con-juguete.jpg"
+      ],
+      "variants": [
+        {
+          "id": "rascals-rascals-cat-varitas-con-juguete-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Varita",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": null,
+          "supplierPrice": null,
+          "image": "img/planilla/juguetes/rascals-cat-varitas-con-juguete.jpg",
+          "availability": null,
+          "reviewStatus": "pending-price",
+          "sourceName": "RASCALS CAT - VARITAS / CAÑITAS CON JUGUETe"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "can-cat-varita-flamenco-can-cat",
+      "brand": "CAN CAT",
+      "supplier": "CAN CAT",
+      "line": null,
+      "name": "Varita Flamenco Can Cat",
+      "sourceName": "CANCAT - VARITAS / CAÑITA FLAMENCO",
+      "category": "juguetes",
+      "subcategory": "varios",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Flamenco"
+      ],
+      "price": {
+        "Flamenco": 9000
+      },
+      "image": null,
+      "mainImage": "img/planilla/juguetes/varita-flamenco-can-cat.jpg",
+      "images": [
+        "img/planilla/juguetes/varita-flamenco-can-cat.jpg"
+      ],
+      "variants": [
+        {
+          "id": "can-cat-varita-flamenco-can-cat-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Flamenco",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 9000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/juguetes/varita-flamenco-can-cat.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "CANCAT - VARITAS / CAÑITA FLAMENCO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "trixie-juguete-interactivo-junior-snack-play-para-gatos-trixie",
+      "brand": "TRIXIE",
+      "supplier": "TRIXIE",
+      "line": null,
+      "name": "Juguete Interactivo Junior Snack & Play para Gatos Trixie",
+      "sourceName": "Juguete Interactivo Junior Snack & Play Para Gatos Trixie",
+      "category": "juguetes",
+      "subcategory": "varios",
+      "species": [
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Junior Snack & Play"
+      ],
+      "price": {
+        "Junior Snack & Play": 15800
+      },
+      "image": null,
+      "mainImage": "img/planilla/juguetes/juguete-interactivo-junior-snack-play-para-gatos-trixie.jpg",
+      "images": [
+        "img/planilla/juguetes/juguete-interactivo-junior-snack-play-para-gatos-trixie.jpg",
+        "img/planilla/juguetes/juguete-interactivo-junior-snack-play-para-gatos-trixie-2.jpg"
+      ],
+      "variants": [
+        {
+          "id": "trixie-juguete-interactivo-junior-snack-play-para-gatos-trixie-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Junior Snack & Play",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 15800,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/juguetes/juguete-interactivo-junior-snack-play-para-gatos-trixie.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "Juguete Interactivo Junior Snack & Play Para Gatos Trixie"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "generico-pelota-interactiva-para-perro",
+      "brand": "Genérico",
+      "supplier": "Genérico",
+      "line": null,
+      "name": "Pelota Interactiva para Perro",
+      "sourceName": "PELOTA INTERACTIVA PARA PERRO",
+      "category": "juguetes",
+      "subcategory": "varios",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Pelota Interactiva"
+      ],
+      "price": {
+        "Pelota Interactiva": 7000
+      },
+      "image": null,
+      "mainImage": "img/planilla/juguetes/pelota-interactiva-para-perro.jpg",
+      "images": [
+        "img/planilla/juguetes/pelota-interactiva-para-perro.jpg"
+      ],
+      "variants": [
+        {
+          "id": "generico-pelota-interactiva-para-perro-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Pelota Interactiva",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 7000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/juguetes/pelota-interactiva-para-perro.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "PELOTA INTERACTIVA PARA PERRO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "generico-alicate-cortaunas-con-lima-gato-perro",
+      "brand": "Genérico",
+      "supplier": "Genérico",
+      "line": null,
+      "name": "Alicate Cortauñas con Lima Gato-Perro",
+      "sourceName": "ALICATE CORTAUÑAS CON LIMA GATO-PERRO",
+      "category": "accesorios",
+      "subcategory": "higiene",
+      "species": [
+        "perro",
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Con Lima"
+      ],
+      "price": {
+        "Con Lima": 8800
+      },
+      "image": null,
+      "mainImage": "img/planilla/higiene/alicate-cortaunas-con-lima-gato-perro.jpg",
+      "images": [
+        "img/planilla/higiene/alicate-cortaunas-con-lima-gato-perro.jpg"
+      ],
+      "variants": [
+        {
+          "id": "generico-alicate-cortaunas-con-lima-gato-perro-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Con Lima",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 8800,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/higiene/alicate-cortaunas-con-lima-gato-perro.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "ALICATE CORTAUÑAS CON LIMA GATO-PERRO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "generico-alicate-cortaunas-gato-perro",
+      "brand": "Genérico",
+      "supplier": "Genérico",
+      "line": null,
+      "name": "Alicate Cortauñas Gato-Perro",
+      "sourceName": "ALICATE CORTAUÑAS GATO-PERRO",
+      "category": "accesorios",
+      "subcategory": "higiene",
+      "species": [
+        "perro",
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Talle S",
+        "Talle L"
+      ],
+      "price": {
+        "Talle S": 5000,
+        "Talle L": 7000
+      },
+      "image": null,
+      "mainImage": "img/planilla/higiene/alicate-cortaunas-gato-perro.jpg",
+      "images": [
+        "img/planilla/higiene/alicate-cortaunas-gato-perro.jpg"
+      ],
+      "variants": [
+        {
+          "id": "generico-alicate-cortaunas-gato-perro-talle-s",
+          "sku": null,
+          "ean": null,
+          "presentation": "Talle S",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 5000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/higiene/alicate-cortaunas-gato-perro.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "ALICATE CORTAUÑAS GATO-PERRO"
+        },
+        {
+          "id": "generico-alicate-cortaunas-gato-perro-talle-l",
+          "sku": null,
+          "ean": null,
+          "presentation": "Talle L",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 7000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/higiene/alicate-cortaunas-gato-perro.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "ALICATE CORTAUÑAS GATO-PERRO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "generico-cepillo-doble-de-madera",
+      "brand": "Genérico",
+      "supplier": "Genérico",
+      "line": null,
+      "name": "Cepillo Doble de Madera",
+      "sourceName": "CEPILLO DOBLE DE MADERA",
+      "category": "accesorios",
+      "subcategory": "higiene",
+      "species": [
+        "perro",
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Cepillo Doble"
+      ],
+      "price": {
+        "Cepillo Doble": 7900
+      },
+      "image": null,
+      "mainImage": "img/planilla/higiene/cepillo-doble-de-madera.jpg",
+      "images": [
+        "img/planilla/higiene/cepillo-doble-de-madera.jpg"
+      ],
+      "variants": [
+        {
+          "id": "generico-cepillo-doble-de-madera-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Cepillo Doble",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 7900,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/higiene/cepillo-doble-de-madera.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "CEPILLO DOBLE DE MADERA"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "generico-peine-metalico",
+      "brand": "Genérico",
+      "supplier": "Genérico",
+      "line": null,
+      "name": "Peine Metálico",
+      "sourceName": "PEINE METALICO",
+      "category": "accesorios",
+      "subcategory": "higiene",
+      "species": [
+        "perro",
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Peine Metálico"
+      ],
+      "price": {
+        "Peine Metálico": 5000
+      },
+      "image": null,
+      "mainImage": "img/planilla/higiene/peine-metalico.jpg",
+      "images": [
+        "img/planilla/higiene/peine-metalico.jpg"
+      ],
+      "variants": [
+        {
+          "id": "generico-peine-metalico-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Peine Metálico",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 5000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/higiene/peine-metalico.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "PEINE METALICO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "generico-cardinas-manngo-madera",
+      "brand": "Genérico",
+      "supplier": "Genérico",
+      "line": null,
+      "name": "Cardinas Manngo Madera",
+      "sourceName": "CARDINAS MANNGO MADERA",
+      "category": "accesorios",
+      "subcategory": "higiene",
+      "species": [
+        "perro",
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "N1 S",
+        "N2 M",
+        "N3 L",
+        "N4 XL"
+      ],
+      "price": {
+        "N1 S": 3600,
+        "N2 M": 4100,
+        "N3 L": 5600,
+        "N4 XL": 7700
+      },
+      "image": null,
+      "mainImage": "img/planilla/higiene/cardinas-manngo-madera.jpg",
+      "images": [
+        "img/planilla/higiene/cardinas-manngo-madera.jpg"
+      ],
+      "variants": [
+        {
+          "id": "generico-cardinas-manngo-madera-n1-s",
+          "sku": null,
+          "ean": null,
+          "presentation": "N1 S",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 3600,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/higiene/cardinas-manngo-madera.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "CARDINAS MANNGO MADERA"
+        },
+        {
+          "id": "generico-cardinas-manngo-madera-n2-m",
+          "sku": null,
+          "ean": null,
+          "presentation": "N2 M",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 4100,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/higiene/cardinas-manngo-madera.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "CARDINAS MANNGO MADERA"
+        },
+        {
+          "id": "generico-cardinas-manngo-madera-n3-l",
+          "sku": null,
+          "ean": null,
+          "presentation": "N3 L",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 5600,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/higiene/cardinas-manngo-madera.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "CARDINAS MANNGO MADERA"
+        },
+        {
+          "id": "generico-cardinas-manngo-madera-n4-xl",
+          "sku": null,
+          "ean": null,
+          "presentation": "N4 XL",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 7700,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/higiene/cardinas-manngo-madera.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "CARDINAS MANNGO MADERA"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "can-cat-bolsa-higienica-clean-x5-can-cat",
+      "brand": "CAN CAT",
+      "supplier": "CAN CAT",
+      "line": null,
+      "name": "Bolsa Higiénica Clean x5 Can Cat",
+      "sourceName": "BOLSA HIGIENICA CLEAN X5 CANCAT",
+      "category": "paseo",
+      "subcategory": "varios",
+      "species": [
+        "perro",
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "x5"
+      ],
+      "price": {
+        "x5": 11200
+      },
+      "image": null,
+      "mainImage": "img/planilla/paseo/bolsa-higienica-clean-x5-can-cat.jpg",
+      "images": [
+        "img/planilla/paseo/bolsa-higienica-clean-x5-can-cat.jpg"
+      ],
+      "variants": [
+        {
+          "id": "can-cat-bolsa-higienica-clean-x5-can-cat-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "x5",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 11200,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/paseo/bolsa-higienica-clean-x5-can-cat.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "BOLSA HIGIENICA CLEAN X5 CANCAT"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "can-cat-porta-bolsa-huesito-can-cat",
+      "brand": "CAN CAT",
+      "supplier": "CAN CAT",
+      "line": null,
+      "name": "Porta Bolsa Huesito Can Cat",
+      "sourceName": "PORTA BOLSA HUESITO CANCAT",
+      "category": "paseo",
+      "subcategory": "varios",
+      "species": [
+        "perro",
+        "gato"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Porta Bolsa Huesito"
+      ],
+      "price": {
+        "Porta Bolsa Huesito": 3500
+      },
+      "image": null,
+      "mainImage": "img/planilla/paseo/porta-bolsa-huesito-can-cat.jpg",
+      "images": [
+        "img/planilla/paseo/porta-bolsa-huesito-can-cat.jpg"
+      ],
+      "variants": [
+        {
+          "id": "can-cat-porta-bolsa-huesito-can-cat-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Porta Bolsa Huesito",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 3500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/paseo/porta-bolsa-huesito-can-cat.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "PORTA BOLSA HUESITO CANCAT"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "generico-huesos-de-cuero-anudado-para-perro",
+      "brand": "Genérico",
+      "supplier": "Genérico",
+      "line": null,
+      "name": "Huesos de Cuero Anudado para Perro",
+      "sourceName": "HUESOS DE CUERO ANUDADO",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Hueso 2/3 x 5 unidades",
+        "Hueso 3/4 x 3 unidades",
+        "Hueso 4/5",
+        "Hueso 5/6",
+        "Hueso 6/7",
+        "Hueso 7/8",
+        "Hueso 8/9",
+        "Hueso 9/10",
+        "Hueso 10/11",
+        "Hueso 11/12",
+        "Hueso 12/13",
+        "Hueso 13/14",
+        "Hueso 14/15"
+      ],
+      "price": {
+        "Hueso 2/3 x 5 unidades": 6500,
+        "Hueso 3/4 x 3 unidades": 4800,
+        "Hueso 4/5": 2200,
+        "Hueso 5/6": 2500,
+        "Hueso 6/7": 3500,
+        "Hueso 7/8": 4700,
+        "Hueso 8/9": 5300,
+        "Hueso 9/10": 6000,
+        "Hueso 10/11": 7300,
+        "Hueso 11/12": 9700,
+        "Hueso 12/13": 11600,
+        "Hueso 13/14": 18800,
+        "Hueso 14/15": 19200
+      },
+      "image": null,
+      "mainImage": "img/planilla/snacks/huesos-de-cuero-anudado-para-perro.jpg",
+      "images": [
+        "img/planilla/snacks/huesos-de-cuero-anudado-para-perro.jpg"
+      ],
+      "variants": [
+        {
+          "id": "generico-huesos-de-cuero-anudado-para-perro-hueso-2-3-x-5-unidades",
+          "sku": null,
+          "ean": null,
+          "presentation": "Hueso 2/3 x 5 unidades",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 6500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/snacks/huesos-de-cuero-anudado-para-perro.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "HUESOS DE CUERO ANUDADO"
+        },
+        {
+          "id": "generico-huesos-de-cuero-anudado-para-perro-hueso-3-4-x-3-unidades",
+          "sku": null,
+          "ean": null,
+          "presentation": "Hueso 3/4 x 3 unidades",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 4800,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/snacks/huesos-de-cuero-anudado-para-perro.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "HUESOS DE CUERO ANUDADO"
+        },
+        {
+          "id": "generico-huesos-de-cuero-anudado-para-perro-hueso-4-5",
+          "sku": null,
+          "ean": null,
+          "presentation": "Hueso 4/5",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 2200,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/snacks/huesos-de-cuero-anudado-para-perro.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "HUESOS DE CUERO ANUDADO"
+        },
+        {
+          "id": "generico-huesos-de-cuero-anudado-para-perro-hueso-5-6",
+          "sku": null,
+          "ean": null,
+          "presentation": "Hueso 5/6",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 2500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/snacks/huesos-de-cuero-anudado-para-perro.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "HUESOS DE CUERO ANUDADO"
+        },
+        {
+          "id": "generico-huesos-de-cuero-anudado-para-perro-hueso-6-7",
+          "sku": null,
+          "ean": null,
+          "presentation": "Hueso 6/7",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 3500,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/snacks/huesos-de-cuero-anudado-para-perro.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "HUESOS DE CUERO ANUDADO"
+        },
+        {
+          "id": "generico-huesos-de-cuero-anudado-para-perro-hueso-7-8",
+          "sku": null,
+          "ean": null,
+          "presentation": "Hueso 7/8",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 4700,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/snacks/huesos-de-cuero-anudado-para-perro.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "HUESOS DE CUERO ANUDADO"
+        },
+        {
+          "id": "generico-huesos-de-cuero-anudado-para-perro-hueso-8-9",
+          "sku": null,
+          "ean": null,
+          "presentation": "Hueso 8/9",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 5300,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/snacks/huesos-de-cuero-anudado-para-perro.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "HUESOS DE CUERO ANUDADO"
+        },
+        {
+          "id": "generico-huesos-de-cuero-anudado-para-perro-hueso-9-10",
+          "sku": null,
+          "ean": null,
+          "presentation": "Hueso 9/10",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 6000,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/snacks/huesos-de-cuero-anudado-para-perro.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "HUESOS DE CUERO ANUDADO"
+        },
+        {
+          "id": "generico-huesos-de-cuero-anudado-para-perro-hueso-10-11",
+          "sku": null,
+          "ean": null,
+          "presentation": "Hueso 10/11",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 7300,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/snacks/huesos-de-cuero-anudado-para-perro.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "HUESOS DE CUERO ANUDADO"
+        },
+        {
+          "id": "generico-huesos-de-cuero-anudado-para-perro-hueso-11-12",
+          "sku": null,
+          "ean": null,
+          "presentation": "Hueso 11/12",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 9700,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/snacks/huesos-de-cuero-anudado-para-perro.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "HUESOS DE CUERO ANUDADO"
+        },
+        {
+          "id": "generico-huesos-de-cuero-anudado-para-perro-hueso-12-13",
+          "sku": null,
+          "ean": null,
+          "presentation": "Hueso 12/13",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 11600,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/snacks/huesos-de-cuero-anudado-para-perro.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "HUESOS DE CUERO ANUDADO"
+        },
+        {
+          "id": "generico-huesos-de-cuero-anudado-para-perro-hueso-13-14",
+          "sku": null,
+          "ean": null,
+          "presentation": "Hueso 13/14",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 18800,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/snacks/huesos-de-cuero-anudado-para-perro.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "HUESOS DE CUERO ANUDADO"
+        },
+        {
+          "id": "generico-huesos-de-cuero-anudado-para-perro-hueso-14-15",
+          "sku": null,
+          "ean": null,
+          "presentation": "Hueso 14/15",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 19200,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/snacks/huesos-de-cuero-anudado-para-perro.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "HUESOS DE CUERO ANUDADO"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+          "sourceType": "terranova-price-list"
+        }
+      ]
+    },
+    {
+      "id": "generico-oreja-de-vaca-para-perro",
+      "brand": "Genérico",
+      "supplier": "Genérico",
+      "line": null,
+      "name": "Oreja de Vaca para Perro",
+      "sourceName": "OREJA DE VACA",
+      "category": "alimentos-y-snacks",
+      "subcategory": "snack-natural",
+      "species": [
+        "perro"
+      ],
+      "lifeStage": null,
+      "need": null,
+      "flavor": null,
+      "description": null,
+      "features": [],
+      "materials": [],
+      "presentations": [
+        "Oreja de Vaca"
+      ],
+      "price": {
+        "Oreja de Vaca": 1200
+      },
+      "image": null,
+      "mainImage": "img/planilla/snacks/oreja-de-vaca-para-perro.jpg",
+      "images": [
+        "img/planilla/snacks/oreja-de-vaca-para-perro.jpg"
+      ],
+      "variants": [
+        {
+          "id": "generico-oreja-de-vaca-para-perro-unico",
+          "sku": null,
+          "ean": null,
+          "presentation": "Oreja de Vaca",
+          "size": null,
+          "dimensions": null,
+          "color": null,
+          "pattern": null,
+          "retailPrice": {
+            "amount": 1200,
+            "currency": "ARS",
+            "source": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
+            "priceType": "terranova"
+          },
+          "supplierPrice": null,
+          "image": "img/planilla/snacks/oreja-de-vaca-para-perro.jpg",
+          "availability": null,
+          "reviewStatus": "confirmed",
+          "sourceName": "OREJA DE VACA"
+        }
+      ],
+      "availability": null,
+      "reviewStatus": "confirmed",
+      "sources": [
+        {
+          "file": "Drive: ALIMENTOS WEB (Terranova, 2026-10-14)",
           "sourceType": "terranova-price-list"
         }
       ]
