@@ -3188,8 +3188,8 @@
       "line": null,
       "name": "Bolso De Diseño",
       "sourceName": "BOLSO DE DISEÑO",
-      "category": "camas-y-descanso",
-      "subcategory": "varios",
+      "category": "paseo",
+      "subcategory": "transporte",
       "species": [
         "perro",
         "gato"
@@ -3253,8 +3253,8 @@
       "line": null,
       "name": "Bolso transportador rayado small",
       "sourceName": "BOLSO TRANPORTADOR RALLADO SMALL",
-      "category": "camas-y-descanso",
-      "subcategory": "varios",
+      "category": "paseo",
+      "subcategory": "transporte",
       "species": [
         "perro",
         "gato"
@@ -3324,8 +3324,8 @@
       "line": null,
       "name": "Bolso transportadora gris/rosa",
       "sourceName": "BOLSO TRANSPORTADORA GRIS/ROSA",
-      "category": "camas-y-descanso",
-      "subcategory": "varios",
+      "category": "paseo",
+      "subcategory": "transporte",
       "species": [
         "perro",
         "gato"
@@ -3395,8 +3395,8 @@
       "line": null,
       "name": "Bolso transportador rayado medium",
       "sourceName": "BOLSO TRAPORTADOR RALLADO MEDIUM",
-      "category": "camas-y-descanso",
-      "subcategory": "varios",
+      "category": "paseo",
+      "subcategory": "transporte",
       "species": [
         "perro",
         "gato"
@@ -4822,8 +4822,8 @@
       "line": null,
       "name": "Mochila Transportadora Bigotes",
       "sourceName": "MOCHILA TRANSPORTADORA BIGOTES",
-      "category": "camas-y-descanso",
-      "subcategory": "varios",
+      "category": "paseo",
+      "subcategory": "transporte",
       "species": [
         "perro",
         "gato"
@@ -49263,8 +49263,8 @@
       "line": null,
       "name": "Hueso Soga 2 Nudos Can Cat",
       "sourceName": "Hueso Soga 2 nudos can cat",
-      "category": "alimentos-y-snacks",
-      "subcategory": "alimento-o-snack",
+      "category": "juguetes",
+      "subcategory": "varios",
       "species": [
         "gato"
       ],
@@ -49324,8 +49324,8 @@
       "line": null,
       "name": "Hueso Soga 3 Nudos Can Cat",
       "sourceName": "Hueso soga 3 nudos can cat",
-      "category": "alimentos-y-snacks",
-      "subcategory": "alimento-o-snack",
+      "category": "juguetes",
+      "subcategory": "varios",
       "species": [
         "gato"
       ],
@@ -49385,8 +49385,8 @@
       "line": null,
       "name": "Hueso Soga 4 Nudos Can Cat",
       "sourceName": "Hueso soga 4 nudos can cat",
-      "category": "alimentos-y-snacks",
-      "subcategory": "alimento-o-snack",
+      "category": "juguetes",
+      "subcategory": "varios",
       "species": [
         "gato"
       ],
@@ -49446,8 +49446,8 @@
       "line": null,
       "name": "Hueso Soga 5 Nudos Can Cat",
       "sourceName": "Hueso soga 5 nudos can cat",
-      "category": "alimentos-y-snacks",
-      "subcategory": "alimento-o-snack",
+      "category": "juguetes",
+      "subcategory": "varios",
       "species": [
         "gato"
       ],
@@ -49507,8 +49507,8 @@
       "line": null,
       "name": "Hueso Soga 6 Nudos Can Cat",
       "sourceName": "Hueso soga 6 nudos can cat",
-      "category": "alimentos-y-snacks",
-      "subcategory": "alimento-o-snack",
+      "category": "juguetes",
+      "subcategory": "varios",
       "species": [
         "gato"
       ],
@@ -49812,8 +49812,8 @@
       "line": null,
       "name": "Arnés Premium Acolchado L",
       "sourceName": "ARNES PREMIUM ACOLCHADO L",
-      "category": "camas-y-descanso",
-      "subcategory": "varios",
+      "category": "paseo",
+      "subcategory": "correas",
       "species": [
         "perro"
       ],
@@ -49873,8 +49873,8 @@
       "line": null,
       "name": "Arnés Premium Acolchado L-XL",
       "sourceName": "ARNES PREMIUM ACOLCHADO L-XL",
-      "category": "camas-y-descanso",
-      "subcategory": "varios",
+      "category": "paseo",
+      "subcategory": "correas",
       "species": [
         "perro"
       ],
@@ -49934,8 +49934,8 @@
       "line": null,
       "name": "Arnés Premium Acolchado M",
       "sourceName": "ARNES PREMIUM ACOLCHADO M",
-      "category": "camas-y-descanso",
-      "subcategory": "varios",
+      "category": "paseo",
+      "subcategory": "correas",
       "species": [
         "perro"
       ],
@@ -49995,8 +49995,8 @@
       "line": null,
       "name": "Arnés Premium Acolchado M-L",
       "sourceName": "ARNES PREMIUM ACOLCHADO M-L",
-      "category": "camas-y-descanso",
-      "subcategory": "varios",
+      "category": "paseo",
+      "subcategory": "correas",
       "species": [
         "perro"
       ],
@@ -50056,8 +50056,8 @@
       "line": null,
       "name": "Arnés Premium Acolchado S",
       "sourceName": "ARNES PREMIUM ACOLCHADO S",
-      "category": "camas-y-descanso",
-      "subcategory": "varios",
+      "category": "paseo",
+      "subcategory": "correas",
       "species": [
         "perro"
       ],
@@ -50117,8 +50117,8 @@
       "line": null,
       "name": "Arnés Premium Acolchado S-M",
       "sourceName": "ARNES PREMIUM ACOLCHADO S-M",
-      "category": "camas-y-descanso",
-      "subcategory": "varios",
+      "category": "paseo",
+      "subcategory": "correas",
       "species": [
         "perro"
       ],
@@ -50178,8 +50178,8 @@
       "line": null,
       "name": "Arnés Premium Acolchado XS-S",
       "sourceName": "ARNES PREMIUM ACOLCHADO XS-S",
-      "category": "camas-y-descanso",
-      "subcategory": "varios",
+      "category": "paseo",
+      "subcategory": "correas",
       "species": [
         "perro"
       ],
@@ -51032,8 +51032,8 @@
       "line": null,
       "name": "Transportadora Skudo S",
       "sourceName": "TRANSPORTADORA SKUDO S",
-      "category": "camas-y-descanso",
-      "subcategory": "varios",
+      "category": "paseo",
+      "subcategory": "transporte",
       "species": [
         "perro",
         "gato"
