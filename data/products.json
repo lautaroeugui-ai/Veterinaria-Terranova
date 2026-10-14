@@ -6917,8 +6917,10 @@
         "Soga 13\" 2 nudos Can cat": 5655.9
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/juguetes/hueso-soga-3-nudos-can-cat.jpg",
+      "images": [
+        "img/planilla/juguetes/hueso-soga-3-nudos-can-cat.jpg"
+      ],
       "variants": [
         {
           "id": "can-cat-soga-1932",
@@ -6936,7 +6938,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/juguetes/hueso-soga-3-nudos-can-cat.jpg",
           "availability": null,
           "reviewStatus": "confirmed"
         },
@@ -6956,7 +6958,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/juguetes/hueso-soga-3-nudos-can-cat.jpg",
           "availability": null,
           "reviewStatus": "confirmed"
         },
@@ -6976,7 +6978,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/juguetes/hueso-soga-3-nudos-can-cat.jpg",
           "availability": null,
           "reviewStatus": "confirmed"
         },
@@ -6996,7 +6998,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/juguetes/hueso-soga-3-nudos-can-cat.jpg",
           "availability": null,
           "reviewStatus": "confirmed"
         },
@@ -7016,7 +7018,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/juguetes/hueso-soga-3-nudos-can-cat.jpg",
           "availability": null,
           "reviewStatus": "confirmed"
         }
@@ -7125,8 +7127,10 @@
         "BOLSA RECOLECTORA CAN CAT X3": 3516.79
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/paseo/bolsa-higienica-clean-x5-can-cat.jpg",
+      "images": [
+        "img/planilla/paseo/bolsa-higienica-clean-x5-can-cat.jpg"
+      ],
       "variants": [
         {
           "id": "can-cat-bolsa-recolectora-1305",
@@ -7144,7 +7148,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/paseo/bolsa-higienica-clean-x5-can-cat.jpg",
           "availability": null,
           "reviewStatus": "confirmed"
         },
@@ -7164,7 +7168,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/paseo/bolsa-higienica-clean-x5-can-cat.jpg",
           "availability": null,
           "reviewStatus": "confirmed"
         }
@@ -38828,8 +38832,10 @@
         "1.5 kg": 43500
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/extra/rc-diabetic-feline-1-5-kg.jpg",
+      "images": [
+        "img/planilla/extra/rc-diabetic-feline-1-5-kg.jpg"
+      ],
       "variants": [
         {
           "id": "royalcanin-rc-diabetic-fel-1-5-kg-1-5-kg",
@@ -38847,14 +38853,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/extra/rc-diabetic-feline-1-5-kg.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "RC DIABETIC FEL 1.5 KG 1.5 kg"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-30)",
@@ -44202,8 +44208,12 @@
         "4 kg": 9917.8
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/extra/golden-breeze-perfumada-lavanda.jpg",
+      "images": [
+        "img/planilla/extra/golden-breeze-perfumada-lavanda.jpg",
+        "img/planilla/extra/golden-breeze-perfumada-baby-powder.jpg",
+        "img/planilla/extra/golden-breeze-perfumada-manzana.jpg"
+      ],
       "variants": [
         {
           "id": "golden-breeze-golden-breeze-perfumada-super-premium-4-kg",
@@ -44221,14 +44231,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/extra/golden-breeze-perfumada-lavanda.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "Golden Breeze perfumada Super Premium 4kg"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -44465,8 +44475,10 @@
         "7.6 lt": 25068
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/extra/cancat-silica-neutra.jpg",
+      "images": [
+        "img/planilla/extra/cancat-silica-neutra.jpg"
+      ],
       "variants": [
         {
           "id": "can-cat-cancat-silica-neutra-7-6-lt",
@@ -44484,14 +44496,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/extra/cancat-silica-neutra.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "CANCAT SILICA NEUTRA 7.6 LT"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
@@ -53193,8 +53205,11 @@
         "6": 17995.2
       },
       "image": null,
-      "mainImage": null,
-      "images": [],
+      "mainImage": "img/planilla/extra/isabelino-rigido.jpg",
+      "images": [
+        "img/planilla/extra/isabelino-rigido.jpg",
+        "img/planilla/extra/isabelino-rigido-2.jpg"
+      ],
       "variants": [
         {
           "id": "varios-collar-isabelino-rigido-n-1",
@@ -53212,7 +53227,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/extra/isabelino-rigido.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "Collar Isabelino rigido N° 1"
@@ -53233,7 +53248,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/extra/isabelino-rigido.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "Collar Isabelino rigido N° 2"
@@ -53254,7 +53269,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/extra/isabelino-rigido.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "Collar Isabelino rigido N° 3"
@@ -53275,7 +53290,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/extra/isabelino-rigido.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "Collar Isabelino rigido N° 4"
@@ -53296,7 +53311,7 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/extra/isabelino-rigido.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "Collar Isabelino rigido N° 5"
@@ -53317,14 +53332,14 @@
             "priceType": "terranova"
           },
           "supplierPrice": null,
-          "image": null,
+          "image": "img/planilla/extra/isabelino-rigido.jpg",
           "availability": null,
           "reviewStatus": "confirmed",
           "sourceName": "Collar Isabelino rigido N° 6"
         }
       ],
       "availability": null,
-      "reviewStatus": "pending-image-match",
+      "reviewStatus": "confirmed",
       "sources": [
         {
           "file": "Drive: ALIMENTOS WEB (Terranova, 2026-09-24)",
