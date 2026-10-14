@@ -81,7 +81,8 @@ const categoryLabels={
   'alimentos-y-snacks':'Alimentos y snacks',
   'camas-y-descanso':'Camas y descanso',
   'juguetes':'Juguetes',
-  'paseo':'Paseo'
+  'paseo':'Paseo',
+  'piedras-sanitarias':'Piedras sanitarias'
 };
 const speciesLabels={perro:'Perros',gato:'Gatos'};
 const lifeStageLabels={cachorro:'cachorros',gatito:'gatitos',adulto:'adultos',senior:'adultos senior'};
